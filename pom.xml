@@ -15,9 +15,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>hadoop</groupId>
+      <groupId>org.apache.hadoop</groupId>
       <artifactId>hadoop-core</artifactId>
-      <version>0.20.1+152</version>
+      <version>0.20.2-SNAPSHOT</version>
     </dependency>
   </dependencies>
   <build>
@@ -34,8 +34,8 @@
   </build>
   <repositories>
     <repository>
-      <id>cloudera</id>
-      <url>http://repository.cloudera.com/artifactory/repo</url>
+      <id>apache</id>
+      <url>https://repository.apache.org/content/repositories/snapshots</url>
     </repository>
   </repositories>
 </project>
