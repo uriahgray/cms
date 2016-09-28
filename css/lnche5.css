@@ -13,7 +13,7 @@ h3.tag_title {
     display: none;
 }
 
-.post {
+body#lnche5 .post {
     max-height: inherit;
     overflow: visible;
     font-size: 20px;
@@ -23,7 +23,7 @@ h3.tag_title {
     max-width: 100%;
 }
 
-.post.text {
+body#lnche5 .post.text {
     max-height: inherit;
     overflow: visible;
 }
