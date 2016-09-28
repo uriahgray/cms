@@ -9,6 +9,10 @@ h3 {
     line-height: 100px;
 }
 
+h3.tag_title {
+    display: none;
+}
+
 .post {
     max-height: inherit;
     overflow: visible;
