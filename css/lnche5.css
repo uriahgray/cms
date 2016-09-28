@@ -1,4 +1,27 @@
+h3 {
+    text-transform: uppercase;
+    font-size: 100px;
+    display: block;
+    line-height: 100px;
+}
 
-body {
-  background-color:cyan;
+.post {
+    max-height: inherit;
+    overflow: visible;
+    font-size: 20px;
+    line-height: 30px;
+    width: 100%;
+    float: none;
+    max-width: 100%;
+}
+
+.post.text {
+    max-height: inherit;
+    overflow: visible;
+}
+
+article.posts {
+    width: 800px;
+    margin: auto;
+    text-align: center;
 }
