@@ -38,13 +38,14 @@ article.posts {
     text-align: center;
 }
 
-.post.text.postnow.postnowtitle {
+body#postnow .post.text.postnow.postnowtitle {
     position: fixed;
-    top: 50px;
+    top: 50%;
     left: 50%;
     width: 600px;
     margin-left: -300px;
     text-align: center;
+    height: 100px;
 }
 
 .post.text.postnow.postnowtitle a.link {
@@ -56,7 +57,12 @@ article.posts {
 }
 
 .post.text.postnow.postnowtitle p {
-    font-size: 100px;
-    line-height: 100px;
+    font-size: 20px;
+    line-height: 20px;
     text-transform: uppercase;
+    color: red;
+}
+
+body#postnow .tumblr_video_container iframe {
+    margin: auto;
 }
