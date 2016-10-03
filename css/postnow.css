@@ -2,6 +2,19 @@ body#postnow {
 	font-family:times;
 }
 
+body#postnow .post.text.postnow.medium {
+    border: 0px;
+    margin-bottom:0px;
+}
+
+.post.text.postnow.medium a.link {
+    display:none;
+}
+
+.post.text.postnow.medium ul.tags {
+    display:none;
+}
+
 body#postnow .post iframe {
     width: 400px;
     max-width: 400px;
