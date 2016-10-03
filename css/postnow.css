@@ -66,3 +66,7 @@ body#postnow .post.text.postnow.postnowtitle {
 body#postnow .tumblr_video_container iframe {
     margin: auto;
 }
+
+body#postnow b {
+    text-transform: uppercase;
+}
