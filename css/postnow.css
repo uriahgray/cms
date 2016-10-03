@@ -7,6 +7,10 @@ body#postnow .post.text.postnow.medium {
     margin-bottom:0px;
 }
 
+body#postnow .post.text.postnow.medium .post.text p {
+	padding-bottom:0px;
+}
+
 body#postnow .post.text.postnow.medium a.link {
     display:none;
 }
