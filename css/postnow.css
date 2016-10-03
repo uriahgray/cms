@@ -7,11 +7,11 @@ body#postnow .post.text.postnow.medium {
     margin-bottom:0px;
 }
 
-.post.text.postnow.medium a.link {
+body#postnow .post.text.postnow.medium a.link {
     display:none;
 }
 
-.post.text.postnow.medium ul.tags {
+body#postnow .post.text.postnow.medium ul.tags {
     display:none;
 }
 
