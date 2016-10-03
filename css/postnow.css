@@ -1,0 +1,62 @@
+a {
+ color:#000;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 100px;
+    display: block;
+    line-height: 100px;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+body#postnow .post {
+    max-height: inherit;
+    overflow: visible;
+    font-size: 20px;
+    line-height: 30px;
+    width: 100%;
+    float: none;
+    max-width: 100%;
+}
+
+.post.postnow {
+display:block;
+} 
+
+body#postnow .post.text {
+    max-height: inherit;
+    overflow: visible;
+}
+
+article.posts {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.post.text.postnow.postnowtitle {
+    position: fixed;
+    top: 50px;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    text-align: center;
+}
+
+.post.text.postnow.postnowtitle a.link {
+	display: none;
+}
+
+.post.text.postnow.postnowtitle ul.tags {
+	display: none;
+}
+
+.post.text.postnow.postnowtitle p {
+    font-size: 100px;
+    line-height: 100px;
+    text-transform: uppercase;
+}
