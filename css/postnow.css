@@ -2,6 +2,11 @@ body#postnow {
 	font-family:times;
 }
 
+body#postnow .post iframe {
+    width: 400px;
+    max-width: 400px;
+}
+
 a {
  color:#000;
 }
