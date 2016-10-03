@@ -62,10 +62,11 @@ body#postnow .post.text.postnow.postnowtitle {
 }
 
 .post.text.postnow.postnowtitle p {
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 16px;
+    line-height: 16px;
     text-transform: uppercase;
     color: red;
+    font-family: arial black;
 }
 
 body#postnow .tumblr_video_container iframe {
