@@ -3,6 +3,10 @@ body#postnow {
 }
 
 body#postnow .post.text.postnow.medium {
+	display:none;
+}
+
+body#postnow .post.text.postnow.medium {
     border: 0px;
     margin-bottom:0px;
 }
