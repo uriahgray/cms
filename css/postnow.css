@@ -102,3 +102,13 @@ body#postnow .tumblr_video_container iframe {
 body#postnow b {
     text-transform: uppercase;
 }
+
+.nav.postnow {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+.nav.postnow a {
+    display: block;
+}
