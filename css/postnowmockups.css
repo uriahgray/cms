@@ -2,6 +2,10 @@ body#postnowmockups {
 	font-family:times;
 }
 
+body#postnowmockups article.posts {
+width:"100%";
+}
+
 body#postnowmockups .post.text.postnow.medium {
     border: 0px;
     margin-bottom:0px;
