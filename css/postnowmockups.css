@@ -1,25 +1,25 @@
-body#postnow {
+body#postnowmockups {
 	font-family:times;
 }
 
-body#postnow .post.text.postnow.medium {
+body#postnowmockups .post.text.postnow.medium {
     border: 0px;
     margin-bottom:0px;
 }
 
-body#postnow .post.text.postnow.medium p {
+body#postnowmockups .post.text.postnow.medium p {
 	padding-bottom:0px;
 }
 
-body#postnow .post.text.postnow.medium a.link {
+body#postnowmockups .post.text.postnow.medium a.link {
     display:none;
 }
 
-body#postnow .post.text.postnow.medium ul.tags {
+body#postnowmockups .post.text.postnow.medium ul.tags {
     display:none;
 }
 
-body#postnow .post iframe {
+body#postnowmockups .post iframe {
     width: 400px;
     max-width: 400px;
 }
@@ -28,7 +28,7 @@ a {
  color:#000;
 }
 
-body#postnow i {
+body#postnowmockups i {
 font-style:italic;
 }
 
@@ -44,7 +44,7 @@ h3.tag_title {
     display: none;
 }
 
-body#postnow .post {
+body#postnowmockups .post {
     max-height: inherit;
     overflow: visible;
     font-size: 20px;
@@ -58,7 +58,7 @@ body#postnow .post {
 display:block;
 } 
 
-body#postnow .post.text {
+body#postnowmockups .post.text {
     max-height: inherit;
     overflow: visible;
 }
@@ -69,7 +69,9 @@ article.posts {
     text-align: center;
 }
 
-body#postnow .post.text.postnow.postnowtitle {
+
+
+body#postnowmockups .post.text.postnow.postnowtitle {
     position: fixed;
     top: 50%;
     left: 50%;
@@ -96,11 +98,11 @@ body#postnow .post.text.postnow.postnowtitle {
     font-family: arial black;
 }
 
-body#postnow .tumblr_video_container iframe {
+body#postnowmockups .tumblr_video_container iframe {
     margin: auto;
 }
 
-body#postnow b {
+body#postnowmockups b {
     text-transform: uppercase;
 }
 
