@@ -6,6 +6,10 @@ border:1px solid #000;
 margin-bottom:0px;
 }
 
+body#grids a.link {
+    font-family: arial;
+}
+
 body#grids .post .postcontainer {
     padding: 0 18px;
 }
