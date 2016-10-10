@@ -1,6 +1,7 @@
 body#grid .post {
 display:block;
 float:left;
+margin-right:0px;
 }
 
 body#grid .post.col1of4 {
@@ -15,6 +16,6 @@ body#grid .post.col1of2 {
     width: 50%;
 }
 
-body#grid .post .container {
-padding:20px;
+body#grid .post .postcontainer {
+    padding: 0 18px;
 }
