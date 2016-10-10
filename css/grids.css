@@ -23,5 +23,10 @@ body#grids .post.col1of2 {
 }
 
 body#grids .post.clear {
-clear:both;
+    clear: both;
+    display: inherit;
+    float: none;
+    border: 0px;
+    height: 1px;
+    overflow: hidden;
 }
