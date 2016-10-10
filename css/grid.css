@@ -1,0 +1,19 @@
+body#grid .post.col {
+padding-right: 20px;
+float:left;
+display:block;
+}
+
+body#grid .post.col:last-of-type {
+padding-right: 0;
+}
+
+body#grid .post.col_1_2 {
+  width: 50%;
+}
+body#grid .post.col_1_1{
+  width: 25%;
+}
+body#grid .post.col_1_8 {
+  width: 12.5%;
+}
