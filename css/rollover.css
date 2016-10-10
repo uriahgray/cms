@@ -5,3 +5,32 @@ body#rollover a.link, body#rollover ul.tags, body#rollover h3.tag_title {
 body#rollover .post {
 width:800px;
 }
+
+body#rollover .post {
+    width: 340px;
+    position: relative;
+    height: 340px;
+    overflow: hidden;
+}
+
+.image {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.copy {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    display:none;
+}
+
+body#rollover .post:hover .image {
+display:none;
+}
+
+body#rollover .post:hover .copy {
+    display:block;
+}
+    
