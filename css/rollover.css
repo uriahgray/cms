@@ -1,3 +1,7 @@
+body#rollover a.link, body#rollover ul.tags, body#rollover h3.tag_title {
+    display: none;
+}
+
 body#rollover .post {
 width:800px;
 }
