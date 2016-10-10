@@ -2,6 +2,8 @@ body#grids .post {
 display:block;
 float:left;
 margin-right:0px;
+border:1px solid #000;
+margin-bottom:0px;
 }
 
 body#grids .post .postcontainer {
