@@ -1,24 +1,20 @@
 body#grid .post {
-margin-right:0px;
-border:1px solid #000;
-}
-
-body#grid .post.col {
-padding-right: 20px;
-float:left;
 display:block;
+float:left;
 }
 
-body#grid .post.col:last-of-type {
-padding-right: 0;
+body#grid .post.col1of4 {
+    width: 25%;
 }
 
-body#grid .post.col_1_2 {
-  width: 50%;
+body#grid .post.col1of3 {
+    width: 33.33333%;
 }
-body#grid .post.col_1_1{
-  width: 25%;
+
+body#grid .post.col1of2 {
+    width: 50%;
 }
-body#grid .post.col_1_8 {
-  width: 12.5%;
+
+body#grid .post .container {
+padding:20px;
 }
