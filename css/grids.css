@@ -1,0 +1,22 @@
+body#grids .post {
+display:block;
+float:left;
+margin-right:0px;
+}
+
+body#grids .post .postcontainer {
+    padding: 0 18px;
+}
+
+body#grids .post.col1of4 {
+    width: 25%;
+}
+
+body#grids .post.col1of3 {
+    width: 33.33333%;
+}
+
+body#grids .post.col1of2 {
+    width: 50%;
+}
+
