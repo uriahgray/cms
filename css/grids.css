@@ -22,3 +22,6 @@ body#grids .post.col1of2 {
     width: 50%;
 }
 
+body#grids .post.clear {
+clear:both;
+}
