@@ -1,3 +1,8 @@
+body#grid .post {
+margin-right:0px;
+border:1px solid #000;
+}
+
 body#grid .post.col {
 padding-right: 20px;
 float:left;
