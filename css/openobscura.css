@@ -6,9 +6,8 @@ body#openobscura .post {
 background-color:red;
 }
 
+<p>test</p>
 body#openobscura .post.test {
     color: white;
     font-size: 50pt;
 }
-
-<p>test</p>
