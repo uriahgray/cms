@@ -1,3 +1,8 @@
 body#megaphonedraft {
-background-color: red;
+background-color:red;
+}
+
+
+body#megaphonedraft .post {
+background-color: blue;
 }
