@@ -12,3 +12,10 @@ align-content: center
 h3.tag_title {
     padding-bottom: 50px;
 }
+.post {
+    margin-bottom: 80px;
+width: 40%;
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 20px;
+}
