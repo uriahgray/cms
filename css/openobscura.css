@@ -6,7 +6,7 @@ body#openobscura .post {
 background-color:red;
 }
 
-body#openobscura .post p {
+body#openobscura .copy {
     color: white;
     font-size: 80pt;
 }
