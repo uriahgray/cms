@@ -2,9 +2,7 @@ body#letsshare {
     background-color: white;
 }
 
-body#letsshare h3.tag_title{
-    text-transform: uppercase;
-    margin: auto 0;
+body#letsshare h3.tag_title {
     text-align: center;
+    margin: auto 0;
 }
-    
