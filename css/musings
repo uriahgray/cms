@@ -1,3 +1,4 @@
 body#musings {
-  background-color: red;
-  }
+    background-color: red;   
+}
+
