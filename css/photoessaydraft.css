@@ -28,7 +28,7 @@ body#photoessaydraft .post.clear {
     display: inherit;
     float: none;
     border: 0px;
-    height: 1px;
+    height: 0px;
     overflow: hidden;
 }
 body#photoessaydraft ul.tags {
