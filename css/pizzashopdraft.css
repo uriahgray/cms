@@ -6,6 +6,7 @@ body#pizzashopdraft {
     text-transform: uppercase;
 }
   
-  
+  a {
+    visibility: hidden;
 
 }
