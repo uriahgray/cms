@@ -1,3 +1,8 @@
 body#process {
-background.color.blue;
+background-color:blue;
+}
+
+body#process .post {
+background-color:red;
+  
 }
