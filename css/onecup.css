@@ -11,13 +11,6 @@ body#onecuprollover .post {
 width:800px;
 }
 
-body#onecuprollover .post {
-    width: 340px;
-    position: relative;
-    height: 340px;
-    overflow: hidden;
-}
-
 body#onecuprollover .post:hover .image {
 display:none;
 }
