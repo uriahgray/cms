@@ -2,7 +2,3 @@ body#punsdraft{
 background:cyan;
 }
 
-body#punsdraft .long {
-    height: 200px;
-    overflow: scroll;
-}
