@@ -1,10 +1,10 @@
 body#eatjdraft {
-background-color:cyan;
+background-color:white;
     font-size:16px;
 }
 
 body#eatjdraft .post {
-background-color:red;
+background-color:grey;
 }
 
 body#eatjdraft h3.tag_title {
