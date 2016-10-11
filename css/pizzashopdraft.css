@@ -19,3 +19,9 @@ h3 {
   a {
     visibility:hidden;
 }
+
+
+body#pizzashopdraft .postcontainer {
+    margin-top: -64px;
+    padding-bottom: 26px;
+}
