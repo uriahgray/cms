@@ -8,10 +8,9 @@ color:red;
 font-size: 50pt;
 font-family: arial;
 line-height: 30px;
-letter-spacing: 0.02em;
 }
 
-body#openobscura .link { 
+body#openobscura h3.tag_title { 
 display:none;
 }
 
