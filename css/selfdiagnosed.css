@@ -1,2 +1,4 @@
-body#selfdiagnosed 
-{background-color:blue;}
+body#selfdiagnosed {
+  background-color:blue;
+  font-family: palatino;
+}
