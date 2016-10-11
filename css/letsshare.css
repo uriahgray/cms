@@ -1,0 +1,6 @@
+body#letsshare {
+background-color:blue;
+}
+body#letsshare .post{
+  background-color:red;
+}
