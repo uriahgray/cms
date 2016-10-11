@@ -1,3 +1,7 @@
 body#goodluckdraft{
   background:red; 
+
+}
+h3.tag_title {
+  display: none;
 }
