@@ -6,3 +6,10 @@ body#letsshare h3.tag_title {
     text-align: center;
     margin: auto 0;
 }
+a.link {
+    display: none;
+}
+
+a {
+    display: none;
+}
