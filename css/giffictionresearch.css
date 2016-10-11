@@ -3,9 +3,13 @@ body#giffictionresearch {
 }
 
 .post {
-  width: 100%;
+  width: 80%;
   display: inline-block;
   margin: 0 auto;
+}
+
+.caption {
+  display: block; 
 }
 
 .photoset img.set_photos {
