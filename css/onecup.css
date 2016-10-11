@@ -34,9 +34,30 @@ background: url("http://67.media.tumblr.com/ee92e6c2715566ddd4282a4c09f6c3eb/tum
 background-repeat: repeat;
 }
 
+body#onecup .copy {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    display:none;
+}
+
+body#onecup .post:hover .image {
+display:none;
+}
+
+body#onecup .post:hover .copy {
+    display:block;
+}
+    
+
+
+
+
+
+
 body#onecup .post {
-	width: 400px;
-	height: auto;
+	max-width: 400px;
+	max-height: 500px;
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -70,19 +91,3 @@ body#onecup .post.onecup5 {
 	left: 810px;
 	top: 220px;
 }
-
-body#onecup .copy {
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-    display:none;
-}
-
-body#onecup .post:hover .image {
-display:none;
-}
-
-body#onecup .post:hover .copy {
-    display:block;
-}
-    
