@@ -3,8 +3,8 @@ body#giffictionresearch {
   
 }
 
-article.posts {
-  max-width: 960px;
+.post {
+  width: 100%;
   margin: 0 auto;
 }
 
