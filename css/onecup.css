@@ -6,7 +6,7 @@ body#onecup ul.tags {
     display: none;
 }
 
-body#onecup .a.link {
+body#onecup a.link {
 	display: none;
 }
 
