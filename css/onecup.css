@@ -30,9 +30,14 @@ body#onecup {
 }
 
 body#onecup h3.title {
-    font-size: 45pt;
-    line-height: 54pt;
-    width: 1000px;
+	font-size: 45pt;
+   	line-height: 54pt;
+   	width: 1000px;
+	z-index:9999;
+	position: absolute;
+	top: 0px;
+	left: 500px;
+	
 }
 
 body#onecup {
