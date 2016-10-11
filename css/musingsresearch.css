@@ -1,9 +1,9 @@
 body#musingsresearch {
-    background-color: blue;   
+    background-color: yellow;   
 }
 
 body#musingsresearch .post {
-    background-color: red;
+    background-color: white;
 }
 
 body#musingsresearch ul.tags {
