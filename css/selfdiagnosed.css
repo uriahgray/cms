@@ -1,6 +1,7 @@
 body#selfdiagnosed {
-  background-color:red;
   font-family: palatino;
+  height: 100vh;
+  width: 100vw;
 }
 
 body#selfdiagnosed ul.tags {
