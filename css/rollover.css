@@ -1,3 +1,8 @@
+body#rollover {
+background-color:red;
+
+}
+
 body#rollover a.link, body#rollover ul.tags, body#rollover h3.tag_title {
     display: none;
 }
