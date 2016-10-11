@@ -16,14 +16,11 @@ body#photoessaydraft .post .postcontainer {
 
 body#photoessaydraft .post {
     width: 25%;
+
 }
 
-body#photoessaydraft .post.col1of3 {
-    width: 33.33333%;
-}
-
-body#photoessaydraft .post.col1of2 {
-    width: 50%;
+body#photoessaydraft .post.copy {
+    display: none;
 }
 
 body#photoessaydraft .post.clear {
