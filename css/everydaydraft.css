@@ -5,11 +5,11 @@ body#everydaydraft .post {
     width: 500px;
     }
 
-h3 {
+body#everydaydraft h3 {
     display: none;
 }
 
-ul {
+body#everydaypost ul {
     display: none;
 }
 
