@@ -1,17 +1,17 @@
-body#tedtalkdraft {
+body#lovedraft {
 background-color:cyan;
     font-size:16px;
 }
 
-body#tedtalkdraft .post {
+body#lovedraft .post {
 background-color:red;
 }
 
-body#tedtalkdraft h3.tag_title {
+body#lovedraft h3.tag_title {
     display: none;
 }
 
-body#tedtalkdraft ul.tags {
+body#lovedraft ul.tags {
     display: none;
 }
 
