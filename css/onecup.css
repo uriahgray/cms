@@ -6,6 +6,10 @@ body#onecup ul.tags {
     display: none;
 }
 
+body#onecup .copy {
+    display: none;
+}
+
 body#onecup .post.onecupbackground{
 display: none;
 }
