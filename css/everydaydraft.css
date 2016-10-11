@@ -9,3 +9,13 @@ body#everydaydraft .post {
     margin-right: auto;
     width: 500px;
     }
+
+body#everydaydraft .h3 {
+    display: none;
+}
+
+body#everydaydraft .ul {
+    display: none;
+}
+
+
