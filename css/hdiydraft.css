@@ -1,5 +1,9 @@
 body#hdiydraft{
-  background: none;
-  
+  background: none; 
 }
 
+body#hdiydraft .post {
+    height: 333px;
+    overflow: scroll;
+    width: 500px;
+}
