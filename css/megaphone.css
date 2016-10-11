@@ -38,6 +38,6 @@ body#megaphone .post.megaphone4 {
 
 
 
-body#megaphone .posts:hover {
+body#megaphone .post:hover {
     z-index: 100;
 }
