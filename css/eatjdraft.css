@@ -1,10 +1,6 @@
 body#eatjdraft {
-background-color:antiquewhite;
-    font-size:16px;
-}
-
-body#eatjdraft .post {
-background-color:black;
+  background-image: url("https://texturefabrik.files.wordpress.com/2013/05/29-05-13_paper07.jpg")
+  
 }
 
 body#eatjdraft h3.tag_title {
