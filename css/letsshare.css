@@ -1,6 +1,10 @@
 body#letsshare {
     background-color: white;
 }
-body#letsshare .post{
-/*   background-color:red; */
+
+body#letsshare .post h3{
+    text-transform: uppercase;
+    margin: auto 0;
+    text-align: center;
 }
+    
