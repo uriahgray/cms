@@ -12,3 +12,7 @@ body#nostalgiadraft h3.tag_title {
 body#nostalgiadraft a.link {
     display: none;
 }
+
+body#nostalgiadraft a {
+    color: gray;
+}
