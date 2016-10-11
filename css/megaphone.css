@@ -36,6 +36,23 @@ body#megaphone .post.megaphone4 {
     left: 0;
 }
 
+body#megaphone .post.megaphone3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+body#megaphone .post.megaphone2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+body#megaphone .post.megaphone1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
 
 
 body#megaphone .posts:hover {
