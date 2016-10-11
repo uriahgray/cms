@@ -7,6 +7,6 @@ body#goodluckdraft h3.tag_title {
 body#goodluckdraft a.link {
     display: none;
 }
-ul.tags {
+body#goodluckdraft ul.tags {
     display: none;
 }
