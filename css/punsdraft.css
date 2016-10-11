@@ -2,7 +2,7 @@ body#punsdraft{
 background:cyan;
 }
 
-body#punsdraft .copy1 {
+body#punsdraft .copy {
     height: 300px;
     overflow: scroll;
 }
