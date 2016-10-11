@@ -12,7 +12,7 @@ body#cheesedraft h3.tag.title {
 }
 
 body#cheesedraft ul.tags {
-  position: fixed;
+  display: none;
 }
 
 body#cheesedraft .post.green {
