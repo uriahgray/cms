@@ -14,3 +14,8 @@ background: url("http://67.media.tumblr.com/ee92e6c2715566ddd4282a4c09f6c3eb/tum
 background-repeat: repeat;
 }
 
+body#onecup .post {
+	width: 300px;
+	display: inline-flex;
+	margin-right: 20px;
+}
