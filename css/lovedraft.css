@@ -1,1 +1,19 @@
+body#tedtalkdraft {
+background-color:cyan;
+    font-size:16px;
+}
+
+body#tedtalkdraft .post {
+background-color:red;
+}
+
+body#tedtalkdraft h3.tag_title {
+    display: none;
+}
+
+body#tedtalkdraft ul.tags {
+    display: none;
+}
+
+
 
