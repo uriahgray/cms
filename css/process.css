@@ -6,3 +6,7 @@ body#process .post {
 background-color:red;
   
 }
+
+body#process h3.tag_title {
+  display: none;
+}
