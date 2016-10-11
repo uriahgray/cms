@@ -6,7 +6,7 @@ body#openobscura .post {
 background-color:red;
 }
 
-body#openobscura .post {
+body#openobscura .post.test {
     color: white;
     font-size: 50pt;
 }
