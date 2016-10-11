@@ -2,3 +2,7 @@ body#watchandlearndraft{
   background:black;
   
 }
+
+body#watchandlearndraft element.style {
+    display: none;
+}
