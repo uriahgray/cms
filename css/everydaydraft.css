@@ -5,6 +5,8 @@ body#everydaydraft .post {
     margin-left: auto;
     margin-right: auto;
     width: 500px;
-
-
-}
+    }
+    
+body#everydaydraft {
+    background: cyan;
+   }
