@@ -1,3 +1,10 @@
 body#nostalgiadraft {
 background: cyan;
 }
+
+body#nostalgiadraft .post.nostalgiadraft {
+    width: 33.33%;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
