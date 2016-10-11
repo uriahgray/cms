@@ -8,8 +8,14 @@ background-color:red;
 
 body#openobscura .post.test p {
     color:white;
-    font-size:50pt;
+    font-size: 50pt;
+    font-family: arial;
+    line-height: 30px;
+    letter-spacing: 0.02em;
 }
 
 
 position: absolute;
+top: 0px;
+left; 50px
+
