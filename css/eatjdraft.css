@@ -7,3 +7,7 @@ body#eatjdraft h3.tag_title {
     font-size: 24px;
     font-family:arial;
 }
+
+.post.photo.dzha95.eatjdraft {
+    height: 400px;
+    overflow: scroll;
