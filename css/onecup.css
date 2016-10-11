@@ -42,9 +42,8 @@ body#onecup .post {
 	left: 0px;
 }
 
-body#onecup .post:hover {
-	z-index: 9999;
-}
+
+
 
 body#onecup .post.onecup1 {
 	left: 200px;
