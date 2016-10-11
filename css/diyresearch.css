@@ -1,3 +1,16 @@
-body#giffictionresearch {
-  background-color: #fff;
+body#diyresearch {
+background-color:cyan;
+    font-size:16px;
+}
+
+body#diyresearch .post {
+background-color:red;
+}
+
+body#diyresearch h3.tag_title {
+    display: none;
+}
+
+body#diyresearch ul.tags {
+    display: none;
 }
