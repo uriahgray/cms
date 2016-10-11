@@ -6,6 +6,10 @@ body#onecup ul.tags {
     display: none;
 }
 
+body#onecup .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+	display: none;
+}
+
 body#onecup {
     font-family: times;
     font-size: 12pt;
