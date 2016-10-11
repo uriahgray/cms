@@ -1,3 +1,16 @@
-body#documentdraft {
-    background: red;
+body#documentdraftarticle.posts {
+    width: 60000px;
+    height: 100vh;
+}
+
+body#documentdraft .container {
+    overflow-x: scroll;
+}
+
+body#documentdraft article.posts {
+    width: 6000px;
+}
+
+body#documentdraft .post {
+    width: 300px;
 }
