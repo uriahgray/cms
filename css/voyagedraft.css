@@ -1,3 +1,10 @@
 body#voyagedraft ul.tags{
   visibility: hidden;
 }
+body#voyagedraft h3.tag_title {
+    display: none;
+}
+
+body#voyagedraft a.link {
+    display: none;
+}
