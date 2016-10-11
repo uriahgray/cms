@@ -13,31 +13,3 @@ body#megaphone .copy {
 body#megaphone a.link {
     display: none;
 }
-
-body#megaphone article.posts img {
-    min-width: 200px;
-    max-width: 300px;
-    max-height: 300px;
-    min-height: 200px;
-}
-
-
-
-
-body#megaphone .post.megaphone5 {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-body#megaphone .post.megaphone4 {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-
-
-body#megaphone .post:hover {
-    z-index: 100;
-}
