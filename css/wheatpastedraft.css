@@ -1,0 +1,33 @@
+body#wheatpastedraft head {
+    display: none;
+}
+
+body#wheatpastedraft body {
+    font-family: arial;
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    background-color: #f1f1f1;
+}
+
+body#wheatpastedraft a{
+    text-decoration: none;
+    color: #000000;
+}
+
+body#wheatpastedraft a:hover{
+    color: #000000;
+}
+
+body#wheatpastedraft a.link {
+    display: block;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+body#wheatpastedraft .container{
+    padding: 20px;
+    text-align: center;
+}
