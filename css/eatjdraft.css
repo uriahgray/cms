@@ -4,12 +4,12 @@ background-color:beige;
 }
 
 body#eatjdraft .post {
-background-color:brown;
+background-color:white;
 }
 
 body#eatjdraft h3.tag_title {
     font-size: 24px;
-    font-family:courier;
+    font-family:arial;
 }
 
 body#eatjdraft ul.tags {
