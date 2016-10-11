@@ -13,3 +13,8 @@ body#megaphone .copy {
 body#megaphone a.link {
     display: none;
 }
+
+body#megaphone article.posts img {
+    min-width: 200px;
+    max-width: 300px;
+}
