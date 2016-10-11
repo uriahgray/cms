@@ -6,3 +6,7 @@ body#selfdiagnosed {
 body#selfdiagnosed .ul.tags {
   display:none;
 }
+
+body#selfdiagnosed .post:hover {
+  z-index: 100;
+}
