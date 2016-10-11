@@ -18,19 +18,6 @@ body#onecuprollover .post {
     overflow: hidden;
 }
 
-.image {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-}
-
-.copy {
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-    display:none;
-}
-
 body#onecuprollover .post:hover .image {
 display:none;
 }
