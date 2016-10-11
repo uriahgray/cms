@@ -2,8 +2,6 @@ body#everydaydraft .post {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-style: solid;
-    border-color: red;
     }
 
 body#everydaydraft h3.tag_title{
