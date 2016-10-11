@@ -3,6 +3,6 @@ body#selfdiagnosed {
   font-family: palatino;
 }
 
-body#selfdiagnosed.is_tagged {
+body#selfdiagnosed .ul.tags {
   display:none;
 }
