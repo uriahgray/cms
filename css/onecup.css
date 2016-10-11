@@ -2,6 +2,10 @@ body#onecup h3.tag_title {
     display: none;
 }
 
+body#onecup u1.copy{
+    display: none;
+}
+
 body#onecup {
     font-family: times;
     font-size: 12pt;
