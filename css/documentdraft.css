@@ -14,3 +14,7 @@ body#documentdraft article.posts {
 body#documentdraft .post {
     width: 300px;
 }
+
+body#documentdraft a.link {
+    display: none;
+}
