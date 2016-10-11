@@ -1,3 +1,7 @@
 body#giffictionresearch {
   background-color: #fff;
 }
+
+.photoset img.set_photos {
+  width: 100%; 
+}
