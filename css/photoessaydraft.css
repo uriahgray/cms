@@ -1,10 +1,10 @@
 body#photoessaydraft {
-background-color:black;
+background-color:cyan;
 display:block;
 float:left;
-margin-right:0px;
-border:1px solid #000;
-margin-bottom:0px;
+margin-right:2px;
+border:2px solid #000;
+margin-bottom:2px;
 }
 
 body#photoessaydrafts a.link {
