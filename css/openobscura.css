@@ -4,11 +4,11 @@ background-color:white;
 
 body#openobscura .post { 
 background-color:orange;
-    color:red;
-    font-size: 50pt;
-    font-family: arial;
-    line-height: 30px;
-    letter-spacing: 0.02em;
+color:red;
+font-size: 50pt;
+font-family: arial;
+line-height: 30px;
+letter-spacing: 0.02em;
 }
 
 body#openobscura h3.tag {
