@@ -1,3 +1,15 @@
+body#pizzashopdraft .post{
+    width: 33.33%;
+    height: 400px;
+    border: 1px solid red;
+    margin-bottom: 0px;
+    padding-right: 40px;
+    display: block;
+    float: left;
+    margin: 0;
+
+}
+
 
 h3 {
     text-transform: uppercase;
