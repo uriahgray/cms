@@ -18,12 +18,12 @@ h3.tag_title {
   margin: 0 auto;
 }
 
-/* Global Image Settings */
+/* Global Image Settings 
 img {
   width: 100%; 
 }
+*/
 
 .photoset img.set_photos {
   width: 100%;
-  display: block;
 }
