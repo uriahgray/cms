@@ -2,10 +2,6 @@ body#onecup h3.tag_title {
     display: none;
 }
 
-body#onecup .copy{
-display: none;	
-}
-
 body#onecup ul.tags {
     display: none;
 }
