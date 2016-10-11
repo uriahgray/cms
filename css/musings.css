@@ -10,8 +10,10 @@ body#musings .post {
     padding: 0px;
 }
 
+
 h3.tag_title {
     font-family: helvetica;
+    text-transform: lowercase;
     font-size: 30pt;
     position: fixed;
     z-index: 100;
