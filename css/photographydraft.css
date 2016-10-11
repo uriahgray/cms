@@ -1,6 +1,8 @@
 body#photographydraft {
-background-color: red;
+background-color:red;
+    font-size:16px;
 }
+
 body#photographydraft .post {
-background-color: blue;
+background-color:red;
 }
