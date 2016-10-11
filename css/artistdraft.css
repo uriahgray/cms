@@ -1,3 +1,11 @@
 body#artistdraft {
-background-color: blue;
+background-color: yellow;
 font
+}
+
+body#artistdraft .post {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    }
