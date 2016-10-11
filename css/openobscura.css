@@ -11,6 +11,10 @@ line-height: 30px;
 letter-spacing: 0.02em;
 }
 
+body#openobscura .link { 
+display:none;
+}
+
 body#openobscura h3.tag {
 display:none;
 }
