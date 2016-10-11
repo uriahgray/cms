@@ -21,6 +21,16 @@ left; 50px
 <h1 style="color:blue;">Open Obscura</h1>
 
 
+body#postnowreferences .post.text.postnow.postnowtitle {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    text-align: center;
+    height: 100px;
+	display:none !important;
+}
 
 <!DOCTYPE html>
 <html>
