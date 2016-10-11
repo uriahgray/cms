@@ -9,3 +9,7 @@ background-colour:blue;
 body#cochleadraft h3.tag_title {
     display: none;
 }
+
+body#cochleadraft .post {
+    background-color: aquamarine;
+}
