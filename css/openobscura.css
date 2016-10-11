@@ -3,5 +3,10 @@ background-color:blue;
 }
 
 body#openobscura .post { 
-background
+background-color:red;
+}
+
+p {
+    color: white;
+    font-size: 80pt;
 }
