@@ -4,7 +4,7 @@ body#letsshare {
 
 body#letsshare .post h3.tag_title{
     text-transform: uppercase;
-    margin: 50;
+    margin: auto 0;
     text-align: center;
 }
     
