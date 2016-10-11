@@ -3,10 +3,10 @@ body#pizzashopdraft .post{
     height: 400px;
     border: 1px solid red;
     margin-bottom: 0px;
+    padding: 10px 10px 10px 10px;
     display: block;
     float: left;
     margin: 0;
-
 }
 
 
