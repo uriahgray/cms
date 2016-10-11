@@ -13,3 +13,7 @@ body#process h3.tag_title {
 body#process ul.tags {
     display: none;
 }
+
+body#process .post.green {
+    background-color: green;
+}
