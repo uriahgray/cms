@@ -14,10 +14,6 @@ body#openobscura h3.tag_title {
 display:none;
 }
 
-body#openobscura h3.tag {
-display:none;
-}
-
 position: absolute;
 top: 0px;
 left; 50px
