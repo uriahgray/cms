@@ -18,3 +18,6 @@ body#diyresearch ul.tags {
 body#diyresearch .post {
     background-color: #b5fbeb;
 }
+.post.photo.yzha582.diyresearch {
+    height: 100px;
+    overflow: scroll;
