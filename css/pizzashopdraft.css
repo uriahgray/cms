@@ -1,12 +1,12 @@
 
 body#pizzashopdraft {
-  
+    background:red;
+}
+
   h3 {
-    visibility: hidden;
-    text-transform: uppercase;
+    visibility:hidden;
+    text-transform:uppercase;
 }
   
   a {
-    visibility: hidden;
-
-}
+    visibility:hidden;
