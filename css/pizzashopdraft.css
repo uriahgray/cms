@@ -1,6 +1,11 @@
 
 body#pizzashopdraft {
   
+  h3 {
+    visibility: hidden;
+    text-transform: uppercase;
+}
+  
   
 
 }
