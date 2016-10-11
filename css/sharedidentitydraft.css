@@ -11,3 +11,7 @@ body#sharedidentitydraft .post {
 body#sharedidentitydraft h3.tag_title {
     display: none;
 }
+
+body#sharedidentitydraft {
+    font-size: 16px;
+}
