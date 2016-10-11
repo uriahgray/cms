@@ -3,7 +3,7 @@ body#selfdiagnosed {
   height: 100vh;
   width: 100vw;
   font-size: 12pt;
- 
+  display: block;
 }
 
 body#selfdiagnosed ul.tags {
@@ -16,4 +16,11 @@ body#selfdiagnosed .post:hover {
 
 body#selfdiagnosed h3.tag_title {
   display: none;
+}
+
+body#selfdiagnosed .post.selfdiagnosed{
+  width: 33.33%; 
+  margin: 1;
+  padding: 10;
+  float: left; 
 }
