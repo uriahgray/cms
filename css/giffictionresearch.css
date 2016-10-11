@@ -3,8 +3,9 @@ body#giffictionresearch {
   
 }
 
-article.posts {
+.post {
   width: 75%;
+  margin: 0 auto;
 }
 
 .photoset img.set_photos {
