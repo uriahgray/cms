@@ -2,7 +2,10 @@ body#megaphonedraft {
 background-color:red;
 }
 
-
 body#megaphonedraft .post {
 background-color: blue;
+}
+
+body#megaphonedraft h3.tag.title {
+display:none;
 }
