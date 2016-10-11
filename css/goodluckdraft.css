@@ -5,3 +5,6 @@ body#goodluckdraft{
 h3.tag_title {
   display: none;
 }
+a.link {
+  display: none;
+}
