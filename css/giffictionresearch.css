@@ -3,6 +3,10 @@ body#giffictionresearch {
   
 }
 
+article.posts {
+  width: 75%;
+}
+
 .photoset img.set_photos {
   width: 100%; 
 }
