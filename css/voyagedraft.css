@@ -1,5 +1,3 @@
-body#voyagedraft {
-  
-  background: grey;
-  
+body#voyagedraft ul.tags{
+  visibility: hidden;
 }
