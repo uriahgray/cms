@@ -19,11 +19,6 @@ body#photoessaydraft .post .postcontainer {
 body#photoessaydraft .post {
     width: 25%;
     height: 25%;
-    position: absolute;
-   left: 10px;
-   right: 10px;
-   top: 10px;
-   bottom: 10px;
 }
 
 body#photoessaydraft .post.col1of3 {
