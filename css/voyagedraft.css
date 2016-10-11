@@ -1,3 +1,13 @@
+body#voyagedraft .post.text.voyagedraft.jmsch13 {
+    width: initial;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    margin: 0;
+    font-family: arial;
+    font-size: 80px;
+    color: grey;
+}    
 body#voyagedraft .container {
     padding: 0;
     position: fixed;
@@ -30,13 +40,4 @@ body#voyagedraft .post.photo.voyagedraft.jmsch13 {
     }
 body#voyagedraft img.set_photos {height: 400px;}
 
-body#voyagedraft .post.text.voyagedraft.jmsch13 {
-    width: initial;
-    position: fixed;
-    top: 50px;
-    left: 50px;
-    margin: 0;
-    font-family: arial;
-    font-size: 80px;
-    color: grey;
-}    
+
