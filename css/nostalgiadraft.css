@@ -4,3 +4,7 @@ body#nostalgiadraft .post.nostalgiadraft {
     padding: 10;
     float: left;
 }
+
+body#nostalgiadraft h3.tag_title {
+    display: none;
+}
