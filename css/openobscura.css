@@ -9,6 +9,11 @@ font-size: 50pt;
 font-family: arial;
 line-height: 30px;
 }
+	
+p {
+    outline: #00FF00 dotted thick;
+}
+
 
 body#openobscura h3.tag_title { 
 display:none;
