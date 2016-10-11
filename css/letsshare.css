@@ -16,7 +16,7 @@ a {
     display: none;
 }
 
-p {
+body#letsshare p {
     margin: auto 0;
     text-align: center;
     margin-left: 450px;
