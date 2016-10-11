@@ -22,3 +22,16 @@ body#artistdraft .post {
     background: rgb(200, 224, 94);
     float: left;
 }
+
+body {
+    font-family: Baskerville;
+    font-size: 20;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+}
+body {
+    font-family: arial;
+    font-size: 12px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+}
