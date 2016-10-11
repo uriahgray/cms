@@ -1,4 +1,6 @@
 body#everydaydraft {
+    background: cyan
+}
 
 body#everydaydraft .post {
     display: block;
@@ -6,8 +8,3 @@ body#everydaydraft .post {
     margin-right: auto;
     width: 500px;
     }
-    
-body#everydaydraft{
-    background: cyan;
-    
-   }
