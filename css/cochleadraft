@@ -5,3 +5,7 @@ background-colour:red;
 body#cochleadraft .post {
 background-colour:blue;
 }
+
+body#cochleadraft h3.tag_title {
+    display: none;
+}
