@@ -22,3 +22,6 @@ body#everydaypost a.link{
     display: none;
 }
 
+body#everydaypost ul.tags li{
+    display: block;
+}
