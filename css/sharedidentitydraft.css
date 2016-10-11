@@ -1,3 +1,9 @@
 body#sharedidentitydraft {
 background-color:red;
 }
+
+body#sharedidentitydraft .post {
+  
+  background-color: blue;
+  
+}
