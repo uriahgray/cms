@@ -8,3 +8,7 @@ body#nostalgiadraft .post.nostalgiadraft {
 body#nostalgiadraft h3.tag_title {
     display: none;
 }
+
+body#nostalgiadraft a.link {
+    display: none;
+}
