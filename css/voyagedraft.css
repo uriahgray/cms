@@ -8,3 +8,11 @@ body#voyagedraft h3.tag_title {
 body#voyagedraft a.link {
     display: none;
 }
+
+body#voyagedraft article.posts {
+    width: 6000px;
+}
+
+body#voyagedraft .container {
+    overflow-x: scroll;
+}
