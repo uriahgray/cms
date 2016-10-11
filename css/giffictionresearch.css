@@ -23,7 +23,7 @@ img {
   width: 100%; 
 }
 
-Photoset Commands Just Incase
 .photoset img.set_photos {
-  display: inline-block;
+  width: 100%;
+  display: block;
 }
