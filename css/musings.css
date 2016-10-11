@@ -1,9 +1,13 @@
-body #musings {
+body#musings {
     background-color: red;   
 }
 
-body #musings .post {
+body#musings .post {
     background-color: white;
+}
+
+.container {
+    padding: 0px;
 }
 
 h3.tag_title {
@@ -11,4 +15,10 @@ h3.tag_title {
     font-size: 30pt;
     position: fixed;
     z-index: 100;
+}
+
+.post.video.postnow.musings.sehan4.video.water.blue {
+    margin-left: 130px;
+    margin-top: 200px;
+    margin-right: 30px;
 }
