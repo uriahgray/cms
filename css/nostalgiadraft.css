@@ -36,3 +36,10 @@ body#nostalgiadraft .chocolat-wrapper .chocolat-pagination {
     font-size: 12px;
     font-family: courier new;
 }
+
+p {
+    font-family: courier new;
+    font-size: 12px;
+    line-height: 18px;
+    display: none;
+}
