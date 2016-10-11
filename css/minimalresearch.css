@@ -13,8 +13,10 @@ align-content: center
 
 h3.tag_title {
 
-position: fixed;
-z-index: 100;
+ padding-bottom: 90px;
+    position: fixed;
+    margin-left: 400px;
+    margin-top: 270px;
 }
 .post {
     margin-bottom: 80px;
