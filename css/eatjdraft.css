@@ -7,22 +7,3 @@ body#eatjdraft h3.tag_title {
     font-size: 24px;
     font-family:arial;
 }
-
-body#eatjdraft ul.tags {
-    display: none;
-}
-body#eatjdraft .post {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 500px;
-    }
-
-body#everydaydraft .h3 {
-    display: none;
-}
-
-body#everydaydraft .ul {
-    display: none;
-}
-
