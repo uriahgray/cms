@@ -1,5 +1,13 @@
+body#voyagedraft .container {
+    padding: 0;
+    position: fixed;
+    top: 250px;
+    left: 50px;
+    right: 50px;
+}
+
 body#voyagedraft ul.tags{
-  visibility: hidden;
+  display: none;
 }
 body#voyagedraft h3.tag_title {
     display: none;
