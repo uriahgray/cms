@@ -5,3 +5,11 @@ body#popculturedraft .container {
 body#popculturedraft ul.tags li {
     display: none;
 }
+
+body#popculturedraft a.link {
+    display: none;
+}
+
+body#popculturedraft h3.tag_title {
+    display: none;
+}
