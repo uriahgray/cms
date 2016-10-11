@@ -16,3 +16,7 @@ body#voyagedraft article.posts {
 body#voyagedraft .container {
     overflow-x: scroll;
 }
+body#voyagedraft .post.photo.voyagedraft.jmsch13 {
+    width:initial;
+    margin: 0;
+    }
