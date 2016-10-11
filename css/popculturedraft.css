@@ -1,3 +1,7 @@
-body#popculturedraft {
-    background-color: red;
+body#popculturedraft .container {
+    background-color: antiquewhite;
+}
+
+body#popculturedraft ul.tags li {
+    display: none;
 }
