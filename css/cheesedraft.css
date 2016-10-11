@@ -1,9 +1,9 @@
 body#cheesedraft {
-background-color:blue;
+background-color: blue;
 }
 
 body#cheesedraft .post {
-background-color:red;
+background-color: red;
 }
 
 body#cheesedraft h3.tag.title {
@@ -14,6 +14,6 @@ body#cheesedraft ul.tags {
 }
 
 body#cheesedraft .post.green {
-  background-color:green;
+  background-color: green;
 }
 
