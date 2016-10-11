@@ -4,3 +4,9 @@ body#goodluckdraft{
 body#goodluckdraft h3.tag_title {
     display: none;
 }
+body#goodluckdraft a.link {
+    display: none;
+}
+body#goodluckdraft ul.tags {
+    display: none;
+}
