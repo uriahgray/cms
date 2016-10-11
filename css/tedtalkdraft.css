@@ -1,3 +1,7 @@
 body#tedtalkdraft {
 background-color:blue;
 }
+
+body#tedtalkdraft .post {
+background-color:red;
+}
