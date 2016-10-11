@@ -1,6 +1,7 @@
 body#cochleadraft {
 background-colour:red;
 }
+
 body#cochleadraft .post {
 background-colour:blue;
 }
