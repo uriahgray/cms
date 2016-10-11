@@ -22,3 +22,11 @@ body#volumedraft .link {
 body#volumedraft .tags {
     display: none;
 }
+
+body#volumedraft .title {
+    position: fixed;
+    top: 50px;
+    left: 80px;
+    font-size: 60px;
+    z-index: 0;
+}
