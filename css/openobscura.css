@@ -10,8 +10,3 @@ body#openobscura copy.tag {
     color: white;
     font-size: 80pt;
 }
-
-<div class="copy"><p>test</p></div>
-body#openobscura h3.tag
-?.tags
-display:none;
