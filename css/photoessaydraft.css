@@ -2,9 +2,7 @@ body#photoessaydraft {
 background-color:white;
 display:block;
 float:left;
-margin-right:2px;
 border:2px solid #000;
-margin-bottom:2px;
     
 }
 
@@ -18,7 +16,6 @@ body#photoessaydraft .post .postcontainer {
 
 body#photoessaydraft .post {
     width: 25%;
-    height: 25%;
 }
 
 body#photoessaydraft .post.col1of3 {
