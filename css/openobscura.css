@@ -10,7 +10,7 @@ body#openobscura h3.tag {
 display:none;
 }
 
-body#openobscura .post.copy p {
+body#openobscura .post {
     color:red;
     font-size: 50pt;
     font-family: arial;
