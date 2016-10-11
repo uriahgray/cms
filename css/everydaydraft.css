@@ -15,13 +15,11 @@ body#everydaypost ul {
 }
 
 body#everydaypost a.link{
-    display: block;
-    font-size: 14px;
-    font-family: courier;
-    text-transform: uppercase;
     display: none;
 }
 
 body#everydaypost ul.tags li{
-    display: block;
+    display: none;
 }
+
+
