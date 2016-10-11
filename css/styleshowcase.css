@@ -1,0 +1,8 @@
+body#styleshowcase .tags {
+    display: none;
+}
+
+body#styleshowcase .post.braids img {
+    width: 400px;
+    -webkit-border-radius: 10px;
+}
