@@ -11,7 +11,7 @@ display:none;
 }
 
 body#openobscura .post.copy p {
-    color:white;
+    color:red;
     font-size: 50pt;
     font-family: arial;
     line-height: 30px;
