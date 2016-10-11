@@ -4,7 +4,7 @@ body#giffictionresearch {
 
 .post {
   width: 80%;
-  display: inline-block;
+  display: block;
   margin: 0 auto;
 }
 
