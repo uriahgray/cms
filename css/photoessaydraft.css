@@ -19,7 +19,7 @@ body#photoessaydraft .post {
 
 }
 
-body#photoessaydraft .post.copy {
+body#photoessaydraft .copy {
     display: none;
 }
 
