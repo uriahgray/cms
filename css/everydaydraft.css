@@ -4,6 +4,11 @@ body#everydaydraft .post {
     margin-right: auto;
     }
 
+body#everydaydraft img.set_photos {
+    border-style: solid;
+    border-color: #f1901b;
+}
+
 body#everydaydraft h3.tag_title{
     display: none;
 }
