@@ -35,4 +35,8 @@ body#voyagedraft .post.text.voyagedraft.jmsch13 {
     position: fixed;
     top: 50px;
     left: 50px;
-}
+    margin: 0;
+    font-family: arial;
+    font-size: 80px;
+    color: grey;
+}    
