@@ -6,6 +6,6 @@ body#megaphonedraft .post {
 background-color: blue;
 }
 
-body#megaphonedraft h3.tag.title {
+body#megaphonedraft h3.tag_title {
 display:none;
 }
