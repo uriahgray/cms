@@ -1,0 +1,7 @@
+body#cheesedraft {
+background-colour:blue;
+}
+
+body#cheesedraft .post {
+background-colour:red;
+}
