@@ -2,3 +2,7 @@ body#selfdiagnosed {
   background-color:blue;
   font-family: palatino;
 }
+
+body#selfdiagnosed.is_tagged {
+  display:none;
+}
