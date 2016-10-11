@@ -4,31 +4,34 @@ body#styleshowcase .tags {
 
 body#styleshowcase .post.braids img {
     width: 400px;
-    -webkit-border-radius: 10px;
+    -webkit-border-radius: 4px;
 }
 
 body#styleshowcase .posts {
-    width: 60%;
+    width: 100%;
     position: relative;
     align-content: center;
     margin-left: 25%;
 }
 
 body#styleshowcase .post.whitetie img {
-    width: 400px;
-    margin-left: -160px;
+    width: 400px; 
     margin-right: 0px;
     margin-top: 0px;
     -webkit-border-radius: 4px;
-    padding-top: 70px;
+  
 }
 
 body#styleshowcase .post.car img {
     width: 400px;
-    margin-left: -180px;
-    margin top: -;
+    -webkit-border-radius: 4px;
 }
 
 body#styleshowcase .link {
     display: none;
+}
+
+body#styleshowcase .post.plantbathroom img {
+    width: 400px;
+    -webkit-border-radius: 4px;
 }
