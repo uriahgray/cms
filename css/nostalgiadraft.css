@@ -41,6 +41,7 @@ body#nostalgiadraft p {
     font-family: courier new;
     font-size: 12px;
     line-height: 18px;
+    width: 500px;
 }
 
 body#nostalgiadraft .post.container {
