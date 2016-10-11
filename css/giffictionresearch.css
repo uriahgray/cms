@@ -14,8 +14,11 @@ caption {
 
 .photoset img.set_photos {
   width: 100%; 
-  {block:caption}
+}
+
+block:caption {
+  display: inline-block;
   font-size:24px;
   color:#000000;
-  line-height:130%;{/block:caption}
+  line-height:130%;
 }
