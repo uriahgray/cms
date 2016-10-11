@@ -1,5 +1,6 @@
 body#tedtalkdraft {
-background-color:blue;
+background-color:cyan;
+    font-size:16px;
 }
 
 body#tedtalkdraft .post {
