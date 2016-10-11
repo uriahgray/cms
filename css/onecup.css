@@ -35,7 +35,7 @@ background-repeat: repeat;
 }
 
 body#onecup .post {
-	width: 500px;
+	minimum-width: 300px;
 	height: auto;
 	position: absolute;
 	top: 0px;
