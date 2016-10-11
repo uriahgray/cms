@@ -35,8 +35,3 @@ body#megaphone .post.megaphone4 {
     top: 0;
     left: 0;
 }
-
-body#megaphone .post.megaphone4:hover {
-    position: absolute;
-    z-index:100;
-}
