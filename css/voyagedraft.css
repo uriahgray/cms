@@ -29,3 +29,10 @@ body#voyagedraft .post.photo.voyagedraft.jmsch13 {
     margin: 0;
     }
 body#voyagedraft img.set_photos {height: 400px;}
+
+body#voyagedraft .post.text.voyagedraft.jmsch13 {
+    width: initial;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+}
