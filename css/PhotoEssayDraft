@@ -1,4 +1,5 @@
 body#photoessaydraft{
+
 background-color: black;
 display:block;
 float:left;
@@ -7,27 +8,27 @@ border:1px solid #000;
 margin-bottom:0px;
 }
 
-body#grids a.link {
+body#photoessaydrafts a.link {
     font-family: arial;
 }
 
-body#grids .post .postcontainer {
+body#photoessaydraft .post .postcontainer {
     padding: 0 18px;
 }
 
-body#grids .post.col1of4 {
+body#photoessaydraft .post.col1of4 {
     width: 25%;
 }
 
-body#grids .post.col1of3 {
+body#photoessaydraft .post.col1of3 {
     width: 33.33333%;
 }
 
-body#grids .post.col1of2 {
+body#photoessaydraft .post.col1of2 {
     width: 50%;
 }
 
-body#grids .post.clear {
+body#photoessaydraft .post.clear {
     clear: both;
     display: inherit;
     float: none;
