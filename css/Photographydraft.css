@@ -1,6 +1,6 @@
-Body#photographydraft{
+Body#photographydraft {
 background-color: red;
 }
-Body#photographydraft.post{
+Body#photographydraft .post {
 background-color: Blue;
 }
