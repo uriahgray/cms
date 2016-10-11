@@ -146,3 +146,8 @@ body#megaphone .post.megaphone22 {
     top: 800px;
     right: 800px;
 }
+
+body#megaphone .post.megaphone23 {
+    bottom: 0px;
+    right: 0px;
+}
