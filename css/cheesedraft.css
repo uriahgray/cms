@@ -5,3 +5,7 @@ background-color:blue;
 body#cheesedraft .post {
 background-color:red;
 }
+
+body#cheesedraft h3.tag.title {
+  display: none;
+}
