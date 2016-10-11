@@ -2,3 +2,10 @@ body#watercolourdessertdraft{
   background: aqua;
   
   }
+
+img.set_photos {}
+
+.post.photo.jahar25.watercolourdessertdraft {
+    height: 400px;
+    overflow: scroll;
+}
