@@ -1,0 +1,16 @@
+body#eatjdraft {
+background-color:cyan;
+    font-size:16px;
+}
+
+body#eatjdraft .post {
+background-color:red;
+}
+
+body#eatjdraft h3.tag_title {
+    display: none;
+}
+
+body#eatjdraft ul.tags {
+    display: none;
+}
