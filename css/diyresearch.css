@@ -21,7 +21,7 @@ body#diyresearch .post {
     background-color: #b5fbeb;
 }
 
-body {
+body#diyresearch .post {
     font-family: arial;
     font-size: 23px;
     line-height: 22px;
