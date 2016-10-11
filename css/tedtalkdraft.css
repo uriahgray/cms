@@ -9,3 +9,7 @@ background-color:red;
 body#tedtalkdraft h3.tag_title {
     display: none;
 }
+
+body#tedtalkdraft ul.tags {
+    display: none;
+}
