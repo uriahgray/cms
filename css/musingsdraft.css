@@ -9,3 +9,13 @@ background-color: red;
 body#musingsresearch ul.tags {
     display: none;
 }
+
+body#musingsresearch ul.tags {
+    display: none;
+}
+
+h3.tag_title {
+    font-size: 24px;
+    font-family: courier;
+    display: none;
+}
