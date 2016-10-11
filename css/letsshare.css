@@ -1,5 +1,6 @@
 body#letsshare {
     background-color: white;
+    font-family:proxima nova;
 }
 
 body#letsshare h3.tag_title {
@@ -13,4 +14,13 @@ a.link {
 
 a {
     display: none;
+}
+
+p {
+    margin: auto 0;
+    text-align: center;
+    margin-left: 450px;
+    font-family: proxima nova;
+    font-size: 50px;
+    padding-top: 30px;
 }
