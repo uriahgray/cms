@@ -3,7 +3,7 @@ body#selfdiagnosed {
   font-family: palatino;
 }
 
-body#selfdiagnosed .ul.tags {
+body#selfdiagnosed ul.tags {
   display:none;
 }
 
