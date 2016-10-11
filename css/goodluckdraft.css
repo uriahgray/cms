@@ -10,7 +10,11 @@ body#goodluckdraft a.link {
 body#goodluckdraft ul.tags {
     display: none;
 }
-.postcontainer {
+body#goodluckdraft .postcontainer {
     max-width: 100px;
     max-height: 100px;
+}
+body#goodluckdraft .post {
+    display: inline-block;
+    margin-right: 20px;
 }
