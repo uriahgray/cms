@@ -8,8 +8,8 @@ body#giffictionresearch {
   margin: 0 auto;
 }
 
-.caption {
-  display: block; 
+caption {
+  display: block !important;
 }
 
 .photoset img.set_photos {
