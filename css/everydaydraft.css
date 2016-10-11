@@ -2,10 +2,11 @@ body#everydaydraft .post {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
+    border-style: solid;
+    border-color: red;
     }
 
-body#everydaydraft h3 {
+body#everydaydraft h3.tag_title{
     display: none;
 }
 
