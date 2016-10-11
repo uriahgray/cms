@@ -2,4 +2,7 @@ body #musings {
     background-color: red;   
 }
 
+body #musings .post {
+    background-color: white;
+}
 
