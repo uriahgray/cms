@@ -1,0 +1,37 @@
+Body#photoessaydraft{
+background-color: white;
+display:block;
+float:left;
+margin-right:0px;
+border:1px solid #000;
+margin-bottom:0px;
+}
+
+body#grids a.link {
+    font-family: arial;
+}
+
+body#grids .post .postcontainer {
+    padding: 0 18px;
+}
+
+body#grids .post.col1of4 {
+    width: 25%;
+}
+
+body#grids .post.col1of3 {
+    width: 33.33333%;
+}
+
+body#grids .post.col1of2 {
+    width: 50%;
+}
+
+body#grids .post.clear {
+    clear: both;
+    display: inherit;
+    float: none;
+    border: 0px;
+    height: 1px;
+    overflow: hidden;
+}
