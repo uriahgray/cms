@@ -18,7 +18,13 @@ h3.tag_title {
   margin: 0 auto;
 }
 
-/* Photoset Commands */
+/* Global Image Settings */
+img {
+  width: 100%; 
+}
+
+/* Photoset Commands Just Incase
 .photoset img.set_photos {
   width: 100%; 
 }
+*/
