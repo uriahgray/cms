@@ -1,11 +1,10 @@
 body#minimalresearch {
 background-color:#d6d8d8;
     font-size:16px;
-margin-left: 25%
-align-content: center
+
 }
 
 body#minimalresearch .post {
 background-color:#f5f4f4;
-
+align-content: center
 }
