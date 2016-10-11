@@ -1,6 +1,7 @@
-body#photoessaydraft{
+body#photoessaydraft {
 
-background-color: black;
+background-color:black;
+
 display:block;
 float:left;
 margin-right:0px;
