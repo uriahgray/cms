@@ -3,5 +3,8 @@ body#pdraft {
 }
 
 body#pdraft .post {
+}
 
+body#pdraft a {
+  display:none;
 }
