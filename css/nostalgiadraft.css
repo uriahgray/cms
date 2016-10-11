@@ -43,7 +43,7 @@ body#nostalgiadraft p {
     line-height: 18px;
 }
 
-body#nostalgiadraft article.posts {
+body#nostalgiadraft .post.container {
     width: 6000px;
 }
 
