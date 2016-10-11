@@ -1,3 +1,10 @@
+ body {
+    font-family: times;
+    font-size: 12pt;
+    line-height: 16pt;
+    letter-spacing: 0.02em;
+}
+
 body#onecup h3.tag_title {
     display: none;
 }
@@ -6,3 +13,4 @@ body#onecup {
 background: url("http://67.media.tumblr.com/ee92e6c2715566ddd4282a4c09f6c3eb/tumblr_oev6l0ks5E1vf7reno1_400.gif");
 background-repeat: repeat;
 }
+
