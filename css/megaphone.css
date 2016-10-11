@@ -5,3 +5,8 @@ display: none;
 body#megaphone ul.tags {
     display: none;
 }
+
+
+body#megaphone .copy {
+    display: none;
+}
