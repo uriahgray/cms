@@ -11,3 +11,8 @@ body#cheesedraft h3.tag.title {
 }
 
 body#cheesedraft ul.tags
+
+body#cheesedraft .post.green {
+  background-color:green;
+}
+
