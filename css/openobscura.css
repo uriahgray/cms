@@ -10,7 +10,7 @@ font-family: arial;
 line-height: 30px;
 }
 	
-p {
+body#openobscura .post {
     outline: #00FF00 dotted thick;
 }
 
