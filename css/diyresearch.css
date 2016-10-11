@@ -18,7 +18,10 @@ body#diyresearch ul.tags {
 body#diyresearch .post {
     background-color: #b5fbeb;
 }
-.post.photo.diyresearch {
-    height: 50px;
-    overflow: scroll;
+body#diyresearch .post {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: red;
     }
