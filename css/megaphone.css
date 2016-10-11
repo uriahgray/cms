@@ -24,8 +24,8 @@ body#megaphone .post:hover {
 }
 
 body#megaphone .post {
-    width: 300px;
-    height: 300px;
+    width: 100px;
+    height: 100px;
     position: absolute;
     top:0px;
     left:0px;
