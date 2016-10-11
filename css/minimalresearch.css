@@ -1,15 +1,15 @@
 body#minimalresearch {
-background-color:#b9b6b8;
+background-color:#f5f4f4;
     font-size:16px;
 }
 
 body#minimalresearch .post {
-background-color:red;
+background-color:#f5f4f4;
 align-content: center
 
 }
 body#minimalresearch .post.text {
-    background-color: red;
+    background-color: #f5f4f4;
 }
 
 h3.tag_title {
