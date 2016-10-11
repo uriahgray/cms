@@ -20,3 +20,18 @@ body#megaphone article.posts img {
     max-height: 300px;
     min-height: 200px;
 }
+
+
+
+
+body#megaphone .post.megaphone5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+body#megaphone .post.megaphone4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
