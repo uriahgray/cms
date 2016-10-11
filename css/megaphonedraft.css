@@ -9,3 +9,8 @@ background-color: blue;
 body#megaphonedraft h3.tag_title {
 display:none;
 }
+
+
+body#megaphonedraft ul.tags {
+    display: none;
+}
