@@ -6,5 +6,6 @@ body#letsshare .post h3{
     text-transform: uppercase;
     margin: auto 0;
     text-align: center;
+    outline: solid blue 2px;
 }
     
