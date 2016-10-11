@@ -14,3 +14,7 @@ body#diyresearch h3.tag_title {
 body#diyresearch ul.tags {
     display: none;
 }
+
+body#diyresearch .post {
+    background-color: #b5fbeb;
+}
