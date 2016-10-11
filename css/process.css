@@ -7,6 +7,6 @@ background-color:red;
   
 }
 
-body#process h3.tag_title {
+body#process h3.tag.title {
   display: none;
 }
