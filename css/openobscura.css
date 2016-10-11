@@ -4,13 +4,6 @@ background-color:white;
 
 body#openobscura .post { 
 background-color:orange;
-}
-
-body#openobscura h3.tag {
-display:none;
-}
-
-body#openobscura .post {
     color:red;
     font-size: 50pt;
     font-family: arial;
@@ -18,6 +11,9 @@ body#openobscura .post {
     letter-spacing: 0.02em;
 }
 
+body#openobscura h3.tag {
+display:none;
+}
 
 position: absolute;
 top: 0px;
