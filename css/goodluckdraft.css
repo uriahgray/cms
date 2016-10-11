@@ -1,12 +1,12 @@
 body#goodluckdraft{
-  background:red; 
+  background: red; 
 
 }
 h3.tag_title {
-  display:none;
+  display: none;
 }
 a.link {
-  display:none;
+  display: none;
 }
 ul.tags {
     display: none;
