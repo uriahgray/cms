@@ -1,9 +1,9 @@
 body#onecup h3.tag_title {
-    display: none;
+	display: none;
 }
 
 body#onecup ul.tags {
-    display: none;
+	display: none;
 }
 
 body#onecup a.link {
@@ -11,11 +11,11 @@ body#onecup a.link {
 }
 
 body#onecup .copy {
-    display: none;
+	display: none;
 }
 
 body#onecup .post.onecupbackground{
-display: none;
+	display: none;
 }
 
 body#onecup .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
@@ -65,3 +65,19 @@ body#onecup .post.onecup4 {
 	left: 410px;
 	top: 500px;
 }
+
+body#onecup .copy {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    display:none;
+}
+
+body#onecup .post:hover .image {
+display:none;
+}
+
+body#onecup .post:hover .copy {
+    display:block;
+}
+    
