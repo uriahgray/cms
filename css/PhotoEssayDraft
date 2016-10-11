@@ -37,3 +37,6 @@ body#photoessaydraft .post.clear {
     height: 1px;
     overflow: hidden;
 }
+body#photoessaydraft ul.tags {
+    display: none;
+}
