@@ -11,7 +11,12 @@ background-color:#f5f4f4;
     width: 500px;
 
 }
-
+body {
+    font-family: arial;
+    font-size: 10;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+}
 body#diyresearch h3.tag_title {
     display: none;
 }
@@ -22,6 +27,13 @@ body#diyresearch ul.tags {
 
 body#diyresearch .post {
     background-color: #b5fbeb;
+}
+body#diyresearch .post {
+    display: block;
+    width: 340px;
+    background: rgb(200, 224, 94);
+    float: left;
+    margin-right: 38px;
 }
 
 
