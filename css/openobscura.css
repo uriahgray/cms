@@ -6,7 +6,7 @@ body#openobscura .post {
 background-color:red;
 }
 
-p {
+body#openobscura p {
     color: white;
     font-size: 80pt;
 }
