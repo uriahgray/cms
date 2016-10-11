@@ -1,5 +1,5 @@
 body#artistdraft {
-background-color: paleyellow;
+background-color: yellow;
 font
 }
 
@@ -9,7 +9,3 @@ body#artistdraft .post {
     margin-right: auto;
     width: 500px;
     }
-
-body#artistdraft h3.tag_title {
-display: none;
-}
