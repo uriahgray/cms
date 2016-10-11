@@ -1,12 +1,12 @@
+body#onecup h3.tag_title {
+    display: none;
+}
+
 body#onecup {
     font-family: times;
     font-size: 12pt;
     line-height: 16pt;
     letter-spacing: 0.02em;
-}
-
-body#onecup h3.tag_title {
-    display: none;
 }
 
 body#onecup {
