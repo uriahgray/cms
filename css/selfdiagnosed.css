@@ -11,3 +11,7 @@ body#selfdiagnosed ul.tags {
 body#selfdiagnosed .post:hover {
   z-index: 100;
 }
+
+body#selfdiagnosed h3.tag_title {
+  display: none;
+}
