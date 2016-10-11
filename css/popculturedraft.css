@@ -1,6 +1,3 @@
-
-body#postnow .container{
-background-color: red;
-background-position: fixed;
-background-size: contained;
+body#popculturedraft {
+    background-color: grey;
 }
