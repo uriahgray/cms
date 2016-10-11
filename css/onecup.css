@@ -6,10 +6,6 @@ body#onecup ul.tags {
     display: none;
 }
 
-body#onecup .copy {
-    display: none;
-}
-
 body#onecup {
     font-family: times;
     font-size: 12pt;
