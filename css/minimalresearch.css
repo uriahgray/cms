@@ -4,11 +4,11 @@ background-color:#b9b6b8;
 }
 
 body#minimalresearch .post {
-background-color:#f5f4f4;
+background-color:red;
 align-content: center
 
 }
-.post.yzha582.text {
+body#minimalresearch .post.yzha582.text {
     background-color: rgba(250, 250, 250, 0);
 }
 
