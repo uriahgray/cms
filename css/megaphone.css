@@ -18,7 +18,6 @@ body#megaphone .tmblr-iframe--desktop-logged-in-controls.iframe-controls--deskto
     display: none;
 }
 
-
 body#megaphone .post:hover {
     z-index: 999;
 }
@@ -29,11 +28,45 @@ body#megaphone .post {
     position: absolute;
     top:0px;
     left:0px;
-    
+}
+
+
+
+
+
+
+body#megaphone .post.megaphone1 {
+    left: 0px;
+    top: 0px;
+}
+
+body#megaphone .post.megaphone2 {
+    left: 500px;
+    top: 0px;
+}
+
+body#megaphone .post.megaphone3 {
+    left: 120px;
+    top: 300px;
 }
 
 body#megaphone .post.megaphone4 {
     left: 230px;
     top: 230px;
-    
+}
+
+body#megaphone .post.megaphone5 {
+    left: 20px;
+    top: 40px;
+}
+
+
+body#megaphone .post.megaphone6 {
+    left: 200px;
+    top: 600px;
+}
+
+body#megaphone .post.megaphone7 {
+    top: 500px;
+    left: 500px;
 }
