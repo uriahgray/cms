@@ -1,13 +1,13 @@
-body#popculturedraft {
-    background-color: antiquewhite;
-}
-
 body#popculturedraft ul.tags li {
     display: none;
 }
 
 body#popculturedraft a.link {
     display: none;
+}
+
+body#popculturedraft a.link hover {
+    color: blue;
 }
 
 body#popculturedraft h3.tag_title {
