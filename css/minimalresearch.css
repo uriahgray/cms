@@ -8,3 +8,7 @@ body#minimalresearch .post {
 background-color:#f5f4f4;
 align-content: center
 }
+
+h3.tag_title {
+    padding-bottom: 50px;
+}
