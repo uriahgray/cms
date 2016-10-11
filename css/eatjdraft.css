@@ -4,11 +4,12 @@ background-color:white;
 }
 
 body#eatjdraft .post {
-background-color:grey;
+background-color:brown;
 }
 
 body#eatjdraft h3.tag_title {
-    display: none;
+    font-size: 24px;
+    font-family:courier;
 }
 
 body#eatjdraft ul.tags {
