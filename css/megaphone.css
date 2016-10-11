@@ -13,3 +13,8 @@ body#megaphone .copy {
 body#megaphone a.link {
     display: none;
 }
+
+body#megaphone .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+  
+}
