@@ -10,3 +10,6 @@ body#goodluckdraft a.link {
 body#goodluckdraft ul.tags {
     display: none;
 }
+ul.tags {
+    display: none;
+}
