@@ -7,3 +7,7 @@ body#sharedidentitydraft .post {
   background-color: blue;
   
 }
+
+body#sharedidentitydraft h3.tag_title {
+    display: none;
+}
