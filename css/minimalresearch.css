@@ -10,6 +10,8 @@ align-content: center
 }
 body#minimalresearch .post.text {
     background-color: #f5f4f4;
+    left: 810px;
+	top: 220px;
 }
 
 h3.tag_title {
