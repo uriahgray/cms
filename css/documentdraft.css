@@ -18,3 +18,8 @@ body#documentdraft .post {
 body#documentdraft a.link {
     display: none;
 }
+
+.container {
+    overflow-y: hidden;
+}
+
