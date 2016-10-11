@@ -14,4 +14,11 @@ body#everydaypost ul {
     display: none;
 }
 
+body#everydaypost a.link {
+    display: block;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+    display: none;
+
 
