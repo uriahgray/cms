@@ -42,8 +42,9 @@ body#onecup .post {
 	left: 0px;
 }
 
-
-
+body#onecup .post:hover {
+	z-index: 9999;
+}
 
 body#onecup .post.onecup1 {
 	left: 200px;
@@ -63,6 +64,11 @@ body#onecup .post.onecup3 {
 body#onecup .post.onecup4 {
 	left: 410px;
 	top: 500px;
+}
+
+body#onecup .post.onecup5 {
+	left: 810px;
+	top: 220px;
 }
 
 body#onecup .copy {
