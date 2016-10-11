@@ -3,18 +3,6 @@ background-color:red;
 }
 
 
-
-
-
 body#sharedidentitydraft {
     font-size: 16px;
 }
-img,
-  video,
-  object,
-  embed {
-      max-width: 100%;
-      /* height: auto; */
-      padding-left: 10px;
-      padding-right: 10px;
-  }
