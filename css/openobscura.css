@@ -6,7 +6,7 @@ body#openobscura .post {
 background-color:red;
 }
 
-body#openobscura copy.tag {
+body#openobscura .post {
     color: white;
     font-size: 50pt;
 }
