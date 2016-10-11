@@ -1,4 +1,36 @@
 
 body#happybeingdraft{
- background:green; 
+ background:white; 
+}
+
+
+
+body#happybeingdraft .post.text.happybeingdraft.leftparty {
+    right: 50%;
+    top: 0px;
+    width: 50%;
+    height: 100vh;
+    position: fixed;
+    overflow: scroll;
+margin-right: 0px;
+font-family: Akzidenz Grotesk, sans-serif;
+font-size:20px;
+line-height:27px;
+ colour:blue;
+}
+
+RIGHT DEMOCRATS
+.post.text.happybeingdraft.rightparty {
+    top: 0px;
+    width: 50%;
+    height: 100vh;
+    position: fixed;
+    overflow: scroll;
+    left: 50%;
+    display: block;
+    margin-right: 0px;
+    font-family:Bodoni, serif;
+font-size:20px;
+line-height:27px;
+ colour:red;
 }
