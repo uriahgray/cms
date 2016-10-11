@@ -1,13 +1,12 @@
 body#goodluckdraft{
   background: red; 
-
 }
-h3.tag_title {
+h3#goodluckdraft .tag_title {
   display: none;
 }
-a.link {
+a#goodluckdraft .link {
   display: none;
 }
-ul.tags {
+ul#goodluckdraft .tags {
     display: none;
 }
