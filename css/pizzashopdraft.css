@@ -30,3 +30,10 @@ body#pizzashopdraft .postcontainer {
     letter-spacing: 0.02em;
     margin-left: 60px;
   }
+
+.iframe-controls-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: none;
+}
