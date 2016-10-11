@@ -6,6 +6,10 @@ body#openobscura .post {
 background-color:orange;
 }
 
+body#openobscura h3.tag {
+display:none;
+}
+
 body#openobscura .post.copy p {
     color:white;
     font-size: 50pt;
