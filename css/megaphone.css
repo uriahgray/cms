@@ -26,7 +26,9 @@ body#megaphone .post {
     width: 150px;
     height: 150px;
     position: absolute;
-   
+    top:0px;
+    left:0px;
+    
 }
 
 
