@@ -1,5 +1,5 @@
-Body#photoessaydraft{
-background-color: white;
+body#photoessaydraft{
+background-color: black;
 display:block;
 float:left;
 margin-right:0px;
