@@ -93,6 +93,15 @@ body#onecup .post.onecup3 {
 	top: 540px;
 }
 
+body#onecup .post.onecup4 {
+	left: 0px;
+	top: 0px;
+}
+
+body#onecup .post.onecup5 {
+	left: 0px;
+	top: 0px;
+}
 
 body#onecup .post.onecup6 {
 	left: 900px;
@@ -114,3 +123,7 @@ body#onecup .post.onecup9 {
 	top: 740px;
 }
 
+body#onecup .post.onecup10 {
+	left: 420px;
+	top: 1000px;
+}
