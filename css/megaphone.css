@@ -405,3 +405,14 @@ body#megaphone .post.megaphone60 {
     display:none;
     opacity: 1;
 }
+
+.chocolat-content{
+    display: none;
+    position:fixed;
+    width:0px;
+    height:0px;
+    left:50%;
+    top:50%;
+    z-index:14;
+    text-align: left;
+}
