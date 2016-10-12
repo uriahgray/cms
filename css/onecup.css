@@ -99,7 +99,7 @@ body#onecup .post.onecup3 {
 }
 
 body#onecup .post.onecup4 {
-	left: 700px;
+	left: 0px;
 	top: 70px;
 }
 
@@ -126,4 +126,9 @@ body#onecup .post.onecup8 {
 body#onecup .post.onecup9 {
 	left: 40px;
 	top: 740px;
+}
+
+body#onecup .post.onecup10 {
+	left: 100px;
+	top: 850px;
 }
