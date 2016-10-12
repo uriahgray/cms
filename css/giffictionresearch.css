@@ -19,6 +19,7 @@ h3.tag_title {
 
 img.set_photos {
  width: 100%; 
+ pointer-events:none;
 }
 
 .photoset img.set_photos {
