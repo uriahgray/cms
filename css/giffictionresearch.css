@@ -32,9 +32,10 @@ span.caption {
     font-size: 36px;
     line-height: 38px;
     color: #fff;
-    text-shadow: 2px 2px #000;    ;   
+    text-shadow: 2px 2px #000;
+    padding: 25px;
     text-align: center;
-    top: -120px;
+    top: -150px;
 }
 
 
