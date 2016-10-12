@@ -1,18 +1,5 @@
-body#volumedraft .post.volumedraft {
-    width: 30%;
-}
-
-body#volumedraft {
-    max-width: 70%;
-    margin: auto;
-}
-
 body#volumedraft .tag_title {
     display: none;
-}
-
-body#volumedraft img {
-    width: 100%;
 }
 
 body#volumedraft .link {
