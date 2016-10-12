@@ -22,9 +22,11 @@ img.set_photos {
  pointer-events:none;
 }
 
+/*
 .photoset img.set_photos {
   width: 100%;
 }
+*/
 
 span.caption {
     position: relative;
