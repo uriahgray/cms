@@ -22,11 +22,6 @@ body#onecup .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
 	display: none;
 }
 
-body#onecup .post {
-    width: 300px;
-    height: 300px;
-
-
 body#onecup {
     font-family: times;
     font-size: 9pt;
