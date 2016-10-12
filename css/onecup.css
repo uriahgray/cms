@@ -94,8 +94,8 @@ body#onecup .post.onecup3 {
 }
 
 body#onecup .post.onecup4 {
-	left: 0px;
-	top: 0px;
+	left: 1000px;
+	top: px;
 }
 
 body#onecup .post.onecup5 {
@@ -126,4 +126,10 @@ body#onecup .post.onecup9 {
 body#onecup .post.onecup10 {
 	left: 420px;
 	top: 1000px;
+}
+
+
+body#onecup .post.onecup10 {
+	left: 30px;
+	top: 1100px;
 }
