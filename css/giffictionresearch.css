@@ -36,6 +36,7 @@ span.caption {
     padding: 35px;
     text-align: center;
     top: -200px;
+    margin-bottom: -180px;
 }
 
 @media only screen and (max-width: 728px) {
