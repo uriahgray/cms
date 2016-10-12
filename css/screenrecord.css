@@ -1,0 +1,27 @@
+.post {
+    width: 20%;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.post.headline {
+    width: 100%;
+}
+
+.post.video {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    float: none;
+}
+
+.post h3.title {
+    text-align: center;
+    font-size: 36px;
+}
+
+h3.tag_title {
+    display: none;
+}
