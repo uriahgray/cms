@@ -56,5 +56,14 @@ body#cheese .post.leanonme img, video, object, embed {
     transform: translate(-50%, -25%);
 }
 
+body#cheese .post.leanonme img, video, object, embed {
+    max-width: 15%;
+    height: auto;
+    position: fixed;
+    top: 100%
+    left: 50%;
+    transform: translate(-50%, -25%);
+}
+
 
 
