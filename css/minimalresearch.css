@@ -9,9 +9,18 @@ align-content: center
 
 }
 body#minimalresearch .post.text {
-    background-color: #f5f4f4;
+    background-color: #d4d3d3;
     left: 810px;
-	top: 220px;
+    right: 810px;
+    width: 500px;
+    width: 900px;
+    overflow-y: scroll;
+    margin-top: 150px;
+    margin-left: 70px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
 }
 
 h3.tag_title {
@@ -32,3 +41,7 @@ width: 40%;
     padding: 20px;
    margin-left: 100px;
 }
+.post.photo {
+border: 8px solid;
+    border-color: white;
+}	
