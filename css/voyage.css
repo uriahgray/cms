@@ -1,3 +1,9 @@
+body#voyage .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
+    z-index: 100;
+    display: none;
+}
 body#voyage .post.text.voyage {
     width: initial;
     position: fixed;
