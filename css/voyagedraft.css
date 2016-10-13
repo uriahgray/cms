@@ -7,7 +7,7 @@ body#voyagedraft .post.text.voyagedraft.jmsch13 {
     font-family: arial;
     font-weight: 600;
     font-size: 80px;
-    color: navy;
+    color:rgba(4, 23, 63, 100);
     text-transform: uppercase;
 }    
 body#voyagedraft .container {
