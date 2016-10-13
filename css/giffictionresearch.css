@@ -66,6 +66,12 @@ img.set_photos {
   width: 100%;
 }
 
+.post.text.giffictionresearch.ocgre1.header {
+    max-width: 300px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 15px;
+}
+
 .photoset span.caption {
     position: relative;
     display: block;
