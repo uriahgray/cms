@@ -15,8 +15,15 @@ body#ourbucketlistdraft a {
     text-decoration: none;
     color: navy;
     font-family: Palatino;
-    font-size: 31px;
+    font-size: 22px;
     font-weight: bolder;
     font-style: italic;
     line-height: 65px;
 } 
+
+body#ourbucketlistdraft .postcontainer {
+    text-align: left;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 30px;
+}
