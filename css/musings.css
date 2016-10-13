@@ -15,12 +15,17 @@ body#musings .text {
     margin-left: 10%;
 }
 
-body#musings .pagetitle {
+/* body#musings .pagetitle {
     position: fixed;
     font-size: 30pt;
     text-decoration: none;
     z-index: 10;
     text-align: left;   
+} */
+
+body#musings h3 {
+    text-transform: lowercase;
+    text-decoration: none;
 }
 
 body#musings ul.tags {
