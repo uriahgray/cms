@@ -31,9 +31,10 @@ body#cheese .post.text2 p {
     position: fixed;
     bottom: 0;
     z-index: 100;
+    
 }
 
-body#cheese img, video, object, embed {
+body#cheese .post.bigcheese img, video, object, embed {
     max-width: 50%;
     height: auto;
     position: fixed;
