@@ -32,7 +32,10 @@ body#ourbucketlist ul.tags {
     opacity: 0;
 }
 
-
 body#ourbucketlistdraft a.link {
+    opacity: 0;
+}
+
+h3.tag_title {
     opacity: 0;
 }
