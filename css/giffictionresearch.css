@@ -26,6 +26,7 @@ h3.tag_title {
 h3 a {
   pointer-events:none;
   font-size: 32px;
+  font-weight: 600;
   color: black;
   text-decoration: none;
   margin-bottom: 15px;
