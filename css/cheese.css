@@ -49,5 +49,14 @@ body#cheese .post.bigcheese img, video, object, embed {
     z-index: 100px;
 }
 
+body#cheese .post.leanonme img, video, object, embed {
+    max-width: 50%;
+    height: auto;
+    position: fixed;
+    top: 0%;
+    left: 50%;
+    transform: translate(0%, -50%);
+    z-index: 100px;
+}
 
 
