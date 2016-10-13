@@ -20,7 +20,7 @@ body#cheese a.link {
 }
 
 body#cheese .post.text1 p {
-    margin: 50px;
+    margin: centre;
     width: 50%;
     padding: 10px;
     text-align: centre;
