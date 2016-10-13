@@ -1,12 +1,13 @@
 body#voyagedraft .post.text.voyagedraft.jmsch13 {
     width: initial;
     position: fixed;
-    top: 50px;
+    top: 100px;
     left: 50px;
     margin: 0;
-    font-family: arial;
+    font-family: monospace;
     font-size: 80px;
     color: grey;
+    text-transform: uppercase;
 }    
 body#voyagedraft .container {
     padding: 0;
@@ -38,7 +39,6 @@ body#voyagedraft img.set_photos {height: 400px;}
 
 body#voyagedraft article.posts {
     width: 6000px;
-    min-height: 400px;
-    max-height: 400px;
+    height: 400px;
     display: flex;
 }
