@@ -8,13 +8,10 @@ body#everydaydraft h3.tag_title{
     display: none;
 }
 
-body#everydaypost ul {
+body#everydaypost ul.tags li{
     display: none;
 }
 
 body#everydaypost a.link{
     display: none;
 }
-
-
-
