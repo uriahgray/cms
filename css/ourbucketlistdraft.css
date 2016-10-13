@@ -1,3 +1,22 @@
 body#ourbucketlistdraft {
-    background-color: white;
+    background-image: url(https://67.media.tumblr.com/c3bcc764aaf14df5d952b849b85f20a8/tumblr_oez162mgs31vf7reno1_1280.png);
+    background-repeat: repeat;
+    background-position-y: 20.25%;
 }
+
+body#ourbucketlistdraft body {
+    font-family: palatino;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+}
+
+body#ourbucketlistdraft a {
+    text-decoration: none;
+    color: navy;
+    font-family: Palatino;
+    font-size: 31px;
+    font-weight: bolder;
+    font-style: italic;
+    line-height: 65px;
+} 
