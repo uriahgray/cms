@@ -1,5 +1,5 @@
 body#musingsresearch {
-    background-color: red;   
+    background-color: blue;   
 }
 
 body#musingsresearch .post {
@@ -16,7 +16,7 @@ body#musingsresearch ul.tags {
 
 h3.tag_title {
     font-size: 24px;
-    font-family: courier;
+    font-family: helvetica;
 }
 
 
