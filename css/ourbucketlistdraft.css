@@ -27,3 +27,7 @@ body#ourbucketlistdraft .postcontainer {
     margin-right: 250px;
     padding-top: 30px;
 }
+
+body#ourbucketlist ul.tags {
+    opacity: 0;
+}
