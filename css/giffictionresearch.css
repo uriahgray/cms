@@ -25,6 +25,8 @@ h3.tag_title {
 
 h3 {
   pointer-events:none;
+  text-decoration: none;
+  margin-bottom: 15px;
 }
 
 /* Settings for all posts */
