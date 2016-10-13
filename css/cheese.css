@@ -15,7 +15,7 @@ body#cheese ul.tags {
     display: none;
 }
 
-body#cheese h3.tag_title {
+body#cheese a.link {
     display: none;
 }
 
