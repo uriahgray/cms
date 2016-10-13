@@ -1,13 +1,22 @@
 body#musings {
-    background-color: red;   
+    margin: 0;   
 }
 
 body#musings .post {
-    background-color: white;
+    padding: 20px;
 }
 
-.container {
-    padding: 0px;
+body#musingsresearch .post.text {
+    position: absolute;
+    font-size: 30pt;
+    line-height: 34pt;
+    z-index: 10;
+    text-align: left;
+    margin-left: 10%;
+}
+
+body#musingsresearch a.link {
+    display: none;
 }
 
 
