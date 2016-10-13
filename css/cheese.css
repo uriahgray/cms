@@ -60,7 +60,7 @@ body#cheese .post.eatme img, video, object, embed {
     max-width: 15%;
     height: auto;
     position: fixed;
-    top: 100%
+    bottom: 0%
     left: 50%;
     transform: translate(-50%, -25%);
 }
