@@ -47,5 +47,7 @@ border: 8px solid;
     border-color: white;
 width: 300px;
 }	
-
-
+.post.video.minimalresearch {
+    margin-bottom: 10px;
+    margin-left: 260px;
+}
