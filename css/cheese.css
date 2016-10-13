@@ -1,10 +1,10 @@
 body#cheese {
-background-color: blue;
-font
+    background-color: blue;
 }
 
 body#cheese .post {
-background-color: red;
+    background-color: red;
+    font: arial;
 }
 
 body#cheese h3.tag_title {
@@ -13,10 +13,8 @@ body#cheese h3.tag_title {
 }
 
 body#cheese ul.tags {
-  display: none;
+    display: none;
 }
 
-body#cheese .post.green {
-  background-color: green;
-}
+
 
