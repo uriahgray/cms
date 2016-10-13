@@ -39,6 +39,7 @@ body#megaphone .post {
 body#megaphone .post.megaphone1 {
     left: 900px;
     top: 30px;
+    width: 150px;
 }
 
 body#megaphone .post.megaphone2 {
@@ -97,6 +98,7 @@ body#megaphone .post.megaphone11 {
 body#megaphone .post.megaphone12 {
     top: 1300px;
     left: 970px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone13 {
@@ -107,16 +109,19 @@ body#megaphone .post.megaphone13 {
 body#megaphone .post.megaphone14 {
     top: 1139px;
     left: 741px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone15 {
     top: 647px;
     left: 1120px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone16 {
     top: 140px;
     left: 715px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone17 {
@@ -132,11 +137,13 @@ body#megaphone .post.megaphone18 {
 body#megaphone .post.megaphone19 {
     top: 87px;
     left: 1380px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone20 {
     top: 1260px;
     left: 110px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone21 {
@@ -157,6 +164,7 @@ body#megaphone .post.megaphone23 {
 body#megaphone .post.megaphone24 {
     top: 970px;
     left: 200px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone25 {
@@ -169,15 +177,6 @@ body#megaphone .post.megaphone26 {
     left: 1300px;
 }
 
-body#megaphone .post.megaphone26 {
-    top: 400px;
-    left: 1285px;
-}
-
-body#megaphone .post.megaphone26 {
-    top: 400px;
-    left: 1280px;
-}
 
 body#megaphone .post.megaphone27 {
     top: 0px;
@@ -202,11 +201,13 @@ body#megaphone .post.megaphone30 {
 body#megaphone .post.megaphone31 {
     top: 265px;
     left: 1600px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone32 {
     top: 100px;
     left: 1000px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone33 {
@@ -259,6 +260,7 @@ body#megaphone .post.megaphone41 {
 body#megaphone .post.megaphone42 {
     top: 800px;
     left: 760px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone43 {
@@ -274,6 +276,7 @@ body#megaphone .post.megaphone44 {
 body#megaphone .post.megaphone45 {
     top: 500px;
     left: 830px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone46 {
@@ -304,6 +307,7 @@ body#megaphone .post.megaphone50 {
 body#megaphone .post.megaphone51 {
     top: 340px;
     left: 340px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone52 {
@@ -384,11 +388,13 @@ body#megaphone .post.megaphone66 {
 body#megaphone .post.megaphone67 {
     top: 1682px;
     left: 0px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone68 {
     top: 1696px;
     left: 442px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone69 {
@@ -485,6 +491,7 @@ body#megaphone .post.megaphone87 {
     position:relative
         left: -129px;
     top:40px;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone88 {
@@ -512,8 +519,9 @@ body#megaphone .post.megaphone92 {
     left: ;
 }
 body#megaphone .post.megaphone93 {
-    top: ;
-    left: ;
+    top:;
+    left:;
+    width: 180px;
 }
 body#megaphone .post.megaphone94 {
     top: ;
@@ -521,8 +529,9 @@ body#megaphone .post.megaphone94 {
 }
 
 body#megaphone .post.megaphone95 {
-    top: ;
-    left: ;
+    top:;
+    left:;
+    width: 180px;
 }
 
 body#megaphone .post.megaphone96 {
