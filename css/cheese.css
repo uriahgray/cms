@@ -21,6 +21,7 @@ body#cheese .post.text1 p {
     text-align: center;
     position: fixed;
     z-index: 100;
+    display: none;
 }
 
 body#cheese .post.text2 p {
@@ -31,7 +32,11 @@ body#cheese .post.text2 p {
     position: fixed;
     bottom: 0;
     z-index: 100;
-    
+    display: none;   
+}
+
+body#cheese .post.text3 p {
+    display: none;
 }
 
 body#cheese .post.bigcheese img, video, object, embed {
