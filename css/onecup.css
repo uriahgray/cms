@@ -68,6 +68,11 @@ body#onecup .post.onecupscroll {
 	top: 0px;
 }
 
+body#onecup .post.text p {
+    font-size: 70pt;
+    line-height: 1;
+}
+
 
 
 
