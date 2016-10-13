@@ -84,6 +84,7 @@ body#cheese .pokeme img, video, object, embed {
     top: 43%;
     right: -1%;
     transform: rotate(90deg);
+    z-index: 100;
 }
 
 body#cheese .var1 img, video, object, embed {
