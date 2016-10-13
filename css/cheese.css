@@ -87,7 +87,7 @@ body#cheese .pokeme img, video, object, embed {
 }
 
 body#cheese .var1 img, video, object, embed {
-    max-width: 60%;
+    max-width: 50%;
     position: absolute;
     left: 60%;
     top:5%;
