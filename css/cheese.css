@@ -2,11 +2,6 @@ body#cheese {
     background-color: blue;
 }
 
-body#cheese .post {
-    background-color: red;
-    font: arial;
-}
-
 body#cheese h3.tag_title {
     display: none;
 }
