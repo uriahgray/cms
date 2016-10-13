@@ -62,6 +62,10 @@ body#onecup .post:hover .copy {
     display:block;
 }
 
+body#onecup .post.onecupscroll {
+	position: fixed;
+}
+
 
 
 
