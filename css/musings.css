@@ -15,6 +15,12 @@ body#musings .post.text {
     margin-left: 10%;
 }
 
+body#musings .pagetitle {
+    position: fixed;
+    font-size: 30pt;
+    z-index: 10;
+    text-align: left;   
+}
 
 body#musings a.link {
     display: none;
