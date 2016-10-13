@@ -3,10 +3,10 @@ body#musings {
 }
 
 body#musings .post {
-    padding: 20px;
+    padding: 0;
 }
 
-body#musingsresearch .post.text {
+body#musings .post.text {
     position: absolute;
     font-size: 30pt;
     line-height: 34pt;
@@ -15,11 +15,8 @@ body#musingsresearch .post.text {
     margin-left: 10%;
 }
 
-body#musingsresearch a.link {
-    display: none;
-}
 
-a.link {
+body#musings a.link {
     display: none;
     font-size: 14px;
     font-family: courier;
@@ -34,7 +31,7 @@ h3.tag_title {
     z-index: 100;
 }
 
-.post.video.postnow.musings.sehan4.video.water.blue {
+body#musings .post.video.postnow.musings.sehan4.video.water.blue {
     margin-left: 130px;
     margin-top: 200px;
     margin-right: 30px;
