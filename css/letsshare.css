@@ -22,3 +22,7 @@ img.set_photos {
     max-width: 50%;
     margin-top: 100px;
 }
+
+a.link {
+    display: none;
+}
