@@ -1,4 +1,4 @@
-body#voyage .post.text.voyagedraft.jmsch13 {
+body#voyage .post.text.voyage {
     width: initial;
     position: fixed;
     top: 100px;
@@ -32,7 +32,7 @@ body#voyage a.link {
 body#voyage .container {
     overflow-x: scroll;
 }
-body#voyage .post.photo.voyagedraft.jmsch13 {
+body#voyage .post.photo.voyage {
     width:initial;
     margin: 0;
     }
