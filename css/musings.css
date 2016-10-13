@@ -24,17 +24,10 @@ body#musings .pagetitle {
 
 body#musings a.link {
     display: none;
-    font-size: 14px;
-    font-family: courier;
-    text-transform: uppercase;
 }
 
 h3.tag_title {
-    font-family: helvetica;
-    text-transform: lowercase;
-    font-size: 30pt;
-    position: fixed;
-    z-index: 100;
+    display: none;
 }
 
 body#musings .post.video.postnow.musings.sehan4.video.water.blue {
