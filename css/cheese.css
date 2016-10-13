@@ -20,10 +20,10 @@ body#cheese a.link {
 }
 
 body#cheese .post.text1 p {
-    margin: centre;
+    margin: auto;
     width: 50%;
     padding: 10px;
-    text-align: centre;
+    text-align: center;
 }
 
 
