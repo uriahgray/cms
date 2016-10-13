@@ -2,14 +2,7 @@ body#everydaydraft .post {
     display: block;
     max-width:500px;
     max-height: 500px;
-    margin-left: auto;
-    margin-right: auto;
     }
-
-body#everydaydraft img.set_photos {
-    border-style: solid;
-    border-color: #f1901b;
-}
 
 body#everydaydraft h3.tag_title{
     display: none;
@@ -23,8 +16,5 @@ body#everydaypost a.link{
     display: none;
 }
 
-body#everydaypost ul.tags li{
-    display: none;
-}
 
 
