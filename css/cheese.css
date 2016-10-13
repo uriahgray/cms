@@ -7,7 +7,7 @@ body#cheese .post {
 background-color: red;
 }
 
-body#cheese h3.tag.title {
+body#cheese h3.tag_title {
   display: none;
 }
 
