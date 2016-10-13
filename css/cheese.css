@@ -77,15 +77,13 @@ body#cheese .post.holdme img, video, object, embed {
     transform: rotate(270deg);
 }
 
-body#cheese .post.pokeme img, video, object, embed {
+body#cheese .pokeme img, video, object, embed {
     max-width: 15%;
-    height: auto;
     position: fixed;
+    height: auto;
     top: 50%;
-    right: 0%;
-    transform: translate(-50%, -25%);
-    z-index: 100;
-    transform: rotate(270deg);
+    right: -1%;
+    transform: rotate(90deg);
 }
 
 
