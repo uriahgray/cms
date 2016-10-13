@@ -64,6 +64,8 @@ body#onecup .post:hover .copy {
 
 body#onecup .post.onecupscroll {
 	position: fixed;
+	left: 0px;
+	top: 0px;
 }
 
 
