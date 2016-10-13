@@ -6,6 +6,13 @@ body#musings .post {
     padding: 0;
 }
 
+body#musings .iframe-controls-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: none;
+}
+
 body#musings .text {
     position: absolute;
     font-size: 30pt;
