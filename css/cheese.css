@@ -40,7 +40,7 @@ body#cheese .post.text3 p {
 }
 
 body#cheese .post.bigcheese img, video, object, embed {
-    max-width: 50%;
+    max-width: 40%;
     height: auto;
     position: fixed;
     top: 50%;
@@ -50,7 +50,7 @@ body#cheese .post.bigcheese img, video, object, embed {
 }
 
 body#cheese .post.leanonme img, video, object, embed {
-    max-width: 25%;
+    max-width: 15%;
     height: auto;
     position: fixed;
     left: 50%;
