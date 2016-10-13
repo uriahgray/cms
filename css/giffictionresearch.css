@@ -6,6 +6,10 @@ body#giffictionresearch {
     display: none;
 }
 
+.tags {
+  display: none;
+}
+
 a.link {
   display: none;
 }
