@@ -59,8 +59,12 @@ img.set_photos {
 }
 
 @media only screen and (max-width: 728px) {
-    span.caption {
+  span.caption {
       font-size: 18px;
       line-height: 25px;
+  }
+  
+  .post.header {
+    display: none;
   }
 }
