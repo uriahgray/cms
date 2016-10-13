@@ -6,7 +6,7 @@ body#musings .post {
     padding: 0;
 }
 
-body#musings .post.text {
+body#musings .text {
     position: absolute;
     font-size: 30pt;
     line-height: 34pt;
@@ -35,5 +35,6 @@ h3.tag_title {
 }
 
 body#musings .post.video.postnow.musings.sehan4.video.water.blue {
-    margin: 50px;
+    margin-left: 15%;
+    margin-top: 0px
 }
