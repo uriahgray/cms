@@ -1,0 +1,20 @@
+body#cheesedraft {
+background-color: blue;
+font
+}
+
+body#cheesedraft .post {
+background-color: red;
+}
+
+body#cheesedraft h3.tag.title {
+  display: none;
+}
+
+body#cheesedraft ul.tags {
+  display: none;
+}
+
+body#cheesedraft .post.green {
+  background-color: green;
+}
