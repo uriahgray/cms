@@ -42,10 +42,13 @@ body#voyage .post.photo.voyage {
     width:initial;
     margin: 0;
     }
-body#voyage img.set_photos {height: 400px;}
+body#voyage img.set_photos {
+    height: 400px;
+    width: 531px;
+}
 
 body#voyage article.posts {
-    width: 6000px;
+    width: 12000px;
     height: 400px;
     display: flex;
 }
