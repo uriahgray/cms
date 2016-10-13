@@ -6,11 +6,12 @@ body#musings .post {
     padding: 0;
 }
 
-body#musings .iframe-controls-container {
-    position: absolute;
-    top: 0;
+body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     right: 0;
+    top: 0;
+    z-index: 100;
     display: none;
+}
 }
 
 body#musings .text {
