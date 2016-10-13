@@ -1,1 +1,46 @@
+body#voyage .post.text.voyagedraft.jmsch13 {
+    width: initial;
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    margin: 0;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 80px;
+    color:rgba(4, 23, 63, 100);
+    text-transform: uppercase;
+}    
+body#voyage .container {
+    padding: 0;
+    position: fixed;
+    top: 250px;
+    left: 0px;
+    right: 0px;
+}
+
+body#voyage ul.tags{
+  display: none;
+}
+body#voyage h3.tag_title {
+    display: none;
+}
+
+body#voyage a.link {
+    display: none;
+}
+
+body#voyage .container {
+    overflow-x: scroll;
+}
+body#voyage .post.photo.voyagedraft.jmsch13 {
+    width:initial;
+    margin: 0;
+    }
+body#voyage img.set_photos {height: 400px;}
+
+body#voyage article.posts {
+    width: 6000px;
+    height: 400px;
+    display: flex;
+}
 
