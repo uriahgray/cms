@@ -33,5 +33,13 @@ body#cheese .post.text2 p {
     z-index: 100;
 }
 
+body# .post.bigcheese img {
+    max-width: 50%;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
 
 
