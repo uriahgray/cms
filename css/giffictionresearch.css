@@ -23,7 +23,7 @@ h3.tag_title {
     position: fixed;
 }
 
-h3.post.header {
+h3 {
   pointer-events:none;
 }
 
