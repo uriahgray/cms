@@ -1,6 +1,9 @@
 body#musingsresearch {
     margin: 0;
-    
+}
+
+body#musingsresearch ul.tags {
+    display: none;
 }
 
 body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
