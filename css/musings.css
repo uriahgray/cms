@@ -18,6 +18,7 @@ body#musings .text {
 body#musings .pagetitle {
     position: fixed;
     font-size: 30pt;
+    text-decoration: none;
     z-index: 10;
     text-align: left;   
 }
