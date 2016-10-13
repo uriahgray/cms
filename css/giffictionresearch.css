@@ -14,6 +14,11 @@ h3.tag_title {
   display: none;
 }
 
+.post.header {
+    border: 1px solid red;
+    position: fixed;
+}
+
 /* Settings for all posts */
 .post {
   width: 80%;
