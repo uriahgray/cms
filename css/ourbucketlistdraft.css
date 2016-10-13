@@ -31,3 +31,8 @@ body#ourbucketlistdraft .postcontainer {
 body#ourbucketlist ul.tags {
     opacity: 0;
 }
+
+
+body#ourbucketlistdraft a.link {
+    opacity: 0;
+}
