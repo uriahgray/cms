@@ -13,6 +13,17 @@ body > iframe:first-child {
 a.link {
   display: none;
 }
+
+p a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+
+p a:hover {
+  color: red;
+}
+
 /* Hide Posts Tagged For Header */
 h3.tag_title {
   display: none;
