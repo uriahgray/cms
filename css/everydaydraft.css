@@ -1,5 +1,7 @@
 body#everydaydraft .post {
     display: block;
+    max-width:500px;
+    max-height: 500px;
     margin-left: auto;
     margin-right: auto;
     }
