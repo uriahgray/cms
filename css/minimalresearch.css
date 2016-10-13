@@ -46,6 +46,7 @@ width: 40%;
 border: 8px solid;
     border-color: white;
 width: 300px;
+    float:left;
 }	
 .post.video.minimalresearch {
     margin-bottom: 10px;
