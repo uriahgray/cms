@@ -64,3 +64,12 @@ body#cheese .post.eatme img, video, object, embed {
     left: 50%;
     transform: translate(-50%, -25%);
 }
+
+body#cheese .post.holdme img, video, object, embed {
+    max-width: 15%;
+    height: auto;
+    position: fixed;
+    top: 50%;
+    transform: translate(-25%, -50%);
+    z-index: 100px;
+}
