@@ -50,9 +50,6 @@ body#cheese .post.bigcheese img, video, object, embed {
 }
 
 body#cheese .post.leanonme img, video, object, embed {
-    max-width: 50%;
-    height: auto;
-    position: fixed;
     max-width: 25%;
     height: auto;
     position: fixed;
