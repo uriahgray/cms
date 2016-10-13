@@ -27,10 +27,6 @@ body#voyagedraft a.link {
     display: none;
 }
 
-body#voyagedraft article.posts {
-    width: 6000px;
-}
-
 body#voyagedraft .container {
     overflow-x: scroll;
 }
@@ -40,4 +36,9 @@ body#voyagedraft .post.photo.voyagedraft.jmsch13 {
     }
 body#voyagedraft img.set_photos {height: 400px;}
 
-
+body#voyagedraft article.posts {
+    width: 6000px;
+    min-height: 400px;
+    max-height: 400px;
+    display: flex;
+}
