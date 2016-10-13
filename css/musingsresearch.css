@@ -12,6 +12,9 @@ body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
     margin-left: 10%;
 }
 
+a.link {
+    display: none;
+}
 
 body#musingsresearch ul.tags {
     display: none;
