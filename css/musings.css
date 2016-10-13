@@ -22,6 +22,10 @@ body#musings .pagetitle {
     text-align: left;   
 }
 
+body#musings ul.tags {
+    display: none;
+}
+
 body#musings a.link {
     display: none;
 }
