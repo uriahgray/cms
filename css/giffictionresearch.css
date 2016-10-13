@@ -19,8 +19,12 @@ h3.tag_title {
 }
 
 .post.header {
-    border: 1px solid red;
+    border: 2px solid red;
     position: fixed;
+}
+
+h3.post.header {
+  pointer-events:none;
 }
 
 /* Settings for all posts */
