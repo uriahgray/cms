@@ -4,7 +4,7 @@ body#voyagedraft .post.text.voyagedraft.jmsch13 {
     top: 100px;
     left: 50px;
     margin: 0;
-    font-family: monospace;
+    font-family: arial;
     font-size: 80px;
     color: grey;
     text-transform: uppercase;
@@ -13,8 +13,8 @@ body#voyagedraft .container {
     padding: 0;
     position: fixed;
     top: 250px;
-    left: 50px;
-    right: 50px;
+    left: 0px;
+    right: 0px;
 }
 
 body#voyagedraft ul.tags{
