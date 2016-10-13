@@ -23,16 +23,17 @@ h3.tag_title {
     position: fixed;
 }
 
+h3.title {
+  margin-bottom: 15px;
+}
+
 h3 a {
   pointer-events:none;
   font-size: 32px;
   font-weight: 600;
   color: black;
   text-decoration: none;
-  margin-bottom: 15px;
 }
-
-
 
 /* Settings for all posts */
 .post {
