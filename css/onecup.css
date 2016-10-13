@@ -12,6 +12,7 @@ body#onecup a.link {
 
 body#onecup .copy {
 	display: none;
+	min-width: 400px;
 }
 
 body#onecup .post.onecupbackground{
