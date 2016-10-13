@@ -61,10 +61,16 @@ width: 300px;
     position: fixed;
     height: 140px;
     margin-top: -20px;
+    margin-left: -730px;
 }
 a.link {
     display: block;
     font-size: 0px;
     font-family: courier;
     text-transform: uppercase;
+}
+.post.video.minimalresearch {
+    margin-bottom: 10px;
+    margin-left: 260px;
+    margin-top: 200px;
 }
