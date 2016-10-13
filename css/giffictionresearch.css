@@ -14,6 +14,10 @@ a.link {
   display: none;
 }
 
+p {
+    line-height: 24px;
+}
+
 p a {
     text-decoration: none;
     font-size: 18px;
