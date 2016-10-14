@@ -14,3 +14,40 @@ body#volumedraft h3.title {
     font-family: serif;
     font-weight: 600;
 }
+
+body#volumedraft .post.photo {
+    width: 30%;
+    display: inline-block;
+    padding-left: 40px;
+    padding-right: 40px;
+    ft; */
+    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    vertical-align: middle;
+}
+
+body#volumedraft article.posts {
+    margin: auto;
+    max-width: 80%;
+}
+
+body#volumedraft img.set_photos {
+    max-height: 200px;
+    margin: auto;
+}
+
+body#volumedraft h3.tag_title {
+    display: none;
+}
+
+body#volumedraft a {
+    cursor: default;
+    pointer-events: none;
+    text-decoration: none;
+    color: lightgrey;
+}
+
+body#volumedraft .tumblrAutoPager_page_info {
+    display: none;
+}
