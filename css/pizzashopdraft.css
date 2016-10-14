@@ -53,10 +53,8 @@ h3.tag_title {
 
 
 .post.title .copy {
-    position: fixed;
     margin-top: 42px;
     color: black;
-    width: 25%;
     font-size: 20px;
     line-height: inherit;
 }
