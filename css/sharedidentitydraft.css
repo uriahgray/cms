@@ -42,20 +42,3 @@ a.link {
 	
 }
 
-
-a.chocolat-image.image {
-	   position: absolute;
-    left: 410px;
-    width: 300px;
-    height: 300px;
-	top: 40px;
-	
-}
-
-img.set_photos {
-	 position: absolute;
-    left: 200px;
-    width: 300px;
-    height: 300px;
-	top: 40px;
-}
