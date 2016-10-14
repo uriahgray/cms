@@ -28,17 +28,10 @@ a.link {
 	top: 40px;
 }
 
-
-.post. permalink {
-	display: none;
+.post {
+    display: block;
+    float: right;
+    width: 300px;
+    padding-left: 10px;
+    padding-right: 50px;
 }
-
-
-.post. topright {
-	width: 300px;
-	height: 300px;
-	left: 300px;
-	
-	
-}
-
