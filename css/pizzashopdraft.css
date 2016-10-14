@@ -33,13 +33,7 @@ h3.tag_title {
     display: none;
 }
 
-h3 {
-    text-transform: uppercase;
-    float: left;
-    margin-left: 0;
-    margin-top: 100px;
-    font-size: 54px;
-}
+
 
 .post.title a {
     text-decoration: none;
@@ -53,22 +47,30 @@ h3 {
 
 .container {
     padding: 20px;
-    margin-top: 80px;
-}
-
-h3.title {
-    position: fixed;
-}
-
-.post.title .copy {
-    position: fixed;
     margin-top: 150px;
 }
 
+
+
 .post.title .copy {
     position: fixed;
-    margin-top: 115px;
+    margin-top: 42px;
+    color: black;
+    width: 25%;
+    font-size: 20px;
+    line-height: inherit;
 }
+
+
+
+
+h3.title {
+    position: fixed;
+    z-index: 1;
+    margin-top: -27px;
+    margin-left: -8px;
+}
+
 
 h3 {
     text-transform: uppercase;
@@ -77,5 +79,6 @@ h3 {
     margin-top: 183px;
     font-size: 90px;
 }
+
 
 
