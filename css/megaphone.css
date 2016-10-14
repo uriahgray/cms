@@ -511,8 +511,9 @@ body#megaphone .post.megaphone89 {
 
 
 body#megaphone .post.megaphone90 {
-    top: 800px;
-    left: 17344px;
+    position: relative;
+    top: 81px;
+    left: 1744px;
 }
 
 body#megaphone .post.megaphone91 {
@@ -522,12 +523,14 @@ body#megaphone .post.megaphone91 {
 }
 
 body#megaphone .post.megaphone92 {
+    position: relative;
     left: 1072px;
-    top: 800px;
+    top: 327px;
 }
 
 body#megaphone .post.megaphone93 {
-   top: 400px;
+   position: relative;
+    top: 120px;
     left: 750px;
     width: 180px;
 }
@@ -537,8 +540,9 @@ body#megaphone .post.megaphone94 {
 }
 
 body#megaphone .post.megaphone95 {
-   top: 300px;
-    left: 500px;
+   position:relative;
+    top: 165px;
+    left: 720px;
     width: 180px;
 }
 
