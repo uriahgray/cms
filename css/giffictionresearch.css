@@ -41,6 +41,10 @@ h3.tag_title {
     padding: 15px;
 }
 
+.rationale {
+    margin-left: 130px;
+}
+
 .rationale p {
     font-size: 18px;
     margin: 18px 200px;
