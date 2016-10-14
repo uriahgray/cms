@@ -1,36 +1,9 @@
-body#volumedraft article.posts {
-    margin: auto;
-    width: 75%;
-}
-
-body#volumedraft .post.volumedraft {
-    width: 30%;
-    margin: auto;
-    display: inline-block;
-    padding: 3%;
-}
-
 body#volumedraft ul.tags {
     display: none;
 }
 
 body#volumedraft a.link {
     display: none;
-}
-
-body#volumedraft h3.tag_title {
-    display: none;
-}
-
-body#volumedraft .container {
-    /* padding-left: 60px; */
-}
-
-body#volumedraft a {
-    cursor: default;
-    pointer-events: none;
-    text-decoration: none;
-    color: black;
 }
 
 body#volumedraft h3.title {
@@ -40,12 +13,4 @@ body#volumedraft h3.title {
     left: 5%;
     font-family: serif;
     font-weight: 600;
-}
-
-body#volumedraft img.set_photos {
-    width: 70%;
-}
-
-body#volumedraft img {
-    width: 100%;
 }
