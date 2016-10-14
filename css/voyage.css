@@ -52,4 +52,20 @@ body#voyage article.posts {
     height: 400px;
     display: flex;
 }
+p {
+    /* position: fixed; */
+    /* top: 400px; */
+}
 
+body#voyage .post.text.voyage.abstract.jmsch13.postnow {
+    position: fixed;
+    top: 800px;
+    left: 50px;
+    font-size: 40px;
+    line-height: 1.2;
+    text-transform: none;
+}
+
+body#voyage i {
+    font-style: italic;
+}
