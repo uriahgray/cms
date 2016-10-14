@@ -37,7 +37,8 @@ a.link {
 .post. topright {
 	width: 300px;
 	height: 300px;
-	position: left;
+	left: 300px;
+	
 	
 }
 
@@ -47,4 +48,6 @@ a.chocolat-image.image {
     left: 410px;
     width: 300px;
     height: 300px;
+	
 }
+
