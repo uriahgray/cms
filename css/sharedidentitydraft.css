@@ -31,7 +31,8 @@ a.link {
 .post {
     display: block;
     float: right;
-    width: 300px;
+    width: 50%;
     padding-left: 10px;
     padding-right: 50px;
+    width: 500px;
 }
