@@ -43,3 +43,10 @@ body#artistdraft .post {
     float: left;
     margin-right: 38px;
 }
+.post {
+    width: 20%;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
