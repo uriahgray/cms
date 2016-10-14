@@ -50,3 +50,11 @@ body#artistdraft .post {
     padding-left: 10px;
     padding-right: 10px;
 }
+.post {
+    width: 20%;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #f2992e;
+}
