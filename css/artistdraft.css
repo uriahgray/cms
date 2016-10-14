@@ -67,3 +67,9 @@ a {
     color: #f2992e;
     width: 100%;
 }
+.post.fogdesign1 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    float: none;
+}
