@@ -20,10 +20,12 @@ a.link {
 
 .post.text p {
     font-size: 50px;
-    width: 50px;
-    line-height: 1px;
+    width: 57px;
+    line-height: 50px;
     color: pink;
     position: fixed;
+	left: 40px;
+	top: 40px;
 }
 
 .post. topleft {
