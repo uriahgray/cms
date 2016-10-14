@@ -28,3 +28,11 @@ h3.tag_title {
     padding-left: 30px;
     padding-right: 30px;
 }
+
+.post.yes {
+    color: green;
+}
+
+.post.no {
+    color: red;
+}
