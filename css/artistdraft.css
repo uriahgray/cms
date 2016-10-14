@@ -58,3 +58,8 @@ body#artistdraft .post {
     padding-right: 10px;
     border: 1px solid #f2992e;
 }
+
+a {
+    text-decoration: underline;
+    color: #36465d;
+}
