@@ -37,7 +37,11 @@ h3 {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     font-weight: bold;
-   color: cornflowerblue;
+}
+
+h3.tag_title {
+    padding-bottom: 20px;
+    color: cornflowerblue;
 }
 Inherited from body#perfumedraft.is_tagged
 body {
