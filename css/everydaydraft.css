@@ -21,10 +21,3 @@ h3.tag_title {
 
 }
 
-.post.text p {
-    width: 50%;
-    display: block;
-    float: left;
-    padding-left: 30px;
-    padding-right: 30px;
-}
