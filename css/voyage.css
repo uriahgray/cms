@@ -37,6 +37,7 @@ body#voyage a.link {
 
 body#voyage .container {
     overflow-x: scroll;
+    overflow-y: hidden;
 }
 body#voyage .post.photo.voyage {
     width:initial;
