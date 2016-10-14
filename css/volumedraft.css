@@ -7,11 +7,11 @@ body#volumedraft a.link {
 }
 
 body#volumedraft h3.title {
-    font-size: 60px;
+    font-size: 70px;
     position: fixed;
     top: 10%;
     left: 5%;
-    font-family: serif;
+    font-family: san-serif;
     font-weight: 600;
 }
 
@@ -20,7 +20,6 @@ body#volumedraft .post.photo {
     display: inline-block;
     padding-left: 40px;
     padding-right: 40px;
-    ft; */
     padding: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
