@@ -99,6 +99,11 @@ img.set_photos {
       line-height: 25px;
   }
   
+  .post.rationale {
+    width: 100%;
+    margin-left: auto;
+}
+  
   .post.header {
     display: none;
   }
