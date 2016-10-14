@@ -50,3 +50,7 @@ body#volumedraft a {
 body#volumedraft .tumblrAutoPager_page_info {
     display: none;
 }
+
+body#volumedraft .container {
+    text-align: center;
+}
