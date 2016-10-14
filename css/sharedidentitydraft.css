@@ -1,9 +1,20 @@
-body#sharedidentitydraft { 
 
-    background-color: cyan;
-}
 
 
 body#sharedidentitydraft {
     font-size: 16px;
 }
+
+#leftHalf {
+   background: blue;
+   width: 50%;
+   position: absolute;
+   left: 0px;
+   height: 100%;
+}
+#rightHalf {
+   background: red;
+   width: 50%;
+   position: absolute;
+   right: 0px;
+   height: 100%;
