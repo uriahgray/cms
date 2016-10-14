@@ -18,14 +18,12 @@ a.link {
     display: none;
 }
 
-.post.text p {
-    font-size: 50px;
-    width: 57px;
-    line-height: 50px;
+.post. title {
     color: pink;
     position: fixed;
-	left: 40px;
-	top: 40px;
+    font-size: 50px;
+    line-height: 50px;
+
 }
 
 .post {
