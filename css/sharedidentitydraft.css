@@ -35,3 +35,7 @@ body#sharedidentitydraft. post. topleft {
     position: absolute;
     left: 360px;
 }
+
+body#sharedidentitydraft. post. permalink {
+	display: none;
+}
