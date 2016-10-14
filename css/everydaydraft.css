@@ -1,18 +1,23 @@
-body#everydaydraft .post {
+.post {
     display: block;
     max-width:500px;
     max-height: 500px;
     }
 
-body#everydaydraft h3.tag_title{
+.post img {
+	margin-left:auto;
+    margin-right:auto;
+}
+
+h3.tag_title {
     display: none;
 }
 
-body#everydaypost ul.tags li{
-    display: none;
+.post ul.tags {
+	display:none;
 }
 
-body#everydaypost a.link{
-    display: none;
+.post a.link {
+	display:none;
 }
 
