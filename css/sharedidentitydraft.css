@@ -18,7 +18,7 @@ a.link {
     display: none;
 }
 
-.post.title {
+.post. title {
     font-size: 50px;
     width: 50px;
     line-height: 1px;
@@ -26,13 +26,13 @@ a.link {
     position: fixed;
 }
 
-.post.topleft {
+.post. topleft {
     width: 300px;
     height: 300px;
     position: absolute;
     left: 360px;
 }
 
-.post.permalink {
+.post. permalink {
 	display: none;
 }
