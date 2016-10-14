@@ -3,11 +3,6 @@
     max-width:500px;
     }
 
-.post img {
-	margin-left:auto;
-   	margin-right:auto;
-}
-
 h3.tag_title {
     display: none;
 }
@@ -18,5 +13,10 @@ h3.tag_title {
 
 .post a.link {
 	display:none;
+}
+
+.post.photo {
+    margin-left: auto;
+    margin-right: auto;
 }
 
