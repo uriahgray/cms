@@ -1,5 +1,10 @@
-body#sharedidentitydraft {
-background-color:red;
+body#sharedidentitydraft { 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: cyan;
 }
 
 
