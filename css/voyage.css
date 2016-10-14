@@ -19,7 +19,7 @@ body#voyage .post.text.voyage {
 body#voyage .container {
     padding: 0;
     position: fixed;
-    top: 250px;
+    top: 300px;
     left: 0px;
     right: 0px;
 }
