@@ -5,16 +5,6 @@ body#sharedidentitydraft {
     font-size: 16px;
 }
 
-#leftHalf {
-   background: blue;
-   width: 50%;
-   position: absolute;
-   left: 0px;
-   height: 100%;
+.post ul.tags {
+	display:none;
 }
-#rightHalf {
-   background: red;
-   width: 50%;
-   position: absolute;
-   right: 0px;
-   height: 100%;
