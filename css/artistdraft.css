@@ -63,3 +63,7 @@ a {
     text-decoration: underline;
     color: #36465d;
 }
+.post.headline {
+    color: #f2992e;
+    width: 100%;
+}
