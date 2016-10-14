@@ -87,7 +87,7 @@ body#megaphone .post.megaphone9 {
 }
 
 body#megaphone .post.megaphone10 {
-    top: 1814.99px;
+    top: 261.979px;
     left: 1814.99px;
 }
 
@@ -516,8 +516,9 @@ body#megaphone .post.megaphone90 {
 }
 
 body#megaphone .post.megaphone91 {
-    top:500px;
-    left: 1300px;
+    position: relative;
+    top:-213px;
+    left: 1801px;
 }
 
 body#megaphone .post.megaphone92 {
