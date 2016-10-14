@@ -14,14 +14,17 @@ h3.tag_title {
 }
 
 
-.post. title {
-    position: fixed;
-	font-size: 50px;
-	top: 20px;
-	left: 20px;
 
 }
 
 a.link {
     display: none;
+}
+
+.post. title {
+    font-size: 50px;
+    width: 50px;
+    line-height: 1;
+    color: pink;
+    position: fixed;
 }
