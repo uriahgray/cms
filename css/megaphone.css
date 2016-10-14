@@ -504,7 +504,8 @@ body#megaphone .post.megaphone88 {
 }
 
 body#megaphone .post.megaphone89 {
-   top: -1075px;
+   position: relative;
+    top: -1075px;
     left: 741px;
 }
 
