@@ -41,8 +41,9 @@ h3.tag_title {
     padding: 15px;
 }
 
-.rationale {
-    margin-left: 130px;
+.post.rationale {
+    width: 960px;
+    margin-left: 120px;
 }
 
 .rationale p {
