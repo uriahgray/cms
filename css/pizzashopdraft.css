@@ -47,10 +47,7 @@ h3 {
 }
 
 .iframe-controls-container.iframe-controls-container--logged-in {
-    display: none;
-}
-
-.iframe-controls-container.iframe-controls-container--logged-in {
+    padding: 2px;
     display: none;
 }
 
