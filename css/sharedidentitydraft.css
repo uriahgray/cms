@@ -19,11 +19,12 @@ a.link {
 }
 
 .post.title {
-    color: blue;
+    color: #fc9292;
     position: fixed;
     font-size: 50px;
     line-height: 50px;
-
+    font-family: helvetica;
+    font-weight: bold;
 }
 
 .post {
