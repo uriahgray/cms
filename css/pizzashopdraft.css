@@ -61,11 +61,10 @@ h3.tag_title {
 
 
 
-
 h3.title {
     position: fixed;
     z-index: 1;
-    margin-top: -27px;
+    margin-top: -80px;
     margin-left: -8px;
 }
 
