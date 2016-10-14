@@ -1,7 +1,6 @@
-body#pizzashopdraft .post{
+.post{
     width: 30%;
     height: 400px;
-    /* border: 1px solid red; */
     margin-bottom: 0px;
     display: block;
     float: left;
@@ -18,7 +17,7 @@ h3 {
 }
 
 
-body#pizzashopdraft .postcontainer {
+.postcontainer {
     margin-top: -64px;
     padding-bottom: 26px;
 }
