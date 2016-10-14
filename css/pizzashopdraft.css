@@ -49,3 +49,16 @@ h3 {
 .iframe-controls-container.iframe-controls-container--logged-in {
     display: none;
 }
+
+.iframe-controls-container.iframe-controls-container--logged-in {
+    display: none;
+}
+
+.container {
+    padding: 20px;
+    margin-top: 80px;
+}
+
+h3.title {
+    position: fixed;
+}
