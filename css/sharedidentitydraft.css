@@ -34,3 +34,7 @@ a.link {
     padding-right: 50px;
     width: 417px;
 }
+
+.postcontainer {
+    overflow: scroll;
+}
