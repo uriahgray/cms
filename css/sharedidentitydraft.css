@@ -21,7 +21,7 @@ a.link {
 body#sharedidentitydraft. post. title {
     font-size: 50px;
     width: 50px;
-    line-height: 1;
+    line-height: 1px;
     color: pink;
     position: fixed;
 }
