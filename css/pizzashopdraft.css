@@ -67,3 +67,18 @@ h3.title {
     position: fixed;
     margin-top: 150px;
 }
+
+.post.title .copy {
+    position: fixed;
+    margin-top: 115px;
+}
+
+h3 {
+    text-transform: uppercase;
+    float: left;
+    margin-left: 0;
+    margin-top: 183px;
+    font-size: 90px;
+}
+
+
