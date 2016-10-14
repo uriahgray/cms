@@ -22,3 +22,7 @@ h3.tag_title {
 	left: 20px;
 
 }
+
+a.link {
+    display: none;
+}
