@@ -1,9 +1,19 @@
 body#voyage .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     right: 0;
     top: 0;
-    z-index: 100;
     display: none;
 }
+body#voyage ul.tags{
+  display: none;
+}
+body#voyage h3.tag_title {
+    display: none;
+}
+body#voyage a.link {
+    display: none;
+}
+
+
 body#voyage .post.text.voyage {
     width: initial;
     position: fixed;
@@ -17,27 +27,13 @@ body#voyage .post.text.voyage {
     text-transform: uppercase;
 }    
 body#voyage .container {
-    padding: 0;
-    position: fixed;
-    top: 300px;
-    left: 0px;
-    right: 0px;
-}
-
-body#voyage ul.tags{
-  display: none;
-}
-body#voyage h3.tag_title {
-    display: none;
-}
-
-body#voyage a.link {
-    display: none;
-}
-
-body#voyage .container {
     overflow-x: scroll;
     overflow-y: hidden;
+    padding: 0;
+    position: fixed;
+    top: 28%;
+    left: 0px;
+    right: 0px;
 }
 body#voyage .post.photo.voyage {
     width:initial;
@@ -53,22 +49,16 @@ body#voyage article.posts {
     height: 400px;
     display: flex;
 }
-p {
-    /* position: fixed; */
-    /* top: 400px; */
-}
 
 body#voyage .post.text.voyage.abstract.jmsch13.postnow {
     position: fixed;
-    top: 800px;
+    top: 80%;
     left: 50px;
-    font-size: 40px;
-    font-weight: 100;
-    line-height: 1.2;
+    font-size: 100%;
+    line-height: 1.5;
     text-transform: none;
     width: 962px;
 }
-
 body#voyage i {
     font-style: italic;
 }
