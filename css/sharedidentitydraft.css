@@ -38,3 +38,12 @@ a.link {
 .post. permalink {
 	display: none;
 }
+
+
+.post.photo topright {
+	width: 300px;
+	height: 300px;
+	position: left;
+	
+}
+
