@@ -53,4 +53,15 @@ body#volumedraft .tumblrAutoPager_page_info {
 
 body#volumedraft .container {
     text-align: center;
+    margin-top: 60%;
+}
+
+body#volumedraft .post.text.volumedraft.body {
+    font-size: 12px;
+    line-height: 1.5;
+    width: 350px;
+    text-align: left;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
 }
