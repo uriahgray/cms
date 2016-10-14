@@ -12,3 +12,9 @@ body#sharedidentitydraft {
 h3.tag_title {
 display: none;
 {
+
+.post.photo.hcmcf1.sharedidentitydraft.topleft {
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
