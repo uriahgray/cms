@@ -1,3 +1,10 @@
 body#eatjdraft {
 background: antiquewhite;
 }
+
+body#eatjdraft {
+    font-family: Baskerville;
+    font-size: 10;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+}
