@@ -39,6 +39,7 @@ h3.tag_title {
     top: 20px;
     background-color: rgba(255,255,255,0.8);
     padding: 15px;
+    border-top: 5px solid red;
 }
 
 .post.rationale {
@@ -69,13 +70,16 @@ h3 a {
   width: 80%;
   display: block;
   margin: 0 auto;
-  border-bottom: 2px solid red;
-  margin-bottom: 20px;
 }
 
 img.set_photos {
  width: 100%; 
  pointer-events:none;
+}
+
+.post.photoset {
+  border-bottom: 2px solid red;
+  margin-bottom: 20px; 
 }
 
 .photoset img.set_photos {
