@@ -1,6 +1,9 @@
 
 h3.tag_title {
-visibility: hidden;
+display: none;
 }
 
+a.link {
+display: none;
+}
 
