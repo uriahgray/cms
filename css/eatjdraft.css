@@ -1,12 +1,12 @@
   body#eatjdraft {
-    font-family: arial;
+    font-family: inherit;
     font-size: 23px;
     line-height: 30px;
     letter-spacing: 0.02em;
     margin-left: 60px;
   }
 
-.post{
+.post#eatjdraft {
     width: 30%;
     height: 400px;
     margin-bottom: 0px;
