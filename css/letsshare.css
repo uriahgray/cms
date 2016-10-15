@@ -31,7 +31,6 @@ body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square6 {
     display: block;
     float: left;
     padding: 10px;
-    text-decoration: line-through;
     text-align: center;
 }
 
@@ -40,12 +39,40 @@ body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square6:hover {
     color: white;
 }
 
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square5:hover {
+    background: red;
+    color: white;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square5:hover {
+    background: red;
+    color: white;
+}
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square4:hover {
+    background: greenyellow;
+    color: black;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square3:hover {
+    background: greenyellow;
+    color: black;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square2:hover {
+    background: red;
+    color: white;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square:hover {
+    background: greenyellow;
+    color: black;
+}
+
 body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square5 {
     width: 33%;
     float: left;
     display: block;
     padding: 10px;
-    text-decoration: line-through;
     text-align: center;
 }
 
@@ -68,7 +95,6 @@ body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square2 {
     float: left;
     padding: 10px;
     display: block;
-    text-decoration: line-through;
     text-align: center;
 }
 
