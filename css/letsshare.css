@@ -2,4 +2,74 @@ body#letsshare {
     font-family:proxima nova;
     margin: auto 0;
 }
+body#letsshare ul.tags {
+    display: none;
+}
 
+body#letsshare a.link {
+    display: none;
+}
+
+body#letsshare article.posts {
+    margin: auto 0;
+}
+
+body#letsshare h3.tag_title {
+    display: none;
+}
+
+body#letsshare .post.text.letsshare.adep2.title1 {
+    text-align: center;
+    font-size: 80pt;
+    padding: 10px;
+    padding-bottom: 200px;
+    padding-top: 100px;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square6 {
+    width: 33%;
+    display: block;
+    float: left;
+    padding: 10px;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square5 {
+    width: 33%;
+    float: left;
+    display: block;
+    padding: 10px;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square4 {
+    width: 33%;
+    display: block;
+    padding: 10px;
+    float: left;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square3 {
+    width: 33%;
+    float: left;
+    padding: 10px;
+    display: block;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square2 {
+    width: 33%;
+    float: left;
+    padding: 10px;
+    display: block;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square {
+    width: 33%;
+    float: left;
+    padding: 10px;
+    display: block;
+}
