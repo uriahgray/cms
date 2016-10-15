@@ -39,3 +39,7 @@ a.link {
 h3.tag_title {
     opacity: 0;
 }
+
+p.checked {
+    text-decoration: line-through;
+}
