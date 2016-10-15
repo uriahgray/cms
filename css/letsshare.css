@@ -1,6 +1,7 @@
 body#letsshare {
     background-color: white;
     font-family:proxima nova;
+    margin: auto 0;
 }
 
 body#letsshare h3.tag_title {
