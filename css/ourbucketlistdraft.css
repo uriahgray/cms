@@ -13,7 +13,7 @@ body {
 
 a {
     text-decoration: none;
-    color: navy;
+    color: black;
     font-family: Palatino;
     font-size: 14px;
     font-weight: bolder;
@@ -42,4 +42,8 @@ h3.tag_title {
 
 p.checked {
     text-decoration: line-through;
+}
+
+.post {
+    color: navy;
 }
