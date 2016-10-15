@@ -5,3 +5,12 @@
     letter-spacing: 0.02em;
     margin-left: 60px;
   }
+
+.post{
+    width: 30%;
+    height: 400px;
+    margin-bottom: 0px;
+    display: block;
+    float: left;
+    margin: 10px 10px;
+}
