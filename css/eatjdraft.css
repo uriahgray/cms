@@ -1,13 +1,21 @@
 body#eatjdraft {
-  background-image: url("https://texturefabrik.files.wordpress.com/2013/05/29-05-13_paper07.jpg")
-  
+background:antiquewhite
 }
 
-body#eatjdraft h3.tag_title {
-    font-size: 24px;
-    font-family:arial;
+body#eatjdraft {
+    font-size: 22px;
+    font-family:inherit;
+    line-height:30px;
+  margin-left:10px
 }
 
-.post.photo.dzha95.eatjdraft {
-    height: 100px;
-    overflow: scroll;
+.post{
+   height: 400px;
+  width: 50%
+  overflow: scroll;
+}
+
+.postcontainer {
+   margin-top: -64px;
+    padding-bottom: 26px;
+}
