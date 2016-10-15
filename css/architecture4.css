@@ -13,6 +13,7 @@ img, video, object, embed {
     position: inline-block;
 }
 
- body {
+ .container {
+    padding: 20px;
     background-image: url("Site_Plan_(1).jpg");
 }
