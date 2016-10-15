@@ -3,6 +3,10 @@ h3.tag_title {
 display: none;
 }
 
+h3 {
+display: none;
+}
+
 a.link {
 display: none;
 }
