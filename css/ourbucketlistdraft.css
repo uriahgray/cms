@@ -4,38 +4,38 @@ body#ourbucketlistdraft {
     background-position-y: 20.25%;
 }
 
-body#ourbucketlistdraft body {
+body {
     font-family: palatino;
     font-size: 36px;
     line-height: 44px;
     letter-spacing: 0.02em;
 }
 
-body#ourbucketlistdraft a {
+a {
     text-decoration: none;
     color: navy;
     font-family: Palatino;
-    font-size: 22px;
+    font-size: 14px;
     font-weight: bolder;
     font-style: italic;
-    line-height: 65px;
+    line-height: 55px;
 } 
 
-body#ourbucketlistdraft .postcontainer {
+.postcontainer {
     text-align: left;
     margin-left: 250px;
     margin-right: 250px;
     padding-top: 30px;
 }
 
-body#ourbucketlist ul.tags {
+ul.tags {
     display: none;
 }
 
-body#ourbucketlistdraft a.link {
+a.link {
     display: none;
 }
 
-body#ourbucketlistdraft h3.tag_title {
+h3.tag_title {
     opacity: 0;
 }
