@@ -25,3 +25,19 @@ body#letsshare a.link {
 body#letsshare ul.tags {
     display: none;
 }
+
+body#letsshare.post {
+    width: 33.3%;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body#letsshare quote {
+    font-size: 30px;
+    line-height: 30px;
+    margin-right: 400px;
+    text-decoration: underline;
+  
+}
