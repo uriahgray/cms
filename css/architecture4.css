@@ -12,3 +12,7 @@ img, video, object, embed {
     max-width: 100%;
     position: inline-block;
 }
+
+ body {
+    background-image: url("Site_Plan_(1).jpg");
+}
