@@ -1,4 +1,13 @@
+body#eatjdraft {
+background:antiquewhite
+
 .postcontainer {
     margin-top: 400px;
     padding-bottom: 0px;
+    margin: 20px;
+    padding: 2px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
