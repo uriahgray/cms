@@ -3,7 +3,7 @@ h3.tag_title {
 display: none;
 }
 
-h3 {
+body#architecture4 h3 {
 display: none;
 }
 
