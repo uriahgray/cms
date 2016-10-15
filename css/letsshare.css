@@ -35,6 +35,11 @@ body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square6 {
     text-align: center;
 }
 
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square6:hover {
+    background: red;
+    color: white;
+}
+
 body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square5 {
     width: 33%;
     float: left;
