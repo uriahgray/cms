@@ -1,3 +1,33 @@
 body#thisdreamihaddraft{
   background: cyan; 
 }
+.post.leftdream {
+    background-color: powderblue;
+    position: fixed;
+    left: 0px;
+    top: 200px;
+    width: 33.33%;
+    padding: 30px;
+}
+
+a.link {
+    display: none;
+}
+
+.post.centredream {
+    BACKGROUND-COLOR: thistle;
+    position: fixed;
+    top: 200px;
+    width: 33.33%;
+    padding: 30px;
+}
+
+.post.rightdream {
+    background-color: pink;
+    position: fixed;
+    right: 0px;
+    top: 200px;
+    width: 33.33%;
+    padding:30px;
+ 
+}
