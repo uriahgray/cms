@@ -16,6 +16,10 @@ body#formulad ul.tags {
     display: none;
 }
 
+h3.title {
+    text-align: center;
+}
+
 img.set_photos:hover {
     opacity: 0.5;
     filter: alpha(opacity=50);
