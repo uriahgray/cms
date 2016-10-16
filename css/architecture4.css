@@ -13,9 +13,8 @@ img, video, object, embed {
     position: inline-block;
 }
 
-body#set_photos {
-    max-width: 33.33%;
-    padding-left:30px;
+body#architecture4{
+ display: inline-block;   
     
     
 }
