@@ -262,7 +262,7 @@ body#letsshare .post.photo.adep2.letsshare.square19 {
     display: block;
     float: left;
     padding: 10px;
-    padding-bottom: 300px;
+    margin-bottom: 300px;
 }
 
 body#letsshare .post.photo.adep2.letsshare.square18 {
@@ -270,7 +270,7 @@ body#letsshare .post.photo.adep2.letsshare.square18 {
     float: left;
     display: block;
     padding: 10px;
-    padding-bottom: 300px
+    margin-bottom: 300px
 }
 
 body#letsshare .post.photo.adep2.letsshare.square17 {
@@ -278,7 +278,7 @@ body#letsshare .post.photo.adep2.letsshare.square17 {
     display: block;
     float: left;
     padding: 10px;
-    padding-bottom: 300px;
+    margin-bottom: 300px;
 }
 
 body#letsshare .post.photo.adep2.letsshare.square25:hover {
@@ -313,5 +313,15 @@ body#letsshare .post.text.letsshare.adep2.title3 {
     padding-top: 500px;
     text-align: center;
 }
+body#letsshare .post.photo.adep2.letsshare.square19:hover {
+    background-color: greenyellow;
+}
 
+body#letsshare .post.photo.adep2.letsshare.square18:hover {
+    background-color: greenyellow;
+}
 
+body#letsshare .post.photo.adep2.letsshare.square17:hover {
+    background-color: orange;
+    color: white;
+}
