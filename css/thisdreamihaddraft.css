@@ -20,11 +20,6 @@ a.link {
     display: none;
 }
 
-a {
-    text-decoration:underline;
-    display: none;
-}
-
 .post.centredream {
     BACKGROUND-COLOR: thistle;
     position: fixed;
