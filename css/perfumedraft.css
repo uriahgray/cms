@@ -85,6 +85,12 @@ body {
     line-height: 30px;
     letter-spacing: 0.02em;
   }
+
+body#yourtag .post {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
   
   ol, ul {
     list-style: none;
