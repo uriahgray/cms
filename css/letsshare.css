@@ -325,3 +325,54 @@ body#letsshare .post.photo.adep2.letsshare.square17:hover {
     background-color: orange;
     color: white;
 }
+body#letsshare .post.photo.adep2.letsshare.square31 {
+    width: 33%;
+    display: block;
+    padding: 10px;
+    float: left;
+}
+
+body#letsshare .post.photo.adep2.letsshare.square30 {
+    width: 33%;
+    display: block;
+    float: left;
+    padding: 10px;
+}
+
+body#letsshare .post.photo.adep2.letsshare.square29 {
+    display: block;
+    float: left;
+    width: 33%;
+    padding: 10px;
+}
+
+body#letsshare .post.photo.adep2.letsshare.square28 {
+    width: 33%;
+    display: block;
+    float: left;
+    padding: 10px;
+}
+
+body#letsshare .post.photo.adep2.letsshare.square27 {
+    width: 33%;
+    float: left;
+    padding: 10px;
+    display: block;
+    margin-top: -200px;
+}
+
+body#letsshare .post.photo.adep2.letsshare.square26 {
+    width: 33%;
+    display: block;
+    float: left;
+    padding: 10px;
+    margin-top: -270px;
+    margin-bottom: 300px;
+}
+
+body#letsshare .post.text.adep2.letsshare.title4 {
+    font-size: 80pt;
+    padding-bottom: 300px;
+    text-align: center;
+    padding-top: 300px;
+}
