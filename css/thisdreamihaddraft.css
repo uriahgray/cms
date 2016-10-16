@@ -8,6 +8,8 @@ body#thisdreamihaddraft{
     top: 200px;
     width: 33.33%;
     padding: 30px;
+    height: 1000px;
+    overflow: auto;
 }
 
 a.link {
@@ -20,6 +22,8 @@ a.link {
     top: 200px;
     width: 33.33%;
     padding: 30px;
+    height: 1000px;
+    overflow: auto;
 }
 
 .post.rightdream {
@@ -29,5 +33,7 @@ a.link {
     top: 200px;
     width: 33.33%;
     padding:30px;
+    height: 1000px;
+    overflow: auto;
  
 }
