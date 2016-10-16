@@ -35,3 +35,7 @@ img.set_photos:hover {
 .postcontainer:hover .copy {
     display:block; 
 }
+
+.postcontainer {
+    width: 33.3333%;
+}
