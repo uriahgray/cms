@@ -1,22 +1,19 @@
 /* test file*/
-
-h3.tag_title {
-    display: none;
-}
-
-a.link {
-    display: none;
-}
-
-ul.tags {
-    display: none;
-}
-
-body, p {
+body#formulad {
     font-family:Helvetica;
-    font-weight:900;
-    color:rgba(0,0,0,.85);
-    font-size:12pt;}
+    margin: auto 0;
+}
+
+body#formulad h3.tag_title {
+    display: none;
+}
+
+body#formulad a.link {
+    display: none;
+}
+
+body#formulad ul.tags {
+    display: none;
 }
 
 img.set_photos:hover {
