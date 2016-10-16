@@ -18,3 +18,8 @@ body, p {
     color:rgba(255,255,255,.85);
     font-size:96px;}
 }
+
+img.set_photos:hover {
+    opacity: 0; 
+    -webkit-transition: opacity .25s ease;
+}
