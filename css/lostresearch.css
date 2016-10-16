@@ -1,5 +1,30 @@
 body#lostresearch {
-	background-color:cyan;
-  }
+background-color:white;
+}
+
+body#lostresearch img{
+	boxshadow
+	}
+
+
+body#lostresearch h3.tag_title {
+    display: none;
+}
+
+
+body#lostresearch ul.tags {
+    display: none;
+}
+
   
-  
+body#lostresearch .post {
+
+}
+
+body#lostresearch .post.phone {
+
+}
+
+body#lostresearch .post.guide {
+
+}
