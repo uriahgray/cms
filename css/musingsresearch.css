@@ -1,5 +1,6 @@
 body#musingsresearch {
     margin: 0;
+    background-color: gray;
 }
 
 body#musingsresearch ul.tags {
@@ -7,10 +8,9 @@ body#musingsresearch ul.tags {
 }
 
 body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
-    position: absolute;
     display: block;
-    font-size: 30pt;
-    line-height: 34pt;
+    font-size: 20pt;
+    line-height: 22pt;
     z-index: 10;
     text-align: left;
     margin-left: 10%;
