@@ -52,3 +52,8 @@ element.style {
     outline: none;
     background: url(http://www.google.com/cse/static/en/google_custom_search_watermark.gif) left center no-repeat rgb(255, 255, 255);
 }
+
+img, video, object, embed {
+    max-width: 54%;
+    height: auto;
+}
