@@ -2,3 +2,38 @@
 .post.sharedidentityresearch {
     display: none;
 }
+
+.post ul.tags {
+	display:none;
+}
+
+h3.tag_title {
+	display: none;
+}
+
+
+a.link {
+    display: none;
+}
+
+.post. title {
+    color: #213dcd;
+    position: fixed;
+    font-size: 50px;
+    line-height: 50px;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+.post {
+    display: block;
+    float: right;
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 50px;
+    width: 417px;
+}
+
+.postcontainer {
+    overflow: scroll;
+}
