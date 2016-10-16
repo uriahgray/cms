@@ -54,7 +54,7 @@ element.style {
 }
 
 img, video, object, embed {
-    max-width: 54%;
+    max-width: 100%;
     height: auto;
 }
 
