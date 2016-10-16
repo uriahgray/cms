@@ -33,6 +33,7 @@ a {
     padding: 30px;
     height: 100%;
     overflow: auto;
+    left: 33.33%;
 }
 
 .post.rightdream {
