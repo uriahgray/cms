@@ -17,6 +17,6 @@ body#formulad ul.tags {
 }
 
 img.set_photos:hover {
-    opacity: 0; 
+    opacity: 1; 
     -webkit-transition: opacity .25s ease;
 }
