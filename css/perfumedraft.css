@@ -1,6 +1,6 @@
 body#perfumedraft {
 
-background : black;
+background : white;
 
 }
 
@@ -41,15 +41,16 @@ h3 {
 
 h3.tag_title {
     padding-bottom: 20px;
-    color: cornflowerblue;
+    color: black;
 }
 Inherited from body#perfumedraft.is_tagged
 body {
-    font-family: arial;
-    font-size: 23px;
+    font-family: helvetica;
+    font-size: 23px;	
     line-height: 30px;
     letter-spacing: 0.02em;
     color: cornflowerblue;
+	font-weight: bold; 
     
 }
 
