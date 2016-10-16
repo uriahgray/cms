@@ -1,4 +1,10 @@
 
+body#sharedidentitydraft {
+    color: pink;
+	background-repeat: no-repeat;
+    background-position: right top;
+}
+
 .post.sharedidentityresearch {
     display: none;
 }
