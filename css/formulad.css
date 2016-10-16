@@ -1,6 +1,4 @@
-
 /* test file*/
-
 
 h3.tag_title {
     display: none;
@@ -10,9 +8,13 @@ a.link {
     display: none;
 }
 
-a {
-}
-
 ul.tags {
     display: none;
+}
+
+body, p {
+    font-family:Helvetica;
+    font-weight:900;
+    color:rgba(255,255,255,.85);
+    font-size:96px;}
 }
