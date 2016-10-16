@@ -21,3 +21,17 @@ img.set_photos:hover {
     filter: alpha(opacity=50);
     -webkit-transition: opacity .25s ease;
 }
+
+.copy {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+
+.postcontainer:hover .copy {
+    display:block; 
+}
