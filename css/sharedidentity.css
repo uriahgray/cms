@@ -34,6 +34,11 @@ a.link {
     padding-right: 50px;
     width: 417px;
 	padding-top: 30px;
+	    text-align: left;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+
 }
 
 .post.title {
