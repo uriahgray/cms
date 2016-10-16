@@ -29,9 +29,10 @@ a.link {
     display: block;
     float: right;
     width: 50%;
-    padding-left: 10px;
+    padding-left: 50px;
     padding-right: 50px;
     width: 417px;
+	padding-top: 30px;
 }
 
 .post.title {
