@@ -13,7 +13,7 @@ img, video, object, embed {
     position: inline-block;
 }
 
-#container {
+body#container {
     max-width: 33.33%;
     padding-left:30px;
     
