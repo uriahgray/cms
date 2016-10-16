@@ -39,6 +39,7 @@ a.link {
     line-height: 32px;
     font-family: arial;
     font-weight: bold;
+	    padding-left: 14px;
 }
 element.style {
     width: 100%;
