@@ -42,10 +42,12 @@ a.link {
     font-family: arial;
     font-weight: bold;
 	    padding-left: 14px;
+	    padding-top: 10px;
+
 }
 element.style {
     width: 100%;
-    padding: 15px;
+    padding-top: 20px;
     border: none;
     margin: -0.0625em 0px 0px;
     height: 1.25em;
