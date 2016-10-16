@@ -1,3 +1,10 @@
+  body {
+    font-family: verdana;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0.02em;
+  }
+
 .post.leftdream {
     background-color: powderblue;
     position: fixed;
