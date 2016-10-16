@@ -23,7 +23,7 @@ img.set_photos:hover {
 }
 
 .copy {
-    border: 1px solid #ccc;
+    /*border: 1px solid #ccc;*/
     display: none;
     font-size: 10px;
     margin-top: 10px;
