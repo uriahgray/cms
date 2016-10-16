@@ -24,7 +24,7 @@ img, video, object, embed {
    padding: 30px;
 }
     
-    #tags{
+    #ul.tags{
         
        display: none;
         
