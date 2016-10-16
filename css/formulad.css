@@ -17,6 +17,7 @@ body#formulad ul.tags {
 }
 
 img.set_photos:hover {
-    opacity: 1; 
+    opacity: 0.5;
+    filter: alpha(opacity=50
     -webkit-transition: opacity .25s ease;
 }
