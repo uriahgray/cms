@@ -1,8 +1,8 @@
-h3.tag_title {
+h3.tag_title, a.link, ul.tags {
     display: none;
 }
 
-a.link {
+/*a.link {
     display: none;
 }
 
@@ -12,3 +12,4 @@ a {
 ul.tags {
     display: none;
 }
+*/
