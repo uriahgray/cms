@@ -41,3 +41,10 @@ img.set_photos:hover {
     height: auto;
     /* float: left; */
 }
+
+
+img.set_photos {
+    padding: 6px 6px;
+    float: left;
+    width: 24.99999%;
+}
