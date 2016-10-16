@@ -1,8 +1,12 @@
-h3.tag_title, a.link, ul.tags {
+
+/* test file*/
+
+
+h3.tag_title {
     display: none;
 }
 
-/*a.link {
+a.link {
     display: none;
 }
 
@@ -12,4 +16,3 @@ a {
 ul.tags {
     display: none;
 }
-*/
