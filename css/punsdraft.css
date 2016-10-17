@@ -1,9 +1,9 @@
 body#punsdraft{
-background:cyan;
+background:white;
 }
 
 body#punsdraft .post.long .copy{
   height: 300px;
-  width: 300px;
+  width: 50%;
   overflow: scroll;
 }
