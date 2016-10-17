@@ -2,6 +2,10 @@ body#punsdraft{
 background:white;
 }
 
+body#punsdraft .post {
+  border:10px solid yellow
+}
+
 body#punsdraft .post.long .copy{
   height: 250px;
   width: 800px;
