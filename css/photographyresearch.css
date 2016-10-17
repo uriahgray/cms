@@ -1,13 +1,44 @@
-h3.tag_title {
-display: none;
+body#photographyresearch {
+background-color: white;
+font
 }
- 
-"post photo postnow acha198 photography photographyresearch instagram"{
-    
-    
-   width: 30%;
-   display: inline-block;
-         border: 10px solid black;
-        
-        
+
+body#photographyresearch .post {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    }
+body {
+    font-family: Baskerville;
+    font-size: 10;
+    line-height: 20px;
+    letter-spacing: 0.02em;
 }
+
+body#photographyresearch .post {
+    display: block;
+    width: 340px;
+    background: rgb(200, 224, 94);
+    float: left;
+}
+
+body {
+    font-family: Baskerville;
+    font-size: 20;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+}
+body {
+    font-family: arial;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+}
+
+body#photographyresearch .post {
+    display: block;
+    width: 340px;
+    background: rgb(200, 224, 94);
+    float: left;
+    margin-right: 38px;
