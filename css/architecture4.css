@@ -13,15 +13,14 @@ img, video, object, embed {
     position: inline-block;
 }
 
-#architecture4{
- display: inline-block;   
-}
+
 
     .post.photo.architecture4.jfber4.postnow{
     
     
    max-width: 33.3%;
    padding: 30px;
+   display: inline-block;
 }
     
     .ul.tags{
