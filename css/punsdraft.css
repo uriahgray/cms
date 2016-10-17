@@ -3,7 +3,8 @@ background:white;
 }
 
 body#punsdraft .post {
-  border:10px solid orange
+  border:10px solid orange;
+  padding:45px
 }
 
 body#punsdraft .post.long .copy{
@@ -12,3 +13,10 @@ body#punsdraft .post.long .copy{
   overflow: scroll;
 }
 
+body#punsdraft .post.long1 {
+  margin-left: 500px;
+}
+
+body#punsdraft .post.short1 {
+  margin-left: 550px
+}
