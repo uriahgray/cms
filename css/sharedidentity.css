@@ -25,6 +25,12 @@ a.link {
     padding-right: 90px;
 }
 
+.gsc-control-cse div {
+    position: static;
+    margin-left: 15px;
+    margin-right: 23px;
+}
+
 .post.photo.sharedidentity {
     display: block;
     float: right;
