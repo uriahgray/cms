@@ -85,8 +85,10 @@ body#documentdraft {
   }
 }
 
-body#documentdraft ::-webkit-scrollbar {
+body#documentdraft {
+::-webkit-scrollbar {
     display: none;
+  }
 }
 
 .iframe-controls-container.iframe-controls-container--logged-in {
