@@ -2,6 +2,20 @@ body#punsdraft{
 background:white;
 }
 
+/*this is the tags being hidden*/
+.post ul.tags{
+	display:initial;
+}
+
+/*this is the permalink being hidden*/
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+/*this is the instructions for all the posts*/
 body#punsdraft .post {
   border:5px solid orange;
   padding:10px 20px 10px 20px;
@@ -12,6 +26,7 @@ body#punsdraft .post {
   
 }
 
+/* this is for the bold part of texts - for the usernames */
 b {
     font-weight: bold;
     color: navy;
@@ -19,12 +34,14 @@ b {
     text-decoration: underline;
 }
 
+/* this is all the posts that have the tag #long */
 body#punsdraft .post.long .copy{
   height: 200px;
   width: 600px;
   overflow: scroll;
 }
 
+/* tags with #long1 or #short1 are just variations or different posts. This is all just to push it to the side*/
 body#punsdraft .post.long1 {
   margin-left: 570px;
 }
