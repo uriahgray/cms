@@ -65,6 +65,10 @@ a {
 /* a.nav:hover {
     color: white;
 } */
+.mediac1 {
+    column-count: 4;
+    margin-left: 120px;
+}
 
 
 
