@@ -15,16 +15,17 @@ display: none;
 
 .post.text.architecture4.jfber4.postnow.sp{
     width: 25%;
+  display: inline-block;
+  background-color: #eeeeee;
+ opacity: 0.9;
 }
  .post.text.architecture4.jfber4.postnow.ct{
      width:75%;
-}
-.post.text.architecture4.jfber4.postnow{
-    background-color: #eeeeee;
-    opacity: 0.9;
-    padding: 30px 70px 30px 70px;
    display: inline-block;
+   background-color: #eeeeee;
+  opacity: 0.9;
 }
+
 
 a.link {
 display: none;
