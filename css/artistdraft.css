@@ -121,3 +121,8 @@ a.link {
     text-transform: uppercase;
     color: beige;
 }
+h3.tag_title {
+    padding-bottom: 25px;
+    float: center;
+    margin-left: 100px;
+    margin-bottom: 0px;
