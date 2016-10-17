@@ -4,7 +4,8 @@ background:white;
 
 body#punsdraft .post {
   border:10px solid orange;
-  padding:45px
+  padding:45px;
+  width: 50%;
 }
 
 body#punsdraft .post.long .copy{
