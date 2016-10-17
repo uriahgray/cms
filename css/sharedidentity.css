@@ -70,3 +70,13 @@ img.set_photos {
     width: 300px;
     height: 300px;
 }
+
+.post.text.sharedidentityresearch {
+    float: right;
+    margin-left: 424px;
+    font-size: 14px;
+    line-height: normal;
+    padding-top: 180px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
