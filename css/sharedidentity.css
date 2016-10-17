@@ -88,3 +88,7 @@ h3 {
 .post.photo.sharedidentityresearch {
 	display: none;
 }
+
+.text.keywords.sharedidentityresearch {
+    float: left;
+}
