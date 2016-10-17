@@ -1,22 +1,22 @@
-body#megaphone h3.tag_title {
+body#megaphonecontent h3.tag_title {
 display: none;
 }
 
-body#megaphone ul.tags {
+body#megaphonecontent ul.tags {
     display: none;
 }
 
 
-body#megaphone a.link {
+body#megaphonecontent a.link {
     display: none;
 }
 
-body#megaphone .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
 
-body#megaphone .post {
+body#megaphonecontent .post {
     width: 150px;
     height: 150px;
     position: absolute;
