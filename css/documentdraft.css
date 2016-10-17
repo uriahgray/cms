@@ -51,3 +51,7 @@ body#documentdraft .post.photo.documentdraft {
   column-count: 4;
   }
 }
+
+body#documentdraft ::-webkit-scrollbar {
+    display: none;
+}
