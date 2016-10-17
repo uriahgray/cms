@@ -4,6 +4,9 @@ background-color:white;
 }
 
 .post {
+	width: 500px;
+        margin: 20px auto;
+        padding: 50px;
 	background-color:antiquewhite;
 }
 
