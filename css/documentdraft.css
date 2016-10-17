@@ -7,10 +7,6 @@ body#documentdraft .container {
     overflow-x: scroll;
 }
 
-body#documentdraft article.posts {
-    width: 6000px;
-}
-
 body#documentdraft .post {
     width: 300px;
 }
@@ -27,8 +23,4 @@ body#documentdraft article.posts {
     line-height: 0;
     column-count: 5;
     column-gap: 0px;
-}
-
-body#documentdraft article.posts {
-    width: auto;
 }
