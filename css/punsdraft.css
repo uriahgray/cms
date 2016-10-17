@@ -5,7 +5,6 @@ background:white;
 body#punsdraft .post {
   border:10px solid orange;
   padding:45px;
-  width: 50%;
   margin-top: 10px;
   margin-bottom: 10px;
 }
