@@ -33,10 +33,6 @@ h3.tag_title {
     display: none;
 }
 
-.buttons-container.non-admin-buttons-container {
-    display: none;
-}
-
 body#documentdraft .post.photo.documentdraft {
     width: 100% !important;
     height: auto !important;
@@ -44,4 +40,8 @@ body#documentdraft .post.photo.documentdraft {
 
 body#documentdraft .post.photo.documentdraft {
     padding: 0 10px 10px;
+}
+
+.iframe-controls-container.iframe-controls-container--logged-in {
+    display: none;
 }
