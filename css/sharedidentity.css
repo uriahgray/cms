@@ -80,3 +80,8 @@ img.set_photos {
     padding-left: 30px;
     padding-bottom: 50px;
 }
+
+h3 {
+    text-transform: uppercase;
+    display: none;
+}
