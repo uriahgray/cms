@@ -10,14 +10,14 @@ body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop 
     display: none;
 }
 
-body#musingsresearch .post.text p {
+/* body#musingsresearch .post.text p {
     display: block;
     font-size: 30pt;
     line-height: 34pt;
     z-index: 10;
     text-align: left;
     margin-left: 10%;
-}
+} */
 
 body#musings .text {
     font-size: 20pt;
