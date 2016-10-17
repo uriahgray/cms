@@ -39,7 +39,7 @@ body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop 
     text-align: left;   
 } */
 
-body#musings h3 {
+/* body#musings h3 {
     text-transform: lowercase;
     text-decoration: none;
     position: fixed;
@@ -47,7 +47,7 @@ body#musings h3 {
     text-decoration: none;
     z-index: 10;
     text-align: left; 
-}
+} */
 
 body#musings ul.tags {
     display: none;
