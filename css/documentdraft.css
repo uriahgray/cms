@@ -29,3 +29,6 @@ body#documentdraft article.posts {
     column-gap: 0px;
 }
 
+body#documentdraft article.posts {
+    width: auto;
+}
