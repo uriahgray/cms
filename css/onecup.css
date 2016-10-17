@@ -60,6 +60,7 @@ visibility: hidden;
 
 body#onecup .post:hover .copy {
     display:block;
+	visibility: visible;
 }
 
 body#onecup .post.onecupscroll {
