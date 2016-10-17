@@ -3,6 +3,11 @@ h3.tag_title {
 display: none;
 }
 
+.post.text.architecture4.jfber4.postnow{
+    background-color: #eeeeee;
+    opacity: 0.9;
+    padding: 30px 70px 30px 70px;
+}
 
 a.link {
 display: none;
@@ -50,9 +55,5 @@ h3.title {
     display: none;
 }
 
-.post.text.architecture4.jfber4.postnow{
-    background-color: #eeeeee;
-    opacity: 0.9;
-    padding: 30px 70px 30px 70px;
-}
+
     
