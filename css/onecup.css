@@ -51,11 +51,11 @@ body#onecup .copy {
     position: absolute;
     bottom: -300px;
     left: 0px;
-    display:none;
+    visibility: hidden;
 }
 
 body#onecup .post:hover .image {
-display:none;
+visibility: hidden;
 }
 
 body#onecup .post:hover .copy {
