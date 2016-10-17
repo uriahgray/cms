@@ -118,11 +118,10 @@ body#cheese .var3 img, video, object, embed {
 body#cheese .var4 img, video, object, embed {
     max-width: 40%;
     position: absolute;
-    left: 40%;
-    top: 120%;
+    left: 10%;
+    top: 140%;
     z-index: 1;
     opacity: 1;
-    display: none;
 }
 
 
