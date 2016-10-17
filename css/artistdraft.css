@@ -91,6 +91,7 @@ body#artistdraft .post {
     padding-top: 30px;
     padding-right: 30px;
     height: 400px;
+    border: 0px solid;
 }
 .post.photo.artistdraft.fogdesign.ydai34 {
     background-color: darkcyan;
