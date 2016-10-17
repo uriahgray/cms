@@ -3,8 +3,8 @@ background:white;
 }
 
 body#punsdraft .post.long .copy{
-  height: 400px;
-  width: 900px;
+  height: 300px;
+  width: 800px;
   overflow: scroll;
 }
 
