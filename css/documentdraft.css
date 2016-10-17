@@ -1,3 +1,8 @@
+body#documentdraft {
+  margin: 0;
+  padding: 0;
+}
+
 body#documentdraftarticle.posts {
     width: 60000px;
     height: 100vh;
@@ -20,9 +25,13 @@ body#documentdraft a.link {
 }
 
 body#documentdraft article.posts {
-    line-height: 0;
-    column-count: 5;
-    column-gap: 0px;
+   line-height: 0; 
+   -webkit-column-count: 5;
+   -webkit-column-gap: 0px;
+   -moz-column-count: 5;
+   -moz-column-gap: 0px;
+   column-count: 5;
+   column-gap: 0px;
 }
 
 body#documentdraft ul.tags {
