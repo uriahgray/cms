@@ -8,5 +8,6 @@ body#hdiydraft .post {
     width: 30%;
     display: block;
     float: left;
+    padding-left: 10px;
 }
 
