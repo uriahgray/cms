@@ -20,7 +20,7 @@ img, video, object, embed {
     
    max-width: 30%;
    display: inline-block;
-        margin: 0px 10px;
+        float: left;
         
 }
 
