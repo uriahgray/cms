@@ -45,3 +45,46 @@ body#openobscura .post.video.openobscura.stas6 {
     float: left;
     padding: 5px;
 }
+
+body#openobscura {
+background-color:white;
+}
+
+body#openobscura .post { 
+background-color:none;
+color:white;
+font-size: 50pt;
+font-family: arial;
+line-height: 30px;
+}
+	
+body#openobscura .post {
+    outline: solid;
+    outline width:5px
+    outline color:black;
+}
+
+
+body#openobscura h3.tag_title { 
+display:none;
+}
+
+position: absolute;
+top: 0px;
+left; 50px
+
+<h1 style="color:blue;">Open Obscura</h1>
+
+
+body#postnowreferences .post.text.postnow.postnowtitle {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    text-align: center;
+    height: 100px;
+	display:none !important;
+}
+
+
