@@ -3,6 +3,10 @@ h3.tag_title {
 display: none;
 }
 
+.chocolat-image.image{
+    display: none;
+}
+
 .post.text.architecture4.jfber4.postnow{
     background-color: #eeeeee;
     opacity: 0.9;
