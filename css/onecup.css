@@ -78,8 +78,8 @@ body#onecuptitle .post.text p {
 
 
 body#onecup .post {
-	max-width: 400px;
-	max-height: 500px;
+	max-width: 200px;
+	max-height: 250px;
 	position: absolute;
 	top: 0px;
 	left: 0px;
