@@ -5,7 +5,7 @@ body#happybeingdraft{
 
 
 
-body#happybeingdraft .post.text.happybeingdraft.leftparty {
+/*body#happybeingdraft*/ .post.text.happybeingdraft.leftparty {
     right: 50%;
     top: 0px;
     width: 50%;
@@ -35,9 +35,13 @@ line-height:27px;
  color:red;
 }
 
-body#happybeingdraft ul.tags {
+/*body#happybeingdraft*/ ul.tags {
     display: none;
 }
-body#happybeingdraft a.link {
+/*body#happybeingdraft*/ a.link {
+    display: none;
+}
+
+h3.tag_title {
     display: none;
 }
