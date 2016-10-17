@@ -36,3 +36,8 @@ h3.tag_title {
 .buttons-container.non-admin-buttons-container {
     display: none;
 }
+
+body#documentdraft .post.photo.documentdraft {
+    width: 100% !important;
+    height: auto !important;
+}
