@@ -15,15 +15,14 @@ body#musingsresearch .copy {
     padding-top: 20px;
     padding-left: 30px;
 }
-
-/* body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
+body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
     display: block;
     font-size: 20pt;
     line-height: 22pt;
     z-index: 10;
     text-align: left;
     margin-left: 10%;
-} */
+} 
 
 .post {} .post.text p {
     font-size: 16pt;
