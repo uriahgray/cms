@@ -24,12 +24,12 @@ a.link {
     padding-left: 30px;
     padding-right: 90px;
 }
-
 .gsc-control-cse div {
     position: static;
-    margin-left: 15px;
-    margin-right: 23px;
+    margin-left: 0px;
+    margin-right: 33px;
 }
+
 
 .post.photo.sharedidentity {
     display: block;
@@ -85,6 +85,7 @@ img.set_photos {
     line-height: normal;
     padding-left: 30px;
     padding-bottom: 50px;
+	display: none;
 
 }
 
@@ -107,4 +108,9 @@ h3 {
 
 .text.keywords.sharedidentityresearch {
     float: left;
+}
+
+
+.post.photoset.hcmcf1.sharedidentityresearch.postnow.sharedidentity.hannahfacebook {
+    display: none;
 }
