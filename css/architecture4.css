@@ -78,5 +78,9 @@ h3.title {
     display: none;
 }
 
-
+.hamer {
+ position: fixed;
+ top: 70px;
+ left: 300px;
+}
     
