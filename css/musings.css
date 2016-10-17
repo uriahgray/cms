@@ -45,12 +45,12 @@ h1 {
     font-weight: 900;
     z-index: 99;
     position: fixed;
-    padding-top: 30px;
+    padding-top: 100px;
     padding-bottom: 50px;
     padding-left: 30px;
 }
 
-a.nav {
+a {
     font-size: 20pt;
     color: black;
     font-weight: 900;
@@ -62,9 +62,9 @@ a.nav {
     text-decoration: none;
 }
 
-a.nav:hover {
+/* a.nav:hover {
     color: white;
-}
+} */
 
 
 
