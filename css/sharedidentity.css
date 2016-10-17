@@ -76,7 +76,6 @@ img.set_photos {
     margin-left: 424px;
     font-size: 14px;
     line-height: normal;
-    padding-top: 180px;
     padding-left: 30px;
     padding-bottom: 50px;
 }
@@ -84,4 +83,8 @@ img.set_photos {
 h3 {
     text-transform: uppercase;
     display: none;
+}
+
+.post.photo.sharedidentityresearch {
+	display: none;
 }
