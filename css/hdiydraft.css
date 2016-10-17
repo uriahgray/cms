@@ -14,4 +14,7 @@ body#hdiydraft .post {
     padding-top: 10px;
 }
 
-
+body#hdiydraft h3.tag_title {
+    padding-bottom: 20px;
+    display: none;
+}
