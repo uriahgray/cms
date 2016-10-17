@@ -18,6 +18,8 @@ body#formulad ul.tags {
 
 h3.title {
     text-align: center;
+    padding: 150px;
+    
 }
 
 img.set_photos:hover {
@@ -51,4 +53,23 @@ img.set_photos {
     padding: 6px 6px;
     float: left;
     width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    .img.set_photos {
+        width: 49.99999%;
+        margin: 6px 6px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .img.set_photos {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
