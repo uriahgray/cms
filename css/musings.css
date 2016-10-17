@@ -37,11 +37,7 @@ body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop 
 
 body#musings h3 {
     position: fixed;
-    display: block; 
-    font-size: 30pt;
-    text-transform: lowercase;
-    text-decoration: none;
-    z-index: 10;
+    display: none;
 }
 
 body#musings ul.tags {
