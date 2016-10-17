@@ -3,12 +3,12 @@ background:white;
 }
 
 body#punsdraft .post {
-  border:10px solid yellow
+  border:10px solid orange
 }
 
 body#punsdraft .post.long .copy{
   height: 250px;
-  width: 800px;
+  width: 600px;
   overflow: scroll;
 }
 
