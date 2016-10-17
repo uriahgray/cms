@@ -1,6 +1,6 @@
 body#musingsresearch {
     margin: 0;
-    background-color: red;
+    background-color: gray;
 }
 
 body#musingsresearch ul.tags {
@@ -29,11 +29,11 @@ body#musingsresearch a.link {
     display: none;
 }
 
-a {
+/* a {
     text-decoration: underline;
     color: white;
     font-style: normal;
-}
+} */
 
 body#musingsresearch ul.tags {
     display: none;
