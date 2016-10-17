@@ -29,11 +29,11 @@ body#musingsresearch a.link {
     display: none;
 }
 
-/* a {
+body#musingsresearch a {
     text-decoration: underline;
-    color: white;
+    color: red;
     font-style: normal;
-} */
+} 
 
 body#musingsresearch ul.tags {
     display: none;
