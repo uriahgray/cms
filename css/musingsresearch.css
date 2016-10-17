@@ -7,6 +7,15 @@ body#musingsresearch ul.tags {
     display: none;
 }
 
+body#musingsresearch .copy {
+    font-size: 12pt;
+    line-height: 14pt;
+    max-width: 40%;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
 body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
     display: block;
     font-size: 20pt;
