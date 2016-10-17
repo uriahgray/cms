@@ -3,11 +3,15 @@ body#hdiydraft{
 }
 
 body#hdiydraft .post {
-    height: 450px;
+    height: 410px;
     overflow: scroll;
     width: 30%;
     display: block;
     float: left;
     padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
+
 
