@@ -114,3 +114,10 @@ element.style {
 element.style {
     height: 340px;
 }
+.post.fogdesign1 {
+    width: 389px;
+    border: 0px solid;
+    float: left;
+    left: 830px;
+    height: 300px;
+}
