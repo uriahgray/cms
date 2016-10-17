@@ -56,12 +56,15 @@ a.nav {
     font-weight: 900;
     z-index: 99;
     position: fixed;
-    padding-top: 30px;
+    padding-top: 70px;
     padding-bottom: 50px;
     padding-left: 30px;
-    
+    text-decoration: none;
 }
-    
+
+a.nav:hover {
+    color: white;
+}
 
 
 
