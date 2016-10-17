@@ -23,3 +23,25 @@ background-color:white;
 .post img{
 	border:3px solid white;
 }
+
+.post.eatj {
+	color: #af9768;
+	width: 100%;
+}
+
+.post.backgrounds {
+	width: 50%;
+	margin: auto;
+	display: block;
+	text-align: center;
+	float: none;
+}
+
+
+.post h3.title {
+	text-align: center;
+}
+
+h3.tag_title {
+	display: none;
+}
