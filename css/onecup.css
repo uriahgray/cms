@@ -49,7 +49,6 @@ background-repeat: repeat;
 
 body#onecup .copy {
     position: absolute;
-    bottom: -300px;
     left: 0px;
     visibility: hidden;
 }
