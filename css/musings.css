@@ -14,6 +14,7 @@ body#musings h3 {
 
 body#musings .copy {
     position: fixed;
+    z-index: 99;
     font-weight: 900;
     font-size: 30pt;
     font-family: helvetica;
