@@ -88,6 +88,12 @@ h3.title {
  font-weight: bold;
 }
     
-.iframe-controls-container.iframe-controls-container--logged-in{
- display: none;
+.like{
+ position: fixed;
+ float: left;
+}
+
+.dislike{
+ position: fixed;
+ float: right;
 }
