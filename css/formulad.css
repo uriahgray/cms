@@ -16,16 +16,16 @@ body#formulad ul.tags {
     display: none;
 }
 
-iframe-controls-container {
-    position: absolute;
+body#formulad iframe-controls-container {
+    /*position: absolute;
     top: 0;
-    right: 0;
+    right: 0;*/
     display: none;
 }
 
 h3.title {
     text-align: center;
-    padding: 150px;
+    padding: 25%;
     font-size: -webkit-xxx-large;    
 }
 
