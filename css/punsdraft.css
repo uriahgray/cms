@@ -17,20 +17,24 @@ a.link {
 
 /*this is the instructions for all the posts*/
 body#punsdraft .post {
-  border:5px solid orange;
+  border:5px solid navy;
   padding:10px 20px 10px 20px;
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 17px;
   line-height: 19px;
-  background:orange;
+  background:navy;
   
+}
+
+.post.text p {
+    color: orange;
 }
 
 /* this is for the bold part of texts - for the usernames */
 b {
     font-weight: bold;
-    color: navy;
+    color: orange;
     line-height: 40px;
     text-decoration: underline;
 }
