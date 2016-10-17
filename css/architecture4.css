@@ -90,10 +90,14 @@ h3.title {
     
 .like{
  position: fixed;
- float: left;
+ left: 10px;
+ top: 400px;
+ 
 }
 
 .dislike{
  position: fixed;
  float: right;
+ right: 10px;
+ top: 400px;
 }
