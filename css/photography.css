@@ -57,7 +57,7 @@ body#photography ul.tags {
     float: left;
     padding-left: 10px;
     padding-right: 10px;
-    border: 1px solid #f2992e;
+    border: 1px solid black;
 }
 a {
     text-decoration: underline;
