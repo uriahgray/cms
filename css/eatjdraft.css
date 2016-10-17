@@ -3,24 +3,10 @@ background-color:white;
     font-size:16px;
 }
 
-body#eatjdraft .post {
-background-color:brown;
-align-content: center
-
+.post {
+	background-color:blue;
 }
 
-body#eatjdraft .post.text {
-    background-color: #d4d3d3;
-    left: 810px;
-    right: 810px;
-    width: 500px;
-    width: 900px;
-    overflow-y: scroll;
-    margin-top: 150px;
-    margin-left: 70px;
-    padding-left: 30px;
-    padding-top: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
-    height:200px
+.post.red {
+	background-color:red;
 }
