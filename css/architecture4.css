@@ -7,7 +7,7 @@ display: none;
     background-color: #eeeeee;
     opacity: 0.9;
     padding: 30px 70px 30px 70px;
-    border: 10px solid black;
+   display: inline-block;
 }
 
 a.link {
@@ -26,6 +26,7 @@ img, video, object, embed {
     
    max-width: 30%;
    display: inline-block;
+         border: 10px solid black;
         
         
 }
