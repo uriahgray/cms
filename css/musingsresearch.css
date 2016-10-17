@@ -29,6 +29,12 @@ body#musingsresearch a.link {
     display: none;
 }
 
+a {
+    text-decoration: underline;
+    color: white;
+    font-style: normal;
+}
+
 body#musingsresearch ul.tags {
     display: none;
 }
