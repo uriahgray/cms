@@ -48,3 +48,10 @@ img, video, object, embed {
 h3.title {
     display: none;
 }
+
+.post.text.architecture4.jfber4.postnow{
+    background-color: #eeeeee;
+    opacity: 0.9;
+    margin: 30px 0px 60px 60px;
+}
+    
