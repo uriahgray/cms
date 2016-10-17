@@ -48,5 +48,6 @@ body#documentdraft .post.photo.documentdraft {
 
 @media (max-width: 1200px) {
 body#documentdraft .post.photo.documentdraft {
-  column-count:         4;
+  column-count: 4;
   }
+}
