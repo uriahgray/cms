@@ -39,3 +39,9 @@ body#postnowreferences .post.text.postnow.postnowtitle {
 	display:none !important;
 }
 
+body#openobscura .post.video.openobscura.stas6 {
+    width: 33%;
+    display: block;
+    float: left;
+    padding: 5px;
+}
