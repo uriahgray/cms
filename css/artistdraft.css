@@ -121,3 +121,17 @@ element.style {
     left: 830px;
     height: 300px;
 }
+body#artistdraft .post {
+    background: hsla(0, 0%, 100%, 0.83);
+    left: 810px;
+    right: 810px;
+    width: 500px;
+    width: 900px;
+    overflow-y: scroll;
+    margin-top: 150px;
+    margin-left: 70px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    height: 400px;
+}
