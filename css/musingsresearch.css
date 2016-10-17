@@ -16,13 +16,20 @@ body#musingsresearch .copy {
     padding-left: 30px;
 }
 
-body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
+/* body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
     display: block;
     font-size: 20pt;
     line-height: 22pt;
     z-index: 10;
     text-align: left;
     margin-left: 10%;
+} */
+
+.post {} .post.text p {
+    font-size: 16pt;
+    line-height: 18pt;
+    color: whitesmoke;
+    margin-left: -120px;
 }
 
 body#musingsresearch a.link {
