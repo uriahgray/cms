@@ -37,3 +37,7 @@ img, video, object, embed {
 .container{
  background-color: #dddddd;   
 }
+
+.copy{
+    display: none;
+}
