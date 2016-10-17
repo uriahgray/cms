@@ -4,9 +4,13 @@ background-color:white;
 }
 
 .post {
-	background-color:blue;
+	background-color:antiquewhite;
 }
 
 .post.red {
-	background-color:red;
+	background-color:brown;
+}
+
+.post img{
+	border:2px solid blue;
 }
