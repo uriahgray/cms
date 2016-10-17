@@ -28,3 +28,10 @@ img, video, object, embed {
        display: none;
         
     }
+
+
+.post.text p{
+ font-size: 12px;
+ 
+    
+}
