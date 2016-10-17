@@ -17,7 +17,7 @@ a.link {
 
 /*this is the instructions for all the posts*/
 body#punsdraft .post {
-  border:5px solid navy;
+  border:5px solid orange;
   padding:10px 20px 10px 20px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -29,7 +29,7 @@ body#punsdraft .post {
 /* this is for the bold part of texts - for the usernames */
 b {
     font-weight: bold;
-    color: orange;
+    color: navy;
     line-height: 40px;
     text-decoration: underline;
 }
