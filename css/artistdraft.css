@@ -114,3 +114,10 @@ body#artistdraft .post {
     text-align: center;
     float: none;
 }
+a.link {
+    display: block;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+    color: beige;
+}
