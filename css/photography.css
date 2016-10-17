@@ -19,7 +19,7 @@ body#photographyt .post .postcontainer {
 }
 
 body#photography .post {
-    width: 25%;
+    width: 35%;
 
 }
 
@@ -45,7 +45,7 @@ body#photography ul.tags {
 
 }
 .post {
-    width: 20%;
+    width: 30%;
     display: block;
     float: left;
     padding-left: 10px;
@@ -119,7 +119,7 @@ a.link {
     font-size: 14px;
     font-family: courier;
     text-transform: uppercase;
-    color: beige;
+    color: black;
 }
 h3.tag_title {
     padding-bottom: 25px;
