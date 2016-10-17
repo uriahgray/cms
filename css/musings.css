@@ -1,10 +1,6 @@
 body#musings {
     background: gray;   
 }
-/* 
-body#musings .post {
-    padding: 20px;
-} */
 
 body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
@@ -40,13 +36,12 @@ body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop 
 } */
 
 body#musings h3 {
+    position: fixed;
+    display: block; 
+    font-size: 30pt;
     text-transform: lowercase;
     text-decoration: none;
-    position: fixed;
-    font-size: 30pt;
-    text-decoration: none;
     z-index: 10;
-    text-align: left; 
 }
 
 body#musings ul.tags {
