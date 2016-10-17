@@ -45,3 +45,8 @@ body#documentdraft .post.photo.documentdraft {
 .iframe-controls-container.iframe-controls-container--logged-in {
     display: none;
 }
+
+@media (max-width: 1200px) {
+body#documentdraft .post.photo.documentdraft {
+  column-count:         4;
+  }
