@@ -8,10 +8,7 @@ a.link {
 display: none;
 }
 
-img, video, object, embed {
-    max-width: 100%;
-    position: inline-block;
-}
+
 
 
 
