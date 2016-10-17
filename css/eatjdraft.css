@@ -10,10 +10,16 @@ background-color:white;
 	background-color:antiquewhite;
 }
 
-.post.red {
-	background-color:brown;
+.post.photo {
+	width: 25%;
+	display: block;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
+
+
 .post img{
-	border:2px solid white;
+	border:2px solid brown;
 }
