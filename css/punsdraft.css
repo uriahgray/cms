@@ -4,6 +4,10 @@ background:white;
 
 body#punsdraft .post.long .copy{
   height: 300px;
-  width: 50%;
+  width: 500px;
   overflow: scroll;
+}
+
+body#punsdraft .post.long {
+    margin: 5% 15% 5% 45%;
 }
