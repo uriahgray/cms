@@ -39,3 +39,13 @@ h3.tag_title {
     display: none;
 }
 
+h1 {
+    font-size: 30pt;
+    color: black;
+    font-weight: 900;
+    z-index: 99;
+}
+    
+
+
+
