@@ -24,3 +24,15 @@ body#documentdraft article.posts {
     column-count: 5;
     column-gap: 0px;
 }
+
+body#documentdraft ul.tags {
+    display: none;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+.buttons-container.non-admin-buttons-container {
+    display: none;
+}
