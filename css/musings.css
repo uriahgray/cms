@@ -13,6 +13,7 @@ body#musings h3 {
 
 body#musings .copy {
     position: fixed;
+    font-weight: strong;
     font-size: 30pt;
     font-family: helvetica;
     padding-left: 30px;
