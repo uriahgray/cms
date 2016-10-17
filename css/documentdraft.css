@@ -39,7 +39,7 @@ body#documentdraft .post.photo.documentdraft {
 }
 
 body#documentdraft .post.photo.documentdraft {
-    padding: 0 5px 5px 10px;
+    padding: 0 5px 10px 5px;
 }
 
 .iframe-controls-container.iframe-controls-container--logged-in {
