@@ -31,8 +31,7 @@ body#musingsresearch a.link {
 
 body#musingsresearch a {
     text-decoration: underline;
-    color: red;
-    font-style: normal;
+    color: aquamarine;
 } 
 
 body#musingsresearch ul.tags {
