@@ -65,7 +65,9 @@ a {
 /* a.nav:hover {
     color: white;
 } */
+
 .mediac1 {
+    display: block;
     column-count: 4;
     margin-left: 120px;
 }
