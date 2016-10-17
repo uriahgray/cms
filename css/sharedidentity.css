@@ -85,6 +85,17 @@ img.set_photos {
     line-height: normal;
     padding-left: 30px;
     padding-bottom: 50px;
+
+}
+
+.post.photo.sharedidentityresearch {
+    float: right;
+    margin-left: 424px;
+    font-size: 14px;
+    line-height: normal;
+    padding-left: 30px;
+    padding-bottom: 50px;
+display: none;
 }
 
 h3 {
