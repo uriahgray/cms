@@ -36,7 +36,7 @@ body#postnowreferences .post.text.postnow.postnowtitle {
     margin-left: -300px;
     text-align: center;
     height: 100px;
-	display:none !important;
+    display:none !important;
 }
 
 body#openobscura .post.video.openobscura.stas6 {
@@ -60,8 +60,8 @@ line-height: 30px;
 	
 body#openobscura .post {
     outline: solid;
-    outline width:5px
-    outline color:black;
+    outline-width:5px
+    outline-color:black;
 }
 
 
