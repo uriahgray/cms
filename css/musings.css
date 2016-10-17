@@ -1,5 +1,6 @@
 body#musings {
-    background: gray;   
+    background: gray;
+    padding-bottom: 100px;
 }
 
 body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
