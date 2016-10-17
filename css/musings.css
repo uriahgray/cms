@@ -21,6 +21,11 @@ body#musings .copy {
     padding-top: 70px;
 }
 
+body#musings .post.mediac1 {
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
 body#musings ul.tags {
     display: none;
 }
