@@ -87,4 +87,10 @@ body#postnowreferences .post.text.postnow.postnowtitle {
 	display:none !important;
 }
 
+a.link {
+    display: none;
+}
 
+ul.tags {
+    display: none;
+}
