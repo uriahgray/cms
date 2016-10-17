@@ -19,6 +19,7 @@ display: none;
   background-color: #eeeeee;
  opacity: 0.9;
  padding: 10px;
+ float:left;
 }
  .post.text.architecture4.jfber4.postnow.ct{
      width:75%;
@@ -26,6 +27,7 @@ display: none;
    background-color: #eeeeee;
   opacity: 0.9;
    padding: 10px;
+   float:left;
 }
 
 .copy{
