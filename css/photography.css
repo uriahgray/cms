@@ -1,4 +1,4 @@
-body#photoessaydraft {
+body#photography {
 background-color:white;
 display:block;
 float:left;
@@ -6,24 +6,24 @@ border:0px solid #000;
     
 }
 
-body#photoessaydrafts a.link {
+body#photography a.link {
     font-family: arial;
 }
 
-body#photoessaydraft .post .postcontainer {
+body#photographyt .post .postcontainer {
     padding: 0 18px;
 }
 
-body#photoessaydraft .post {
+body#photography .post {
     width: 25%;
 
 }
 
-body#photoessaydraft .copy {
+body#photography .copy {
     display: none;
 }
 
-body#photoessaydraft .post.clear {
+body#photography .post.clear {
     clear: both;
     display: inherit;
     float: none;
@@ -31,6 +31,6 @@ body#photoessaydraft .post.clear {
     height: 0px;
     overflow: hidden;
 }
-body#photoessaydraft ul.tags {
+body#photography ul.tags {
     display: none;
 }
