@@ -21,6 +21,8 @@ img, video, object, embed {
    max-width: 30%;
    padding: 7px;
    display: inline-block;
+        margin: auto;
+        
 }
 
 .post.photo.architecture4.jfber4.postnow.bg {
@@ -42,7 +44,7 @@ img, video, object, embed {
 }
 .container{
  background-image: url("http://65.media.tumblr.com/64dd8933f673810a0cde5331a2b5bbd1/tumblr_of2fiivv1t1vf7reno1_1280.jpg");  
-    opacity: 0.5;
+    
 }
 
 h3.title {
@@ -52,6 +54,6 @@ h3.title {
 .post.text.architecture4.jfber4.postnow{
     background-color: #eeeeee;
     opacity: 0.9;
-    padding: 30px 0px 60px 60px;
+    padding: 30px 70px 70px 30px;
 }
     
