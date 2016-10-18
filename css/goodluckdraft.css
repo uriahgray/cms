@@ -7,6 +7,9 @@ a.link {
 ul.tags {
     display: none;
 }
+.container {
+    max-width: 100%;
+}
 .post {
     float: left;
     margin: 4px;
