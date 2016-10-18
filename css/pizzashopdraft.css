@@ -79,5 +79,10 @@ h3 {
     display: none;
 }
 
+.nav {
+  position: fixed;
+  margin-top: 5%;
+  margin-left: 75%;
+}
 
 
