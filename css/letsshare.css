@@ -45,10 +45,11 @@ body#letsshare .post.text.adep2.letsshare.title4 {
     padding-top: 300px;
 }
 
-.photo {
+body#letsshare .photo {
     width: 33%;
     padding: 10px;
     display: block;
     height: 400px;
     float: left;
 }
+
