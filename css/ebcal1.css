@@ -95,4 +95,15 @@ a.link {
 }
 
 
+.append {
+    position: fixed;
+    z-index: 9999999;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
 
