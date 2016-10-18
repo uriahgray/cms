@@ -64,3 +64,9 @@ h3.tag_title {
     font-size: 20px;
     color: peru;
 }
+
+.nav {
+    font-size: 40px;
+    padding: 100px;
+    text-transform: capitalize;
+}
