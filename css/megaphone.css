@@ -554,7 +554,10 @@ body#megaphone .post.megaphone96 {
     left: 1471px;
 }
 
-
+.chocolat-wrapper{
+pointer-events:none;
+    
+}
 
 .chocolat-content{
     
