@@ -60,3 +60,8 @@ h3 {
     padding: 2px;
     display: none;
 }
+
+.tags {
+    list-style: none;
+    display: none;
+}
