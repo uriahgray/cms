@@ -69,21 +69,31 @@ body#onecuptitle .post.text p {
 
 
 
+
+
+
+.h3 {
+font-size: 45pt;
+    	line-height: 54pt;
+    	width: 1000px;
+ 	z-index:9999;
+	text-align: center;
+	
+}
+
 body#onecup .onecuptitle {
     display: none;
 }
 
 body#onecuptitle .title {
- 	font-size: 45pt;
-    	line-height: 54pt;
-    	width: 1000px;
- 	z-index:9999;
  	position: absolute;
  	top: 0px;
  	left: 300px;
- 	text-align: center;
 
 }
+
+
+
 
 
 
