@@ -129,3 +129,9 @@ h3.tag_title {
 ul.tags {
     display: none;
 }
+
+    .title {
+    color: #f2992e;
+    margin-left: 434px;
+    font-size: 40px;
+}
