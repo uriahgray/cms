@@ -2,6 +2,11 @@ body#punsdraft{
 background:white;
 }
 
+/* this is the Posts Tagged "_____" thing at the top that's being hidden */
+h3.tag_title {
+    display: none;
+}
+
 /*this is the tags being hidden*/
 .post ul.tags{
 	display:initial;
