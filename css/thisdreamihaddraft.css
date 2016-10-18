@@ -62,3 +62,8 @@ a {
     color: pink;
     font-weight: 300;
 }
+
+/* mouse over link */
+a:hover {
+    color: thistle;
+}
