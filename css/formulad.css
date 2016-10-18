@@ -17,10 +17,11 @@ body#formulad ul.tags {
 }
 
 body#formulad iframe-controls-container {
+    display: none;
     /*position: absolute;
     top: 0;
     right: 0;*/
-    display: none;
+    
 }
 
 h3.title {
@@ -62,6 +63,17 @@ img.set_photos {
     float: left;
     width: 24.99999%;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: teal;
+}
+
+
 
 @media only screen and (max-width: 700px){
     img.set_photos {
