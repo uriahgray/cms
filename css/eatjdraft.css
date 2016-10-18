@@ -45,3 +45,14 @@ background-color:white;
 h3.tag_title {
 	display: none;
 }
+
+a.link {
+	display: none;
+}
+
+
+.post.eatj h3.title a{
+	color: #724c1d;
+	text-decoration: none;
+}
+
