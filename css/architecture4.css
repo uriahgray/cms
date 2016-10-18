@@ -18,7 +18,7 @@ display: none;
 }
 
 .post.text.architecture4.jfber4.postnow.sp{
-    width: 30%;
+    width: 32%;
   display: inline-block;
   background-color: #eeeeee;
  opacity: 0.9;
@@ -30,13 +30,13 @@ display: none;
  margin-left: 12px;
 }
  .post.text.architecture4.jfber4.postnow.ct{
-     width: 60%;
+     width: 64.5%;
    display: inline-block;
    background-color: #eeeeee;
   opacity: 0.9;
    padding: 20px;
    float:left;
-  margin-left: 5px;
+  margin-left: 2px;
    margin-top: 60px;
    height: auto;
 }
