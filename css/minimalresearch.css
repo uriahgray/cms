@@ -30,6 +30,7 @@ h3.tag_title {
     position: fixed;
     margin-left: 400px;
     margin-top: 270px;
+    display: none;
 }
 .post {
     margin-bottom: 80px;
