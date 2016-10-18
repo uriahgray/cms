@@ -159,3 +159,7 @@ h3 {
 .gs-spelling.gs-result {
     margin-top: -40px;
 }
+
+.gsc-results-wrapper-overlay.gsc-results-wrapper-visible {
+    width: 741px;
+}
