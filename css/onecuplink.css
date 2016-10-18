@@ -18,3 +18,9 @@ body#onecuplink .post.onecupbackground{
 body#onecuplink .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
 	display: none;
 }
+
+.post.text p {
+    font-size: 60pt;
+    line-height: 1;
+    font-family: serif;
+}
