@@ -68,6 +68,8 @@ b {
 }
 
 
-
+span.play-count{
+    text-transform: uppercase;
+}
 
 
