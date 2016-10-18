@@ -69,7 +69,9 @@ body#onecuptitle .post.text p {
 
 
 
-
+body#onecup .post.text.onecup.dche110.onecuptitle {
+    display: none;
+}
 
 body#onecuptitle .title
  	font-size: 45pt;
