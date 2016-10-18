@@ -34,15 +34,6 @@ body#onecup {
     letter-spacing: 0.02em;
 }
 
-body#onecuptitle .nav {
-	font-size: 45pt;
-   	line-height: 54pt;
-   	width: 1000px;
-	z-index:9999;
-	position: absolute;
-	top: 0px;
-	left: 300px;
-	text-align: center;
 	
 }
 
@@ -74,10 +65,7 @@ body#onecup .post.onecupscroll {
 	display: none;
 }
 
-body#onecuptitle .post.text.nav {
-    font-size: 70pt;
-    line-height: 1;
-}
+
 
 
 
