@@ -204,3 +204,16 @@ table.gsc-branding td, table.gsc-branding, table.gcsc-branding td, table.gcsc-br
     border: none;
 	display: none;
 }
+
+
+#adBlock {
+    background: #FFFFFF none repeat scroll 0 0;
+    margin: 0;
+    padding: 0;
+    background-color: #fff8f5;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    display: none;
+}
