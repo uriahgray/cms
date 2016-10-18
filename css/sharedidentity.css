@@ -163,3 +163,8 @@ h3 {
 .gsc-results-wrapper-overlay.gsc-results-wrapper-visible {
     width: 741px;
 }
+
+td.gcsc-branding-text div.gcsc-branding-text {
+    margin: initial;
+    display: none;
+}
