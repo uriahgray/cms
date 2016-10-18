@@ -1,4 +1,5 @@
 body#encyclopediadraft .post.photo.encyclopediadraft {
+    text-align: center;
     width: 500px;
     margin-left: auto;
     margin-right: auto;
@@ -32,4 +33,8 @@ body#encyclopediadraft ul.tags {
 body#encyclopediadraft h3.title {
     text-align: center;
     font-family: monospace;
+}
+
+.post img {
+    display: inline-block;
 }
