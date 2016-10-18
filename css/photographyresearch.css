@@ -18,18 +18,5 @@ h1#photographyresearch {
 font-family: garamond;
 }
 
-body#photographyresearch .post {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 500px;
-    }
-body {
-    font-family: garamond;
-    font-size: 15px;
-    line-height: 30px;
-    letter-spacing: 0.02em;
-}
-
 
 
