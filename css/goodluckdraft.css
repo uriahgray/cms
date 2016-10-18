@@ -1,12 +1,20 @@
-body#goodluckdraft h3.tag_title {
+h3.tag_title {
     display: none;
 }
-body#goodluckdraft a.link {
+a.link {
     display: none;
 }
-body#goodluckdraft ul.tags {
+ul.tags {
     display: none;
 }
-body#goodluckdraft .container {
+.container {
     max-width: 10%;
+}
+.post {
+    /* direction: inherit; */
+    display: block;
+    padding: 5%;
+    float: left;
+    margin: 10px;
+    width: 5%;
 }
