@@ -10,10 +10,14 @@ background : white;
         columns: 300px 2;
 }
 
+body#perfumedraft .post img {
+    width: 100%;
+}
+
 body#perfumedraft .post {  
    display: block;
    margin: auto;
-   width: 40%;		
+   width: 100%;		
    padding: 20px;
 }
 
