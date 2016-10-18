@@ -6,7 +6,8 @@ h3.tag_title {
     display: none;
 }
 
-.element style{
+
+body#twitter-widget-0 .element style{
     max-width: 75%;
     min-width: 180px;
     margin-top: 100px;
