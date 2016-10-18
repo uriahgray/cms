@@ -58,7 +58,7 @@ h3.tag_title {
     font-family: courier new;
 }
 a {
-    text-decoration: none;
+    text-decoration: overline;
     color: pink;
     font-size: 22pt;
     font-weight: 300;
