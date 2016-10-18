@@ -46,3 +46,7 @@ ul.tags {
 i {
     font-style: italic;
 }
+
+b {
+    text-decoration: underline;
+}
