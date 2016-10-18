@@ -40,16 +40,24 @@ body#voyage article.posts {
 body#voyage i {
     font-style: italic;
 }
-
-.abstract{
+.title{
     position: fixed;
     top: 80%;
     left: 50px;
     font-size: 100%;
-    font-weight: 600;
-    color:rgba(27, 49, 94, 100);
     line-height: 1.5;
     text-transform: none;
     width: 962px;
 }
-    
+.abstract{
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    margin: 0;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 80px;
+    color:rgba(27, 49, 94, 100);
+    text-transform: uppercase;
+}
+
