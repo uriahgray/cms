@@ -26,7 +26,7 @@ body#letsshare .photo {
     float: left;
 }
 
-.post.text {
+body#letsshare .post.text {
     width: 100%;
     text-align: center;
     font-size: 100px;
