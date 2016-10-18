@@ -73,7 +73,7 @@ body#onecup .onecuptitle {
     display: none;
 }
 
-body#onecuptitle .title
+body#onecuptitle .title {
  	font-size: 45pt;
     	line-height: 54pt;
     	width: 1000px;
@@ -84,6 +84,9 @@ body#onecuptitle .title
  	text-align: center;
 
 }
+
+
+
 
 body#onecup .post {
 	max-width: 200px;
