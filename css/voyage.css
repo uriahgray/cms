@@ -68,13 +68,12 @@ body#voyage i {
   position: fixed;
   bottom: 10px;
   left: 10px;
-  height: 30px;
-  transition: height 2s;
+  height: 300px;
+  transition: opacity 1s;
 }
 
-.abstract_toggle:hover {
-  height: 300px;
-  transition: height 2s;
+.abstract_toggle:hover .abstract_info {
+  opacity: 1;
 }
 
 .abstract_header {
@@ -83,6 +82,6 @@ body#voyage i {
 }
 
 .abstract_info {
-
-
+opacity:0;
+transition: opacity 1s;
 }
