@@ -6,12 +6,12 @@ h3.tag_title {
     display: none;
 }
 
-.post ul.tags {
-	display:none;
+ul.tags {
+    display: none;
 }
 
-.post a.link {
-	display:none;
+a.link {
+    display: none;
 }
 
 .post.photo {
