@@ -42,6 +42,7 @@ body#nostalgiadraft .post.photo.nostalgiadraft {
 body#nostalgiadraft img.set_photos {
     max-width: 400px;
     height: 400px;
+    padding-bottom: 40px;
 }
 
 body#nostalgiadraft article.posts {
