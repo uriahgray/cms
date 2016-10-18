@@ -56,3 +56,10 @@ a.link {
 	text-decoration: none;
 }
 
+.post .copy {
+    text-align: left;
+    font-size: 13px;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: -webkit-pictograph;
+}
