@@ -82,6 +82,13 @@ element.style {
     background: url(http://www.google.com/cse/static/en/google_custom_search_watermark.gif) left center no-repeat rgb(255, 255, 255);
 }
 
+element.style {
+    height: 154px;
+    font-weight: normal;
+    text-align: center;
+    display: none;
+}
+
 img, video, object, embed {
     max-width: 100%;
     height: auto;
