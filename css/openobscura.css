@@ -39,7 +39,7 @@ body#postnowreferences .post.text.postnow.postnowtitle {
     display:none !important;
 }
 
-.post {
+body#.post {
     width: 33%;
     display: inline-block;
     padding: 5px;
