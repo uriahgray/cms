@@ -14,6 +14,23 @@ background:white;
     font-weight: bold;
 }
 
+/* the navigation for the sidebar - don't forget the 
+z-index: is to make the navigation come out on top of nav bar.
+top is basically the padding
+left is padding towards the left? */
+.nav {
+   position: fixed;
+   top: 100px;
+   left: 20px;
+   z-index: 9;}
+
+/* navigation links and the styling of the text within the links */
+.nav a {
+    display: block;
+    color: orange;
+    text-decoration:initial;
+}
+
 /* for all the posts on the righthand side */
 article.posts {
     height: 100vh;
