@@ -10,6 +10,8 @@ background:white;
     height: 100vh;
     border: 5px solid navy;
     background: navy;
+    color: orange;
+    font-weight: bold;
 }
 
 /* for all the posts on the righthand side */
