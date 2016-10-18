@@ -75,6 +75,7 @@ h2.RightParty {
     font-family:Bodoni, serif;
     font-size:30px;
     line-height:42px;
+ font-weight:bold;
 }
 
 
@@ -88,4 +89,5 @@ h2.LeftParty {
     font-family: Akzidenz Grotesk, sans-serif;
     font-size:30px;
     line-height:42px;
+ font-weight:bold;
 }
