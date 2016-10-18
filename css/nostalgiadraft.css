@@ -80,3 +80,7 @@ p {
     color: navy;
     line-height: 14px;
 }
+
+body#nostalgiadraft a {
+    color: pink;
+}
