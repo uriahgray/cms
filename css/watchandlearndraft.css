@@ -3,14 +3,10 @@ body#watchandlearndraft{
   
 }
 
-a.link {
+.post ul.link {
     display: none;
-    font-size: 14px;
-    font-family: courier;
-    text-transform: uppercase;
 }
 
-a {
-    text-decoration: underline;
+.post a. link {
     display: none;
 }
