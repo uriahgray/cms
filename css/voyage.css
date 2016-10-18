@@ -61,10 +61,9 @@ body#voyage i {
   transition: opacity 1s;
 }
 
-.abstract_toggle:hover .abstract_description {
+.abstract_toggle:hover .abstract_info {
   opacity: 1;
 }
-
 
 .abstract_header {
 
