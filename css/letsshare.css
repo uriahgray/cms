@@ -1,4 +1,4 @@
-body#letsshare {
+/* body#letsshare {
     font-family:proxima nova;
     margin: auto 0;
 }
@@ -25,7 +25,7 @@ body#letsshare .post.text.letsshare.adep2.title1 {
     
 }
 
-/* body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square6 {
+body#letsshare .post.photo.adep2.letsshare.letsshareresearch.square6 {
     width: 33%;
     display: block;
     float: left;
@@ -267,5 +267,3 @@ body#letsshare .post.text.adep2.letsshare.title4 {
 }
 
 
-
- */
