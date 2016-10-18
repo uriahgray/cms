@@ -151,3 +151,7 @@ h3 {
 .gs-bidi-start-align.gs-snippet {
     display: none;
 }
+
+.gs-title {
+    padding-bottom: 24px;
+}
