@@ -32,14 +32,24 @@ body#nostalgiadraft .post.text.nostalgiadraft {
     text-transform: uppercase;
 }    
 body#nostalgiadraft .container {
-    overflow-x: scroll;
-    overflow-y: scroll;
-    padding: 0;
-    position: fixed;
-    top: 28%;
-    left: 0px;
-    right: 0px;
+   
 }
+
+body#nostalgiadraft .post {
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+body#nostalgiadraft .copy img {
+    width: 50%;
+
+}
+
+body#nostalgiadraft .post img {
+    margin-bottom: 50vh;
+
+}
+
 body#nostalgiadraft .post.photo.nostalgiadraft {
     width:initial;
     margin: 0;
