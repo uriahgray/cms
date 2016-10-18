@@ -26,8 +26,8 @@ body#ff .post:hover {
 }
 
 body#ff .post {
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 300px;
+    max-height: 300px;
     position: absolute;
     top:0px;
     left:0px;
