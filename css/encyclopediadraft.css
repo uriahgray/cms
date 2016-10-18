@@ -6,7 +6,8 @@ body#encyclopediadraft .post.photo.encyclopediadraft {
 }
 
 body#encyclopediadraft .post.text.encyclopediadraft {
-    width: 500px;
+    text-align: center;
+    width: 700px;
     margin-left: auto;
     margin-right: auto;
 }
