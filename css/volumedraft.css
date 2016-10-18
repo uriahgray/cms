@@ -6,7 +6,7 @@ body#volumedraft a.link {
     display: none;
 }
 
-body#volumedraft h3.title {
+body#volumedraft .title {
     font-size: 70px;
     position: fixed;
     top: 10%;
@@ -56,7 +56,7 @@ body#volumedraft .container {
     margin-top: 120vh;
 }
 
-body#volumedraft .post.text.volumedraft.body {
+body#volumedraft .body {
     font-size: 12px;
     line-height: 1.5;
     width: 350px;
