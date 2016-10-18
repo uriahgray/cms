@@ -40,7 +40,7 @@ body#voyage article.posts {
 body#voyage i {
     font-style: italic;
 }
-.title{
+.abstract{
     position: fixed;
     top: 80%;
     left: 50px;
@@ -49,7 +49,7 @@ body#voyage i {
     text-transform: none;
     width: 962px;
 }
-.abstract{
+.title{
     position: fixed;
     top: 100px;
     left: 50px;
