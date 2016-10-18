@@ -75,6 +75,9 @@ h3 {
     font-size: 90px;
 }
 
+.iframe-controls-container .buttons-container {
+    display: none;
+}
 
 
 
