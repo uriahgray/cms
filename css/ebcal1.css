@@ -98,11 +98,10 @@ a{
    color:LightSlateGray;
 }
 
-
-
-
-
-.ebcal1.text {
-    border:1pt;
-    border-color:black;
+span.time {
+    display:none;
 }
+
+
+
+
