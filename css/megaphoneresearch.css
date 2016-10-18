@@ -40,10 +40,10 @@ a {
 
 
 .post {
-    width: 450px;
+    width: 600px;
     display: block;
     margin: auto;
-    padding: 20px;
+    padding: 40px;
 }
 
 
@@ -63,7 +63,7 @@ span.time {
 .textheading {
     font-family: Arial, sans-serif;
     color: #000;
-    font-size: 3.5em;
+    font-size: 2.7em;
     line-height: 1em;
     text-decoration: none;
  position:fixed;
