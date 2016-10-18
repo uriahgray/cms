@@ -20,5 +20,11 @@ a.link {
     display: block;
     float: left;
     width: 300px;
-    margin: 20px;
+    margin: 50px;
+}
+
+.post:nth-child(odd) {
+    float: right;
+    width: 300px;
+    margin: 60px;
 }
