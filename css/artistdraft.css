@@ -126,3 +126,6 @@ h3.tag_title {
     float: center;
     margin-left: 100px;
     margin-bottom: 0px;
+ul.tags {
+    display: none;
+}
