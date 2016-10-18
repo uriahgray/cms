@@ -72,16 +72,15 @@ body#voyage i {
   transition: opacity 1s;
 }
 
-.abstract_toggle:hover .abstract_info {
+.abstract_toggle:hover .abstract_description {
   opacity: 1;
 }
 
 .abstract_header {
 
-
 }
 
-.abstract_info {
+.abstract_description{
 opacity:0;
 transition: opacity 1s;
 }
