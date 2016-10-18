@@ -7,9 +7,17 @@ display: none;
     display: none;
 }
 
+i {
+    font-style: italic;
+}
+
+b {
+    text-decoration: underline;
+}
+
 .copy{
     font-size:14px;
-    line-height:14pt;
+    line-height:15pt;
 }
 
 .caption{
