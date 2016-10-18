@@ -622,3 +622,10 @@ pointer-events:none;
 
 
 
+a {
+    position:fixed;
+    text-decoration:underline;
+    color: black;
+    font-size: 25pt;
+}
+
