@@ -28,7 +28,6 @@ left is padding towards the left? */
 .nav a {
     display: block;
     color: orange;
-    text-decoration:initial;
 }
 
 /* for all the posts on the righthand side */
