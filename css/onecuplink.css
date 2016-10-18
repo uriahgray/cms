@@ -19,7 +19,7 @@ body#onecuplink .tmblr-iframe--desktop-logged-in-controls.iframe-controls--deskt
 	display: none;
 }
 
-.post.text p {
+body#onecuplink .post.text p {
     font-size: 60pt;
     line-height: 1;
     font-family: serif;
