@@ -17,3 +17,6 @@ ul.tags {
     margin: 10px;
     width: 5%;
 }
+.container {
+    max-width: 100%;
+}
