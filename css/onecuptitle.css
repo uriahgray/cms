@@ -1,0 +1,24 @@
+body#onecup h3.tag_title {
+	display: none;
+}
+
+body#onecup ul.tags {
+	display: none;
+}
+
+body#onecup a.link {
+	display: none;
+}
+
+body#onecup .copy {
+	display: none;
+	min-width: 400px;
+}
+
+body#onecup .post.onecupbackground{
+	display: none;
+}
+
+body#onecup .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+	display: none;
+}
