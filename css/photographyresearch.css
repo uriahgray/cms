@@ -3,6 +3,10 @@ background-color: white;
 font
 }
 
+h1#photographyresearch {
+font-family: garamond;
+}
+
 body#photographyresearch .post {
     display: block;
     margin-left: auto;
