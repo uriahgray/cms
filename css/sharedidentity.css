@@ -148,4 +148,6 @@ h3 {
 }
 
 
-
+.gs-bidi-start-align.gs-snippet {
+    display: none;
+}
