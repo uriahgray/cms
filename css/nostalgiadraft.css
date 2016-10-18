@@ -1,56 +1,64 @@
-body#nostalgiadraft .post.nostalgiadraft {
-    width: 33.33%;
-    margin: 0;
-    padding: 10;
-    float: left;
+body#nostalgiadraft .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
+    display: none;
 }
-
+body#nostalgiadraft ul.tags{
+  display: none;
+}
 body#nostalgiadraft h3.tag_title {
     display: none;
 }
-
 body#nostalgiadraft a.link {
     display: none;
 }
 
-body#nostalgiadraft a {
-    color: gray;
-    font-family: courier new;
-    font-size: 12px;
-}
 
-body#nostalgiadraft a.link {
-    display: block;
-    font-size: 14px;
-    font-family: courier;
+body#nostalgiadraft .post.text.voyage {
+    width: initial;
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    margin: 0;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 80px;
+    color:rgba(27, 49, 94, 100);
     text-transform: uppercase;
-    text-decoration: underline;
-    color: gray;
-}
-
-body#nostalgiadraft .chocolat-wrapper .chocolat-pagination {
-    display: inline-block;
-    text-align: center;
-    color: #000;
-    width: 100%;
-    font-size: 12px;
-    font-family: courier new;
-}
-
-body#nostalgiadraft p {
-    font-family: courier new;
-    font-size: 12px;
-    line-height: 18px;
-    width: 500px;
-}
-
-body#nostalgiadraft .post.container {
-    width: 6000px;
-}
-
+}    
 body#nostalgiadraft .container {
-    width: 6000px;
     overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 0;
+    position: fixed;
+    top: 28%;
+    left: 0px;
+    right: 0px;
+}
+body#nostalgiadraft .post.photo.voyage {
+    width:initial;
+    margin: 0;
+    }
+body#nostalgiadraft img.set_photos {
+    height: 400px;
+    width: 531px;
 }
 
+body#nostalgiadraft article.posts {
+    width: 10620px;
+    height: 400px;
+    display: flex;
+}
 
+body#nostalgiadraft .post.text.voyage.abstract.jmsch13.postnow {
+    position: fixed;
+    top: 80%;
+    left: 50px;
+    font-size: 100%;
+    line-height: 1.5;
+    text-transform: none;
+    width: 962px;
+}
+body#nostalgiadraft i {
+    font-style: italic;
+}
