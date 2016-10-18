@@ -42,3 +42,7 @@ body#encyclopediadraft h3.title {
     display: inline-block;
     max-width: 500px;
 }
+
+h3.tag_title {
+    display: none;
+}
