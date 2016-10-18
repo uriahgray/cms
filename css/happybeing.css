@@ -12,7 +12,7 @@ body#happybeing{
     position: fixed;
     overflow: scroll;
 margin-right: 0px;
-font-family: Akzidenz Grotesk, sans-serif;
+ font-family:Bodoni, serif;
 font-size:18px;
 line-height:27px;
  color:blue;
@@ -30,7 +30,7 @@ line-height:27px;
     left: 50%;
     display: block;
     margin-right: 0px;
-    font-family:Bodoni, serif;
+    font-family: Akzidenz Grotesk, sans-serif;
 font-size:20px;
 line-height:27px;
  color:red;
