@@ -130,3 +130,9 @@ h3 {
     font-weight: 500;
     font-variant: small-caps;
 }
+
+.post.text p {
+    font-size: 32px;
+    font-family: arial;
+    font-weight: 700;
+}
