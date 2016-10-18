@@ -30,7 +30,7 @@ body {
     letter-spacing: 0.02em;
 }
 body {
-    font-family: arial;
+    font-family: garamond;
     font-size: 15px;
     line-height: 30px;
     letter-spacing: 0.02em;
@@ -42,3 +42,4 @@ body#photographyresearch .post {
     background: rgb(234, 178, 174);
     float: left;
     margin-right: 38px;
+}
