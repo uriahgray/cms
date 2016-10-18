@@ -28,7 +28,8 @@ ul.tags {
     display: block;
     float: left;
     width: 300px;
-    margin: 50px;
+    margin: 35px;
+    max-height:400px;
 }
 
 .post:nth-child(odd) {
