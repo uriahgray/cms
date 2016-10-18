@@ -9,7 +9,7 @@ ul.tags {
 
 .copy{
     font-size:14px;
-    line-height:14pt;
+    line-height:15pt;
 }
 
 .caption{
@@ -17,6 +17,11 @@ ul.tags {
     line-height:14pt;
 }
 
+
+.source {
+    font-size: 14px;
+    line-height: 18px;
+}
 
  .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
