@@ -11,3 +11,8 @@ a.link {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.post.ebpik1.hdiydraft {
+    overflow: scroll;
+    height: 410px;
+}
