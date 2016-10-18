@@ -44,7 +44,6 @@ img.set_photos:hover {
     text-transform: uppercase;
 }
 
-
 .postcontainer:hover .copy {
     display:block; 
 }
@@ -71,8 +70,6 @@ a {
 a:hover {
     color: teal;
 }
-
-
 
 @media only screen and (max-width: 700px){
     img.set_photos {
