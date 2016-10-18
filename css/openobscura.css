@@ -40,8 +40,9 @@ body#postnowreferences .post.text.postnow.postnowtitle {
 }
 
 body#openobscura .post {
-    width: 33%;
+    width: 32%;
     display: inline-block;
+	vertical-align: middle;
 }
 
 body#openobscura {
@@ -54,12 +55,6 @@ color:white;
 font-size: 50pt;
 font-family: arial;
 line-height: 30px;
-}
-	
-body#openobscura .post {
-    outline: solid;
-    outline-width:5px
-    outline-color:black;
 }
 
 
