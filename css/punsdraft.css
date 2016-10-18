@@ -48,6 +48,13 @@ left is padding towards the left? */
    color: orange;
 }
 
+/* this is the hover for the hyperlink on the nav bar */
+.subtitle a:hover{
+   display:block;
+   color: white;
+   opacity:60%;
+}
+
 /* for all the posts on the righthand side */
 article.posts {
     height: 100vh;
