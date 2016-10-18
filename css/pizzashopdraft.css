@@ -55,3 +55,8 @@ h3 {
     font-family: courier;
     text-transform: uppercase;
 }
+
+.iframe-controls-container.iframe-controls-container--logged-in {
+    padding: 2px;
+    display: none;
+}
