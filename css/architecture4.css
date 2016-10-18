@@ -27,6 +27,7 @@ display: none;
  margin-right: 5px;
  margin-top: 60px;
  height: auto;
+ margin-left: 12px;
 }
  .post.text.architecture4.jfber4.postnow.ct{
      width: 60%;
@@ -76,7 +77,7 @@ img, video, object, embed {
     
 }
 .container{ 
-width: 90%;
+width: 88%;
 margin: auto;
 text-align: center; 
  margin-top: 150px;
