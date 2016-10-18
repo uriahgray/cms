@@ -81,30 +81,17 @@ span.play-count{
 
 
 
-
-
-
-
-
-
-
-.textheading {
-display:none;
-    font-family: Arial, sans-serif;
-    color: #000;
-    font-size: 3.5em;
-    line-height: 1em;
-    text-decoration: none;
- position:fixed;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    z-index:9999999999;
-   
+.post.ebcal1mainheading {
+    width: 300px;
+    margin: auto;
+    z-index: 9999999999;
+    position: fixed;
 }
 
 
-.container {
-    padding-top: 400px;
-}
+
+
+
+
+
 
