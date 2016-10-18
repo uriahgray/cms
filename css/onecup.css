@@ -72,13 +72,13 @@ body#onecuptitle .post.text p {
 
 
 
-.h3 {
-font-size: 45pt;
-    	line-height: 54pt;
-    	width: 1000px;
- 	z-index:9999;
-	text-align: center;
-	
+a {
+    text-decoration:underline;
+    line-height: 54pt;
+    width: 1000px;
+    z-index:9999;
+    font-size: 54pt;
+    text-align: center;
 }
 
 body#onecup .onecuptitle {
