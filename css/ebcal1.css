@@ -59,3 +59,9 @@ i {
 b {
     text-decoration: underline;
 }
+
+
+
+.post.text p {
+    display: none;
+}
