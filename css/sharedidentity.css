@@ -202,3 +202,9 @@ td.gcsc-branding-text div.gcsc-branding-text {
 .gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {
     color: gray;
 }
+
+table.gsc-branding td, table.gsc-branding, table.gcsc-branding td, table.gcsc-branding {
+    margin: -32px 0 0 0;
+    padding: 0 0 0 0;
+    border: none;
+}
