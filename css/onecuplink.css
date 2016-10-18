@@ -10,10 +10,6 @@ body#onecuplink a.link {
 	display: none;
 }
 
-body#onecuplink .copy {
-	display: none;
-	min-width: 400px;
-}
 
 body#onecuplink .post.onecupbackground{
 	display: none;
