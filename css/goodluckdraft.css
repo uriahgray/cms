@@ -18,3 +18,7 @@ body#goodluckdraft .post {
     display: inline-block;
     margin-right: 20px;
 }
+body#goodluckdraft .img.set_photos {
+    max-height: 100px;
+    max-width: 100px;
+}
