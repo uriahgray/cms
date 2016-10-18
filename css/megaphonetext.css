@@ -27,10 +27,7 @@ body#megaphonetext .tmblr-iframe--desktop-logged-in-controls.iframe-controls--de
 .text {
     font-family: Arial, sans-serif;
     color: #000;
-    font-size: 5em;
+    font-size: 4em;
     line-height: 1em;
     text-decoration: none;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
