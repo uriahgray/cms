@@ -61,3 +61,31 @@ b {
 .buttons-container.non-admin-buttons-container {
     display: none;
 }
+
+.postcontainer {
+    padding-bottom: 80px;
+}
+
+h2.RightParty {
+    position: fixed;
+    width: 50%;
+    padding: 80px;
+    top: -30px;
+    color: blue;
+    font-family:Bodoni, serif;
+    font-size:30px;
+    line-height:42px;
+}
+
+
+h2.LeftParty {
+    position: fixed;
+    width: 50%;
+    padding: 80px;
+    top: -30px;
+    color: red;
+    margin-left: 50%;
+    font-family: Akzidenz Grotesk, sans-serif;
+    font-size:30px;
+    line-height:42px;
+}
