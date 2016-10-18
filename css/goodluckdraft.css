@@ -7,10 +7,3 @@ a.link {
 ul.tags {
     display: none;
 }
-.post {
-    display: block;
-    padding: 5%;
-    float: left;
-    margin: 10px;
-    width: 5%;
-}
