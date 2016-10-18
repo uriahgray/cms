@@ -71,6 +71,7 @@ body#onecup .post.onecupscroll {
 	position: fixed;
 	left: 0px;
 	top: 0px;
+	display: none;
 }
 
 body#onecuptitle .post.text p {
