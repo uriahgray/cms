@@ -15,7 +15,7 @@ body#cheese a.link {
 }
 
 body#cheese .post.bigcheese img, video, object, embed {
-    max-width: 50%;
+    max-width: 47.45%;
     height: auto;
     position: fixed;
     top: 50%;
