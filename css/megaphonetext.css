@@ -40,3 +40,11 @@ body#megaphonetext .tmblr-iframe--desktop-logged-in-controls.iframe-controls--de
 .container {
     padding: 0px;
 }
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
