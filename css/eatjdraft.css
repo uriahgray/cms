@@ -1,4 +1,60 @@
 body#eatjdraft {
 background-color:antiquewhite;
-    font-size:19px;
+    font-size:23px;
+    font-family: sans-serif;
+    line-height: 35px;
+    letter-spacing: 0.02em;
+    margin: auto;
 }
+
+
+.post.photo.eatjdraft {
+    border: 100px solid white;
+    width: 33%;
+    display: block;
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.post.eatj {
+    color: peru;
+    width: 100%;
+}
+
+.post.backgrounds {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    float: none;
+}
+
+.post.text.dzha95.postnow.eatjresearch.eatjdraft {
+    float: left;
+    width: 30%;
+    margin: 50px;
+
+    font-size: 30px; 
+    letter-spacing: 1px;  
+    color: peru;
+    border: 100px solid #efd2b0;
+    padding: 50px;
+}
+
+.post h3.title {
+    text-align: center;
+}
+
+.copy {
+    color: peru;
+    font-size: 50px;
+    letter-spacing: 1px;
+    padding: 100px;
+}
+
+h3.tag_title {
+    display: none;
+}
+
