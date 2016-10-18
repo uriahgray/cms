@@ -34,7 +34,7 @@ body#onecup {
     letter-spacing: 0.02em;
 }
 
-body#onecuptitle h3.title {
+body#onecuptitle .nav {
 	font-size: 45pt;
    	line-height: 54pt;
    	width: 1000px;
