@@ -49,4 +49,9 @@ h3 {
     font-size: 90px;
 }
 
-
+.postcontainer a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
