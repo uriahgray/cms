@@ -20,3 +20,16 @@ body#encyclopediadraft p {
     font-size: 8pt;
     line-height: 12pt;
 }
+
+body#encyclopediadraft a.link {
+    display: none;
+}
+
+body#encyclopediadraft ul.tags {
+    display: none;
+}
+
+body#encyclopediadraft h3.title {
+    text-align: center;
+    font-family: monospace;
+}
