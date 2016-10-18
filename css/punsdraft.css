@@ -49,7 +49,7 @@ left is padding towards the left? */
 }
 
 /* this is the hover for the hyperlink on the nav bar */
-.subtitle a:hover{
+.subtitle:hover{
    display:block;
    color: white;
    opacity:60%;
