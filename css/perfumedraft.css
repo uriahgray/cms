@@ -13,7 +13,8 @@ background : white;
 body#perfumedraft .post {  
    display: block;
    margin: auto;
-   width: 40%;
+   width: 40%;		
+   padding: 20px;
 }
 
 body#perfumedraft h3.tag_title {
