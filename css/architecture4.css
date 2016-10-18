@@ -111,3 +111,6 @@ h3.title {
 .set_photos {
     border: 5px solid blue;
 }
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+ display: none;
+}
