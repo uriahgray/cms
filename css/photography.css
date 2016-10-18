@@ -20,7 +20,7 @@ body#photography .post .postcontainer {
 }
 
 body#photography .post {
-    width: 25%;
+    width: 15%;
 
 }
 
@@ -46,7 +46,7 @@ body#photography ul.tags {
 
 }
 .post {
-    width: 25%;
+    width: 15%;
     display: block;
     float: left;
     padding-left: 10px;
@@ -105,24 +105,10 @@ a.link {
 
 
 .post.fogdesign1 {
-    width: 50%;
+    width: 40%;
     color: #36465d;
     border: 0px solid;
     text-align: center;
     float: none;
-}
-.post.photo.photography.fogdesign.ydai34 {
-    background-color: darkcyan;
-    align-content: center;
-    border: 5px;
-    border-color: coral;
-    padding-bottom: 20px;
-    width: 300px;
-    float: left;
-    margin-bottom: 80px;
-    width: 60%;
-    display: inline-block;
-    margin-right: 97px;
-    margin-left: 46px;
 }
     
