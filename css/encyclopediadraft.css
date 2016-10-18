@@ -1,11 +1,1 @@
-body#encyclopediadraft .photo.encyclopediadraft {
-    max-width: 500px;
-}
 
-body#encyclopediadraft .post.encyclopediadraft {
-    max-width: 700px;
-}
-
-body#encyclopediadraft .post.photo.encyclopediadraft.people {
-    text-align: center;
-}
