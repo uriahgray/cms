@@ -14,10 +14,3 @@ body#megaphonecontent a.link {
 body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
-
-
-body#megaphonecontent .post {
-    width: 300px;
-    height: 300px;
-    
-}
