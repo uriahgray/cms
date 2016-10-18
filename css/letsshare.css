@@ -69,16 +69,16 @@ body#letsshare .post.text {
     text-align: center;
 }
 
-h1{
+h1 {
     position: fixed;
-    margin: auto;
+    
     text-decoration: underline;
-    font-size: 100px;
+    font-size: 70px;
     line-height: 100px;
     width: 50%;
     background-color: white;
-    z-index: 1;
     width: 100vw;
-    color: blue;
     padding: 10px;
+    text-align: center;
+
 }
