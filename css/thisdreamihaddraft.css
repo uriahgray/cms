@@ -9,7 +9,7 @@
     background-color: powderblue;
     position: fixed;
     left: 0px;
-    top: 200px;
+    top: 175px;
     width: 33.33%;
     padding: 30px;
     height: 100%;
@@ -23,7 +23,7 @@ a.link {
 .post.centredream {
     background-color: thistle;
     position: fixed;
-    top: 200px;
+    top: 175px;
     width: 33.33%;
     padding: 30px;
     height: 100%;
@@ -35,7 +35,7 @@ a.link {
     background-color: pink;
     position: fixed;
     right: 0px;
-    top: 200px;
+    top: 175px;
     width: 33.33%;
     padding:30px;
     height: 100%;
