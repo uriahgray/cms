@@ -1,1 +1,21 @@
+body#megaphonecontent h3.tag_title {
+display: none;
+}
 
+body#megaphonecontent ul.tags {
+    display: none;
+}
+
+
+body#megaphonecontent a.link {
+    display: none;
+}
+
+body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+
+
+.post {
+  display:none;
+}
