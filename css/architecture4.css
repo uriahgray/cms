@@ -6,7 +6,7 @@ display: none;
 .post.photo {
     width: 32%;
     display: inline-block;
-    border: 10px solid black;
+    
     margin-top: 150px;
     padding: 0px;
     margin: 0px;
@@ -103,4 +103,8 @@ h3.title {
  float: right;
  right: 10px;
  top: 400px;
+}
+
+.set_photos {
+    border: 5px solid blue;
 }
