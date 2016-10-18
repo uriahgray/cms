@@ -7,6 +7,16 @@ display: none;
     display: none;
 }
 
+.copy{
+    font-size:14px;
+    line-height:14pt;
+}
+
+.caption{
+    font-size:14px;
+    line-height:14pt;
+}
+
 
  a.link {
     display: none;
