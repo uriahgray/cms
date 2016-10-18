@@ -45,3 +45,10 @@ a {
     margin: auto;
     padding: 20px;
 }
+
+
+
+
+span.time {
+    display: none;
+}
