@@ -19,3 +19,8 @@ body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls-
 .post {
   display:none;
 }
+
+
+.text{
+    position:fixed;
+}
