@@ -47,13 +47,13 @@ img.set_photos:hover {
 
 .postcontainer:hover .copy {
     display:block; 
-    -webkit-transition: width 2s, height 4s;
-    transition: width 2s, height 4s;
 }
 
 .postcontainer {
     width: 100%;
     height: auto;
+    -webkit-transition: width 2s, height 4s;
+    transition: width 2s, height 4s;
     /* float: left; */
 }
 
