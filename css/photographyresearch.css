@@ -2,8 +2,15 @@ body#photographyresearch {
 background-color: white;
 font
 }
+body#photographyreseach h3.tag_title {
+    display: none;
+}
 
-body#photographyresearch ul.tags li{
+body#photoresearch ul.tags {
+    display: none;
+}
+
+body#photographyresearch a.link {
     display: none;
 }
 
