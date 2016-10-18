@@ -16,13 +16,14 @@ body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls-
 }
 
 
-.post{
+.post {
     pointer-events:none;
 }
 
 
 .post {
-    width: 300px;
+    width: 450px;
     display: block;
     margin: auto;
+    padding: 20px;
 }
