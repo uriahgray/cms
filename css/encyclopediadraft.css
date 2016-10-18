@@ -1,3 +1,7 @@
 body#encyclopediadraft .post.photo.encyclopediadraft {
     max-width: 500px;
 }
+
+body#encyclopediadraft .post.text p {
+    max-width: 500px;
+}
