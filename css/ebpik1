@@ -1,0 +1,13 @@
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+.post.ebpik1 {
+    width: 30%;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
