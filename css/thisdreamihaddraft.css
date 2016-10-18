@@ -75,3 +75,11 @@ a {
 a:hover {
     color: thistle;
 }
+
+.postcontainer {
+    padding-bottom: 200px;
+}
+
+ul.tags {
+    display: none;
+}
