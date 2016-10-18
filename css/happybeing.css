@@ -39,12 +39,12 @@ line-height:27px;
  margin-bottom:80px;
 }
 
-/*body#happybeing ul.tags {
+/*body#happybeing*/ ul.tags {
     display: none;
-}*/
-/*body#happybeing a.link {
+}
+/*body#happybeing*/ a.link {
     display: none;
-}*/
+}
 
 h3.tag_title {
     display: none;
