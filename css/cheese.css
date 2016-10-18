@@ -90,7 +90,7 @@ body#cheese .pokeme img, video, object, embed {
 body#cheese .var1 img, video, object, embed {
     max-width: 50%;
     position: absolute;
-    left: -10%;
+    left: -10.5%;
     top: 20%;
     z-index: 2;
     opacity: 0.6;
@@ -109,7 +109,7 @@ body#cheese .var2 img, video, object, embed {
 body#cheese .var3 img, video, object, embed {
     max-width: 40%;
     position: absolute;
-    left: 40%;
+    left: 39.5%;
     top: 120%;
     z-index: 1;
     opacity: 1;
