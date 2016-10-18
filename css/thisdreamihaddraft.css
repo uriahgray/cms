@@ -65,6 +65,12 @@ a {
     font-family: courier new;
 }
 
+.nav {
+    font-family: courier new;
+    font-size: 20pt;
+    top: 129px;
+}
+
 /* mouse over link */
 a:hover {
     color: thistle;
