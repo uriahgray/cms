@@ -168,8 +168,10 @@ h3 {
     margin-top: -40px;
 }
 
+
 .gsc-results-wrapper-overlay.gsc-results-wrapper-visible {
-    width: 741px;
+    width: 775px;
+    margin-left: 120px;
 }
 
 td.gcsc-branding-text div.gcsc-branding-text {
@@ -189,5 +191,13 @@ td.gcsc-branding-text div.gcsc-branding-text {
     margin-left: 30px;
     margin-top: 162px;
 	font-family: arial;
+
 }
+
+.gsc-results-wrapper-visible {
+    opacity: 1 !important;
+    visibility: visible !important;
+    padding-top: 12px;
+    padding-left: 90px;
 }
+
