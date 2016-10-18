@@ -26,8 +26,8 @@ display: none;
 
 
 .post {
+    width: 450px;
     display: block;
-    float: left;
-    width: 300px;
-    margin: 20px;
+    margin: auto;
+    padding: 20px;
 }
