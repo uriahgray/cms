@@ -10,6 +10,9 @@ h3.tag_title {
 	display:none;
 }
 
+.post a.link {
+	display:none;
+}
 
 .post.photo {
     margin-left: auto;
