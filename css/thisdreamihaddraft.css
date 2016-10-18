@@ -84,3 +84,7 @@ a:hover {
 ul.tags {
     display: none;
 }
+
+.post p {
+    width: 95%;
+}
