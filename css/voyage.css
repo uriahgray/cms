@@ -12,26 +12,13 @@ body#voyage h3.tag_title {
 body#voyage a.link {
     display: none;
 }
-
-
-body#voyage .post.text.voyage {
-    width: initial;
-    position: fixed;
-    top: 100px;
-    left: 50px;
-    margin: 0;
-    font-family: arial;
-    font-weight: 600;
-    font-size: 80px;
-    color:rgba(27, 49, 94, 100);
-    text-transform: uppercase;
-}    
+   
 body#voyage .container {
     overflow-x: scroll;
     overflow-y: hidden;
     padding: 0;
     position: fixed;
-    top: 28%;
+    top: 18%;
     left: 0px;
     right: 0px;
 }
@@ -50,15 +37,6 @@ body#voyage article.posts {
     display: flex;
 }
 
-body#voyage .post.text.voyage.abstract.jmsch13.postnow {
-    position: fixed;
-    top: 80%;
-    left: 50px;
-    font-size: 100%;
-    line-height: 1.5;
-    text-transform: none;
-    width: 962px;
-}
 body#voyage i {
     font-style: italic;
 }
