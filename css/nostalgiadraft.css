@@ -28,7 +28,7 @@ body#nostalgiadraft .post.text.nostalgiadraft {
 }    
 body#nostalgiadraft .container {
     overflow-x: scroll;
-    overflow-y: hidden;
+    overflow-y: scroll;
     padding: 0;
     position: fixed;
     top: 28%;
