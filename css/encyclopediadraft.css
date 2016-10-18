@@ -3,3 +3,9 @@ body#encyclopediadraft .post.photo.encyclopediadraft {
     margin-left: auto;
     margin-right: auto;
 }
+
+body#encyclopediadraft .post.text.encyclopediadraft {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
