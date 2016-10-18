@@ -99,3 +99,8 @@ a.link {
 ul.tags {
     display: none;
 }
+.nav {
+    margin-left: 560px;
+    font-size: 10px;
+    font-weight: lighter;
+}
