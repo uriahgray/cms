@@ -68,3 +68,17 @@ body#letsshare .post.text {
 .copy {
     text-align: center;
 }
+
+#heading{
+    position: fixed;
+    margin: auto;
+    text-decoration: underline;
+    font-size: 100px;
+    line-height: 100px;
+    width: 50%;
+    background-color: white;
+    z-index: 1;
+    width: 100vw;
+    color: blue;
+    padding: 10px;
+}
