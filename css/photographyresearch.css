@@ -10,26 +10,6 @@ body#photographyresearch .post {
     width: 500px;
     }
 body {
-    font-family: Baskerville;
-    font-size: 10;
-    line-height: 20px;
-    letter-spacing: 0.02em;
-}
-
-body#photographyresearch .post {
-    display: block;
-    width: 340px;
-    background: rgb(234, 178, 174);
-    float: left;
-}
-
-body {
-    font-family: Baskerville;
-    font-size: 20;
-    line-height: 20px;
-    letter-spacing: 0.02em;
-}
-body {
     font-family: garamond;
     font-size: 15px;
     line-height: 30px;
