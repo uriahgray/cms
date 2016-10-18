@@ -11,5 +11,5 @@ body#goodluckdraft ul.tags {
     display: none;
 }
 body#goodluckdraft .container {
-    padding: 10%;
+    max-width: 10%;
 }
