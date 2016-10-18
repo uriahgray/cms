@@ -3,6 +3,14 @@ body#watchandlearndraft{
   
 }
 
-body#watchandlearndraft element.style {
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: underline;
     display: none;
 }
