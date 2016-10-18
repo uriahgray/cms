@@ -89,6 +89,7 @@ span.play-count{
 
 
 .textheading {
+display:none;
     font-family: Arial, sans-serif;
     color: #000;
     font-size: 3.5em;
