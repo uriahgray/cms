@@ -85,9 +85,9 @@ body#onecup .onecuptitle {
     display: none;
 }
 
-body#onecuptitle .title {
+body#onecuptitle .onecuptitle {
  	position: absolute;
- 	top: 0px;
+ 	top: 40px;
  	left: 300px;
 
 }
