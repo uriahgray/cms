@@ -95,7 +95,7 @@ h3.title {
  position: fixed;
  left: 10px;
  top: 400px;
- 
+ font-size: 3em;
 }
 
 .dislike{
@@ -103,6 +103,7 @@ h3.title {
  float: right;
  right: 10px;
  top: 400px;
+  font-size: 3em;
 }
 
 .set_photos {
