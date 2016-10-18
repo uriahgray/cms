@@ -14,7 +14,7 @@ body#nostalgiadraft a.link {
 }
 
 
-body#nostalgiadraft .post.text.voyage {
+body#nostalgiadraft .post.text.nostalgiadraft {
     width: initial;
     position: fixed;
     top: 100px;
@@ -35,7 +35,7 @@ body#nostalgiadraft .container {
     left: 0px;
     right: 0px;
 }
-body#nostalgiadraft .post.photo.voyage {
+body#nostalgiadraft .post.photo.nostalgiadraft {
     width:initial;
     margin: 0;
     }
@@ -50,7 +50,7 @@ body#nostalgiadraft article.posts {
     display: flex;
 }
 
-body#nostalgiadraft .post.text.voyage.abstract.jmsch13.postnow {
+body#nostalgiadraft .post.text.nostalgiadraft.abstract.jalin6.postnow {
     position: fixed;
     top: 80%;
     left: 50px;
