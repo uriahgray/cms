@@ -32,7 +32,8 @@ body#nostalgiadraft .post.text.nostalgiadraft {
     text-transform: uppercase;
 }    
 body#nostalgiadraft .container {
-   
+   margin-top: 100px;
+    margin-left: 100px;
 }
 
 body#nostalgiadraft .post {
