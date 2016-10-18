@@ -47,7 +47,9 @@ img.set_photos:hover {
 
 .postcontainer:hover .copy {
     display:block; 
-    -webkit-transition: ease;
+    -webkit-transition: width 1s, height 2s;
+    transition: width 1s, height 2s;
+}
 }
 
 .postcontainer {
