@@ -42,6 +42,26 @@ body#letsshare .post.text {
     content: '●●●';
     display: block;
 }
+
+.post.rating1 p:before{
+    content: '●';
+    display: block;
+}
+
+.post.rating2 p:before{
+    content: '●●';
+    display: block;
+}
+
+.post.rating4 p:before{
+    content: '●●●●';
+    display: block;
+}
+
+.post.rating5 p:before{
+    content: '●●●●●';
+    display: block;
+}
 .text img{
     width:inherit;
 }
