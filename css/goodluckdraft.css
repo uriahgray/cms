@@ -7,16 +7,10 @@ a.link {
 ul.tags {
     display: none;
 }
-.container {
-    max-width: 100%;
-}
 .post {
     display: block;
     padding: 5%;
     float: left;
     margin: 10px;
     width: 5%;
-}
-.container {
-    max-width: 100%;
 }
