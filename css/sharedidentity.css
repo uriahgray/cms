@@ -18,6 +18,8 @@ a.link {
     padding-top: 100px;
     padding-left: 30px;
     padding-right: 60px;
+    z-index: -1;
+
 }
 .gsc-control-cse div {
     position: static;
