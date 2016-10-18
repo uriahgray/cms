@@ -1,6 +1,6 @@
 body#eatjdraft {
-background-color:white;
-    font-size:20px;
+background-color:antiquewhite;
+    font-size:19px;
 }
 
 .post {
@@ -9,15 +9,6 @@ background-color:white;
         padding: 50px;
 	background-color:antiquewhite;
 }
-
-.post.photo {
-	width: 25%;
-	display: block;
-	float: left;
-	padding-left: 10px;
-	padding-right: 10px;
-}
-
 
 
 .post img{
@@ -63,3 +54,12 @@ a.link {
     text-transform: uppercase;
     font-family: -webkit-pictograph;
 }
+
+.post.photo {
+	width: 30%;
+	display: block;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
