@@ -58,6 +58,7 @@ body#voyage i {
   bottom: 10px;
   left: 10px;
   height: 300px;
+  width: 962px;
   transition: opacity 1s;
 }
 
