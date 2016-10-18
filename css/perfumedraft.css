@@ -10,3 +10,8 @@ background : white;
         columns: 300px 2;
 }
 
+body#perfumedraft .post {  
+   display: block;
+   margin: auto;
+   width: 40%;
+}
