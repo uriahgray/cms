@@ -21,7 +21,8 @@ body#encyclopediadraft p {
     font-weight: normal;
     font-size: 8pt;
     line-height: 12pt;
-    padding-bottom: 60px;
+    padding-bottom: 120px;
+    padding-top: 30px;
 }
 
 body#encyclopediadraft a.link {
