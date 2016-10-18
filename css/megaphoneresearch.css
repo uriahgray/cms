@@ -15,3 +15,11 @@ body#megaphoneresearch a.link {
 body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
+
+
+.post {
+    display: block;
+    float: left;
+    width: 300px;
+    margin: 20px;
+}
