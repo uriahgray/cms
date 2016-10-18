@@ -15,7 +15,7 @@ body#cheese a.link {
 }
 
 body#cheese .post.bigcheese img, video, object, embed {
-    max-width: 47.45%;
+    max-width: 50%;
     height: auto;
     position: fixed;
     top: 50%;
@@ -64,7 +64,7 @@ body#cheese .pokeme img, video, object, embed {
 }
 
 body#cheese .var1 img, video, object, embed {
-    max-width: 48.8%;
+    max-width: 40%;
     position: absolute;
     left: -10.2%;
     top: 30%;
