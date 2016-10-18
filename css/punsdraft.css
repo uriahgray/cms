@@ -45,7 +45,7 @@ b {
 
 /* this is all the posts that have the tag #long */
 body#punsdraft .post.long .copy{
-  height: 400px;
+  height: 600px;
   width: 600px;
   overflow: scroll;
 }
