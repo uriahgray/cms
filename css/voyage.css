@@ -42,10 +42,12 @@ body#voyage i {
 }
 
 .abstract{
-      position: fixed;
+    position: fixed;
     top: 80%;
     left: 50px;
     font-size: 100%;
+    font-weight: 600;
+    color:rgba(27, 49, 94, 100);
     line-height: 1.5;
     text-transform: none;
     width: 962px;
