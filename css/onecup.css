@@ -74,7 +74,7 @@ body#onecup .post.onecupscroll {
 	display: none;
 }
 
-body#onecuptitle .post.link p {
+body#onecuptitle .post.text.nav {
     font-size: 70pt;
     line-height: 1;
 }
