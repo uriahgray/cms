@@ -6,6 +6,11 @@ ul.tags {
     display: none;
 }
 
+.copy{
+    font-size:15px;
+    line-height:16pt;
+}
+
 
 a.link {
     display: none;
