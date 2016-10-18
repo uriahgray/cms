@@ -95,3 +95,6 @@ a.link {
     border-color: #cad6c3;
     padding-bottom: 20px;
 }
+ul.tags {
+    display: none;
+}
