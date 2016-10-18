@@ -1,5 +1,5 @@
 body#ff{
-background-colour: blue;
+background-color: blue;
 }
 
 body#ff .post:hover {
@@ -7,8 +7,8 @@ body#ff .post:hover {
 }
 
 body#ff .post {
-    width: 150px;
-    height: 150px;
+    max-width: 150px;
+    max-height: 150px;
     position: absolute;
     top:0px;
     left:0px;
