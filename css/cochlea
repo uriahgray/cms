@@ -1,6 +1,22 @@
-body#cochleadraft {
-background-colour:red;
+body#cochlea .copy {
+    position: absolute;
+    left: 0px;
+top:0px;
+    visibility: hidden;
 }
-body#cochleadraft .post {
-background-colour:blue;
+
+body#cochlea .post:hover .image {
+visibility: hidden;
+}
+
+body#cochlea .post:hover .copy {
+    display:block;
+	visibility: visible;
+}
+
+body#cochlea .post.cochleascroll {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	display: none;
 }
