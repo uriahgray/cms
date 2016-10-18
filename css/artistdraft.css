@@ -140,3 +140,7 @@ ul.tags {
     font-size: x-large;
     margin-left: 400px;
 }
+ element.style {
+    width: 360px;
+    height: 430px;
+}
