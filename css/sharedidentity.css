@@ -164,9 +164,6 @@ h3 {
     padding-bottom: 24px;
 }
 
-.gs-spelling.gs-result {
-    margin-top: -40px;
-}
 
 
 .gsc-results-wrapper-overlay.gsc-results-wrapper-visible {
@@ -199,9 +196,7 @@ td.gcsc-branding-text div.gcsc-branding-text {
     padding-left: 90px;
 }
 
-.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {
-    color: gray;
-}
+
 
 table.gsc-branding td, table.gsc-branding, table.gcsc-branding td, table.gcsc-branding {
     margin: -32px 0 0 0;
