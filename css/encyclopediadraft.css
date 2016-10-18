@@ -3,10 +3,6 @@ body#encyclopediadraft .photo.encyclopediadraft {
 }
 
 body#encyclopediadraft .post.encyclopediadraft {
-    max-width: 500px;
-}
-
-body#encyclopediadraft .text p {
     max-width: 700px;
 }
 
