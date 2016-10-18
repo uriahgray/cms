@@ -92,6 +92,7 @@ span.play-count{
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
+    z-index:99999;
    
 }
 
