@@ -179,9 +179,7 @@ td.gcsc-branding-text div.gcsc-branding-text {
     display: none;
 }
 
-.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {
-    color: grey;
-}
+
 
 .post.text.search p {
     font-size: 15px;
@@ -201,3 +199,6 @@ td.gcsc-branding-text div.gcsc-branding-text {
     padding-left: 90px;
 }
 
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {
+    color: gray;
+}
