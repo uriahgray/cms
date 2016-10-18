@@ -11,6 +11,11 @@ ul.tags {
     line-height:16pt;
 }
 
+.caption{
+    font-size:15px;
+    line-height:16pt;
+}
+
 
 a.link {
     display: none;
