@@ -53,9 +53,19 @@ background-color:antiquewhite;
     padding: 100px;
 }
 
+
 h3.tag_title {
     display: none;
 }
+
+.post ul.tags {
+	display:none;
+}
+
+.post a.link {
+	display:none;
+}
+
 
 .append {
     margin: 20px;
