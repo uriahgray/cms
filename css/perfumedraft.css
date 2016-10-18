@@ -33,11 +33,6 @@ body#perfumedraft .tmblr-iframe--desktop-logged-in-controls.iframe-controls--des
 }
 
 body#perfumedraft .copy {
-    margin: 0;
-    margin-bottom: 40px;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
+    margin-top: 10px;
+	
 }
