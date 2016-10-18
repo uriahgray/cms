@@ -34,4 +34,6 @@ body#letsshare .post.text {
     padding-bottom: 300px;
     color: blue;
 }
-
+.post img{
+    width:100%;
+}
