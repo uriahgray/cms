@@ -115,3 +115,9 @@ h3 {
 .post.photoset.hcmcf1.sharedidentityresearch.postnow.sharedidentity.hannahfacebook {
     display: none;
 }
+
+.post a {
+    text-decoration: none;
+    font-size: 13px;
+    color: pink;
+}
