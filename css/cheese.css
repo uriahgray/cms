@@ -95,7 +95,7 @@ body#cheese .var4 img, video, object, embed {
     max-width: 40%;
     position: absolute;
     left: 16%;
-    top: 160%;
+    top: 180%;
     z-index: 1;
     opacity: 1;
 }
