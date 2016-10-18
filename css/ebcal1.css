@@ -7,16 +7,6 @@ ul.tags {
     display: none;
 }
 
-.copy{
-    font-size:14px;
-    line-height:14.5pt;
-}
-
-.caption{
-    font-size:14px;
-    line-height:14.5pt;
-}
-
 
 
  .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
@@ -28,7 +18,7 @@ ul.tags {
     display: block;
     float: left;
     width: 300px;
-    margin: 50px;
+    margin: 60px;
     max-height:400px;
 }
 
@@ -54,14 +44,6 @@ h3 {
 
 
 
-.post.lockjaw1 {
-    width: 600px;
-}
-
-
-
-
-
 
 i {
     font-style: italic;
@@ -80,7 +62,7 @@ span.play-count{
 
 
 .post.ebcal1mainheading {
-    width: 300px;
+    width: 500px;
     margin-left: 50%;
     left: -150px;
     z-index: 9999;
@@ -100,6 +82,17 @@ span.time {
     display:none;
 }
 
+
+a.link {
+    display:none;
+}
+
+
+.text{
+    font-family:monospace;
+    font-size:14px;
+    line-height:14.5pt;
+}
 
 
 
