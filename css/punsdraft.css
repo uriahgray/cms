@@ -5,9 +5,17 @@ background:white;
 /* the title of the page */
 .puns {
     font-size: 70px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 50px 45px;
     position: fixed;
+    height: 100vh;
+    border: 5px solid navy;
+    background: none;
+}
+
+/* for all the posts on the righthand side */
+article.posts {
+    height: 100vh;
+    margin-left: 280px;
 }
 
 /* this is the Posts Tagged "_____" thing at the top that's being hidden */
