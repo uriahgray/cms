@@ -41,17 +41,6 @@ body#voyage i {
     font-style: italic;
 }
 
-.title{
-    position: fixed;
-    top: 100px;
-    left: 50px;
-    margin: 0;
-    font-family: arial;
-    font-weight: 600;
-    font-size: 80px;
-    color:rgba(27, 49, 94, 100);
-    text-transform: uppercase;
-}
 .abstract{
       position: fixed;
     top: 80%;
