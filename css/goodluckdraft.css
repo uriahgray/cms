@@ -9,9 +9,15 @@ ul.tags {
 }
 .container {
     max-width: 100%;
+    padding: 5px;
 }
 .post {
     float: left;
     margin: 4px;
     width: 5%;
+}
+.copy {
+    font-size: 10px;
+    padding-left: 10px;
+    align-content: center;
 }
