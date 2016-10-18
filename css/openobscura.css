@@ -93,7 +93,7 @@ ul.tags {
     display: none;
 }
 
-.post iframe {
+body#openobscura .post iframe {
     width: 100%;
 }
 
