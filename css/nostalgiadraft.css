@@ -3,6 +3,11 @@ body#nostalgiadraft .tmblr-iframe--desktop-logged-in-controls.iframe-controls--d
     top: 0;
     display: none;
 }
+
+body#nostalgiadraft img.set_photos {
+    margin-top: 100px;
+}
+
 body#nostalgiadraft ul.tags{
   display: none;
 }
