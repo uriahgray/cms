@@ -2,6 +2,14 @@ body#punsdraft{
 background:white;
 }
 
+/* the title of the page */
+.puns {
+    font-size: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+}
+
 /* this is the Posts Tagged "_____" thing at the top that's being hidden */
 h3.tag_title {
     display: none;
