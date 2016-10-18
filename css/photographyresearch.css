@@ -2,21 +2,59 @@ body#photographyresearch {
 background-color: white;
 font
 }
-body#photographyreseach h3.tag_title {
-    display: none;
-}
-
-body#photoresearch ul.tags {
-    display: none;
-}
 
 body#photographyresearch a.link {
+    font-family: Baskerville;
+    font-size: 10;
+line-height: 20px;
+    letter-spacing: 0.02em;
+}
+
+
+body#photographyresearch .post .postcontainer {
+    padding: 0 18px;
+}
+
+body#photographyresearch .post {
+    width: 25%;
+
+}
+
+body#photographyresearch .copy {
     display: none;
 }
 
-h1#photographyresearch {
-font-family: garamond;
+body#photographyresearch .post.clear {
+    clear: both;
+    display: inherit;
+    float: none;
+    border: 0px;
+    height: 0px;
+    overflow: hidden;
+}
+body#photographyresearch ul.tags {
+    display: none;
 }
 
+ .tags{
+       display: none;
+    }
 
+}
+.post {
+    width: 25%;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.post {
+    width: 20%;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+
+}
 
