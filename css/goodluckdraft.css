@@ -7,3 +7,8 @@ a.link {
 ul.tags {
     display: none;
 }
+.post {
+    float: left;
+    margin: 10px;
+    width: 5%;
+}
