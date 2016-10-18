@@ -7,6 +7,7 @@ border:0px solid #000;
 }
 
 body#photography a.link {
+    display: none;
     font-family: Baskerville;
     font-size: 10;
 line-height: 20px;
