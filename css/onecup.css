@@ -1,3 +1,7 @@
+*, body {
+    cursor: url(http://67.media.tumblr.com/55e9674c6396c5f87ab85fa9b11aa8d9/tumblr_oex0obzBl71vf7reno1_100.gif), auto;
+}
+
 body#onecup h3.tag_title {
 	display: none;
 }
@@ -106,7 +110,7 @@ body#onecup .post.onecup3 {
 
 body#onecup .post.onecup4 {
 	left: 1000px;
-	top: 40px;
+	top: 70px;
 }
 
 body#onecup .post.onecup5 {
