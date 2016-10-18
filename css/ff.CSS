@@ -1,0 +1,28 @@
+body#Fcean {
+background-colour: blue;
+}
+
+body#ff .post:hover {
+    z-index: 999;
+}
+
+body#ff .post {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top:0px;
+    left:0px;
+    
+}
+
+
+
+
+
+
+
+body#ff .post.frank1 {
+    left: 954.962px;
+    top: 30px;
+    width: 170px;
+}
