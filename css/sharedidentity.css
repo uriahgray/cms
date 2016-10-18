@@ -178,3 +178,12 @@ td.gcsc-branding-text div.gcsc-branding-text {
 .gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {
     color: grey;
 }
+
+.post.text.search p {
+    font-size: 15px;
+    z-index: 1;
+    float: left;
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 162px;
+}
