@@ -34,6 +34,8 @@ body#encyclopediadraft ul.tags {
 body#encyclopediadraft h3.title {
     text-align: center;
     font-family: monospace;
+    font-weight: bold;
+    font-size: 32pt;
 }
 
 .post img {
