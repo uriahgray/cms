@@ -18,6 +18,7 @@ body {
 
 body#photographyresearch .post {
     display: block;
+    height: 400px;
     width: 340px;
     background: rgb(234, 178, 174);
     float: left;
