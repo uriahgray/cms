@@ -1,1 +1,17 @@
 
+body#megaphoneresearch h3.tag_title {
+display: none;
+}
+
+body#megaphoneresearch ul.tags {
+    display: none;
+}
+
+
+body#megaphoneresearch a.link {
+    display: none;
+}
+
+body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
