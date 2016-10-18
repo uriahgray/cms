@@ -28,3 +28,7 @@ body#photographyresearch .post {
     float: left;
     margin-right: 38px;
 }
+
+body#cheese ul.tags {
+    display: none;
+}
