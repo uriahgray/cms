@@ -18,3 +18,8 @@ a.link {
 ul.tags {
     display: none;
 }
+.copy {
+    width: 50%;
+    font-size: 20px;
+    line-height: 1.3;
+}
