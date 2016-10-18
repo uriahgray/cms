@@ -155,3 +155,7 @@ h3 {
 .gs-title {
     padding-bottom: 24px;
 }
+
+.gs-spelling.gs-result {
+    margin-top: -40px;
+}
