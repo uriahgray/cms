@@ -65,3 +65,6 @@ body#letsshare .post.text {
 .text img{
     width:inherit;
 }
+.copy {
+    text-align: center;
+}
