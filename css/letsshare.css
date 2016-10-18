@@ -42,3 +42,6 @@ body#letsshare .post.text {
     content: '●●●';
     display: block;
 }
+.text img{
+    width:inherit;
+}
