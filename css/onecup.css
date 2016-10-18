@@ -67,7 +67,11 @@ body#onecuptitle .post.text p {
       line-height: 1;
 }
 
-body#onecup h3.title {
+
+
+
+
+body#onecuptitle .title
  	font-size: 45pt;
     	line-height: 54pt;
     	width: 1000px;
@@ -78,9 +82,6 @@ body#onecup h3.title {
  	text-align: center;
 
 }
-
-
-
 
 body#onecup .post {
 	max-width: 200px;
