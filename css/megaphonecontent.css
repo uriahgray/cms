@@ -14,3 +14,8 @@ body#megaphonecontent a.link {
 body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
+
+
+.post{
+    pointer-events:none;
+}
