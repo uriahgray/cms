@@ -20,7 +20,7 @@ body#nostalgiadraft .post.text.nostalgiadraft {
     top: 100px;
     left: 50px;
     margin: 0;
-    font-family: arial;
+    font-family: courier new;
     font-weight: 600;
     font-size: 80px;
     color:rgba(27, 49, 94, 100);
@@ -40,8 +40,8 @@ body#nostalgiadraft .post.photo.nostalgiadraft {
     margin: 0;
     }
 body#nostalgiadraft img.set_photos {
+    max-width: 400px;
     height: 400px;
-    width: 531px;
 }
 
 body#nostalgiadraft article.posts {
