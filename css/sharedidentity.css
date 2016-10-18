@@ -67,6 +67,9 @@ td.gsc-search-button {
 	    padding-top: 30px;
 
 }
+
+
+
 element.style {
     width: 100%;
     padding-top: 20px;
@@ -142,7 +145,8 @@ h3 {
 }
 
 
-.post.text p {
+
+.post.text.title p {
     font-size: 32px;
     font-family: arial;
     font-weight: 700;
