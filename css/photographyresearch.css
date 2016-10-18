@@ -3,6 +3,10 @@ background-color: white;
 font
 }
 
+body#photographyresearch ul.tags {
+    display: none;
+}
+
 h1#photographyresearch {
 font-family: garamond;
 }
@@ -29,6 +33,4 @@ body#photographyresearch .post {
     margin-right: 38px;
 }
 
-body#photographyresearch ul.tags {
-    display: none;
-}
+
