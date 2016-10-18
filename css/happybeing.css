@@ -46,3 +46,7 @@ line-height:27px;
 h3.tag_title {
     display: none;
 }
+
+.post.text p {
+    padding-bottom: 20px;
+}
