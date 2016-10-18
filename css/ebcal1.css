@@ -44,11 +44,7 @@ a {
 }
 
 a.link {
-    display:none;
-    display: block;
-    font-size: 14px;
-    font-family: courier;
-    text-transform: uppercase;
+    display: none;
 }
 
 
