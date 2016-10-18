@@ -9,4 +9,12 @@ body#thetruthisouttheredraft {
 	padding-left:10px;
 	padding-right:10px;
 }
-
+h3.tag_title {
+    display: none;
+}
+a.link {
+    display: none;
+}
+ul.tags {
+    display: none;
+}
