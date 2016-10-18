@@ -37,3 +37,8 @@ body#letsshare .post.text {
 .post img{
     width:100%;
 }
+
+.post.rating3 p:before{
+    content: '●●●';
+    display: block;
+}
