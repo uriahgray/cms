@@ -1,0 +1,69 @@
+body#volume ul.tags {
+    display: none;
+}
+
+body#volume a.link {
+    display: none;
+}
+
+body#volume .title {
+    font-size: 70px;
+    position: fixed;
+    top: 10%;
+    left: 5%;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: lightgray;
+    text-transform: uppercase;
+}
+
+body#volume .post.photo {
+    width: 30%;
+    display: inline-block;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    vertical-align: middle;
+}
+
+body#volume article.posts {
+    margin: auto;
+    max-width: 80%;
+}
+
+body#volume img.set_photos {
+    max-height: 200px;
+    margin: auto;
+}
+
+body#volume h3.tag_title {
+    display: none;
+}
+
+body#volume a {
+    cursor: default;
+    pointer-events: none;
+    text-decoration: none;
+    color: lightgrey;
+}
+
+body#volume .tumblrAutoPager_page_info {
+    display: none;
+}
+
+body#volume .container {
+    text-align: center;
+    margin-top: 120vh;
+}
+
+body#volume .body {
+    font-size: 22px;
+    line-height: 1.5;
+    width: 390px;
+    text-align: left;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
