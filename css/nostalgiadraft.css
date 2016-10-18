@@ -60,3 +60,10 @@ body#nostalgiadraft .post.text.nostalgiadraft.abstract.jalin6.postnow {
     width: 962px;
 }
 
+body#nostalgiadraft span.chocolat-pagination {
+    font-family: courier new;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 500;
+    color: navy;
+}
