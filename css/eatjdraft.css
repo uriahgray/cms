@@ -1,5 +1,5 @@
 body#eatjdraft {
-background-color:antiquewhite;
+background-color:white;
     font-size:23px;
     font-family: sans-serif;
     line-height: 35px;
@@ -9,13 +9,10 @@ background-color:antiquewhite;
 
 
 .post.photo.eatjdraft {
-    width: 33%;
+    width: 20%;
     display: block;
     float: left;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px;
 }
 
 .post.eatj {
