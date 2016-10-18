@@ -1,21 +1,21 @@
-body#formulad {
+body#photographyresearch {
     font-family: monospace;
     margin: auto 0;
 }
 
-body#formulad h3.tag_title {
+body#photographyresearch h3.tag_title {
     display: none;
 }
 
-body#formulad a.link {
+body#photographyresearch a.link {
     display: none;
 }
 
-body#formulad ul.tags {
+body#photographyresearch ul.tags {
     display: none;
 }
 
-body#formulad iframe-controls-container {
+body#photographyresearch iframe-controls-container {
     display: none;
     /*position: absolute;
     top: 0;
