@@ -84,9 +84,10 @@ span.play-count{
     width: 300px;
     margin-left: 50%;
     left: -150px;
-    z-index: 9999999999;
+    z-index: 9999;
     position: fixed;
-    margin-top: 25%;
+    top: 60%;
+    margin-top: -150px;
 }
 
 
