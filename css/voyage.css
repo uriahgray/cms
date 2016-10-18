@@ -18,7 +18,7 @@ body#voyage .container {
     overflow-y: hidden;
     padding: 0;
     position: fixed;
-    top: 26%;
+    top: 18%;
     left: 0px;
     right: 0px;
 }
@@ -50,17 +50,6 @@ body#voyage i {
     line-height: 1.5;
     text-transform: none;
     width: 962px;
-}
-.title{
-    position: fixed;
-    top: 100px;
-    left: 50px;
-    margin: 0;
-    font-family: arial;
-    font-weight: 600;
-    font-size: 80px;
-    color:rgba(27, 49, 94, 100);
-    text-transform: uppercase;
 }
 
 .abstract_toggle {
