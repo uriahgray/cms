@@ -170,3 +170,7 @@ td.gcsc-branding-text div.gcsc-branding-text {
     margin: initial;
     display: none;
 }
+
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {
+    color: grey;
+}
