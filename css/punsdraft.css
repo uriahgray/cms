@@ -19,10 +19,13 @@ z-index: is to make the navigation come out on top of nav bar.
 top is basically the padding
 left is padding towards the left? */
 .nav {
-   position: fixed;
-   top: 100px;
-   left: 20px;
-   z-index: 9;}
+    position: fixed;
+    top: 500px;
+    left: 55px;
+    z-index: 9;
+    font-size: 28px;
+    line-height: 32px;
+}
 
 /* navigation links and the styling of the text within the links */
 .nav a {
