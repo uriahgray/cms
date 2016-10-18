@@ -53,6 +53,11 @@ body#punsdraft .post.long .copy{
 
 /* tags with #long1 or #short1 are just variations or different posts. This is all just to push it to the side*/
 body#punsdraft .post.short5 {
+  margin-left: 240px;
+  margin-right: 200px;
+}
+
+body#punsdraft .post.short5 {
   margin-left: 330px;
   margin-right: 130px;
 }
