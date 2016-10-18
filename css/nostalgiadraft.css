@@ -13,6 +13,10 @@ body#nostalgiadraft a.link {
     display: none;
 }
 
+body#nostalgiadraft p {
+    max-width: 400px;
+}
+
 
 body#nostalgiadraft .post.text.nostalgiadraft {
     width: initial;
