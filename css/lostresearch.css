@@ -5,10 +5,6 @@ body#lostresearch {
 line-height: 0.9;
 {
 
-div {
-    text-align: justify;
-}
-
 body#lostresearch .post:hover {
     z-index: 999;
 }
