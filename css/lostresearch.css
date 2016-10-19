@@ -2,27 +2,11 @@ body#lostresearch {
 background-color:white;
 }
 body#lostresearch {
-line-height: 0.8;
-    
-}
+line-height: 0.9;
+{
 
-
-body#lostresearch h3.tag_title {
-    display: none;
-}
-
-
-body#lostresearch ul.tags {
-    display: none;
-}
-
-
-body#lostresearch a.link {
-    display: none;
-}
-
-body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
-    display: none;
+div {
+    text-align: justify;
 }
 
 body#lostresearch .post:hover {
