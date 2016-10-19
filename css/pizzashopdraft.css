@@ -67,12 +67,11 @@ h3 {
     display: none;
 }
 
-.post.photo.racri2.postnow.pizzashopresearch.pizzashopdraft.logo {
+.post.photo.racri2.logo.pizzashopdraft.postnow {
+    margin-top: -12%;
+    max-width: 30%;
+    margin-left: -1%;
     position: fixed;
-    max-width: 14%;
-    margin-top: -11%;
-    margin-left: 1%;
-    max-height: 90px;
 }
 
 .post.logo p {
