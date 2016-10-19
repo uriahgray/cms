@@ -2,6 +2,12 @@ body#cheese {
     background-color: navy;
 }
 
+span.time {
+    display: none;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
 body#cheese h3.tag_title {
     display: none;
 }
