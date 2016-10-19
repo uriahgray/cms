@@ -108,6 +108,11 @@ a.link {
     line-height:14.5pt;
 }
 
+.caption{
+    font-family:serif;
+    font-size:14px;
+    line-height:14.5pt;
+}
 
 .append {
     position: fixed;
