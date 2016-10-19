@@ -126,16 +126,17 @@ body#cheese .var6 img, video, object, embed {
 
 .cheesetitle {
     position: fixed;
+    font-size: 200px;
     left: 50%;
-    width: 400px;
+    width: 1000px;
     text-align: center;
-    color: red;
-    margin-left: -200px;
-    height: 100px;
-    line-height: 100px;
+    color: white;
+    margin-left: -500px;
+    height: 200px;
+    line-height: 200px;
     top: 50%;
-    margin-top: -50px;
-    z-index:100;
+    margin-top: -100px;
+    z-index: 100;
 }
 
 
