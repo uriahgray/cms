@@ -1,6 +1,10 @@
 body#lostresearch {
 background-color:white;
 }
+body#lostresearch {
+line-height: 0.8;
+    
+}
 
 
 body#lostresearch h3.tag_title {
