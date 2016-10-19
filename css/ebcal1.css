@@ -18,19 +18,23 @@ ul.tags {
     display: block;
     float: left;
     width: 500px;
-    margin: 60px;
+    margin: 30px;
 }
 
 .post:nth-child(odd) {
     float: right;
     width: 500px;
-    margin: 70px;
+    margin: 30px;
 }
 
 .post:nth-child(even) {
     float: left;
     width: 500px;
-    margin: 80px;
+    margin: 30px;
+}
+
+.img {
+    width: 200px;
 }
 
 
