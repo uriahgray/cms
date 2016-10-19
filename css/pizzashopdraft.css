@@ -70,7 +70,8 @@ h3 {
 .post.photo.racri2.postnow.pizzashopresearch.pizzashopdraft.logo {
     position: fixed;
     max-width: 14%;
-    margin-top: -12%;
+    margin-top: -11%;
+    margin-left: 1%;
 }
 
 .post.logo p {
