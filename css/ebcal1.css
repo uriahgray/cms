@@ -16,13 +16,13 @@ ul.tags {
 
 .post {
     display: block;
-    float: left;
+    float: center;
     width: 500px;
-    margin: 30px;
+    margin: 40px;
 }
 
 .post:nth-child(odd) {
-    float: right;
+    float: center;
     width: 500px;
     margin: 30px;
 }
@@ -30,7 +30,7 @@ ul.tags {
 .post:nth-child(even) {
     float: center;
     width: 500px;
-    margin: 30px;
+    margin: 20px;
 }
 
 .post.img {
