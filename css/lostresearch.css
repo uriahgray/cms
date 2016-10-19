@@ -45,6 +45,11 @@ body#lostresearch .post.concept {
   
     
 }
+body#lostresearch .post.definition {
+    display: none;
+  
+    
+}
     
     
     
@@ -121,8 +126,8 @@ body#lostresearch .post.lost13 {
 }
 
 body#lostresearch .post.lost14 {
-    top: 1139px;
-    left: 741px;
+    top:0px;
+    left:0px;
     width: 180px;
 }
 
