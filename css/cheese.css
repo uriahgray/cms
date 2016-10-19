@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Circular';
+  src: url('CircularStd-Book.otf');
+  font-style: normal;
+}
+
 body#cheese {
     background-color: navy;
 }
