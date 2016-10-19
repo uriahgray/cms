@@ -120,11 +120,4 @@ a {
 }
 
 
-img,
-  video,
-  object,
-  embed {
-      max-width: 300px;
-  }
-
 
