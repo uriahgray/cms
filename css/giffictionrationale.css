@@ -42,12 +42,12 @@ h3.tag_title {
     border-top: 5px solid red;
 }
 
-.post.rationale {
+.post.giffictionrationale {
     width: 960px;
     margin-left: 120px;
 }
 
-.rationale p {
+.giffictionrationale p {
     font-size: 18px;
     margin: 18px 200px;
     /* max-width: 800px; */
