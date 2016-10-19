@@ -131,7 +131,7 @@ body#cheese .comm1 img, video, object, embed {
     opacity: 1;
 }
 
-.comm2, img {
+.comm2, img, video, object, embed {
     max-width: 47.45%;
     height: auto;
     position: absolute;
