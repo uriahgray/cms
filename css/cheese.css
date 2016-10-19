@@ -21,6 +21,7 @@ body#cheese .post.bigcheese img, video, object, embed {
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 100;
+    display: none;
 }
 
 body#cheese .post.leanonme img, video, object, embed {
