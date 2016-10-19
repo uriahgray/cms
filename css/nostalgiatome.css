@@ -1,0 +1,100 @@
+body#nostalgiatome .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
+    display: none;
+}
+
+
+
+body#nostalgiatome ul.tags{
+  display: none;
+}
+body#nostalgiatome h3.tag_title {
+    display: none;
+}
+body#nostalgiatome a.link {
+    display: none;
+}
+
+body#nostalgiatome p {
+    max-width: 400px;
+    padding: 10px;
+}
+
+
+body#nostalgiatome .post.text.nostalgiadraft {
+    width: initial;
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    margin: 0;
+    font-family: courier new;
+    font-weight: 600;
+    font-size: 80px;
+    color:rgba(27, 49, 94, 100);
+    text-transform: uppercase;
+}    
+body#nostalgiatome .container {
+   margin-top: 100px;
+    margin-left: 100px;
+}
+
+body#nostalgiatome .post {
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+body#nostalgiatome .copy img {
+    width: 50%;
+
+}
+
+body#nostalgiatome .post img {
+    margin-bottom: 50vh;
+
+}
+
+body#nostalgiatome .post.photo.nostalgiadraft {
+    width:initial;
+    margin: 0;
+    }
+body#nostalgiatome img.set_photos {
+    max-width: 400px;
+    height: 400px;
+    padding-bottom: 40px;
+}
+
+body#nostalgiatome article.posts {
+    width: 10620px;
+    height: 400px;
+    display: flex;
+}
+
+body#nostalgiatome .post.text.nostalgiadraft.abstract.jalin6.postnow {
+    position: fixed;
+    top: 80%;
+    left: 50px;
+    font-size: 100%;
+    line-height: 1.5;
+    text-transform: none;
+    width: 962px;
+}
+
+body#nostalgiatome span.chocolat-pagination {
+    font-family: courier new;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 500;
+    color: navy;
+}
+
+body#nostalgiatome p {
+    font-size: 12px;
+    font-family: courier new;
+    color: navy;
+    line-height: 14px;
+}
+
+body#nostalgiatome a {
+    color: pink;
+}
