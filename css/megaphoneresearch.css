@@ -79,3 +79,8 @@ span.time {
     padding-top: 400px;
     background: antiquewhite;
 }
+
+.postcontainer {
+    background: white;
+    padding: 30px;
+}
