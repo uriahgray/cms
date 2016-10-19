@@ -17,14 +17,20 @@ ul.tags {
 .post {
     display: block;
     float: left;
-    width: 200px;
+    width: 500px;
     margin: 60px;
 }
 
 .post:nth-child(odd) {
     float: right;
-    width: 200px;
-    margin: 60px;
+    width: 500px;
+    margin: 70px;
+}
+
+.post:nth-child(even) {
+    float: left;
+    width: 500px;
+    margin: 80px;
 }
 
 
