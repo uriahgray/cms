@@ -124,6 +124,15 @@ body#cheese .comm1 img, video, object, embed {
     opacity: 1;
 }
 
+body#cheese .comm2 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    z-index: 1;
+    opacity: 1;
+}
+
 .cheesetitle {
     position: fixed;
     font-size: 50px;
