@@ -77,3 +77,7 @@ h3 {
 .post.logo p {
     display: none;
 }
+
+.streetview img {
+    max-width: 6%;
+}
