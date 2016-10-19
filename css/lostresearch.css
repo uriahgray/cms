@@ -2,10 +2,6 @@ body#lostresearch {
 background-color:white;
 }
 
-body#lostresearch img{
-	boxshadow
-	}
-
 
 body#lostresearch h3.tag_title {
     display: none;
@@ -16,7 +12,6 @@ body#lostresearch ul.tags {
     display: none;
 }
 
-  
 body#lostresearch .post {
 
 }
@@ -28,3 +23,25 @@ body#lostresearch .post.phone {
 body#lostresearch .post.guide {
 
 }
+
+body#lostresearch a.link {
+    display: none;
+}
+
+body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+
+body#lostresearch .post:hover {
+    z-index: 999;
+}
+
+body#lostresearch .post {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top:0px;
+    left:0px;
+    
+}
+
