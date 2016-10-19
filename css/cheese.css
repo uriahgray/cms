@@ -137,14 +137,13 @@ body#cheese .comm1 img, video, object, embed {
     opacity: 1;
 }
 
-body#cheese .comm2, img, video, object, embed {
+body#cheese .comm2 img, video, object, embed {
     max-width: 47.45%;
     height: auto;
     position: absolute;
     top: 5%;
     left: 30%;
     z-index: 2;
-  display: none;
 }
 
 .cheesetitle {
@@ -164,16 +163,6 @@ body#cheese .comm2, img, video, object, embed {
     z-index: 100;
     background-color: white;
     display: none;
-}
-
-.newcheese, img, video, object, embed {
-    max-width: 47.45%;
-    height: auto;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 100;
 }
 
 
