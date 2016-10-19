@@ -29,6 +29,7 @@ body#cheese .post.leanonme img, video, object, embed {
     height: auto;
     position: fixed;
     left: 50%;
+    top:50%;
     transform: translate(-50%, -25%);
     z-index: 100;
 }
