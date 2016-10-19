@@ -17,13 +17,13 @@ ul.tags {
 .post {
     display: block;
     float: left;
-    width: 300px;
+    width: 200px;
     margin: 60px;
 }
 
 .post:nth-child(odd) {
     float: right;
-    width: 300px;
+    width: 200px;
     margin: 60px;
 }
 
