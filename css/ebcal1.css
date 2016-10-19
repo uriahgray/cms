@@ -16,7 +16,7 @@ ul.tags {
 
 .post {
     display: block;
-    float: center;
+    float: right;
     width: 500px;
     margin: 40px;
 }
