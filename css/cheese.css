@@ -73,7 +73,7 @@ body#cheese .var1 img, video, object, embed {
 }
 
 body#cheese .var2 img, video, object, embed {
-    max-width: 35%;
+    max-width: 47.45%;
     position: absolute;
     left: 60%;
     top: -22%;
@@ -83,7 +83,7 @@ body#cheese .var2 img, video, object, embed {
 }
 
 body#cheese .var3 img, video, object, embed {
-    max-width: 40%;
+    max-width: 47.45%;
     position: absolute;
     left: 40.54%;
     top: 140%;
@@ -92,7 +92,7 @@ body#cheese .var3 img, video, object, embed {
 }
 
 body#cheese .var4 img, video, object, embed {
-    max-width: 59%;
+    max-width: 47.45%;
     position: absolute;
     left: 0%;
     top: 200%;
@@ -101,7 +101,7 @@ body#cheese .var4 img, video, object, embed {
 }
 
 body#cheese .var5 img, video, object, embed {
-    max-width: 35%;
+    max-width: 47.45%;
     position: absolute;
     left: 60%;
     top: 300%;
