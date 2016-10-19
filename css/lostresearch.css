@@ -1,9 +1,27 @@
 body#lostresearch {
 background-color:white;
 }
+
 body#lostresearch {
 line-height: 0.9;
+
 {
+
+span.time {
+display: none;
+font-size: 16px;
+text-transform: uppercase;
+}
+    
+body#lostresearch h3.tag_title {
+    display: none;
+}
+body#lostresearch ul.tags {
+    display: none;
+}
+body#lostresearch a.link {
+    display: none;
+}
 
 body#lostresearch .post:hover {
     z-index: 999;
