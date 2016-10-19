@@ -19,7 +19,6 @@ ul.tags {
     float: left;
     width: 300px;
     margin: 60px;
-    max-height:400px;
 }
 
 .post:nth-child(odd) {
