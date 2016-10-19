@@ -103,6 +103,11 @@ a.link {
     line-height:14.5pt;
 }
 
+.copy{
+    font-size:14px;
+    line-height:14.5pt;
+}
+
 
 .append {
     position: fixed;
