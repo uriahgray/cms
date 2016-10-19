@@ -28,7 +28,7 @@ ul.tags {
 }
 
 .post:nth-child(even) {
-    float: left;
+    float: center;
     width: 500px;
     margin: 30px;
 }
