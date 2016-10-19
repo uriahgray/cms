@@ -77,7 +77,6 @@ span.time {
 
 .container {
     padding-top: 400px;
-    background: antiquewhite;
 }
 
 .postcontainer {
@@ -88,4 +87,8 @@ span.time {
 .post.panorama {
     background: white;
     padding: 30px;
+}
+
+html {
+    background: antiquewhite;
 }
