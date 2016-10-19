@@ -135,7 +135,7 @@ body#cheese .var6 img, video, object, embed {
     line-height: 100px;
     top: 50%;
     margin-top: -50px;
-    z-index:100px;
+    z-index:100;
 }
 
 
