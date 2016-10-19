@@ -164,21 +164,6 @@ body#cheese .comm1 img, video, object, embed {
     background-color: white;
     display: none;
 }
-
-.newcheese {
-    position: fixed;
-    left: 50%;
-    width: 100%;
-    color: navy;
-    margin-left: -50%;
-    height: 60px;
-    line-height: 60px;
-    top: 50%;
-    margin-top: -30px;
-    z-index: 100;
-    background-color: white;
-    display: none;
-}
   
 
 
