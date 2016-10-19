@@ -62,6 +62,8 @@ body#lostresearch .post.lost3 {
     left: 1200px;
     top: 300px;
 }
+.post img{
+	border:1px solid blue;
 
 body#lostresearch .post.lost4 {
     left: 190.972px;
