@@ -169,8 +169,9 @@ body#cheese .comm1 img, video, object, embed {
     max-width: 47.45%;
     height: auto;
     position: fixed;
-    top: 5%;
-    left: 30%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     z-index: 100;
 }
 
