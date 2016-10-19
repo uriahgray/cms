@@ -124,5 +124,18 @@ body#cheese .var6 img, video, object, embed {
     opacity: 1;
 }
 
+.cheesetitle {
+position: fixed;
+left: 50%;
+width: 400px;
+text-align: center;
+color: red;
+margin-left: -200px;
+height: 100px;
+line-height: 100px;
+top: 50%;
+margin-top: -50px;
+}
+
 
 
