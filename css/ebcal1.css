@@ -16,22 +16,17 @@ ul.tags {
 
 .post {
     display: block;
-    float: right;
+    float: left;
     width: 500px;
     margin: 40px;
 }
 
 .post:nth-child(odd) {
-    float: center;
+    float: right;
     width: 500px;
     margin: 30px;
 }
 
-.post:nth-child(even) {
-    float: center;
-    width: 500px;
-    margin: 20px;
-}
 
 .post.img {
     width: 200px;
