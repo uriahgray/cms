@@ -24,3 +24,12 @@ div.center {
     margin-top: -300px;
 }
 
+
+.title {
+position:fixed;
+top:10px;
+left:50%;
+width:700px;
+margin-left:-350px;
+text-align:center;
+}
