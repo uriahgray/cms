@@ -43,6 +43,11 @@ body#lostresearch .post {
     top:0px;
     left:0px;
     
+    
+    
+    
+    
+    
 }
 
 body#lostresearch .post.phone{
@@ -50,4 +55,7 @@ body#lostresearch .post.phone{
     top: 30px;
     width: 170px;
 }
-
+body#lostresearch .post.person1 {
+    left: 550px;
+    top: 960px;
+}
