@@ -73,3 +73,7 @@ html {
     position: fixed;
     z-index: -4;
 }
+
+a.link {
+ display:none;
+}
