@@ -17,14 +17,13 @@
 }
 
 .post {
-    margin-top: 4%
-    max-width: 50%;
+    margin-top: 4%;
     height: 400px;
-    margin-bottom: 0px;
     display: block;
     float: left;
     padding: 10px;
-    margin-bottom: 20px;
+    margin-bottom: -2%;
+    width: 50%;
 }
 
 a {
