@@ -1,41 +1,27 @@
-body#lostresearch {
-background-color:white;
-}
 
-body#lostresearch {
-line-height: 0.9;
-
-{
-
-span.time {
+body#megaphone h3.tag_title {
 display: none;
-font-size: 16px;
-text-transform: uppercase;
 }
-    
-body#lostresearch h3.tag_title {
-    display: none;
-}
-body#lostresearch ul.tags {
-    display: none;
-}
-body#lostresearch a.link {
+
+body#megaphone ul.tags {
     display: none;
 }
 
-body#lostresearch .post:hover {
+body#megaphone .copy {
+    display: none;
+}
+
+body#megaphone a.link {
+    display: none;
+}
+
+body#megaphone .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+
+body#megaphone .post:hover {
     z-index: 999;
 }
-
-body#lostresearch .post {
-    width: 150px;
-    height: 150px;
-    position: absolute;
-    top:0px;
-    left:0px;
-    
-}
-
 
 body#lostresearch .post.moodboard {
     display: none;
