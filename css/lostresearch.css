@@ -45,3 +45,9 @@ body#lostresearch .post {
     
 }
 
+body#lostresearch .post.phone{
+    left: 954.962px;
+    top: 30px;
+    width: 170px;
+}
+
