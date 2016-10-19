@@ -43,3 +43,7 @@ div.center {
 a {
 display: none;
 }
+
+a.link {
+    display: none;
+}
