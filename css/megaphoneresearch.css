@@ -54,27 +54,6 @@ span.time {
 }
 
 
-
-
-
-
-
-
-.textheading {
-    font-family: Arial, sans-serif;
-    color: #000;
-    font-size: 2.7em;
-    line-height: 1em;
-    text-decoration: none;
- position:fixed;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
- 
-   
-}
-
-
 .container {
     padding-top: 400px;
 }
