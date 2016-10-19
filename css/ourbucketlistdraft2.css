@@ -11,7 +11,7 @@ h3.tag_title {
 }
 
 body {
-background-color: silver;
+background-color: white;
 }
 
 div.center {
@@ -22,7 +22,6 @@ div.center {
     left: 50%;
     margin-left: -500px;
     margin-top: -300px;
-    border: 1px solid navy;
 }
 
 
