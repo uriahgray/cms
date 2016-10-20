@@ -3,19 +3,19 @@ body#cheese {
 }
 
 .green {
-    color: green;
+    color: #dae28d;
 }
 
 .pink {
-    color: pink;
+    color: #e58ab3;
 }
 
 .blue {
-    color: blue;
+    color: #2dbdb9;
 }
 
 .orange {
-    color: orange;
+    color: #f38d7a;
 }
 
 span.time {
@@ -167,8 +167,8 @@ body#cheese .comm1 img, video, object, embed {
     margin-left: -50%;
     height: 60px;
     line-height: 60px;
-    bottom: 0%;
-    margin-bottom: 0px;
+    bottom: 50%;
+    margin-bottom: -50px;
     z-index: 100;
     background-color: white;
 }
