@@ -1,11 +1,5 @@
-@font-face {
-  font-family: 'circular';
-  src: url('CircularStd-Book.otf');
-  font-style: normal;
-}
-
 body#cheese {
-    background-color: white;
+    background-color: navy;
 }
 
 span.time {
