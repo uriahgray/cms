@@ -140,23 +140,6 @@ body#cheese .comm1 img, video, object, embed {
     z-index: 2;
 }
 
-.cheesetitle {
-    position: fixed;
-    font-size: 45px;
-    font-weight: lighter;
-    left: 50%;
-    width: 100%;
-    text-align: center;
-    color: navy;
-    margin-left: -50%;
-    height: 60px;
-    line-height: 60px;
-    top: 0%;
-    margin-top: 0px;
-    z-index: 100;
-    background-color: white;
-}
-
 .tags {
     position: fixed;
     font-size: 30px;
