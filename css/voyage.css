@@ -52,25 +52,18 @@ body#voyage i {
     width: 962px;
 }
 
-.abstract_toggle {
-  display: block;
-  position: fixed;
-  bottom: 10px;
-  left: 10px;
-  height: 300px;
-  width: 962px;
-  transition: opacity 1s;
+.abstract{
+  visibility: hidden;
+  position: absolute;
+  color: orange;
+  font-size: 11px;
+  background-color: white;
+  width: 200px;
+  padding: 10px;
+  margin-left: 560px;
 }
 
-.abstract_toggle:hover .abstract_info {
-  opacity: 1;
-}
-
-.abstract_header {
-
-}
-
-.abstract_info {
-opacity:0;
-transition: opacity 1s;
+a:hover{
+visibility: visible;
+display: block;
 }
