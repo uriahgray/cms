@@ -157,6 +157,16 @@ body#cheese .var7 img, video, object, embed {
     opacity: 1;
 }
 
+body#cheese .var8 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 53%;
+    top: 300%;
+    z-index: 1;
+    opacity: 1;
+    transform: rotate(90deg);
+}
+
 body#cheese .comm1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
@@ -171,7 +181,7 @@ body#cheese .comm2, img, video, object, embed {
     height: auto;
     position: absolute;
     left: 2%;
-    top: 130%;
+    top: 300%;
     z-index: 2;
 }
 
