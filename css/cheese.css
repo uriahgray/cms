@@ -140,7 +140,6 @@ body#cheese .comm1 img, video, object, embed {
 }
 
 .cheesetitle {
-    font-family: 'circular';
     position: fixed;
     font-size: 50px;
     font-weight: lighter;
