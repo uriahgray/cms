@@ -53,17 +53,10 @@ body#voyage i {
 }
 
 .abstract{
-  visibility: hidden;
-  position: absolute;
-  color: orange;
-  font-size: 11px;
-  background-color: white;
-  width: 200px;
-  padding: 10px;
-  margin-left: 560px;
+  display: block;
+  position: fixed;
 }
 
 a:hover{
-visibility: visible;
 display: block;
 }
