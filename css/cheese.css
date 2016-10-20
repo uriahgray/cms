@@ -157,5 +157,21 @@ body#cheese .comm1 img, video, object, embed {
     background-color: white;
 }
 
+.tags {
+    position: fixed;
+    font-size: 30px;
+    font-weight: lighter;
+    left: 50%;
+    width: 100%;
+    text-align: center;
+    color: navy;
+    margin-left: -50%;
+    height: 60px;
+    line-height: 60px;
+    bottom: 0%;
+    margin-bottom: 0px;
+    z-index: 100;
+    background-color: white;
+}
 
 
