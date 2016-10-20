@@ -147,15 +147,6 @@ body#cheese .comm1 img, video, object, embed {
     opacity: 1;
 }
 
-.comm2, img, video, object, embed {
-    max-width: 47.45%;
-    height: auto;
-    left: 30%;
-    position: absolute;
-    top: 5%;
-    z-index: -1;
-}
-
 .tags {
     position: fixed;
     font-size: 30px;
@@ -165,8 +156,8 @@ body#cheese .comm1 img, video, object, embed {
     text-align: center;
     color: navy;
     margin-left: -50%;
-    height: 60px;
-    line-height: 60px;
+    height: 100px;
+    line-height: 100px;
     bottom: 50%;
     margin-bottom: -50px;
     z-index: 100;
