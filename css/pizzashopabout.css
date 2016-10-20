@@ -107,5 +107,14 @@ ul.tags {
     display: none;
 }
 
-
+p {
+    text-align: center;
+    font-size: 65px;
+    line-height: 65px;
+    font-family: times;
+    font-weight: 800;
+    display: inline-block;
+    max-width: 800px;
+    margin-left: 200px;
+}
 
