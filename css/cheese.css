@@ -152,8 +152,8 @@ body#cheese .comm1 img, video, object, embed {
     height: auto;
     left: 30%;
     position: absolute;
-    top: 20%;
-    z-index: 2;
+    top: 5%;
+    z-index: -1;
 }
 
 .tags {
