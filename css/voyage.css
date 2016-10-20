@@ -40,3 +40,14 @@ body#voyage article.posts {
 body#voyage i {
     font-style: italic;
 }
+
+p {
+    position: fixed;
+    top: 85%;
+    left: 3%;
+    width: 860px;
+    font-size: 20px;
+    line-height: 1.3;
+    font-weight: 200;
+    color: rgb(27, 49, 94);
+}
