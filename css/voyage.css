@@ -1,3 +1,10 @@
+.post.photo.voyage.certificate.jmsch13.postnow {
+    z-index: 999;
+    position: fixed;
+    top: 20%;
+    left: 65%;
+}
+
 body#voyage .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     right: 0;
     top: 0;
