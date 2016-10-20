@@ -42,7 +42,6 @@ body#voyage i {
 }
 
 .abstract {
-    display: none;
     position: fixed;
     left: 120px;
     top: 86%;
@@ -54,19 +53,26 @@ body#voyage i {
     width: 900px;
 }
 
-a:hover span{
-display: block;
-}
-
-.append {
-    position: fixed;
-    top: 90%;
-    left: 2.5%;
-}
-
 a {
     text-decoration: none;
     font-size:100px;
     color: rgba(27, 49, 94,1);
 }
+
+a:link span{
+  display: none;
+}
+
+a:visited span{
+  display: none;
+}
+
+a:hover span{
+display: block;
+}
+
+a:active span{
+  display: none;
+}
+
 
