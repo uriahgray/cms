@@ -98,3 +98,14 @@ a {
     margin-left: -1%;
     position: fixed;
 }
+
+ul.tags {
+    display: none;
+}
+
+.title h3.title {
+    display: none;
+}
+
+
+
