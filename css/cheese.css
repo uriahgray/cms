@@ -151,8 +151,8 @@ body#cheese .comm2, img, video, object, embed {
     max-width: 47.45%;
     height: auto;
     position: absolute;
-    left: 10%;
-    top: 180%;
+    left: 2%;
+    top: 130%;
     z-index: 2;
 }
 
