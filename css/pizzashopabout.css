@@ -22,6 +22,7 @@ p {
     display: inline-block;
     max-width: 800px;
     margin-left: 200px;
+    margin-top:10%;
 }
 
 .postcontainer a.link {
@@ -31,3 +32,4 @@ p {
 h3.tag_title {
     display: none;
 }
+
