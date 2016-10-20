@@ -149,11 +149,11 @@ body#cheese .comm1 img, video, object, embed {
 
 body#cheese .comm2, img, video, object, embed {
     max-width: 47.45%;
+    height: auto;
     position: absolute;
-    left: 20%;
+    left: 10%;
     top: 180%;
-    z-index: 1;
-    opacity: 1;
+    z-index: 2;
 }
 
 .tags {
