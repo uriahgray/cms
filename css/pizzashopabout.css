@@ -27,3 +27,7 @@ p {
 .postcontainer a.link {
     display: none;
 }
+
+h3.tag_title {
+    display: none;
+}
