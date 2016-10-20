@@ -51,12 +51,32 @@ body#voyage i {
     text-transform: none;
     width: 962px;
 }
-
-.abstract{
-  display: block;
-  position: fixed;
+.abstract {
+    display: none;
+    position: fixed;
+    left: 120px;
+    top: 86%;
+    font-size: 100%;
+    font-weight:300;
+    color: rgba(27, 49, 94, 100);
+    line-height: 1.3;
+    text-transform: none;
+    width: 900px;
 }
 
-a:hover{
+a:hover span{
 display: block;
 }
+
+.append {
+    position: fixed;
+    top: 90%;
+    left: 2.5%;
+}
+
+a {
+    text-decoration: none;
+    font-size:100px;
+    color: rgba(27, 49, 94,1);
+}
+
