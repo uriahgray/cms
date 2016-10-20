@@ -39,7 +39,7 @@ body#voyage img.set_photos {
 }
 
 body#voyage article.posts {
-    width: 10620px;
+    width: 10000px;
     height: 400px;
     display: flex;
 }
