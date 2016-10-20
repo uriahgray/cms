@@ -68,10 +68,7 @@ h3 {
 }
 
 .post.photo.racri2.logo.pizzashopdraft.postnow {
-    margin-top: -12%;
-    max-width: 30%;
-    margin-left: -1%;
-    position: fixed;
+   display:none;
 }
 
 .post.logo p {
@@ -80,4 +77,10 @@ h3 {
 
 .streetview img {
     max-width: 6%;
+}
+
+a#logo {
+    max-width: 30%;
+    position: fixed;
+    margin-top: -11%;
 }
