@@ -136,7 +136,8 @@ body#cheese .comm1 img, video, object, embed {
     height: auto;
     left: 30%;
     position: absolute;
-    top: 5%;
+    top: 20%;
+    z-index: 2;
 }
 
 .cheesetitle {
