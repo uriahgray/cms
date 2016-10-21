@@ -61,7 +61,7 @@ p {
 
 .abstract{
     position: fixed;
-    top: 80%;
+    top: 78%;
     left: 50px;
     font-size: 100%;
     font-weight: 600;
@@ -94,7 +94,7 @@ transition: opacity 1s;
 }
 .abstract_header {
     position: fixed;
-    top: 80%;
+    top: 75%;
     left: 3%;
     font-size: 50px;
     color: red;
