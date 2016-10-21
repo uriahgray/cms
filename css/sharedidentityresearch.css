@@ -4,6 +4,11 @@ h3.tag_title {
 	display: none;
 }
 
+ul.tags li {
+    display: inline-block;
+    font-size: 16px;
+    display: none;
+}
 
 
 
@@ -11,7 +16,7 @@ h3.tag_title {
     padding: 20px;
     padding-left: 300px;
     padding-right: 300px;
-    text-align: center;
+    text-align: left;
     padding-top: 50px;
     font-size: 15px;
 }
