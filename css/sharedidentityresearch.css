@@ -2,3 +2,11 @@ h3.tag_title {
     padding-bottom: 20px;
     display: none;
 }
+
+img, video, object, embed {
+    max-width: 100%;
+    height: auto;
+    width: 500px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
