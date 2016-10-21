@@ -5,3 +5,7 @@ img.set_photos {}
     width: 400px;
     overflow: scroll;
 }
+.floated_img
+{
+    float: left;
+}
