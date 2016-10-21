@@ -40,14 +40,17 @@ a {
 
 
 .post {
-    width: 600px;
     display: block;
-    margin: auto;
-    padding: 40px;
+    float: left;
+    width: 400px;
+    margin: 40px;
 }
 
-
-
+.post:nth-child(odd) {
+    float: right;
+    width: 500px;
+    margin: 30px;
+}
 
 span.time {
     display: none;
@@ -55,17 +58,11 @@ span.time {
 
 
 .postcontainer {
-    background: white;
-    padding: 30px;
+  
 }
 
 .post.panorama {
-    background: white;
-    padding: 30px;
-}
 
-html {
-    background: antiquewhite;
 }
 
 
