@@ -1,1 +1,33 @@
 
+body#megaphone h3.tag_title {
+display: none;
+}
+
+body#megaphone ul.tags {
+    display: none;
+}
+
+body#megaphone .copy {
+    display: none;
+}
+
+body#megaphone a.link {
+    display: none;
+}
+
+body#megaphone .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+
+body#megaphone .post:hover {
+    z-index: 999;
+}
+
+body#megaphone .post {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top:0px;
+    left:0px;
+    
+}
