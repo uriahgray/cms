@@ -67,10 +67,7 @@ a {
 } */
 
 body#musings .post.mediac1 {
-    display: inline-block;
-    column-count: 4;
-    margin-left: 120px;
-    -webkit-border-radius: 3px;
+  padding: 20px;
 }
 
 
