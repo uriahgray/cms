@@ -10,3 +10,7 @@ img, video, object, embed {
     padding-right: 50px;
     padding-top: 50px;
 }
+
+.post.text p {
+    width: 500px;
+}
