@@ -27,3 +27,10 @@ img.set_photos {}
     margin-right: 35px;
     margin-left: 35px;
 }
+
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
