@@ -87,3 +87,8 @@ a.link {
 html {
     margin: 30px;
 }
+
+
+img.set_photos {
+    max-height: 350px;
+}
