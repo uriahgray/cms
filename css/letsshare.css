@@ -90,3 +90,12 @@ h2 {
     margin-left: 20px;
     font-size: 14px;
 }
+
+.intro {
+    font-size: 25px;
+    line-height: 40px;
+    max-width: 900px;
+    margin: auto;
+    margin-top: 188px;
+    
+}
