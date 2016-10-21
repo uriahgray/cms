@@ -44,3 +44,9 @@ b {
     font-weight: bold;
 }
 
+img, video, object, embed {
+    max-width: 100%;
+    height: auto;
+    padding-top: 28px;
+}
+
