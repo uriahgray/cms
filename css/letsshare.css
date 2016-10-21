@@ -84,10 +84,9 @@ h1 {
 h2 {
     margin: auto 0;
     text-align: center;
-/*     margin-top: -22px; */
+    margin-top: 22px;
     text-transform: uppercase;
     color: blue;
-    margin-left: 20px;
     font-size: 14px;
 }
 
@@ -101,5 +100,5 @@ h2 {
 
 #Heading {
     position: fixed;
-    margin-top: -197px;
+    margin-top: -99px;
 }
