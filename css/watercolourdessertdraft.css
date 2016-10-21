@@ -34,3 +34,7 @@ a.link {
     font-family: courier;
     text-transform: uppercase;
 }
+
+ul.tags {
+    display: none;
+}
