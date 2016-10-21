@@ -14,3 +14,8 @@ img, video, object, embed {
 .post.text p {
     width: 500px;
 }
+
+a {
+    text-decoration: underline;
+    display: none;
+}
