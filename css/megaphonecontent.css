@@ -39,10 +39,14 @@ body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls-
 
 .append {
     width: 150px;
+    height: 300px;
     position: fixed;
     display:block;
     margin: auto;
+    margin-left: -75px;
+    margin-top: -77px;
     top: 50%;
     left: 50%;
     z-index: 9;
 }
+
