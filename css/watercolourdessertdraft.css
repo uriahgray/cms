@@ -1,17 +1,18 @@
 img.set_photos {}
 
 .post.photo.jahar25.watercolourdessertdraft {
-    height: 300px;
-    width: 300px;
+    height: 350px;
+    width: 350px;
     overflow: scroll;
 }
 .post.photo.jahar25.watercolourdessertdraft {
     display: inline-block;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     zoom: 1;
 }
 
 .post.photo.jahar25.watercolourdessertdraft {
     float: left;
 }
+
