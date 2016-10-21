@@ -68,7 +68,7 @@ span.time {
     border-style: solid;
     border-width: 1pt;
     padding: 10px;
-    z-index: 9999;
+    z-index: 13;
 }
 
 a.link {
