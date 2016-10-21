@@ -1,29 +1,29 @@
 
-body#megaphone h3.tag_title {
+body#lostresearch h3.tag_title {
 display: none;
 }
 
-body#megaphone ul.tags {
+body#lostresearch ul.tags {
     display: none;
 }
 
-body#megaphone .copy {
+body#lostresearch .copy {
     display: none;
 }
 
-body#megaphone a.link {
+body#lostresearch a.link {
     display: none;
 }
 
-body#megaphone .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
-body#megaphone .post:hover {
+body#lostresearch .post:hover {
     z-index: 999;
 }
 
-body#megaphone .post {
+body#lostresearch .post {
     width: 150px;
     height: 150px;
     position: absolute;
