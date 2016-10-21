@@ -6,7 +6,7 @@ img.set_photos {}
     overflow: scroll;
 }
 .post.photo.jahar25.watercolourdessertdraft {
-    display: inline-block;
+    display: block;
     width: 350px;
     height: 350px;
     zoom: 1;
