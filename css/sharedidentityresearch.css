@@ -35,4 +35,7 @@ a.link {
     position: fixed;
     text-align: center;
     padding-left: 161px;
+    margin-top: -15px;
+    opacity: 0.5;
 }
+
