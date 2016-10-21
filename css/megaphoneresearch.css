@@ -74,3 +74,11 @@ span.time {
 a.link {
  display:none;
 }
+
+
+
+.post {
+    border-style: solid;
+    border-width: 1pt;
+    padding: 20px;
+}
