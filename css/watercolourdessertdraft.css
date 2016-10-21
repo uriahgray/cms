@@ -5,4 +5,9 @@ img.set_photos {}
     width: 400px;
     overflow: scroll;
 }
-
+.postcontainer {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    zoom: 1;
+}
