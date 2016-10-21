@@ -57,13 +57,6 @@ span.time {
 }
 
 
-.postcontainer {
-  
-}
-
-.post.panorama {
-
-}
 
 
 
@@ -88,4 +81,9 @@ a.link {
     border-style: solid;
     border-width: 1pt;
     padding: 20px;
+}
+
+
+html {
+    margin: 30px;
 }
