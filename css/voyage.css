@@ -50,9 +50,9 @@ body#voyage i {
 
 p {
     position: fixed;
-    top: 85%;
+    top: 75%;
     left: 3%;
-    width: 860px;
+    width: 800px;
     font-size: 20px;
     line-height: 1.3;
     font-weight: 200;
@@ -61,7 +61,7 @@ p {
 
 .abstract{
     position: fixed;
-    top: 80%;
+    top: 70%;
     left: 50px;
     font-size: 100%;
     font-weight: 600;
