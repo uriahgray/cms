@@ -96,6 +96,10 @@ h2 {
     line-height: 40px;
     max-width: 900px;
     margin: auto;
-    margin-top: 188px;
-    
+    margin-top: 188px;    
+}
+
+#Heading {
+    position: fixed;
+    margin-top: -197px;
 }
