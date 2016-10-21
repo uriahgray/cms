@@ -62,13 +62,15 @@ span.play-count{
 
 .post.ebcal1mainheading {
     width: 500px;
-    margin-left: 50%;
-    left: -240px;
+    height: 200px;
+    margin-left: -250px;
+    left: 50%;
     z-index: 9;
     position: fixed;
-    top: 60%;
-    margin-top: -150px;
+    top: 50%;
+    margin-top: -100px;
 }
+
 
 
 
