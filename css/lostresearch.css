@@ -43,6 +43,20 @@ body#lostresearch .post.concept {
 body#lostresearch .post.mockup {
         display: none;
 }
+body#lostresearch .post.lost10 {
+    top: 200px;
+    left: 100px;
+}
+
+body#lostresearch .post.lost2 {
+    top: 100px;
+    right: 0px;
+}
+body#lostresearch .post.lost6 {
+    top: 0px;
+    right: 0px;
+}
+
 
 
 
