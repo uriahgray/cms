@@ -35,3 +35,14 @@ body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls-
 .post {
     pointer-events:none;
 }
+
+
+.append {
+    width: 150px;
+    position: fixed;
+    display:block;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    z-index: 9;
+}
