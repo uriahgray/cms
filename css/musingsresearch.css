@@ -1,6 +1,6 @@
 body#musingsresearch {
     margin: 0;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 body#musingsresearch ul.tags {
@@ -27,7 +27,7 @@ body#musingsresearch .post.text.sehan4.postnow.text.musingsresearch {
 .post {} .post.text p {
     font-size: 16pt;
     line-height: 18pt;
-    color: whitesmoke;
+    color: grey;
     margin-left: -120px;
 }
 
