@@ -70,8 +70,7 @@ body#letsshare .post.text {
 }
 
 h1 {
-    position: fixed;
-    
+/*     position: fixed; */
     text-decoration: underline;
     font-size: 70px;
     line-height: 100px;
