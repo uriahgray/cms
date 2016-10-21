@@ -5,7 +5,6 @@ img.set_photos {}
     width: 400px;
     overflow: scroll;
 }
-.floated_img
-{
+,post.photo.jahar25.watercolourdessertdraft {
     float: left;
 }
