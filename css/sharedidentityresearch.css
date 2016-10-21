@@ -25,3 +25,14 @@ a.link {
     padding-top: 50px;
     font-size: 15px;
 }
+
+.post.text.heading {
+    font-size: 23px;
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: blue;
+    position: fixed;
+    text-align: center;
+    padding-left: 161px;
+}
