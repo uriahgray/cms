@@ -10,7 +10,12 @@ ul.tags li {
     display: none;
 }
 
-
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
 
 .container {
     padding: 20px;
