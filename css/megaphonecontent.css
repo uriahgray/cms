@@ -30,3 +30,8 @@ body#megaphonecontent .tmblr-iframe--desktop-logged-in-controls.iframe-controls-
 .copy{
     text-align:center;
 }    
+
+
+.post {
+    pointer-events:none;
+}
