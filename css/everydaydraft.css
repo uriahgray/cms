@@ -80,3 +80,11 @@ b {
   background-image: linear-gradient(to bottom, #f5d03b, #f5b60a);
   text-decoration: none;
 }
+
+.post.heading {
+    width: 100%;
+    text-align: center;
+	margin-bottom: 20px;
+}
+
+
