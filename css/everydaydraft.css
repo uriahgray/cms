@@ -51,6 +51,13 @@ b {
     color: red;
 }
 
+.post.details {
+    font-size: 10px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 250px;
+}
+
 .post.logo {
     padding-bottom: 30px;
     position: fixed;
