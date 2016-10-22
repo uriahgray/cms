@@ -1,3 +1,7 @@
+body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+
 body#musings {
     background: whitesmoke;
     padding-bottom: 100px;
@@ -13,10 +17,6 @@ body#musings .fblock {
     padding-left: 50px;
 }
 
-/* body#musings .scroll1 {
-    overflow: auto;
-} */
-
 body#musings scroll1 {
     float: left;
     width: 50%;
@@ -24,6 +24,7 @@ body#musings scroll1 {
     height: 100%;
     overflow: scroll;
 }
+
 body#musings scroll2  {
     float: left;
     width: 50%;
@@ -39,30 +40,6 @@ h2 {
     color: black;
     max-width: 300px    
 }
-
-body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
-    display: none;
-}
-/* 
-body#musings h3 {
-    position: fixed;
-    display: none;
-} */
-
-/* body#musings .copy {
-    position: fixed;
-    z-index: 99;
-    font-weight: 900;
-    font-size: 30pt;
-    font-family: helvetica;
-    padding-left: 30px;
-    padding-top: 70px;
-} */
-
-/* body#musings .post.mediac1 {
-    padding-left: 100px;
-    padding-top: 20px;
-} */
 
 body#musings ul.tags {
     display: none;
@@ -97,14 +74,6 @@ a {
     padding-bottom: 50px;
     padding-left: 30px;
     text-decoration: none;
-}
-
-/* a.nav:hover {
-    color: white;
-} */
-
-body#musings .post.mediac1 {
-  padding: 20px;
 }
 
 
