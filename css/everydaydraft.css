@@ -46,3 +46,7 @@ b {
 .post.no {
     color: red;
 }
+
+.post.logo {
+    padding-bottom: 30px;
+}
