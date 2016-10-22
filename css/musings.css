@@ -8,6 +8,15 @@ body#musings {
     height: 2000px;
 }
 
+body#musings .fblock {
+    color: white;
+    width: 100%;
+    height: 280px;
+    position: fixed;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
 
 body#musings {}
 
