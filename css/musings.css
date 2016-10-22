@@ -15,3 +15,10 @@ h3.tag_title {
     padding-bottom: 20px;
     display: none;
 }
+
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
