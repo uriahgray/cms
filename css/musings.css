@@ -48,3 +48,23 @@ body#musings scroll2 {
     height: 100%;
     overflow: scroll;
 }
+
+h2 {
+    font-family: courier;
+    font-size: 8pt;
+    line-height: 11pt;
+    color: black;
+    max-width: 300px    
+}
+
+h1 {
+    font-size: 30pt;
+    color: black;
+    font-weight: 900;
+    z-index: 99;
+    position: fixed;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
