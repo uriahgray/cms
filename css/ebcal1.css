@@ -38,6 +38,11 @@ a {
 }
 
 
+.post.quote {
+    border-style: solid;
+    border-width: 1pt;
+    padding: 15pt;
+}
 
 
 h3 {
