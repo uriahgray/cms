@@ -84,11 +84,12 @@ h1 {
 h2 {
     margin: auto 0;
     text-align: center;
-    margin-top: 22px;
+    margin-top: 1px;
     text-transform: uppercase;
     color: blue;
     font-size: 14px;
-    position:absolute;
+    position:fixed;
+    left:452px;
 }
 
 .intro {
