@@ -5,3 +5,8 @@ body#musings {}
     padding-left: 200px;
     width: 700px;
 }
+
+ol, ul {
+      list-style: none;
+      display: none;
+  }
