@@ -39,6 +39,10 @@ b {
     padding-right: 30px;
 }
 
+.post.curateorange {
+    margin-left: 150px;
+}
+
 .post.yes {
     color: green;
 }
