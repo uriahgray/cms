@@ -88,6 +88,7 @@ h2 {
     text-transform: uppercase;
     color: blue;
     font-size: 14px;
+    position:absolute;
 }
 
 .intro {
@@ -100,5 +101,5 @@ h2 {
 
 #Heading {
     position: fixed;
-    margin-top: -99px;
+    margin-top: -92px;
 }
