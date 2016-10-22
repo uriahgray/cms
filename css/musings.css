@@ -34,16 +34,16 @@ a.link {
 }
 
 
-#left {
+body#musings scroll1 {
     float: left;
-    width: 50%;
+    width: 40%;
     background: red;
     height: 100%;
     overflow: scroll;
 }
-#right {
+body#musings scroll2 {
     float: left;
-    width: 50%;
+    width: 40%;
     background: blue;
     height: 100%;
     overflow: scroll;
