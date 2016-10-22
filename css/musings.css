@@ -26,9 +26,8 @@ body#musings {}
 }
 
 body#musings .post.photo.musings.postnow.sehan4.scroll2 {
-    padding-left: 1000px;
     width: 700px;
-    border: 3px, red;
+    z-index: 99;
 }
 
 ol, ul {
