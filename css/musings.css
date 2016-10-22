@@ -55,6 +55,17 @@ h2 {
     max-width: 300px    
 }
 
+h2 .tagline {
+    position: fixed;
+    padding-left: 50px
+    padding-top: 400px    
+    font-family: courier;
+    font-size: 8pt;
+    line-height: 11pt;
+    color: black;
+    max-width: 300px 
+}        
+        
 h1 {
     font-size: 30pt;
     color: black;
