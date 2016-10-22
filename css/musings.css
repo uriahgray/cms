@@ -3,6 +3,14 @@ body#musings {
     padding-bottom: 100px;
 }
 
+.fblock {
+    width: 200px;
+    height: 200px
+    position: fixed;
+    padding-top: 20px;
+    
+}
+
 body#musings .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
