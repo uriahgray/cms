@@ -40,22 +40,6 @@ a.link {
     text-transform: uppercase;
 }
 
-
-body#musings scroll1 {
-    float: left;
-    width: 40%;
-    background: red;
-    height: 100%;
-    overflow: scroll;
-}
-body#musings scroll2 {
-    float: left;
-    width: 40%;
-    background: blue;
-    height: 100%;
-    overflow: scroll;
-}
-
 h2 {
     font-family: courier;
     font-size: 8pt;
