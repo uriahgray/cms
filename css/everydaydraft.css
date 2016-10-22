@@ -50,3 +50,33 @@ b {
 .post.logo {
     padding-bottom: 30px;
 }
+
+.btn {
+  background: #fcd741;
+  background-image: -webkit-linear-gradient(top, #fcd741, #fcbf0a);
+  background-image: -moz-linear-gradient(top, #fcd741, #fcbf0a);
+  background-image: -ms-linear-gradient(top, #fcd741, #fcbf0a);
+  background-image: -o-linear-gradient(top, #fcd741, #fcbf0a);
+  background-image: linear-gradient(to bottom, #fcd741, #fcbf0a);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  -webkit-box-shadow: 0px 1px 4px #666666;
+  -moz-box-shadow: 0px 1px 4px #666666;
+  box-shadow: 0px 1px 4px #666666;
+  font-family: verdana;
+  color: #000000;
+  font-size: 11px;
+  padding: 5px 14px 5px 14px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f5d03b;
+  background-image: -webkit-linear-gradient(top, #f5d03b, #f5b60a);
+  background-image: -moz-linear-gradient(top, #f5d03b, #f5b60a);
+  background-image: -ms-linear-gradient(top, #f5d03b, #f5b60a);
+  background-image: -o-linear-gradient(top, #f5d03b, #f5b60a);
+  background-image: linear-gradient(to bottom, #f5d03b, #f5b60a);
+  text-decoration: none;
+}
