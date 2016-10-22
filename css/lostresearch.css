@@ -79,11 +79,6 @@ body#lostresearch .post.lost7 {
     left: 800px;
 }
 
-body#lostresearch .post.lost8 {
-    top: 500px;
-    left: 600px;
-}
-
 body#lostresearch .post.lost9 {
     top: 100px;
     left: 200px;
@@ -111,13 +106,13 @@ body#lostresearch .post.lost13 {
 }
 
 body#lostresearch .post.lost14 {
-    top: 800px;
-    left: 800px;
+    top: 700px;
+    left: 400px;
 }
 
 body#lostresearch .post.lost15 {
-    top: 400px;
-    left: 100px;
+    top: 0px;
+    left: 0px;
 }
 
 body#lostresearch .post.lost16 {
@@ -179,3 +174,38 @@ body#lostresearch .post.glove6 {
     left: 700px;
     width: 400px;
 }
+
+body#lostresearch .post.lostfile {
+    top: 900px;
+    left: 500px;
+    width: 900px;
+    height: 900px;
+}
+body#lostresearch .post.lives {
+    top: 1465px;
+    left: 350px;
+    width: 500px;
+}
+body#lostresearch .post.lost1 {
+    top: 950px;
+    left: 900px;
+}
+
+body#lostresearch .post.lost2 {
+    top: 1450px;
+    left: 250px;
+    width: 550px;
+    height: 550px;
+}
+
+body#lostresearch .post.lost8 {
+    top: 900px;
+    left: 600px;
+    width: 550px;
+    height: 550px;
+}
+
+
+
+
+
