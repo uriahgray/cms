@@ -16,9 +16,7 @@ body#musings {}
     width: 700px;
 }
 
-body#musings {}
-
-.post.photo.musings.postnow.sehan4.scroll2 {
+body#musings .post.photo.musings.postnow.sehan4.scroll2 {
     padding-left: 1000px;
     width: 700px;
 }
@@ -59,3 +57,14 @@ h1 {
     padding-left: 30px;
 }
 
+body#musings a {
+    font-size: 20pt;
+    color: black;
+    font-weight: 900;
+    z-index: 99;
+    position: fixed;
+    padding-top: 140px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    text-decoration: none;
+}
