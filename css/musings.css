@@ -55,11 +55,12 @@ h2 {
     max-width: 300px    
 }
 
-h3 {
+h4 {
     position: fixed;
     padding-left: 50px
     padding-top: 400px    
     font-family: courier;
+    text-transform: lowercase;
     font-size: 8pt;
     line-height: 11pt;
     color: black;
