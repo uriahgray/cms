@@ -16,6 +16,13 @@ body#musings {}
     width: 700px;
 }
 
+body#musings {}
+
+.post.photo.musings.postnow.sehan4.scroll2 {
+    padding-left: 1000px;
+    width: 700px;
+}
+
 ol, ul {
       list-style: none;
       display: none;
