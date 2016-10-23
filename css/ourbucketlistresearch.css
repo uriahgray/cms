@@ -58,7 +58,7 @@ article.posts {
     text-align: center;
 }
 
-.post.text.postnow.postnowtitle {
+.post.text.ourbucketlist.ourbucketlisttitle {
     position: fixed;
     top: 50%;
     left: 50%;
@@ -87,12 +87,12 @@ p {
 
 
 
-.nav.postnow {
+.nav.ourbucketlist {
     position: fixed;
     top: 20px;
     left: 20px;
 }
 
-.nav.postnow a {
+.nav.ourbucketlist a {
     display: block;
 }
