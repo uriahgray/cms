@@ -4,6 +4,10 @@ body#ourbucketlistdraft {
     background-position-y: 19%;
 }
 
+.copy {
+    font-family: palatino;
+}
+
 a {
     text-decoration: none;
     color: black;
