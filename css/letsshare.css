@@ -102,7 +102,7 @@ h2 {
 
 #Heading h1 {
     position: fixed;
-    top: 100px;
+    top: -4px;
 }
 
 #ref h2 {
