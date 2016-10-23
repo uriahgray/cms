@@ -6,4 +6,6 @@ body {
     background-color: #b5e1e0;
 }
 
-
+h3.tag_title {
+    display: none;
+}
