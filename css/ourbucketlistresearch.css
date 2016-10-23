@@ -22,11 +22,11 @@ a {
 
 
 h3 {
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 40px;
     display: block;
     line-height: 100px;
-    font-family: times;
+    font-family: 'Karla', sans-serif;
 }
 
 h3.tag_title {
