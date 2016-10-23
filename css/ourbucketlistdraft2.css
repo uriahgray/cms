@@ -59,29 +59,14 @@ span {
 
 #list span {
     position: fixed;
-    top: 0px;
-    left: 0px;
+    top: -27px;
+    left: -20px;
     background: rgba(0, 1, 113, 0.9);
     height: 100vh;
     z-index: 999999;
     color: #fff;
     padding-top: 60px;
-    padding-left: 0px;
-    padding-right: 0px;
-    font-size: 60px;
-    line-height: 80px;
-}
-
-#list span {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    background: rgba(0, 1, 113, 0.9);
-    height: 100vh;
-    z-index: 999999;
-    color: #fff;
-    padding-top: 60px;
-    padding-left: 0px;
+    padding-left: 20px;
     padding-right: 0px;
     font-size: 60px;
     line-height: 80px;
