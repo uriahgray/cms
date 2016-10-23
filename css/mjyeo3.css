@@ -1,8 +1,9 @@
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+display: none;
+}
+
 body {
     background-color: #b5e1e0;
 }
 
 
-.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
-display: none;
-}
