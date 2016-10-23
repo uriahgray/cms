@@ -8,6 +8,10 @@ h3.tag_title {
 
 }
 
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+
 body {
     background-image: url(https://67.media.tumblr.com/c3bcc764aaf14df5d952b849b85f20a8/tumblr_oez162mgs31vf7reno1_1280.png);
     background-repeat: repeat;
