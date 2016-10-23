@@ -17,23 +17,23 @@
 
 }
 
-body#perfumedraft h3.tag_title {
+body#perfumedraftrationale h3.tag_title {
 	display: none;
 }
 
-body#perfumedraft ul.tags {
+body#perfumedraftrationale ul.tags {
 	display: none;
 }
 
-body#perfumedraft a.link {
+body#perfumedraftrationale a.link {
 	display: none;
 }
 
-body#perfumedraft .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#perfumedraftrationale .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
 	display: none;
 }
 
-body#perfumedraft .copy {
+body#perfumedraftrationale .copy {
     padding: 5px;
 	
 }
