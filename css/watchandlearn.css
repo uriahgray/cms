@@ -15,3 +15,9 @@ h3.tag_title {
  a.link {
     display: none;
 }
+
+<video controls autoplay>
+  <source src="ChessTutorial" type="video/mp4">
+  <source src="CornSlowMo" type="video/mp4">
+  <source src="MonkeySelfie2" type="video/mp4">
+</video>
