@@ -1,0 +1,104 @@
+body {
+	font-family: 'Karla', sans-serif;
+}
+
+a.link {
+    display: none;
+}
+
+ul.tags {
+    display: none;
+}
+
+.post iframe {
+    width: 400px;
+    max-width: 400px;
+}
+
+a {
+    color: navy;
+}
+
+
+h3 {
+    text-transform: none;
+    font-size: 40px;
+    display: block;
+    line-height: 100px;
+    font-family: 'Karla', sans-serif;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+.post {
+    max-height: inherit;
+    overflow: visible;
+    font-size: 20px;
+    line-height: 30px;
+    width: 100%;
+    float: none;
+    max-width: 100%;
+}
+
+.post {
+display:block;
+} 
+
+.post.text {
+    max-height: inherit;
+    overflow: visible;
+}
+
+article.posts {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.post.text.ourbucketlist.ourbucketlisttitle {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    text-align: center;
+    height: 100px;
+	display:none !important;
+}
+
+a.link {
+	display: none;
+}
+
+ul.tags {
+	display: none;
+}
+
+p {
+    font-size: 16px;
+    line-height: 23px;
+    text-transform: none;
+    color: navy;
+    font-family: 'Karla', sans-serif;
+}
+
+.postcontainer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.nav.ourbucketlist {
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 70px;
+    line-height: 80px;
+}
+
+img#logo {
+    position: fixed;
+    bottom: 20px;
+    margin-left: 20px;
+}
