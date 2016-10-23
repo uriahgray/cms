@@ -80,9 +80,9 @@ ul.tags {
 p {
     font-size: 16px;
     line-height: 16px;
-    text-transform: uppercase;
-    color: red;
-    font-family: arial black;
+    text-transform: none;
+    color: navy;
+    font-family: 'Karla', sans-serif;
 }
 
 
