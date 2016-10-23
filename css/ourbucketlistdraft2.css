@@ -91,4 +91,10 @@ img, video, object, embed {
     margin-top: 27px;
 }
 
+p {
+    font-family: helvetica;
+    margin-right: 61px;
+    line-height: 90px;
+}
+
 
