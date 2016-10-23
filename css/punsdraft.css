@@ -111,6 +111,41 @@ body#punsdraft .post.long .copy{
 }
 
 /* tags with #long1 or #short1 are just variations or different posts. This is all just to push it to the side*/
+body#punsdraft .post.short13 {
+  margin-left: 430px;
+  margin-right: 310px;
+}
+
+body#punsdraft .post.short12 {
+  margin-left: 450px;
+  margin-right: 290px;
+}
+
+body#punsdraft .post.short11 {
+  margin-left: 470px;
+  margin-right: 270px;
+}
+
+body#punsdraft .post.short10 {
+  margin-left: 490px;
+  margin-right: 250px;
+}
+
+body#punsdraft .post.medium2 {
+  margin-left: 510px;
+  margin-right: 230px;
+}
+
+body#punsdraft .post.short9 {
+  margin-left: 530px;
+  margin-right: 210px;
+}
+
+body#punsdraft .post.short8 {
+  margin-left: 550px;
+  margin-right: 190px;
+}
+
 body#punsdraft .post.short7 {
   margin-left: 570px;
   margin-right: 170px;
