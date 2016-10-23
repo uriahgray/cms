@@ -9,7 +9,7 @@ body {
     margin-left: 20px;
     font-size: 70px;
     line-height: 80px;
-    z-index: -1;
+    z-index: 1;
 }
 
 img#logo {
