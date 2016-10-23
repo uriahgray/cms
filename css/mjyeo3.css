@@ -14,3 +14,7 @@ h3.tag_title {
 ul {
     display: none;
 }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    text-align: center;
+}
