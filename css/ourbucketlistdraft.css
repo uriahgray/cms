@@ -4,13 +4,6 @@ body#ourbucketlistdraft {
     background-position-y: 19%;
 }
 
-body {
-    font-family: palatino;
-    font-size: 30px;
-    line-height: 44px;
-    letter-spacing: 0.02em;
-}
-
 a {
     text-decoration: none;
     color: black;
@@ -46,14 +39,6 @@ p.checked {
 
 .post {
     color: navy;
-}
-
-p {
-    font-size: 16px;
-    line-height: 23px;
-    text-transform: none;
-    color: navy;
-    font-family: 'Karla', sans-serif;
 }
 
 .postcontainer {
