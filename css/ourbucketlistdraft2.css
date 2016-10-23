@@ -92,3 +92,8 @@ span {
     right: 0px;
     color: #fff;
 }
+
+img, video, object, embed {
+    max-width: 115px;
+    height: auto;
+    float: right;
