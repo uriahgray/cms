@@ -71,7 +71,7 @@ span {
     line-height: 80px;
 }
 
-#list:target .hide {
+#list:target url(https://65.media.tumblr.com/28c1b4d8dcf47733281231310f942343/tumblr_ofh5s5VX3x1vf7reno1_400.png) {
     position: fixed;
     top: 0px;
     right: 0px;
