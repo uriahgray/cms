@@ -4,6 +4,10 @@ body#ourbucketlistdraft {
     background-position-y: 19%;
 }
 
+.iframe-controls-container.iframe-controls-container--logged-in {
+    display: none;
+}
+
 .copy {
     font-family: palatino;
 }
