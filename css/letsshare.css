@@ -100,7 +100,11 @@ h2 {
   
 }
 
-#Heading {
+#Heading h1 {
     position: fixed;
-    margin-top: -92px;
+    top: 100px;
+}
+
+#ref h2 {
+    top: 192px;
 }
