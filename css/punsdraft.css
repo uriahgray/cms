@@ -111,6 +111,82 @@ body#punsdraft .post.long .copy{
 }
 
 /* tags with #long1 or #short1 are just variations or different posts. This is all just to push it to the side*/
+body#punsdraft .post.short26 {
+  margin-left: 130px;
+  margin-right: 610px;
+}
+
+body#punsdraft .post.short25 {
+  margin-left: 150px;
+  margin-right: 590px;
+}
+
+body#punsdraft .post.short24 {
+  margin-left: 170px;
+  margin-right: 570px;
+}
+
+body#punsdraft .post.short23 {
+  margin-left: 190px;
+  margin-right: 550px;
+}
+
+body#punsdraft .post.short22 {
+  margin-left: 210px;
+  margin-right: 530px;
+}
+
+body#punsdraft .post.short21 {
+  margin-left: 230px;
+  margin-right: 510px;
+}
+
+body#punsdraft .post.short20 {
+  margin-left: 250px;
+  margin-right: 490px;
+}
+
+body#punsdraft .post.short19 {
+  margin-left: 270px;
+  margin-right: 470px;
+}
+
+body#punsdraft .post.medium4 {
+  margin-left: 290px;
+  margin-right: 450px;
+}
+
+
+body#punsdraft .post.short18 {
+  margin-left: 310px;
+  margin-right: 430px;
+}
+
+body#punsdraft .post.short17 {
+  margin-left: 330px;
+  margin-right: 410px;
+}
+
+body#punsdraft .post.short16 {
+  margin-left: 350px;
+  margin-right: 390px;
+}
+
+body#punsdraft .post.medium3 {
+  margin-left: 370px;
+  margin-right: 370px;
+}
+
+body#punsdraft .post.short15 {
+  margin-left: 390px;
+  margin-right: 350px;
+}
+
+body#punsdraft .post.short14 {
+  margin-left: 410px;
+  margin-right: 330px;
+}
+
 body#punsdraft .post.short13 {
   margin-left: 430px;
   margin-right: 310px;
@@ -137,8 +213,8 @@ body#punsdraft .post.medium2 {
 }
 
 body#punsdraft .post.short9 {
-  margin-left: 610px;
-  margin-right: 130px;
+  margin-left: 530px;
+  margin-right: 210px;
 }
 
 body#punsdraft .post.short8 {
