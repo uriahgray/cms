@@ -1,1 +1,134 @@
+html {
+    background: lightcyan;
+}
 
+
+h3.tag_title {
+display: none;
+}
+
+ul.tags {
+    display: none;
+}
+
+
+.post {
+    display: block;
+    float: left;
+    width: 400px;
+    margin: 40px;
+}
+
+.post:nth-child(odd) {
+    float: right;
+    width: 500px;
+    margin: 30px;
+}
+
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+
+.post.quote {
+    border-style: solid;
+    border-width: 1pt;
+    padding: 15pt;
+}
+
+
+h3 {
+    text-transform: lowercase;
+    color: black;
+}
+
+
+
+
+i {
+    font-style: italic;
+}
+
+b {
+       font-weight: bolder;
+}
+
+
+span.play-count{
+    text-transform: uppercase;
+}
+
+
+
+
+
+a{
+   color:LightSlateGray;
+}
+
+span.time {
+    display:none;
+}
+
+
+
+
+.text{
+    font-family:monospace;
+    font-size:14px;
+    line-height:14.5pt;
+}
+
+.copy{
+    font-size:14px;
+    line-height:14.5pt;
+}
+
+.caption{
+    font-size:14px;
+    line-height:14.5pt;
+}
+
+.append {
+    position: fixed;
+    z-index: 9999999;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.chocolat-overlay{
+    height:100%;
+    width:100%;
+    position:fixed;
+    left:0;
+    top:0;
+    z-index:10;
+    background-color: transparent;
+    display:none;
+    opacity: 1;
+}
+
+
+.chocolat-wrapper .chocolat-bottom{
+    display: none;
+    position:absolute;
+    bottom:0;
+    left: 0;
+    right: 0;
+    height:40px;
+    z-index: 17;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+img.set_photos {
+    max-height: 350px;
+}
