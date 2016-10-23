@@ -2,6 +2,10 @@ body {
 	font-family: 'Karla', sans-serif;
 }
 
+.iframe-controls-container.iframe-controls-container--logged-in {
+    display: none;
+}
+
 a.link {
     display: none;
 }
