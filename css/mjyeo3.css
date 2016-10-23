@@ -9,3 +9,7 @@ body {
 h3.tag_title {
     display: none;
 }
+
+ul {
+    display: none;
+}
