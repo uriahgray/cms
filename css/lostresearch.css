@@ -19,13 +19,14 @@ body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--des
     display: none;
 }
 
+
 body#lostresearch .post:hover {
     z-index: 999;
 }
 
 body#lostresearch .post {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     position: absolute;
     top:0px;
     left:0px;
@@ -182,7 +183,7 @@ body#lostresearch .post.lives {
     width: 500px;
 }
 body#lostresearch .post.lost1 {
-    top: 950px;
+    top: 1000px;
     left: 900px;
 }
 
