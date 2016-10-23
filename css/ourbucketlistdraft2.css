@@ -94,6 +94,9 @@ span {
 }
 
 img, video, object, embed {
-    max-width: 115px;
+    max-width: 100px;
     height: auto;
     float: right;
+    margin-right: 20px;
+    margin-top: 27px;
+}
