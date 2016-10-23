@@ -85,7 +85,10 @@ p {
     font-family: 'Karla', sans-serif;
 }
 
-
+.postcontainer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 .nav.ourbucketlist {
     position: fixed;
