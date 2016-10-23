@@ -54,3 +54,26 @@ span {
     line-height: 40pt;
     margin-left: 12px;
 }
+
+
+#list span {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 1, 113, 0.9);
+    height: 100vh;
+    z-index: 999999;
+    color: #fff;
+    padding-top: 60px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+#list:target .hide {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    color: #fff;
+}
