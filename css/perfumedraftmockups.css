@@ -16,3 +16,24 @@
 	margin-top: 100px;
 
 }
+
+body#perfumedraft h3.tag_title {
+	display: none;
+}
+
+body#perfumedraft ul.tags {
+	display: none;
+}
+
+body#perfumedraft a.link {
+	display: none;
+}
+
+body#perfumedraft .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+	display: none;
+}
+
+body#perfumedraft .copy {
+    padding: 5px;
+	
+}
