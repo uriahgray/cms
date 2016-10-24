@@ -1,64 +1,130 @@
-.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
-display: none;
-}
-
 body {
-    background-color: white;
-    text-align: left;
+background-color:{color:Background};
+font-family:{font:Font};
+color:{color:Text};
+font-size:17px;
+line-height:25px;
+}
+a { 
+padding-bottom:2px;
+color:{color:Text};
+text-decoration:none;
+border-bottom:2px solid;
+}
+img {
+border: none;
+border : 0;
+outline:none;
+}
+a img {
+outline: none;
+}
+iframe#tumblr_controls {  
+display:none;
+}
+#wrapper {
+{block:PermalinkPage}
+width:580px;
+{/block:PermalinkPage}
+position:relative;
+margin: 50px auto; 
+}
+#post {
+padding:40px;
+}
+#post img {
+width:100%;
+}
+#post img:hover {
+{block:IndexPage}
+{block:IfFadeOnHover}
+opacity:0.5;
+{/block:IfFadeOnHover}
+{/block:IndexPage}
+}
+#post embed, #post iframe {
+width:100% !important;
+}
+#post .photoset a:first-child {
+display:block !important;
+border:0 !important;
+padding:0 !important;
+}
+#post .photoset a {
+display:none;
+}
+.title {
+width:100%;
+text-align:center;
+margin:auto;
+position:fixed;
+top:20px;
+z-index:5000;
+}
+.follow {
+position:fixed;
+top:20px;
+right:20px;
+z-index:5000;
+}
+.archive {
+position:fixed;
+top:20px;
+left:20px;
+z-index:5000;
+}
+.message {
+position:fixed;
+bottom:20px;
+left:20px;
+z-index:5000;
+}
+.random {
+position:fixed;
+bottom:20px;
+right:20px;
+z-index:5000;
+}
+#toTop {
+width:100%;
+text-align:center;
+margin:auto;
+z-index:4000;
+position:fixed;
+display:none;
+bottom:20px;
+cursor:pointer;
+}
+.player {
+background:#000;
+}
+ul.chat {
+list-style-type:none;
+padding:0;
+margin:0;
+}
+#infscr-loading {
+display:none !important;
 }
 
-.post {
-    display: block;
-    float: left;
-    width: 400px;
-    margin: 40px;
+.corner {
+top:6px;
+right:40px;
+position:absolute;
+padding:1em 1.5em;
+margin:2em auto;
+color:#fff;
+overflow:hidden;
+z-index:4000;
 }
-
-.post:nth-child(odd) {
-    float: right;
-    width: 500px;
-    margin: 30px;
-}
-
-h3.tag_title {
-    display: none;
-}
-
-ul {
-    display: none;
-}
-
-.post {
-    display: block;
-    float: left;
-    width: 400px;
-    margin: 40px;
-}
-
-
-a {
-    text-decoration: underline;
-}
-
-
-.text{
-    font-family:monospace;
-    font-size:14px;
-    line-height:14.5pt;
-}
-
-p {
-    font-family: monospace;
-    font-size: 10pt;
-    line-height: 17pt;
-}
-
-a {
-    text-decoration: underline;
-    color: navy;
-}
-
-
-img.set_photos {
-    max-height: 350px;
+.corner:before {
+content:"";
+position:absolute;
+top:0px;
+right:0px;
+border-width:0 25px 25px 0;
+border-style:solid;
+border-color:#fff #fff {color:Video Corner Fold} {color:Video Corner Fold};
+background:#fff;
+display:block; width:0; /* Firefox 3.0 damage limitation */
 }
