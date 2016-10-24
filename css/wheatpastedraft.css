@@ -15,9 +15,14 @@ body#wheatpastedraft body {
     
 }
 
-body#wheatpastedraft h1{
+body#wheatpastedraft .title{
     font-family: Roboto, sans-serif;
     font-weight: 700;
+}
+
+body#wheatpastedraft .nav{
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
 }
 
 body#wheatpastedraft a{
