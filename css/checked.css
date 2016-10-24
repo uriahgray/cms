@@ -71,17 +71,6 @@ article.posts {
     margin-top: 200px;
 }
 
-.post.text.ourbucketlist.ourbucketlisttitle {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    width: 600px;
-    margin-left: -300px;
-    text-align: center;
-    height: 100px;
-	display:none !important;
-}
-
 a.link {
 	display: none;
 }
