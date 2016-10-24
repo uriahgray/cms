@@ -3,6 +3,12 @@ body#jalin6 html {
 }
 
 
+p {
+    font-family: courier new;
+    font-size: 10px;
+    color: navy;
+}
+
 body#jalin6 h3.tag_title {
 display: none;
 }
