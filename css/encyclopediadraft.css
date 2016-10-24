@@ -17,7 +17,7 @@ body#encyclopediadraft p {
 }
 
 body#encyclopediadraft p {
-    font-family: Gotham;
+    font-family: Montserrat;
     font-weight: normal;
     font-size: 8pt;
     line-height: 12pt;
@@ -35,7 +35,7 @@ body#encyclopediadraft ul.tags {
 
 body#encyclopediadraft h3.title {
     text-align: center;
-    font-family: monospace;
+    font-family: Montserrat;
     font-weight: bold;
     font-size: 32pt;
     padding-bottom: 30px;
