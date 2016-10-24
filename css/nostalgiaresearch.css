@@ -1,0 +1,139 @@
+body#nostalgiaresearch #fixed-menu {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    padding: 10px;
+}
+
+body#nostalgiaresearch .spacer {
+    width: 100%;
+    height: 95px;
+}
+
+
+
+
+
+
+
+body#nostalgiaresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
+    display: none;
+}
+
+body#nostalgiaresearch .nav {
+    font-family: futura;
+    text-align: center;
+    align-items: center;
+    margin-left: 33%;
+    position: fixed;
+    opacity: 0.8;
+    margin-top: 20px;
+    z-index: 2000;
+}
+
+
+
+body#nostalgiaresearch ul.tags{
+  display: none;
+}
+body#nostalgiaresearch h3.tag_title {
+    display: none;
+}
+body#nostalgiaresearch a.link {
+    display: none;
+}
+
+body#nostalgiaresearch p {
+    max-width: 500px;
+    padding: 10px;
+    height: 500px;
+}
+
+
+body#nostalgiaresearch .post.text.nostalgiadraft {
+    width: initial;
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    margin: 0;
+    font-family: courier new;
+    font-weight: 600;
+    font-size: 80px;
+    color:rgba(27, 49, 94, 100);
+    text-transform: uppercase;
+}    
+body#nostalgiaresearch .container {
+    margin-left: 100px;
+}
+
+body#nostalgiaresearch .post {
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+body#nostalgiaresearch .copy img {
+    width: 90%;
+    padding-left: 10px;
+
+}
+
+body#nostalgiaresearch .post img {
+    margin-bottom: 50vh;
+
+}
+
+body#nostalgiaresearch .post.photo.nostalgiadraft {
+    width:initial;
+    margin: 0;
+    }
+body#nostalgiaresearch img.set_photos {
+    max-width: 400px;
+    height: 400px;
+    padding-bottom: 40px;
+}
+
+body#nostalgiaresearch article.posts {
+    width: 10620px;
+    height: 400px;
+    display: flex;
+}
+
+body#nostalgiaresearch .post.text.nostalgiadraft.abstract.jalin6.postnow {
+    position: fixed;
+    top: 80%;
+    left: 50px;
+    font-size: 100%;
+    line-height: 1.5;
+    text-transform: none;
+    width: 962px;
+}
+
+body#nostalgiaresearch span.chocolat-pagination {
+    font-family: courier new;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 500;
+    color: navy;
+}
+
+body#nostalgiaresearch p {
+    font-size: 12px;
+    font-family: courier new;
+    color: navy;
+    line-height: 14px;
+}
+
+body#nostalgiaresearch a {
+    color: pink;
+}
+
+body#nostalgiaresearch a:hover {
+    text-decoration: overline;
+}
+
+body#nostalgiaresearch .postcontainer {
+    max-width: 400px;
+}
