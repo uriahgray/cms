@@ -24,10 +24,6 @@ body#musings .post.photo.musings.postnow.sehan4.scroll1 {
     width: 700px;
 }
 
-
-
-
-
 ol, ul {
       list-style: none;
       display: none;
@@ -55,14 +51,14 @@ h2 {
 
 h4 {
     position: fixed;
-    padding-left: 50px
-    padding-top: 400px    
+    padding-left: 700px;
+    padding-top: 200px;    
     font-family: courier;
     text-transform: lowercase;
     font-size: 8pt;
     line-height: 11pt;
     color: black;
-    max-width: 300px 
+    max-width: 200px 
 }        
         
 h1 {
