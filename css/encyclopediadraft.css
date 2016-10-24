@@ -52,4 +52,7 @@ h3.tag_title {
 
 a {
     text-decoration: none;
+    color: cornflowerblue;
+    pointer-events: none;
+    cursor: default;
 }
