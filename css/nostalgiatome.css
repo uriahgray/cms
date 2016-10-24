@@ -4,6 +4,16 @@ body#nostalgiatome .tmblr-iframe--desktop-logged-in-controls.iframe-controls--de
     display: none;
 }
 
+body#nostalgiatome .nav {
+    font-family: futura;
+    text-align: center;
+    align-items: center;
+    margin-left: 33%;
+    position: fixed;
+    opacity: 0.8;
+    margin-top: 20px;
+}
+
 
 
 body#nostalgiatome ul.tags{
