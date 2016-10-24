@@ -9,10 +9,10 @@ p {
 }
 
 .postcontainer {
-    max-width: 600px;
+    max-width: 50%;
     text-align: center;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a.link {
