@@ -2,6 +2,12 @@
      display: none;
 }
 
+a#logo {
+    max-width: 30%;
+    position: fixed;
+    margin-top: -11%;
+}
+
 ul.tags {
     display: none;
 }
