@@ -33,6 +33,7 @@ body#nostalgiatome .nav {
     position: fixed;
     opacity: 0.8;
     margin-top: 20px;
+    z-index: 2000;
 }
 
 
