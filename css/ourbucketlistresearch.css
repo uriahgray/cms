@@ -1,10 +1,5 @@
-
 body {
 	font-family: 'Karla', sans-serif;
-}
-
-.iframe-controls-container.iframe-controls-container--logged-in {
-    display: none;
 }
 
 .nav.ourbucketlist {
@@ -16,10 +11,12 @@ body {
     z-index: 1;
 }
 
-img#logo {
-    position: fixed;
-    bottom: 20px;
-    margin-left: 20px;
+.iframe-controls-container.iframe-controls-container--logged-in {
+    display: none;
+}
+
+a.link {
+    display: none;
 }
 
 ul.tags {
@@ -71,17 +68,7 @@ article.posts {
     width: 800px;
     margin: auto;
     text-align: center;
-}
-
-.post.text.ourbucketlist.ourbucketlisttitle {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    width: 600px;
-    margin-left: -300px;
-    text-align: center;
-    height: 100px;
-	display:none !important;
+    margin-top: 200px;
 }
 
 
@@ -100,6 +87,13 @@ p {
 .postcontainer {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+
+img#logo {
+    position: fixed;
+    bottom: 20px;
+    margin-left: 20px;
 }
 
 twitterwidget {
