@@ -1,4 +1,5 @@
-body#nostalgiaresearch #fixed-menu {
+body#jalin6 #fixed-menu
+{
     position: fixed;
     width: 100%;
     height: 100px;
@@ -6,10 +7,13 @@ body#nostalgiaresearch #fixed-menu {
     padding: 10px;
 }
 
-body#nostalgiaresearch .spacer {
+.spacer
+{
     width: 100%;
     height: 95px;
 }
+
+
 
 
 body#jalin6 .nav {
@@ -23,26 +27,32 @@ body#jalin6 .nav {
     z-index: 2000;
 }
 
+
+
+
+
+
+
 p {
     font-family: courier new;
     font-size: 10px;
     color: navy;
 }
 
-
 body#jalin6 h3.tag_title {
 display: none;
 }
-
 
 body#jalin6 ul.tags {
     display: none;
 }
 
 
+
 body#jalin6 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
+
 
 body#jalin6 .post {
     display: block;
@@ -57,15 +67,36 @@ body#jalin6 .post:nth-child(odd) {
     margin: 30px;
 }
 
+
+
 body#jalin6 .post.quote {
     border-style: solid;
     border-width: 1pt;
     padding: 15pt;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body#jalin6 span.time {
     display:none;
 }
+
+
 
 
 body#jalin6 .text{
@@ -83,7 +114,6 @@ body#jalin6 .caption{
     font-size:14px;
     line-height:14.5pt;
 }
-
 
 body#jalin6 .append {
     position: fixed;
@@ -112,6 +142,7 @@ body#jalin6 .chocolat-overlay{
     opacity: 1;
 }
 
+
 body#jalin6 .chocolat-wrapper .chocolat-bottom{
     display: none;
     position:absolute;
@@ -128,5 +159,3 @@ body#jalin6 .chocolat-wrapper .chocolat-bottom{
 body#jalin6 img.set_photos {
     max-height: 350px;
 }
-
-
