@@ -1,3 +1,9 @@
 h3.tag_title {
     display: none;
 }
+
+p {
+    font-family: Arial;
+    font-size: 10pt;
+    line-height: 16.5pt;
+}
