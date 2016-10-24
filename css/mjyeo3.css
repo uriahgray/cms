@@ -36,3 +36,7 @@ twitterwidget {
 a {
     color: navy;
 }
+
+blockquote.twitter-tweet {
+    font-size: 10pt;
+}
