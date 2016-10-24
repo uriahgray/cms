@@ -55,3 +55,10 @@ i {
     letter-spacing: 0.15em;
 }
 
+i {
+    font-weight: bold;
+    color: navy;
+    text-transform: uppercase;
+    font-size: 13pt;
+    letter-spacing: 0.15em;
+}
