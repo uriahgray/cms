@@ -7,6 +7,19 @@ body {
     text-align: left;
 }
 
+.post {
+    display: block;
+    float: left;
+    width: 400px;
+    margin: 40px;
+}
+
+.post:nth-child(odd) {
+    float: right;
+    width: 500px;
+    margin: 30px;
+}
+
 h3.tag_title {
     display: none;
 }
