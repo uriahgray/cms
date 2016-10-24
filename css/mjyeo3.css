@@ -27,3 +27,7 @@ twitterwidget#twitter-widget-0 {
     margin-left: 45px;
     margin-right: 45px;
 }
+
+ul.tags {
+    display: none;
+}
