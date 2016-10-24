@@ -22,6 +22,7 @@ a.link {
     text-transform: uppercase;
     color: silver;
     padding-top: 45px;
+    padding-bottom: 10px;
 }
 
 ul.tags {
@@ -40,3 +41,5 @@ a {
 blockquote.twitter-tweet {
     font-size: 10pt;
 }
+
+
