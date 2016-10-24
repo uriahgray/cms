@@ -101,3 +101,7 @@ twitterwidget {
     margin-right: 150px;
 }
 
+blockquote.twitter-tweet {
+    font-size: 12pt;
+}
+
