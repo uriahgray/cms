@@ -4,10 +4,12 @@ body#wheatpastedraft head {
 
 body#wheatpastedraft body {
     font-family: arial;
+    
     font-size: 23px;
     line-height: 30px;
     letter-spacing: 0.02em;
     background-color: #f1f1f1;
+    background-image: url("https://65.media.tumblr.com/b59a1295422624add023040327757e95/tumblr_ofkq3sK0jc1qiluvco1_1280.png")
 }
 
 body#wheatpastedraft a{
@@ -16,7 +18,7 @@ body#wheatpastedraft a{
 }
 
 body#wheatpastedraft a:hover{
-    color: #000000;
+    color: #000000;s
 }
 
 body#wheatpastedraft a.link {
