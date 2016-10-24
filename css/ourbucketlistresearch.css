@@ -112,8 +112,10 @@ li {
 
 i {
     text-transform: none;
-    font-size: 40px;
+    color: navy;
+    font-size: 26px;
     display: block;
-    line-height: 100px;
+    line-height: 44px;
     font-family: 'Karla', sans-serif;
 }
+
