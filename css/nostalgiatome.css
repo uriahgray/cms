@@ -132,6 +132,10 @@ body#nostalgiatome a {
     color: pink;
 }
 
+body#nostalgiatome a:hover {
+    text-decoration: overline;
+}
+
 body#nostalgiatome .postcontainer {
     max-width: 400px;
 }
