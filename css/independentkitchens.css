@@ -1,1 +1,7 @@
-
+.post.photo {
+    width: 20%;
+    height: 20%;
+    float: left;
+    display: inline-block;
+    margin-bottom: -5px;
+    margin-top: -5px;
