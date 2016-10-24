@@ -34,6 +34,16 @@ a {
     line-height:14.5pt;
 }
 
+p {
+    font-family: monospace;
+    font-size: 14pt;
+    line-height: 17pt;
+}
+
+a {
+    text-decoration: underline;
+    color: navy;
+}
 
 
 img.set_photos {
