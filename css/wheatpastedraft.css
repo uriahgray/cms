@@ -15,12 +15,19 @@ body#wheatpastedraft body {
     
 }
 
+body#wheatpastedraft h1{
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+}
+
 body#wheatpastedraft a{
+    font-family: Roboto, sans-serif;
     text-decoration: none;
     color: #000000;
 }
 
 body#wheatpastedraft a:hover{
+    font-family: Roboto, sans-serif;
     color: #ff0000;
 }
 
