@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
-
 body#wheatpastedraft head {
     display: none;
 }
 
 body#wheatpastedraft body {
-    font-family: Roboto, sans-serif;
+    font-family: sans-serif;
     
     font-size: 23px;
     font-weight: 400;
@@ -15,31 +13,36 @@ body#wheatpastedraft body {
     
 }
 
+iframe, div.background {
+     width: 100%;
+     height: 100%;
+}
+
 body#wheatpastedraft .title{
-    font-family: Roboto, sans-serif;
+    font-family: sans-serif;
     font-weight: 700;
 }
 
 body#wheatpastedraft .nav{
-    font-family: Roboto, sans-serif;
+    font-family: sans-serif;
     font-weight: 400;
 }
 
 body#wheatpastedraft a{
-    font-family: Roboto, sans-serif;
+    font-family: sans-serif;
     text-decoration: none;
     color: #000000;
 }
 
 body#wheatpastedraft a:hover{
-    font-family: Roboto, sans-serif;
+    font-family: sans-serif;
     color: #ff0000;
 }
 
 body#wheatpastedraft a.link {
     display: block;
     font-size: 14px;
-    font-family: Roboto, sans-serif;
+    font-family: sans-serif;
     font-weight: 700;
     text-transform: uppercase;
 }
