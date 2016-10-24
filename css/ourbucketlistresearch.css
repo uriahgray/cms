@@ -22,10 +22,6 @@ img#logo {
     margin-left: 20px;
 }
 
-a.link {
-    display: none;
-}
-
 ul.tags {
     display: none;
 }
@@ -88,9 +84,6 @@ article.posts {
 	display:none !important;
 }
 
-a.link {
-	display: none;
-}
 
 ul.tags {
 	display: none;
