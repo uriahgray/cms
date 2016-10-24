@@ -109,3 +109,11 @@ li {
     font-size: 12pt;
     font-weight: 800;
 }
+
+i {
+    text-transform: none;
+    font-size: 40px;
+    display: block;
+    line-height: 100px;
+    font-family: 'Karla', sans-serif;
+}
