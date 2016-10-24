@@ -16,12 +16,14 @@ body#jalin6 #fixed-menu
 body#jalin6 .nav {
     font-family: futura;
     text-align: center;
+    color: pink;
     align-items: center;
     margin-left: 33%;
     position: fixed;
     opacity: 0.8;
     margin-top: 20px;
     z-index: 2000;
+    text-decoration: underline;
 }
 
 
