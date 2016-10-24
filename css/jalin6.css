@@ -100,9 +100,7 @@ body#jalin6 h3 {
 
 
 
-body#jalin6 a {
-   color: navy;
-}
+
 
 body#jalin6 span.time {
     display:none;
@@ -136,6 +134,10 @@ body#jalin6 .append {
 body#jalin6 a {
     text-decoration: underline;
     color: pink;
+}
+
+body#nostalgiatome a:hover {
+    text-decoration: overline;
 }
 
 
