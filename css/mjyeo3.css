@@ -23,11 +23,11 @@ a.link {
     color: navy;
 }
 
-twitterwidget#twitter-widget {
-    margin-left: 45px;
-    margin-right: 45px;
-}
-
 ul.tags {
     display: none;
+}
+
+twitterwidget {
+    margin-left: 150px;
+    margin-right: 150px;
 }
