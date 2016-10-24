@@ -49,3 +49,7 @@ body#encyclopediadraft h3.title {
 h3.tag_title {
     display: none;
 }
+
+a {
+    text-decoration: none;
+}
