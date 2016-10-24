@@ -16,14 +16,12 @@ body#jalin6 #fixed-menu
 body#jalin6 .nav {
     font-family: futura;
     text-align: center;
-    color: pink;
     align-items: center;
     margin-left: 33%;
     position: fixed;
     opacity: 0.8;
     margin-top: 20px;
     z-index: 2000;
-    text-decoration: underline;
 }
 
 
@@ -66,11 +64,6 @@ body#jalin6 .post:nth-child(odd) {
     margin: 30px;
 }
 
-
-body#jalin6 a {
-    text-decoration: underline;
-    color: black;
-}
 
 
 body#jalin6 .post.quote {
