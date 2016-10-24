@@ -21,6 +21,7 @@ a.link {
     font-family: courier;
     text-transform: uppercase;
     color: navy;
+    padding-top: 45px;
 }
 
 ul.tags {
