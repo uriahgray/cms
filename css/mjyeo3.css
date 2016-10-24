@@ -23,6 +23,7 @@ a.link {
     color: silver;
     padding-top: 45px;
     padding-bottom: 10px;
+    font-weight: normal;
 }
 
 ul.tags {
