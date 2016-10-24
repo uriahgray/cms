@@ -36,6 +36,10 @@ twitterwidget {
 
 a {
     color: navy;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.15em;
 }
 
 blockquote.twitter-tweet {
