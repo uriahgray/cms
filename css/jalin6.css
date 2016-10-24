@@ -134,8 +134,8 @@ body#jalin6 .append {
 
 
 body#jalin6 a {
-    text-decoration: none;
-    color: black;
+    text-decoration: underline;
+    color: pink;
 }
 
 
