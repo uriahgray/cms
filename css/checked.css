@@ -2,6 +2,15 @@ body {
 	font-family: 'Karla', sans-serif;
 }
 
+.nav.ourbucketlist {
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 70px;
+    line-height: 80px;
+    z-index: 1;
+}
+
 .iframe-controls-container.iframe-controls-container--logged-in {
     display: none;
 }
@@ -94,14 +103,6 @@ p {
     margin-bottom: 50px;
 }
 
-.nav.ourbucketlist {
-    position: fixed;
-    margin-top: 10px;
-    margin-left: 20px;
-    font-size: 70px;
-    line-height: 80px;
-    z-index: 1;
-}
 
 img#logo {
     position: fixed;
