@@ -1,5 +1,4 @@
-body#jalin6 #fixed-menu
-{
+body#nostalgiaresearch div#fixed-menu {
     position: fixed;
     width: 100%;
     height: 100px;
@@ -7,7 +6,7 @@ body#jalin6 #fixed-menu
     padding: 10px;
 }
 
-.spacer
+body#nostalgiaresearch .spacer
 {
     width: 100%;
     height: 95px;
@@ -16,7 +15,7 @@ body#jalin6 #fixed-menu
 
 
 
-body#jalin6 .nav {
+body#nostalgiaresearch .nav {
     font-family: futura;
     text-align: center;
     align-items: center;
@@ -33,35 +32,35 @@ body#jalin6 .nav {
 
 
 
-p {
+body#nostalgiaresearch p {
     font-family: courier new;
     font-size: 10px;
     color: navy;
 }
 
-body#jalin6 h3.tag_title {
+body#nostalgiaresearch h3.tag_title {
 display: none;
 }
 
-body#jalin6 ul.tags {
+body#nostalgiaresearch ul.tags {
     display: none;
 }
 
 
 
-body#jalin6 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#nostalgiaresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
 
-body#jalin6 .post {
+body#nostalgiaresearch .post {
     display: block;
     float: left;
     width: 400px;
     margin: 40px;
 }
 
-body#jalin6 .post:nth-child(odd) {
+body#nostalgiaresearch .post:nth-child(odd) {
     float: right;
     width: 500px;
     margin: 30px;
@@ -69,7 +68,7 @@ body#jalin6 .post:nth-child(odd) {
 
 
 
-body#jalin6 .post.quote {
+body#nostalgiaresearch .post.quote {
     border-style: solid;
     border-width: 1pt;
     padding: 15pt;
@@ -92,45 +91,45 @@ body#jalin6 .post.quote {
 
 
 
-body#jalin6 span.time {
+body#nostalgiaresearch span.time {
     display:none;
 }
 
 
 
 
-body#jalin6 .text{
+body#nostalgiaresearch .text{
     font-family: courier-new;
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#jalin6 .copy{
+body#nostalgiaresearch .copy{
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#jalin6 .caption{
+body#nostalgiaresearch .caption{
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#jalin6 .append {
+body#nostalgiaresearch .append {
     position: fixed;
     z-index: 9999999;
 }
 
 
-body#jalin6 a {
+body#nostalgiaresearch a {
     color: pink;
 }
 
-body#nostalgiatome a:hover {
+body#nostalgiaresearch a:hover {
     text-decoration: overline;
 }
 
 
-body#jalin6 .chocolat-overlay{
+body#nostalgiaresearch .chocolat-overlay{
     height:100%;
     width:100%;
     position:fixed;
@@ -143,7 +142,7 @@ body#jalin6 .chocolat-overlay{
 }
 
 
-body#jalin6 .chocolat-wrapper .chocolat-bottom{
+body#nostalgiaresearch .chocolat-wrapper .chocolat-bottom{
     display: none;
     position:absolute;
     bottom:0;
@@ -156,6 +155,6 @@ body#jalin6 .chocolat-wrapper .chocolat-bottom{
     margin-top: 10px;
 }
 
-body#jalin6 img.set_photos {
+body#nostalgiaresearch img.set_photos {
     max-height: 350px;
 }
