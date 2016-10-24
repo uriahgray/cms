@@ -20,9 +20,17 @@ body#musings .fblock {
 
 body#musings {}
 
+.post.photo.musings.postnow.sehan4.scroll1 {
+    padding-left: 200px;
+    width: 700px;
+}
+
+body#musings {}
+
 .post.photo.musings.postnow.sehan4.scroll1: nth-child(2n+2) {
     padding-left: 200px;
     width: 700px;
+    border: 1px, red;
 }
 
 body#musings .post.photo.musings.postnow.sehan4.scroll2 {
