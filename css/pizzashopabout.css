@@ -1,12 +1,12 @@
-/* .post.photo.racri2.logo.pizzashopdraft.pizzashopabout.postnow {
-     display: none;
-} */
-
-/* a#logo {
+.append img {
     max-width: 30%;
     position: fixed;
-    margin-top: -11%;
-} */
+    margin-top: 1%;
+}
+
+.post.photo.racri2.logo.pizzashopdraft.postnow.pizzashopabout {
+    display: none;
+}
 
 ul.tags {
     display: none;
