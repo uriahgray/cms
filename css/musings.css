@@ -18,21 +18,15 @@ body#musings .fblock {
 }
 
 
-body#musings {}
-
-.post.photo.musings.postnow.sehan4.scroll1 {
+body#musings .post.photo.musings.postnow.sehan4.scroll1 {
     padding-left: 200px;
+    padding-bottom: 5px;
     width: 700px;
 }
 
 
 
-body#musings .post.photo.musings.postnow.sehan4.scroll2 {
-    width: 700px;
-    padding-left: 500px;
-    z-index: 99;
-    border: 1px, red;
-}
+
 
 ol, ul {
       list-style: none;
