@@ -110,4 +110,11 @@ b {
 	margin-bottom: 20px;
 }
 
+.post.alsobought {
+    max-height: 20px;
+    max-width: 120px;
+    margin: 40px;
+    float: left;
+}
+
 
