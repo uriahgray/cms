@@ -7,3 +7,11 @@ p {
     font-size: 10pt;
     line-height: 16.5pt;
 }
+
+.postcontainer {
+    max-width: 600px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
