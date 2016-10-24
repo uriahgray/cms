@@ -23,6 +23,11 @@ body#wheatpastedraft a:hover{
     color: #ff0000;
 }
 
+iframe, div {
+     width: 100%;
+     height: 100%;
+}
+
 body#wheatpastedraft a.link {
     display: block;
     font-size: 14px;
