@@ -13,7 +13,7 @@ body#wheatpastedraft body {
     
 }
 
-iframe, div.background {
+iframe {
      width: 100%;
      height: 100%;
 }
