@@ -31,9 +31,8 @@ body#fff .post:hover {
     display: none;
 }
 body#fff .post {
-    max-width: 300px;
-    max-height: 300px;
-    position: absolute;
+  width: 300px;
+   position: absolute;
     top:0px;
     left:0px;
     
