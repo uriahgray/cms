@@ -60,3 +60,9 @@ h3.tag_title {
     padding-top: 30px;
     padding-left: 30px;
 }
+
+.nav {
+    font-size: small;
+    font-weight: lighter;
+    padding-left: 30px;
+}
