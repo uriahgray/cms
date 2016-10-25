@@ -1,0 +1,29 @@
+
+.iframe-controls-container.iframe-controls-container--logged-in {
+    display: none;
+}
+
+.postcontainer a.link {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+h1 {
+    font-family: monospace;
+    text-transform: uppercase;
+    left: 2.3%;
+    top: 2%;
+    position: fixed;
+}
+
+ul.tags {
+    display: none;
+}
