@@ -28,13 +28,6 @@ img.set_photos {}
     margin-left: auto;
 }
 
-a.link {
-	    display: none;
-	    font-size: 14px;
-	    font-family: courier;
-	    text-transform: uppercase;
-}
-
 ul.tags {
     display: none;
 }
@@ -42,4 +35,11 @@ ul.tags {
 .post.photo.watercolourdessertdraft.jahar25 {
     font-size: small;
     font-family: fantasy;
+}
+
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
 }
