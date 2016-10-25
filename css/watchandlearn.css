@@ -21,12 +21,7 @@ body#watchandlearn .container {
 }
 
 body#watchandlearn article.posts {
-    width: 1200px;
+    width: 1300px;
     height: 300px;
     display: flex;
-}
-
-body#watchandlearn img.set_photos {
-    height: 800px;
-    width: 531px;
 }
