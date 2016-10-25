@@ -68,12 +68,17 @@ body#fff .post.screen4 {
 }
 body#fff .post.screen10 {
     position: relative;
-    left: 1064px;
-    top: -851px;
+    left: 1073px;
+    top: -1367px;
 }
 body#fff .post.screen5 {
           left: 1091.95px;
     top: 1852.39px;
+}
+body#fff .post.screen18 {
+          position: relative;
+    left: 1072px;
+    top: 1564px;
 }
 
 
