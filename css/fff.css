@@ -21,9 +21,9 @@ body#fff .copy {
     display: none;
 }
 
-/* body#fff a.link {
+body#fff a.link {
     display: none;
-} */
+} 
 
 body#fff .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
@@ -75,4 +75,8 @@ body#fff .post.screen5 {
     top: 1852.39px;
 }
 
+body#fff .post.screen16 {
+      left:0px;
+      top:0px;
+}
 
