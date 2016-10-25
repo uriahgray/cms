@@ -31,14 +31,20 @@ body#lostresearch {
 
 body#lostresearch .post:hover {
     z-index: 999;
+
 }
 
-body#lostresearch .post {
+body#lostresearch .post.concept {
     width: 400px;
     height: 400px;
     position: absolute;
     top:0px;
     left:0px;
+    font-family: monospace;
+    text-transform: uppercase;
+    left: 2.3%;
+    top: 3%;
+    position: fixed;
     
 }
 
