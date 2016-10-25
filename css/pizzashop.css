@@ -41,3 +41,7 @@ h1 {
     top: 3%;
     position: fixed;
 }
+
+ul.tags {
+    display: none;
+}
