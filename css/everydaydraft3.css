@@ -113,10 +113,13 @@ b {
 }
 
 .post.alsobought {
-    max-height: 20px;
+      max-height: 20px;
     max-width: 120px;
-    margin: 40px;
+    margin: 4%;
+    display: block;
+    height: 180px;
     float: left;
+    width: 11%;
 }
 
 .post.productdetail {
