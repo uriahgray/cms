@@ -32,15 +32,15 @@ ul.tags {
     display: none;
 }
 
-.post.photo.watercolourdessertdraft.jahar25 {
-    font-size: small;
-    font-family: fantasy;
-    text-align: center;
-}
-
 a.link {
     display: none;
     font-size: 14px;
     font-family: courier;
     text-transform: uppercase;
+}
+
+.post.photo.watercolourdessertdraft.jahar25 {
+    font-size: small;
+    font-family: fantasy;
+    text-align: center;
 }
