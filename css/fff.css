@@ -1,7 +1,4 @@
 body#fff{
-}
-
-grad {
    background: -webkit-linear-gradient(red, yellow);
 }
 body#fff h3.tag_title {
