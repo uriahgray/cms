@@ -101,7 +101,7 @@ body#lostresearch .post.lost9 {
     height: 700px;
     background-image: url(path/to/animated.gif);
     top: 50px; 
-    left: 250px;
+    left: 300px;
 }
 
 body#lostresearch .post.lost11 {
@@ -283,6 +283,13 @@ body#lostresearch .post.losttitle {
     position: fixed;
 }
 
+.append {
+    z-index: 9999999;
+    position: fixed;
+    top: 400px
+    left: 0px
+
+}
 
 
 
