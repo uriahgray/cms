@@ -78,5 +78,7 @@ body#fff .post.screen5 {
 body#fff .post.screen16 {
       left:0px;
       top:0px;
+      display: absolute;
+      
 }
 
