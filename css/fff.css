@@ -58,3 +58,31 @@ body#fff .post.frank1 {
     right: 0px;
     bottom: 0px;
 }
+
+body#fff .post.screen1 {
+left: 1077px;
+    top: 76px;
+}
+
+
+body#fff .post.screen2 {
+    left: 1078.95px;
+    top: 426.951px;
+}
+body#fff .post.screen3 {
+    width: 500px;
+    height: auto;
+      }
+
+body#fff .post.screen4 {
+      left: 1064.95px;
+    top: 1032.43px;
+}
+body#fff .post.screen10 {
+          width: 500px;
+      height: auto;
+}
+body#fff .post.screen5 {
+          left: 1091.95px;
+    top: 1852.39px;
+}
