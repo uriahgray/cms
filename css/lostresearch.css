@@ -25,6 +25,9 @@ body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--des
     display: none;
 }
 
+body#lostresearch {
+	background-color:peachpuff;
+}
 
 body#lostresearch .post:hover {
     z-index: 999;
@@ -75,10 +78,10 @@ body#lostresearch .post.lost5 {
 }
 
 body#lostresearch .post.lost6 {
-    top: 900px;
+    top: 800px;
     left: 800px;
-    width: 400px;
-    height: 400px;
+    width: 550px;
+    height: 500px;
 }
 
 body#lostresearch .post.lost7 {
@@ -132,8 +135,8 @@ body#lostresearch .post.lostpet {
     left: 0px;
 }
 body#lostresearch .post.lostfile {
-    top: 400px;
-    left: 200px;
+    top: 1050px;
+    left: 500px;
 }
 
 body#lostresearch .post.lostinspace {
@@ -261,10 +264,13 @@ body#lostresearch .post.coins {
     width: 500px;
 }
 
-body#lostresearch .post.lostphone {
-    top: 1200px;
-    left: 800px;
-    width: 500px;
+body#lostresearch .post {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 2600px;
+    left: 300px;
+
 }
 
 
