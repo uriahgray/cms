@@ -1,5 +1,5 @@
 body#watchandlearndraft{
-  background: white;
+  background: black;
   
 }
 
@@ -30,3 +30,8 @@ body#watchandlearn article.posts {
     width: 600px;
     height: 200px;
     display: flex;
+}
+  
+ body#voyage img.set_photos {
+    height: 800px;
+}
