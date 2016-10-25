@@ -39,24 +39,12 @@ body#fff .post:hover {
     display: none;
 }
 body#fff .post {
-  width: 500px;
    position: absolute;
     
 }
 img.set_photos {
       width: 500px;
             height: auto;
-}
-
-
-
-
-
-
-
-body#fff .post.frank1 {
-    right: 0px;
-    bottom: 0px;
 }
 
 body#fff .post.screen1 {
