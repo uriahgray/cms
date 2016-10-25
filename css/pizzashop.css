@@ -29,3 +29,7 @@ h3.tag_title {
 .streetview img {
     max-width: 6%;
 }
+
+.streetview a {
+    display: none;
+}
