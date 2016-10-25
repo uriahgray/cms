@@ -1,6 +1,6 @@
-body#watchandlearndraft{
-  background: black;
-  
+
+element.style {
+    background-color: black;
 }
 
 h3.tag_title {
