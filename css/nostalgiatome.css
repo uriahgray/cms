@@ -19,6 +19,14 @@ body#nostalgiatome li {
 }
 
 
+body#nostalgiatome blockquote {
+    font-size: 12px;
+    font-family: courier new;
+    color: navy;
+    line-height: 14px;
+    font-style: italic;
+}
+
 
 
 
