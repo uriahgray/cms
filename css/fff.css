@@ -21,9 +21,9 @@ body#fff .copy {
     display: none;
 }
 
-body#fff a.link {
+/* body#fff a.link {
     display: none;
-}
+} */
 
 body#fff .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
