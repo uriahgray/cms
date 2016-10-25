@@ -1,37 +1,37 @@
-body#ff{
+body#fff{
 background-color: blue;
 }
 
-body#ff h3.tag_title {
+body#fff h3.tag_title {
 display: none;
 }
 
-body#ff ul.tags {
+body#fff ul.tags {
     display: none;
 }
 
-body#ff .copy {
+body#fff .copy {
     display: none;
 }
 
-body#ff a.link {
+body#fff a.link {
     display: none;
 }
 
-body#ff .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#fff .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
-body#ff .post:hover {
+body#fff .post:hover {
     z-index: 999;
 }
 .chocolat-wrapper {
     display: none;
 }
-body#ff .post {
+body#fff .post {
     max-width: 300px;
     max-height: 300px;
     position: absolute;
@@ -46,7 +46,7 @@ body#ff .post {
 
 
 
-body#ff .post.frank1 {
+body#fff .post.frank1 {
     right: 0px;
     bottom: 0px;
 }
