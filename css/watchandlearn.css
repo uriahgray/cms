@@ -22,6 +22,6 @@ body#watchandlearn .container {
 
 body#watchandlearn article.posts {
     width: 1200px;
-    height: 800px;
+    height: 500px;
     display: flex;
 }
