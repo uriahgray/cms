@@ -18,6 +18,10 @@ h3.tag_title {
 
 body#watchandlearn .container {
     overflow-x: scroll;
+    position: fixed;
+    top: 20%;
+    left: 0px;
+    right: 0px;
 }
 
 body#watchandlearn article.posts {
