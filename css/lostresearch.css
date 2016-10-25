@@ -96,8 +96,8 @@ body#lostresearch .post.lost7 {
 }
 
 body#lostresearch .post.lost9 {
-    width: 100px;
-    height: 100px;
+    width: 600px;
+    height: 600px;
     background-image: url(path/to/animated.gif);
     top: 100px; 
     left: 300px;
@@ -205,7 +205,7 @@ body#lostresearch .post.lost2 {
 
 body#lostresearch .post.lost8 {
     top: 2000px;
-    left: 600px;
+    left: 250px;
     width: 600px;
     height: 600px;
     background-image: url(path/to/animated.gif);
