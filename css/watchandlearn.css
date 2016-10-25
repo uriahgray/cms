@@ -22,16 +22,10 @@ body#watchandlearn .container {
 
 body#watchandlearn article.posts {
     width: 1200px;
-    height: 500px;
+    height: 1000px;
     display: flex;
 }
   
  body#voyage img.set_photos {
-    height: 800px;
+    height: 1000px;
 }
-
-<video autoplay>
-  <source src="ChessTutorial.mp4" type="video/mp4">
-  <source src="CornSlowMo.mp4" type="video/mp4">
-  <source src="MonkeySelfie2.mp4" type="video/mp4">
-</video>
