@@ -1,1 +1,53 @@
+img.set_photos {}
 
+.post.photo.jahar25.watercolourdessert {
+    height: 350px;
+    width: 350px;
+    overflow: scroll;
+}
+
+.post.photo.jahar25.watercolourdessert {
+    float: left;
+}
+
+.post.photo.jahar25.watercolourdessert {
+    width: 300px;
+    height: 300px;
+}
+
+.post.photo.jahar25.watercolourdessert {
+    list-style: none;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+ul.tags {
+    display: none;
+}
+
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+.post.photo.watercolourdessert.jahar25 {
+    font-size: small;
+    font-family: fantasy;
+    text-align: center;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+.post.photo.jahar25.watercolourdessert {
+    display: block;
+    width: 300px;
+    height: 360px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
