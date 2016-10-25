@@ -21,10 +21,16 @@ body#ff a.link {
 body#ff .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
+
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
 body#ff .post:hover {
     z-index: 999;
 }
-
+.chocolat-wrapper {
+    display: none;
+}
 body#ff .post {
     max-width: 300px;
     max-height: 300px;
