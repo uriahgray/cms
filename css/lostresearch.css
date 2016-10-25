@@ -65,10 +65,10 @@ body#lostresearch .post.lost2 {
 }
 
 body#lostresearch .post.lost3 {
-    top: 500px;
-    left: 500px;
-    width: 400px;
-    height: 400px;
+    top: 400px;
+    left: 1800px;
+    width: 500px;
+    height: 500px;
 }
 
 body#lostresearch .post.lost4 {
@@ -111,8 +111,8 @@ body#lostresearch .post.lost11 {
 }
 
 body#lostresearch .post.lost12 {
-    top: 500px;
-    left: 600px;
+    top: 350px;
+    left: 1500px;
 }
 
 body#lostresearch .post.lost13 {
@@ -122,8 +122,9 @@ body#lostresearch .post.lost13 {
 
 body#lostresearch .post.lost14 {
     top: 700px;
-    left: 400px;
+    left: 580px;
 }
+
 
 body#lostresearch .post.lost16 {
     top: 200px;
@@ -170,8 +171,8 @@ body#lostresearch .post.glove4 {
 }
 
 body#lostresearch .post.glove5 {
-    top: 1800px;
-    left: 400px;
+    top: 1000px;
+    left: 1800px;
     width: 400px;
 }
 
@@ -222,26 +223,28 @@ body#lostresearch .post.lostlist {
 
 body#lostresearch .post.hairtie1 {
     top: 1600px;
-    left: 1200px;
+    left: 1900px;
     width: 400px;
 }
 
 body#lostresearch .post.hairtie2 {
-    top: 2000px;
-    left: 1200px;
+    top: 3000px;
+    left: 1700px;
 }
+
 
 body#lostresearch .post.hairtie3 {
     top: 2230px;
-    left: 400px;
+    left: 1500px;
     width: 500px;
 }
 
 body#lostresearch .post.pirate {
-    top: 2450px;
-    left: 1100px;
+    top: 4000px;
+    left: 750px;
     width: 450px;
 }
+
 
 body#lostresearch .post.laptop {
     top: 1000px;
@@ -281,13 +284,14 @@ body#lostresearch .post.losttitle {
     left: 0px;
     width: 300px;
     position: fixed;
+    color: white
+		
+		
 }
 
 .append {
     z-index: 9999999;
     position: fixed;
-    top: 1000px
-    left: 300px
 
 }
 
