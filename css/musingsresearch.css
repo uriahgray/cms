@@ -44,6 +44,7 @@ body#musingsresearch a {
 
 h1 {
     font-size: 30pt;
+    line-height: 32pt;
     color: black;
     font-weight: 900;
     z-index: 99;
