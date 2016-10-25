@@ -28,13 +28,13 @@ ul.tags {
     display: none;
 }
 
-.post.photo.racri2.pizzashop.menuindex.postnow.pizzashopresearch {
+.menuindex img {
     max-width: 40%;
     position: fixed;
     margin-top: 10%;
 }
 
-.post.photo.racri2.postnow.restaurantindex.pizzashop.pizzashopresearch {
+.restaurantindex img {
     max-width: 30%;
     margin-top: 5%;
     margin-left: 38%;
