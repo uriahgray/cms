@@ -1,1 +1,29 @@
+.title {
+    Color: cadetblue;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: xx-large;
+    padding-top: 30px;
+    padding-left: 30px;
+}
 
+.nav {
+    font-size: small;
+    font-weight: lighter;
+    padding-left: 30px;
+}
+
+ul.tags {
+    display: none;
+}
+
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+h3.tag_title {
+    display: none;
+}
