@@ -17,3 +17,7 @@ p {
     width: 500px;
     float: left;
 }
+
+h3.tag_title {
+    display: none;
+}
