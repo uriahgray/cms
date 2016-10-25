@@ -21,3 +21,12 @@ h3.tag_title {
   <source src="CornSlowMo.mp4" type="video/mp4">
   <source src="MonkeySelfie2.mp4" type="video/mp4">
 </video>
+
+body#watchandlearn .container {
+    overflow-x: scroll;
+}
+
+body#watchandlearn article.posts {
+    width: 10089.5px;
+    height: 400px;
+    display: flex;
