@@ -9,6 +9,7 @@ body#wheatpastedraft body {
     line-height: 30px;
     letter-spacing: 0.02em;
     background-color: #fff000;
+    background: url("https://65.media.tumblr.com/b59a1295422624add023040327757e95/tumblr_ofkq3sK0jc1qiluvco1_1280.png");
     
 }
 
@@ -21,11 +22,6 @@ body#wheatpastedraft a{
 body#wheatpastedraft a:hover{
     font-family: sans-serif;
     color: #ff0000;
-}
-
-iframe, div {
-     width: 100%;
-     height: 100%;
 }
 
 body#wheatpastedraft a.link {
