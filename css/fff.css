@@ -39,7 +39,7 @@ body#fff .chocolat-wrapper {
     display: none;
 }
 body#fff .post {
-   position: absolute;
+   position: relative;
     
 }
 img.set_photos {
