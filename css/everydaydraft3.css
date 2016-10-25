@@ -123,3 +123,7 @@ b {
     width: 100%;
     padding-bottom: 40px;
 }
+.post.alsobought_title {
+    clear: both;
+    width: 100%;
+}
