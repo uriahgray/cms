@@ -1,1 +1,31 @@
 
+.iframe-controls-container.iframe-controls-container--logged-in {
+    display: none;
+}
+
+.post {
+    margin-top: 4%;
+    height: 400px;
+    display: block;
+    float: left;
+    padding: 10px;
+    margin-bottom: 0%;
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+.postcontainer a.link {
+    display: none;
+}
+
+.streetview img {
+    max-width: 6%;
+}
