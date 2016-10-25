@@ -44,3 +44,7 @@ a.link {
     font-family: fantasy;
     text-align: center;
 }
+
+h3.tag_title {
+    display: none;
+}
