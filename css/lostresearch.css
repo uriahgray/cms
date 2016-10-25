@@ -98,11 +98,7 @@ body#lostresearch .post.lost7 {
 body#lostresearch .post.lost9 {
     top: 100px;
     left: 200px;
-}
-
-body#lostresearch .post.lost10 {
-    top: 400px;
-    left: 300px;
+    background: url(img_navsprites.gif) 0 0;
 }
 
 body#lostresearch .post.lost11 {
