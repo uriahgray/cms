@@ -61,7 +61,11 @@ body#fff .post.screen3 {
     width: 500px;
     height: auto;
       }
-
+element.style {
+    position: relative;
+    left: 494px;
+    top: 66px;
+}
 body#fff .post.screen4 {
       left: 1064.95px;
     top: 1032.43px;
