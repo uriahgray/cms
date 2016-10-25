@@ -5,13 +5,6 @@ img.set_photos {}
     width: 350px;
     overflow: scroll;
 }
-.post.photo.jahar25.watercolourdessertdraft {
-    display: block;
-    width: 350px;
-    height: 350px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
 
 .post.photo.jahar25.watercolourdessertdraft {
     float: left;
@@ -47,4 +40,14 @@ a.link {
 
 h3.tag_title {
     display: none;
+}
+
+.post.photo.jahar25.watercolourdessertdraft {
+    display: block;
+    width: 350px;
+    height: 350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
