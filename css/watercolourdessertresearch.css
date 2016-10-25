@@ -8,3 +8,6 @@ a.link {
     font-family: courier;
     text-transform: uppercase;
 }
+p {
+    font-size: small;
+}
