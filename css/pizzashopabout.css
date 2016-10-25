@@ -44,3 +44,11 @@ h1 {
     position: fixed;
 }
 
+h1:hover {
+    color:gold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
