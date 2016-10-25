@@ -38,6 +38,7 @@ body#nostalgiatome .tmblr-iframe--desktop-logged-in-controls.iframe-controls--de
 
 body#nostalgiatome .nav {
     font-family: futura;
+    font-size: 18px;
     text-align: center;
     align-items: center;
     opacity: 0.8;
