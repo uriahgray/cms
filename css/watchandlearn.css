@@ -1,5 +1,5 @@
 
-element.style {
+element#watchandlearn .style {
     background-color: black;
 }
 
@@ -16,12 +16,6 @@ h3.tag_title {
     display: none;
 }
 
-<video autoplay>
-  <source src="ChessTutorial.mp4" type="video/mp4">
-  <source src="CornSlowMo.mp4" type="video/mp4">
-  <source src="MonkeySelfie2.mp4" type="video/mp4">
-</video>
-
 body#watchandlearn .container {
     overflow-x: scroll;
 }
@@ -35,3 +29,9 @@ body#watchandlearn article.posts {
  body#voyage img.set_photos {
     height: 800px;
 }
+
+<video autoplay>
+  <source src="ChessTutorial.mp4" type="video/mp4">
+  <source src="CornSlowMo.mp4" type="video/mp4">
+  <source src="MonkeySelfie2.mp4" type="video/mp4">
+</video>
