@@ -38,5 +38,10 @@ ul.tags {
     max-width: 30%;
     margin-top: 5%;
     margin-left: 38%;
+    position:fixed;
+}
+
+.post.photo.racri2.postnow.restaurantindex.pizzashop.pizzashopresearch {
+    display: none;
 }
 
