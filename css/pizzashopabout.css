@@ -17,15 +17,13 @@ ul.tags {
 }
 
 p {
-    text-align: center;
-    font-size: 65px;
-    line-height: 65px;
-    font-family: times;
+    text-align: left;
+    font-size: 30px;
     font-weight: 800;
     display: inline-block;
     max-width: 800px;
-    margin-left: 200px;
-    margin-top:10%;
+    margin-left: 40%;
+    margin-top: 15%;
 }
 
 .postcontainer a.link {
