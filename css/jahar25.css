@@ -1,4 +1,5 @@
 .post.photo.jahar25 {
     width: 400px;
-    float: left;
+    display: inline-block;
+ 
 }
