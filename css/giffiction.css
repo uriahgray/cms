@@ -33,7 +33,7 @@ h3.tag_title {
   display: none;
 }
 
-.post.header {
+.header {
     position: fixed;
     max-width: 300px;
     top: 20px;
