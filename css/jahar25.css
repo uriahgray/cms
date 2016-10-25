@@ -1,5 +1,8 @@
-ul.tags {
+a.link {
     display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
 }
 
 article.posts {
