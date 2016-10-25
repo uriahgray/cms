@@ -77,10 +77,11 @@ body#lostresearch .post.lost4 {
 }
 
 body#lostresearch .post.lost5 {
-    top: 100px;
+    top: 3700px;
     left: 400px;
-    width: 450px;
-    height: 4350px;
+    width: 600px;
+    height: 4550px;
+
 }
 
 body#lostresearch .post.lost6 {
@@ -275,6 +276,12 @@ body#lostresearch .post {
 
 }
 
+body#lostresearch .post.losttitle {
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    position: fixed;
+}
 
 
 
