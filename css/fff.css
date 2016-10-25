@@ -1,5 +1,6 @@
 body#fff{
-   background: -webkit-linear-gradient(red, yellow);
+/*    background: -webkit-linear-gradient(red, yellow); */
+   background: -webkit-linear-gradient(top,  rgba(233,112,35,1) 0%,rgba(255,241,161,1) 100%);
 }
 body#fff h3.tag_title {
 display: none;
@@ -31,7 +32,7 @@ body#fff .post:hover {
     display: none;
 }
 body#fff .post {
-  width: 300px;
+  min-width: 500px;
    position: absolute;
     
 }
