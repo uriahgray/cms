@@ -10,30 +10,6 @@
   src="http://www.clocktag.com/html5/d20black.html">
 </iframe>-->
 
-<aside style="right: 0;"><h1 id="time">13:47:23</h1></aside>
-    <script type="text/javascript">
-      
-      function leadzero(number) {
-        var output = (number.toString().length == 1) ? "0" + number : number;
-        return output;
-      }
-
-      var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-      var serverdate = new Date(2016, 10, 26, 13, 57, 06);
-
-      function updateTime() {
-        serverdate.setSeconds(serverdate.getSeconds()+1);
-        var datestring = months[serverdate.getMonth() - 1] + " " + serverdate.getDate() + ", " + serverdate.getFullYear();
-        var timestring = leadzero(serverdate.getHours()) + ":" + leadzero(serverdate.getMinutes()) + ":" + leadzero(serverdate.getSeconds());
-        document.getElementById("time").innerHTML=timestring;
-      }
-
-      window.onload = function() {
-        updateTime();
-        setInterval(updateTime, 1000);
-      };
-    </script>
-
 <marquee class="html-marquee" 
          direction="left" 
          behavior="scroll" 
