@@ -49,3 +49,10 @@ body#watchandlearn article.posts {
     border: 3px solid #73AD21;
     padding: 10px;
   }
+
+aside {
+    position: fixed;
+    top: 0;
+    margin: 1em;
+    z-index: 1;
+}
