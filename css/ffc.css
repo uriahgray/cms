@@ -46,11 +46,7 @@ div.post.container {
     width: 500px;
 }
 
- article.posts {
-/*     width: 1000px; */
-    margin-left: 40%;
-    margin-right: 40%;
-}
+
 img.set_photos {
     width: 500px;
     height: auto;
@@ -61,6 +57,12 @@ div.post.photo {
 width: 500px;
     height: auto;
     
+}
+
+article.posts {
+/*     width: 1000px; */
+    margin-left: 40%;
+    margin-right: 40%;
 }
 div.post.photo.f1 {
 
