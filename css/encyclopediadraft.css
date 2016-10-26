@@ -60,13 +60,13 @@ a {
     cursor: default;
 }
 
-body {
+body#encyclopediadraft {
    position: relative;
    margin: 0;
    padding: 50px;
 }
 
-body:after {
+body#encyclopediadraft:after {
     content : "";
     display: block;
     position: absolute;
