@@ -63,10 +63,16 @@ width: 500px;
     
 }
 body#ffc .post.f1 {
-    left:10%;
+
+    position: relative;
+    left: 27px;
+    top: 0px;
 
 }
 div.post.photo.f24 {
-    left:10px;
+
+    position: relative;
+    left: 27px;
+    top: 0px;
 }
 
