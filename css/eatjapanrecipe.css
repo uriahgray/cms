@@ -1,0 +1,25 @@
+body {
+font-family: arial;
+font-size: 17px;
+line-height: 30px;
+letter-spacing: 0.02em;
+padding: 20pt;
+}
+
+a.link {
+display: none;
+}
+
+a {
+text-decoration: underline;
+display: none;
+}
+
+b {
+font-weight: bold;
+}
+
+li {
+color: darkgoldenrod;
+font-size: 12pt;
+}
