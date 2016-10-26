@@ -80,3 +80,10 @@ body#encyclopediadraft:after {
     opacity : 0.1;
     z-index: -1;
 }
+
+body#encyclopediadraft {
+    background-image: url(http://www.hotpipes.com/1911BritannicaBag-Pipes002.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
