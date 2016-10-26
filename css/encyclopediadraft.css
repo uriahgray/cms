@@ -64,6 +64,7 @@ body#encyclopediadraft {
    position: relative;
    margin: 0;
    padding: 50px;
+   background-color: cornsilk;
 }
 
 body#encyclopediadraft:after {
