@@ -44,11 +44,11 @@ body#ffc .post {
 }
 
 img.set_photos {
-left: 30%
+/* left: 30% */
  
 }
 div.post.photo {
-      left: 30%;
+/*       left: 30%; */
 }
 body#ffc .post.f1 {
 
