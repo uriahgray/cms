@@ -29,3 +29,21 @@ body#watchandlearn article.posts {
     height: 300px;
     display: flex;
 }
+
+.html-marquee {
+  height:40px;
+  width:300px;
+  background-color:#ffffff;
+  background-image:url(http://66.media.tumblr.com/62ab45f2b41f8eee208396b1edb0d97a/tumblr_ofm00b5DJX1vf7reno1_400.jpg);
+  font-family:Verdana;
+  font-size:12px;
+  color:#ffffff;
+  border-width:0;
+  border-style:solid;
+  border-color:#ffffff;
+}
+  
+.time {
+    margin: auto;
+    position: fixed;
+  }
