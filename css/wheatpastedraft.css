@@ -18,7 +18,7 @@ body#wheatpastedraft body {
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url("https://65.media.tumblr.com/b59a1295422624add023040327757e95/tumblr_ofkq3sK0jc1qiluvco1_1280.png");
+    background-image: url(https://65.media.tumblr.com/b59a1295422624add023040327757e95/tumblr_ofkq3sK0jc1qiluvco1_1280.png);
     background-repeat: repeat;
     background-attachment: fixed;
     width: 100%;
