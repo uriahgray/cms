@@ -1,3 +1,9 @@
+body#wheatpastedraft {
+   position: relative;
+   margin: 0;
+   padding: 50px;
+}
+
 body#wheatpastedraft head {
     display: none;
 }
@@ -8,7 +14,17 @@ body#wheatpastedraft body {
     font-weight: 400;
     line-height: 30px;
     letter-spacing: 0.02em;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
     background-image: url("https://65.media.tumblr.com/b59a1295422624add023040327757e95/tumblr_ofkq3sK0jc1qiluvco1_1280.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-size: 100%;
     
 }
 
