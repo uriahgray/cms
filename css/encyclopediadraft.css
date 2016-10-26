@@ -23,6 +23,7 @@ body#encyclopediadraft p {
     line-height: 12pt;
     padding-bottom: 120px;
     padding-top: 30px;
+    color: hotpink;
 }
 
 body#encyclopediadraft a.link {
@@ -40,6 +41,7 @@ body#encyclopediadraft h3.title {
     font-size: 32pt;
     padding-bottom: 30px;
     line-height: 1em;
+    color: hotpink;
 }
 
 .post img {
@@ -53,7 +55,7 @@ h3.tag_title {
 
 a {
     text-decoration: none;
-    color: black;
+    color: hotpink;
     pointer-events: none;
     cursor: default;
 }
