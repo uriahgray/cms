@@ -305,22 +305,45 @@ pre code {
 }
 
 body#lostresearch .post.lostpainting1 {
-    top: 3000px;
-    left: 500px;
-    width: 500px;
+    top: 2500px;
+    left: 3000px;
+    width: 800px;
+    height: 800px;
+
 }
 
 body#lostresearch .post.lostpainting2 {
-    top: 2200px;
-    left: 300px;
+    top: 1300px;
+    left: 2500px;
     width: 500px;
 }
 
 body#lostresearch .post.lostpainting3 {
-    top: 2500px;
-    left: 400px;
-    width: 500px;
+    top: 2950px;
+    left: 2000px;
+    width: 600px;
 }
+
+body#lostresearch .post.lostcountry1 {
+    top: 3000px;
+    left: 2500px;
+    width: 600px;
+}
+
+body#lostresearch .post.lostcountry2 {
+    top: 550px;
+    left: 3000px;
+    width: 600px;
+
+}
+
+body#lostresearch .post.lostcountry3 {
+    top: 3350px;
+    left: 3500px;
+    width: 600px;
+}
+
+
 
 
 
