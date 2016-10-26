@@ -83,7 +83,7 @@ body#encyclopediadraft:after {
     background-size: 100%;
 }
 
-img:hover {
+body#encyclopediadraft img:hover {
     -moz-box-shadow: 15px 15px 30px hotpink;
     -webkit-box-shadow: 15px 15px 30px hotpink;
     box-shadow: 15px 15px 30px hotpink;
