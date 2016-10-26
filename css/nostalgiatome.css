@@ -64,7 +64,7 @@ body#nostalgiatome p {
 }
 
 
-body#nostalgiatome .post.text.nostalgiadraft {
+body#nostalgiatome .post.text.nostalgiatome {
     width: initial;
     position: fixed;
     top: 100px;
@@ -107,7 +107,7 @@ body#nostalgiatome img.set_photos {
 }
 
 body#nostalgiatome article.posts {
-    width: 10620px;
+    width: 7700px;
     height: 400px;
     display: flex;
 }
