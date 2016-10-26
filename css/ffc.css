@@ -45,12 +45,14 @@ body#ffc .post {
 
 img.set_photos {
 /* left: 30% */
-        width: 100%;
-    height: auto;
+        width: 500px;
+            
+   height: auto;
  
 }
 div.post.photo {
 /*       left: 30%; */
+    
 }
 body#ffc .post.f1 {
 
