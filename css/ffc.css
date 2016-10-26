@@ -45,6 +45,8 @@ body#ffc .post {
 
 img.set_photos {
 /* left: 30% */
+        width: 100%;
+    height: auto;
  
 }
 div.post.photo {
