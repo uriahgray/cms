@@ -43,12 +43,12 @@ body#watchandlearn article.posts {
   border-color:#ffffff;
 }
   
-.time {
+/* .time {
     margin: auto;
     width: 60%;
     border: 3px solid #73AD21;
     padding: 10px;
-  }
+  } *\
 
 aside {
     position: fixed;
