@@ -38,9 +38,9 @@ body#ffc .post:hover {
 body#ffc .chocolat-wrapper {
     display: none;
 }
-body#ffc .post {
+/* body#ffc .post {
    position: center;
-    
+     */
 }
 div.post.container {
     width: 500px;
@@ -88,11 +88,13 @@ top: -7288px;
 }
 div.post.photo.f13 {
     position: relative;
-    left: 44px;
+    left: 64px;
+    top: -3584px;
 }
 div.post.photo.f12 {
     position: relative;
-    left: 212px;
+       left: -68px;
+    top: -3552px;
 }
 div.post.photo.f11 {
     position: relative;
