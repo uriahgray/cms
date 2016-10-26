@@ -95,8 +95,7 @@ body#encyclopediadraft img:hover {
 
 .header {
     padding-bottom: 40px;
-    text-align: center;
-    word-spacing: 50px;
+    text-align: left;
     font-family: Montserrat;
 }
 
