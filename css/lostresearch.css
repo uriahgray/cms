@@ -297,12 +297,31 @@ body#lostresearch .post.losttitle {
 }
 
 a {
-    text-decoration: line-through;
+    text-decoration: overline;
 }
 pre code {
     font: normal 10pt Consolas, Monaco, monospace;
 	text-align: left;
 }
+
+body#lostresearch .post.lostpainting1 {
+    top: 3000px;
+    left: 500px;
+    width: 500px;
+}
+
+body#lostresearch .post.lostpainting2 {
+    top: 2200px;
+    left: 300px;
+    width: 500px;
+}
+
+body#lostresearch .post.lostpainting3 {
+    top: 2500px;
+    left: 400px;
+    width: 500px;
+}
+
 
 
 
