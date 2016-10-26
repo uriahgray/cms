@@ -56,4 +56,7 @@ body#ffc .post.f1 {
 div.post.container {
     width: 500px;
 }
+article.posts {
+    width: 100%;
+}
 
