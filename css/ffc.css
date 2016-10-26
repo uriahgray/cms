@@ -1,6 +1,6 @@
 html, body {
-      height:100%;
-   width:100%;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 body#ffc {
    background: -webkit-linear-gradient(top,  rgba(233,112,35,1) 0%,rgba(255,241,161,1) 100%);
@@ -53,4 +53,10 @@ div.post.photo {
 body#ffc .post.f1 {
 
 }
+var scrollEventHandler = function()
+{
+  window.scroll (0, window.pageYOffset)
+}
+
+window.addEventListener("scroll", scrollEventHandler, false);
 
