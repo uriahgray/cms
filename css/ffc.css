@@ -38,9 +38,9 @@ body#ffc .post:hover {
 body#ffc .chocolat-wrapper {
     display: none;
 }
-/* body#ffc .post {
+body#ffc .post {
    position: center;
-     */
+    
 }
 div.post.container {
     width: 500px;
