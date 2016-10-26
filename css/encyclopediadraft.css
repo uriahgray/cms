@@ -89,6 +89,10 @@ body#encyclopediadraft img:hover {
     box-shadow: 15px 15px 30px hotpink;
 }
 
+.main {
+    position: fixed;
+}
+
 .header {
     padding-bottom: 40px;
     text-align: center;
