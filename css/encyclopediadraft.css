@@ -88,3 +88,10 @@ body#encyclopediadraft img:hover {
     -webkit-box-shadow: 15px 15px 30px hotpink;
     box-shadow: 15px 15px 30px hotpink;
 }
+
+.header {
+    padding-bottom: 40px;
+    text-align: center;
+    word-spacing: 50px;
+    font-family: Montserrat;
+}
