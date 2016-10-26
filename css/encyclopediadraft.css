@@ -106,3 +106,7 @@ h1 {
     line-height: 1em;
     font-size: 32px;
 }
+
+::-webkit-scrollbar { 
+    display: none; 
+}
