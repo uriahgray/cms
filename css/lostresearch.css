@@ -292,8 +292,11 @@ body#lostresearch .post.losttitle {
 .append {
     z-index: 9999999;
     position: fixed;
-
+    top: 300px;
+    left: 18px;
 }
+
+
 
 
 
