@@ -292,11 +292,17 @@ body#lostresearch .post.losttitle {
 .append {
     z-index: 9999999;
     position: fixed;
-    top: 300px;
+    top: 240px;
     left: 18px;
 }
 
-
+a {
+    text-decoration: line-through;
+}
+pre code {
+    font: normal 10pt Consolas, Monaco, monospace;
+	text-align: left;
+}
 
 
 
