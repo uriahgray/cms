@@ -44,10 +44,13 @@ body#ffc .post {
 }
 
 img.set_photos {
-/* left: 30% */
-        width: 500px;
-            
-   height: auto;
+    /* left: 30%; */
+    width: 100%;
+    height: auto;
+}
+img, video, object, embed {
+    max-width: 100%;
+    height: auto;
  
 }
 div.post.photo {
