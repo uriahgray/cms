@@ -1,5 +1,5 @@
 html, body {
-    max-width: 50%;
+    max-width: 100%;
     overflow-x: hidden;
 }
 body#ffc {
@@ -56,3 +56,4 @@ body#ffc .post.f1 {
 div.post.container {
     width: 500px;
 }
+
