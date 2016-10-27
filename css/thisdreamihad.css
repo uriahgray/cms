@@ -59,7 +59,7 @@ h3.tag_title {
 }
 a {
     text-decoration: overline;
-    color:  thistle;
+    color: thistle;
     font-size: 22pt;
     font-weight: 300;
     font-family: courier new;
@@ -73,7 +73,7 @@ a {
 
 /* mouse over link */
 a:hover {
-    color:  powderblue;
+    color: powderblue;
 }
 
 .postcontainer {
