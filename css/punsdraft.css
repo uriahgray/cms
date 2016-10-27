@@ -41,6 +41,13 @@ left is padding towards the left? */
     color: orange;
 }
 
+/* this is the hover for the hyperlink on the nav bar */
+.nav a:hover{
+   display:block;
+   color: white;
+   opacity:60%;
+}
+
 /* hyperlink to the article that started the Pun thread */
 .subtitle {
     position: fixed;
