@@ -14,6 +14,17 @@ background:white;
     font-weight: bold;
 }
 
+.forum {
+    font-size: 50px;
+    padding: 50px 45px;
+    position: fixed;
+    height: 100vh;
+    border: 5px solid navy;
+    background: navy;
+    color: orange;
+    font-weight: bold;
+}
+
 /* the navigation for the sidebar - don't forget the 
 z-index: is to make the navigation come out on top of nav bar.
 top is basically the padding
