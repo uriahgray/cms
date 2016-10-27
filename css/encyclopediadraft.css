@@ -131,5 +131,6 @@ h1 {
 }
 
 h1:hover {
-    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration-color: hotpink;
 }
