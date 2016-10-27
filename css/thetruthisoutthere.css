@@ -9,3 +9,6 @@ iframe {
     width: 60%;
     height: 500px;
 }
+iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
