@@ -16,7 +16,7 @@ background:white;
 
 .forum {
     font-size: 50px;
-    padding: 150px 45px 0px 50px;
+    padding: 150px 45px 150px 50px;
     position: fixed;
     color: orange;
     font-weight: bold;
