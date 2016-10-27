@@ -90,3 +90,13 @@ body#punresearch .post.postnow {
     margin-right: 150px;
     margin-left: 150px;
 }
+
+
+/* this is for the bold part of texts - for titles */
+b {
+    font-weight: bold;
+    color: navy;
+    line-height: 23px;
+    text-decoration: underline;
+    font-size: 22px
+}
