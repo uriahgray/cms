@@ -110,6 +110,7 @@ h1 {
     font-weight: bold;
     line-height: 1em;
     font-size: 64px;
+    text-decoration
 }
 
 ::-webkit-scrollbar { 
@@ -127,4 +128,8 @@ h1 {
     padding-bottom: 120px;
     pointer-events: none;
     cursor: default;
+}
+
+h1:hover {
+    text-decoration: underline;
 }
