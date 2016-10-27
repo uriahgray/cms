@@ -48,28 +48,6 @@ left is padding towards the left? */
    opacity:60%;
 }
 
-/* hyperlink to the article that started the Pun thread */
-.subtitle {
-    position: fixed;
-    top: 150px;
-    left: 50px;
-    right: 1030px;
-    z-index: 9;
-}
-
-/* style of the hyperlink to the article that started the Pun thread */
-.subtitle a{
-   display:block;
-   color: orange;
-}
-
-/* this is the hover for the hyperlink on the nav bar */
-.subtitle a:hover{
-   display:block;
-   color: white;
-   opacity:60%;
-}
-
 /* for all the posts on the righthand side */
 article.posts {
     height: 100vh;
