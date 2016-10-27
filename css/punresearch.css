@@ -84,3 +84,9 @@ body#punresearch .post {
 img.set_photos {
     border: 5px solid navy;
 }
+
+/* this is the general margine for the posts on the page */
+body#punresearch .post.postnow {
+    margin-right: 150px;
+    margin-left: 150px;
+}
