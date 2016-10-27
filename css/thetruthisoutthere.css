@@ -1,3 +1,7 @@
+
+h3.tag_title {
+    display: none;
+}
 a.link {
     display: none;
 }
@@ -11,12 +15,4 @@ iframe {
 }
 iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
-}
-.iframe-controls-container .buttons-container {
-    display: -ms-flexbox;
-    display: none;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
 }
