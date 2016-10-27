@@ -38,6 +38,12 @@ body#thetruthisouttheredraft {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+post.video.jlhaw3.thetruthisoutthereresearch.postnow.thetruthisoutthere.small {
+	display:block;
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+}
 body#thetruthisoutthere {
     background: lightgrey;
 }
