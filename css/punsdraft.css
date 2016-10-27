@@ -83,7 +83,7 @@ h3.tag_title {
 
 /*this is the tags being hidden*/
 .post ul.tags{
-	display:initial;
+	display:none;
 }
 
 /*this is the permalink being hidden*/
