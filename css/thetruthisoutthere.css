@@ -43,3 +43,7 @@ post.video.jlhaw3.thetruthisoutthereresearch.postnow.thetruthisoutthere.small {
 body#thetruthisoutthere {
     background: lightgrey;
 }
+a {
+    text-decoration: none;
+    color: black;
+}
