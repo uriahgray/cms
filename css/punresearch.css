@@ -1,0 +1,81 @@
+/* the title of the page */
+.puns {
+    font-size: 50px;
+    padding: 50px 45px;
+    position: fixed;
+    height: 100vh;
+    border: 5px solid navy;
+    background: navy;
+    color: orange;
+    font-weight: bold;
+}
+
+.forum {
+    font-size: 50px;
+    padding: 110px 45px 150px 50px;
+    position: fixed;
+    color: orange;
+    font-weight: bold;
+}
+
+
+/* the navigation for the sidebar - don't forget the 
+z-index: is to make the navigation come out on top of nav bar.
+top is basically the padding
+left is padding towards the left? */
+.nav {
+    position: fixed;
+    top: 500px;
+    left: 55px;
+    z-index: 9;
+    font-size: 28px;
+    line-height: 34px;
+}
+
+/* this is the hover for the hyperlinks on the nav bar - rationale/research etc. */
+.nav a:hover{
+   display:block;
+   color: white;
+   opacity:60%;
+}
+
+/* for all the posts on the righthand side */
+article.posts {
+    height: 100vh;
+    margin-left: 280px;
+}
+
+/* navigation links and the styling of the text within the links */
+.nav a {
+    display: block;
+    color: orange;
+}
+
+/* this is the Posts Tagged "_____" thing at the top that's being hidden */
+h3.tag_title {
+    display: none;
+}
+
+/*this is the tags being hidden*/
+.post ul.tags{
+	display:none;
+}
+
+/*this is the permalink being hidden*/
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+/*this is the instructions for all the posts*/
+body#punsdraft .post {
+  border:5px solid orange;
+  padding:10px 20px 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 16px;
+  
+}
