@@ -1,5 +1,51 @@
 body#punsrationale{
-background:orange;
+background:white;
+}
+
+/* the title of the page */
+.puns {
+    font-size: 50px;
+    padding: 50px 45px;
+    position: fixed;
+    height: 100vh;
+    border: 5px solid navy;
+    background: navy;
+    color: orange;
+    font-weight: bold;
+}
+
+.forum {
+    font-size: 50px;
+    padding: 110px 45px 150px 50px;
+    position: fixed;
+    color: orange;
+    font-weight: bold;
+}
+
+
+/* the navigation for the sidebar - don't forget the 
+z-index: is to make the navigation come out on top of nav bar.
+top is basically the padding
+left is padding towards the left? */
+.nav {
+    position: fixed;
+    top: 500px;
+    left: 55px;
+    z-index: 9;
+    font-size: 28px;
+    line-height: 34px;
+}
+
+/* for all the posts on the righthand side */
+article.posts {
+    height: 100vh;
+    margin-left: 280px;
+}
+
+/* navigation links and the styling of the text within the links */
+.nav a {
+    display: block;
+    color: orange;
 }
 
 /* this is the Posts Tagged "_____" thing at the top that's being hidden */
