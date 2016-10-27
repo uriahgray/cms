@@ -47,6 +47,7 @@ body#encyclopediadraft h3.title {
 .post img {
     display: inline-block;
     max-width: 500px;
+    cursor: default;
 }
 
 h3.tag_title {
