@@ -125,4 +125,6 @@ h1 {
     
 .gif {
     padding-bottom: 120px;
+    pointer-events: none;
+    cursor: default;
 }
