@@ -57,3 +57,12 @@ b {
     text-decoration: none;
     font-size: 24px
 }
+
+/* italics */
+i {
+    font-size: 30px;
+    font-style: oblique;
+    line-height: 33px;
+    font-weight: bold;
+    color: orange;
+}
