@@ -116,8 +116,8 @@ body#punsdraft .post.title {
 /* hyperlink for the title above */
 body#punsdraft .post.title a:hover{
    display:block;
-   color: white;
-   opacity:60%;
+   color: orange;
+   opacity:100%;
 }
 
 /* this is for the general text in the posts - but not the usernamessss */
