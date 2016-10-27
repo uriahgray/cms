@@ -111,6 +111,9 @@ body#punsdraft .post.title {
     line-height: 28px;
     border: none;
     color: orange;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 30px;
 }
 
 /* style of the hyperlink to the article that started the Pun thread */
