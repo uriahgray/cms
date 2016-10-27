@@ -5,4 +5,7 @@ a.link {
 ul.tags {
     display: none;
 }
-
+iframe {
+    width: 60%;
+    height: 500px;
+}
