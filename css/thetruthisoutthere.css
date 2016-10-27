@@ -29,17 +29,16 @@ body#thetruthisouttheredraft {
 .post.video.jlhaw3.thetruthisoutthereresearch.postnow.curategreen.curateorange.thetruthisoutthere.small {
     width: 40%;
     height: 300px;
+
 }
 .post.video.jlhaw3.thetruthisoutthereresearch.postnow.thetruthisoutthere.small {
-    width: 40%;
-    height: 300px;
+	width: 40%;
+	height: 300px;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
 }
-post.video.jlhaw3.thetruthisoutthereresearch.postnow.thetruthisoutthere.small {
-	display:block;
-	float:centre;
-	padding-left:10px;
-	padding-right:10px;
-}
+	
 body#thetruthisoutthere {
     background: lightgrey;
 }
