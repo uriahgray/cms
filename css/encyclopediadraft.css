@@ -53,11 +53,16 @@ h3.tag_title {
     display: none;
 }
 
-.post a {
+.text a {
     text-decoration: none;
     color: hotpink;
     pointer-events: none;
     cursor: default;
+}
+
+a {
+    text-decoration: none;
+    color: hotpink;
 }
 
 body#encyclopediadraft {
