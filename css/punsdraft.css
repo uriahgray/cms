@@ -28,7 +28,7 @@ top is basically the padding
 left is padding towards the left? */
 .nav {
     position: fixed;
-    top: 500px;
+    top: 535px;
     left: 55px;
     z-index: 9;
     font-size: 28px;
