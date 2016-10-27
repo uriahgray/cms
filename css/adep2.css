@@ -1,7 +1,21 @@
-
-article.posts {
- margin: auto;
- width: 50%;
- padding-top: 30px;
- padding-bottom: 30px;
+h3.tag_title {
+    font-family: proxima nova;
+    margin-left: -626px;
+    /* margin-top: 278px; */
+    font-size: 45px;
+    text-decoration: underline;
+    position: fixed;
+    background-color: white;
+    padding: 5px;
 }
+
+a.link {
+    text-decoration: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+ul.tags {
+    display: none;
+}
+
