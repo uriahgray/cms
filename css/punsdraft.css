@@ -113,8 +113,15 @@ body#punsdraft .post.title {
     color: orange;
 }
 
+/* style of the hyperlink to the article that started the Pun thread */
+body#punsdraft .post.title a{
+   display:block;
+   color: orange;
+}
+
 /* hyperlink for the title above */
 body#punsdraft .post.title a:hover{
+   display:block;
    color: navy;
    opacity:100%;
 }
