@@ -1,0 +1,86 @@
+  body {
+    font-family: verdana;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0.02em;
+  }
+
+.post.leftdream {
+    background-color: powderblue;
+    position: fixed;
+    left: 0px;
+    top: 175px;
+    width: 33.33%;
+    padding: 30px;
+    height: 100%;
+    overflow: auto;
+}
+
+a.link {
+    display: none;
+}
+
+.post.centredream {
+    background-color: thistle;
+    position: fixed;
+    top: 175px;
+    width: 33.33%;
+    padding: 30px;
+    height: 100%;
+    overflow: auto;
+    left: 33.33%;
+}
+
+.post.rightdream {
+    background-color: pink;
+    position: fixed;
+    right: 0px;
+    top: 175px;
+    width: 33.33%;
+    padding:30px;
+    height: 100%;
+    overflow: auto; 
+}
+
+h3.tag_title {
+    padding-bottom: 20px;
+    display: none;
+}
+
+.nav {position: fixed;right: 20px;top: 125px;}
+
+.title {
+    position: fixed;
+    top: 125px;
+    left: 30px;
+    font-size: 30pt;
+    font-weight: bold;
+    font-family: courier new;
+}
+a {
+    text-decoration: overline;
+    color: pink;
+    font-size: 22pt;
+    font-weight: 300;
+    font-family: courier new;
+}
+
+.nav {
+    font-family: courier new;
+    font-size: 20pt;
+    top: 129px;
+}
+
+/* mouse over link */
+a:hover {
+    color: thistle;
+}
+
+.postcontainer {
+    padding-bottom: 200px;
+    padding-left: 29px;
+}
+
+ul.tags {
+    display: none;
+}
