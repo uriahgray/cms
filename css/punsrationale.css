@@ -1,10 +1,23 @@
-body#punsdraft{
+body#punsrationale{
 background:orange;
 }
 
 /* this is the Posts Tagged "_____" thing at the top that's being hidden */
 h3.tag_title {
     display: none;
+}
+
+/*this is the tags being hidden*/
+.post ul.tags{
+	display:none;
+}
+
+/*this is the permalink being hidden*/
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
 }
 
 /*this is the instructions for all the posts*/
