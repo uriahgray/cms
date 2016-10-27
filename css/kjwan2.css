@@ -1,0 +1,38 @@
+body#punsdraft{
+background:white;
+}
+
+/* this is the Posts Tagged "_____" thing at the top that's being hidden */
+h3.tag_title {
+    display: none;
+}
+
+/*this is the tags being hidden*/
+.post ul.tags{
+	display:none;
+}
+
+/*this is the permalink being hidden*/
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+
+/*this is the instructions for all the posts*/
+body#kjwan2 .post {
+  border:5px solid orange;
+  padding:10px 20px 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+/* this is for the general text in the posts - but not the usernamessss */
+.post.text p {
+    color: black;
+}
+
