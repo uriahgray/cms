@@ -95,7 +95,6 @@ body#punsdraft .post.title {
 
 /* style of the hyperlink to the article that started the Pun thread */
 body#punsdraft .post.title a{
-   display:block;
    color: orange;
 }
 
