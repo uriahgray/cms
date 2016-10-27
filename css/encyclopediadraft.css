@@ -56,8 +56,6 @@ h3.tag_title {
 a {
     text-decoration: none;
     color: hotpink;
-    pointer-events: none;
-    cursor: default;
 }
 
 body#encyclopediadraft {
