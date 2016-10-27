@@ -38,3 +38,14 @@ body#kjwan2 .post {
     color: navy;
 }
 
+article.posts {
+    width: 70%;
+    display: block;
+    float: left;
+    margin-left: 200px;
+    background: aliceblue;
+}
+
+img.set_photos {
+    border:3px solid navy;
+}
