@@ -9,10 +9,6 @@ a.link {
 ul.tags {
     display: none;
 }
-iframe {
-    width: 60%;
-    height: 500px;
-}
 iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
@@ -34,7 +30,7 @@ a {
     text-decoration: none;
     color: black;
 }
-.post.video.jlhaw3.thetruthisoutthereresearch.postnow.thetruthisoutthere.small {
+.post.video.jlhaw3.thetruthisoutthereresearch.postnow.thetruthisoutthere {
     width: 60%;
     height: 200px;
     display: block;
