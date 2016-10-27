@@ -16,3 +16,6 @@ iframe {
 iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
+body#thetruthisouttheredraft {
+	background : grey ;
+}
