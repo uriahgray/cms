@@ -1,3 +1,7 @@
+body#punsdraft{
+background:orange;
+}
+
 /* the title of the page */
 .puns {
     font-size: 50px;
@@ -77,7 +81,7 @@ body#punresearch .post {
   margin-bottom: 10px;
   font-size: 14px;
   line-height: 16px;
-  
+  background: white
 }
 
 /* for the images on the page */
