@@ -52,8 +52,9 @@ img.set_photos {
 /* this is for the bold part of texts - for titles */
 b {
     font-weight: bold;
-    color: navy;
+    color: lightskyblue;
     line-height: 27px;
+    padding: 10px;
     text-decoration: none;
     font-size: 24px
 }
