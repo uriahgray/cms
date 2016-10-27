@@ -115,7 +115,6 @@ body#punsdraft .post.title {
 
 /* hyperlink for the title above */
 body#punsdraft .post.title a:hover{
-   display:block;
    color: navy;
    opacity:100%;
 }
