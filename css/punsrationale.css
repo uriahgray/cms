@@ -79,6 +79,7 @@ body#punsrationale .post {
 
 /* this is the title for the page - rationale */
 body#punsrationale .title {
-    font-size: 50px;
+    font-size: 40px;
     color: orange;
+    font-style: italic;
 }
