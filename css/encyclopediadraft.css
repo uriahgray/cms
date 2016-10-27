@@ -121,3 +121,7 @@ h1 {
     top: 0;
     right: 0;
     display: none;
+    
+.gif {
+    padding-bottom: 120px;
+}
