@@ -105,6 +105,21 @@ body#punsdraft .post {
   
 }
 
+/* this is the hyperlink at the top of the page */
+body#punsdraft .post.title {
+    font-size: 25px;
+    line-height: 26px;
+    border: none;
+    color: orange;
+}
+
+/* hyperlink for the title above */
+body#punsdraft .post.title a:hover{
+   display:block;
+   color: white;
+   opacity:60%;
+}
+
 /* this is for the general text in the posts - but not the usernamessss */
 .post.text p {
     color: black;
