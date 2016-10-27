@@ -79,3 +79,8 @@ body#punresearch .post {
   line-height: 16px;
   
 }
+
+/* for the images on the page */
+img.set_photos {
+    border: 5px solid navy;
+}
