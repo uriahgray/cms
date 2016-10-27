@@ -31,6 +31,7 @@ a {
     color: black;
 }
 .post.video.jlhaw3.thetruthisoutthereresearch.postnow.thetruthisoutthere {
+    float: left;
     width: 60%;
     height: 200px;
     display: block;
