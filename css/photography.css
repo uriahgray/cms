@@ -28,13 +28,7 @@ body#photography .copy {
     display: none;
 }
 
-body#photography .post.clear {
-    clear: both;
-    display: inherit;
-    float: none;
-    border: 0px;
-    height: 0px;
-    overflow: hidden;
+
 }
 body#photography ul.tags {
     display: none;
