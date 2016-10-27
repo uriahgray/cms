@@ -11,7 +11,7 @@ h3.tag_title {
 
 /*this is the permalink being hidden*/
 a.link {
-    display: none;
+    display: initial;
     font-size: 14px;
     font-family: courier;
     text-transform: uppercase;
