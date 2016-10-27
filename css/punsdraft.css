@@ -107,8 +107,8 @@ body#punsdraft .post {
 
 /* this is the hyperlink at the top of the page */
 body#punsdraft .post.title {
-    font-size: 25px;
-    line-height: 26px;
+    font-size: 27px;
+    line-height: 28px;
     border: none;
     color: orange;
 }
