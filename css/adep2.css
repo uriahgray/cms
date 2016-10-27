@@ -1,9 +1,8 @@
 h3.tag_title {
     font-family: proxima nova;
-    margin-left: -626px;
-    /* margin-top: 278px; */
+    margin-left: -693px;
+    margin-top: 278px;
     font-size: 45px;
-    text-decoration: underline;
     position: fixed;
     background-color: white;
     padding: 5px;
@@ -19,3 +18,10 @@ ul.tags {
     display: none;
 }
 
+
+article.posts {
+    margin: auto;
+    width: 36%;
+    margin-left: 730px;
+
+}
