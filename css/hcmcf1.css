@@ -78,4 +78,7 @@ container {
     height: auto;
 }
 
-
+img.set_photos {
+    float: right;
+    margin-right: -35px;
+}
