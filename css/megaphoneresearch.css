@@ -44,6 +44,9 @@ a {
     float: left;
     width: 400px;
     margin: 40px;
+    padding: 20px;
+    background: white;
+}
 }
 
 .post:nth-child(odd) {
