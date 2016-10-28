@@ -72,7 +72,14 @@ ul.tags {
 .menuindex img {
     max-width: 40%;
     position: fixed;
-    top: 13%;
-    left: 11%;
+    top: 25%;
+    left: 1%;
 }
 
+.abstractindex p {
+    position: fixed;
+    max-width: 50%;
+    top: 60%;
+    left: 50%;
+    z-index: 1;
+}
