@@ -4,6 +4,11 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
+a {
+    text-decoration: underline;
+    color: black;
+}
+
 .postcontainer a.link {
     display: none;
 }
