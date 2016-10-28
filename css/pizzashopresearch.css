@@ -86,3 +86,8 @@ iframe {
     float: left;
     margin-left: -40px;
 }
+
+.video p {
+    font-size: 12px;
+    line-height: 12px;
+}
