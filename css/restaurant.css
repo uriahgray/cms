@@ -1,6 +1,6 @@
-
-
-.iframe-controls-container.iframe-controls-container--logged-in {
+body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
     display: none;
 }
 
@@ -8,9 +8,22 @@
     display: none;
 }
 
-a {
+#nav h1:hover{
+    color:red;
+}
+
+#nav h1 {
     text-decoration: none;
     color: black;
+    font-family: monospace;
+    text-transform: uppercase;
+    left: 2.3%;
+    top: 2%;
+    position: fixed;
+}
+
+.postcontainer a.link {
+    display: none;
 }
 
 h3.tag_title {
