@@ -53,25 +53,31 @@ ul.tags {
 .post.photo.racri2.pizzashop.streetviewindex.postnow {
     display: none;
 }
+.abstractindex p {
+    position: fixed;
+    max-width: 43%;
+    top: 14%;
+    left: 10%;
+}
+
+.menuindex img {
+    max-width: 35%;
+    position: fixed;
+    top: 45%;
+    left: 0%;
+}
 
 .streetviewindex img {
     position: fixed;
     max-width: 45%;
-    left: 50%;
+    right: -1%;
     top: 10%;
     z-index: 1;
 }
 
 .restaurantindex img {
     max-width: 30%;
-    top: 60%;
-    left: 10%;
+    bottom: 0;
+    left: 37%;
     position: fixed;
-}
-
-.menuindex img {
-    max-width: 40%;
-    position: fixed;
-    top: 25%;
-    left: 1%;
 }
