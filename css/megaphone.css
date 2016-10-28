@@ -632,6 +632,21 @@ pointer-events:none;
 }
 
 
+
+
+.nav {
+    position: fixed;
+    display:block;
+    margin: auto;
+    margin-left: -75px;
+    margin-top: -77px;
+    top: 50%;
+    left: 50%;
+    z-index: 9; }
+
+   
+
+
 a {
     text-decoration:underline;
     color: black;
