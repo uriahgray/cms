@@ -10,14 +10,6 @@ h3.tag_title {
 
 .nav {position: fixed;right: 20px;top: 125px;}
 
-.title {
-    position: fixed;
-    top: 125px;
-    left: 30px;
-    font-size: 30pt;
-    font-weight: bold;
-    font-family: courier new;
-}
 a {
     text-decoration: overline;
     color: thistle;
