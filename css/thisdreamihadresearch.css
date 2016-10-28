@@ -15,9 +15,10 @@ h3.title {
 .nav {
     position: absolute;
     right: 20px;
-    top: 125px;}
-    font-family: courier new;
+    top: 125px;
+    font-family: courier;
     font-size: 20pt;
+    }
 
 a {
     text-decoration: overline;
