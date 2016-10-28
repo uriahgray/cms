@@ -37,10 +37,11 @@ article.posts {
     top: 150px;
 }
 
-.title {.title {
-    position: fixed;
+.title {
     top: 125px;
     left: 30px;
     font-size: 30pt;
     font-weight: bold;
-    font-family: courier new;  }
+    font-family: courier new;
+    position: absolute;
+}
