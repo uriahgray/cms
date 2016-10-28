@@ -45,3 +45,7 @@ article.posts {
     font-family: courier new;
     position: absolute;
 }
+
+h3.title {
+    display: none;
+}
