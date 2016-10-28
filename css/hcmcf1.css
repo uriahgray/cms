@@ -43,3 +43,7 @@ p {
 	padding-bottom: 50px;
 
 }
+
+ul.tags {
+    display: none;
+}
