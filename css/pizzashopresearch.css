@@ -44,9 +44,11 @@ h1 {
     padding: 40px;
 }
 
-p {
-    font-size: 12px;
-    line-height: 12px;
+.abstract p {
+    float: left;
+    max-width: 43%;
+    margin-top: 14%;
+    margin-left: 10%;
+    font-size: 20px;
+    line-height: 20px;
 }
-
-
