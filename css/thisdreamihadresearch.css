@@ -1,0 +1,51 @@
+article.posts {
+    position: relative;
+    top: 150px;
+}
+
+h3.tag_title {
+    padding-bottom: 20px;
+    display: none;
+}
+
+.nav {
+    position: absolute;
+    right: 20px;
+    top: 125px;}
+
+a {
+    text-decoration: overline;
+    color: thistle;
+    font-size: 22pt;
+    font-weight: 300;
+    font-family: courier new;
+}
+
+.nav {
+    font-family: courier new;
+    font-size: 20pt;
+    top: 129px;
+}
+
+/* mouse over link */
+a:hover {
+    color: powderblue;
+}
+
+article.posts {
+    position: relative;
+    top: 150px;
+}
+
+.title {
+    top: 125px;
+    left: 30px;
+    font-size: 30pt;
+    font-weight: bold;
+    font-family: courier new;
+    position: absolute;
+}
+
+h3.title {
+    display: none;
+}
