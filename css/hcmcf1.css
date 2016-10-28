@@ -2,7 +2,7 @@
 p {
     padding-top: 5px;
     padding-bottom: 10px;
-}
+ 
 }
 
 .post.photo.hcmcf1.sharedidentityresearch.postnow.facebookprofile.curatepeople {
@@ -28,3 +28,18 @@ p {
     display: none;
 }
 
+.post.photo.sharedidentity {
+    display: block;
+    float: right;
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 417px;
+	padding-top: 30px;
+	    text-align: left;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+	padding-bottom: 50px;
+
+}
