@@ -628,7 +628,10 @@ pointer-events:none;
 .append {
     z-index: 9999999;
     position: fixed;
-
+    background: white;
+    text-align: center;
+    line-height: 40px;
+    text-transform: uppercase;
 }
 
 
