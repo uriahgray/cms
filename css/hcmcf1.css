@@ -70,10 +70,6 @@ ul.tags {
 
 
 
-.photoset img.set_photos {
-    width: 100%;
-    height: auto;
-}
 
 
 
@@ -111,3 +107,7 @@ a.link {
 }
 
 
+.photoset img.set_photos {
+    width: 58%;
+    height: auto;
+}
