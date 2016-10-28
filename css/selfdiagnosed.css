@@ -19,12 +19,6 @@ body#selfdiagnosed h3.tag_title {
   display: none;
 }
 
-body#selfdiagnosed .post.selfdiagnosed{
-  width: 33.33%; 
-  margin: 1;
-  padding: 10;
-}
-
 body#selfdiagnosed .post:hover {
     z-index: 999;
 }
@@ -55,12 +49,3 @@ a:hover
    text-decoration:underline;
 
  }
-
-.append {
-    z-index: 9999999;
-    position: fixed;
-    background: white;
-    text-align: center;
-    line-height: 40px;
-    text-transform: uppercase;
-}
