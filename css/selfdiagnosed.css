@@ -75,3 +75,53 @@ a:hover
     line-height: 40px;
     text-transform: uppercase;
 }
+
+
+body#selfdiagnosed .post.selfdiagnosed1 {
+    left: 954.962px;
+    top: 30px;
+    width: 170px;
+}
+
+body#selfdiagnosed .post.selfdiagnosed2 {
+    left: 550px;
+    top: 960px;
+}
+
+body#selfdiagnosed .post.selfdiagnosed3 {
+    left: 1200px;
+    top: 300px;
+}
+
+body#selfdiagnosed .post.selfdiagnosed4  {
+    left: 190.972px;
+    top: 187.943px;
+}
+
+body#selfdiagnosed .post.selfdiagnosed5 {
+    left: 125.979px;
+    top: 16.9718px;
+    width: 180px;
+}
+
+
+
+body#selfdiagnosed .post.selfdiagnosed6 {
+    left: 1682.92px;
+    top: 352.968px;
+}
+
+body#selfdiagnosed .post.selfdiagnosed7 {
+    top: 552.972px;
+    left: 962.959px;
+}
+
+body#selfdiagnosed .post.selfdiagnosed8 {
+    top: 526.981px;
+    left: 300.998px;
+}
+
+body#selfdiagnosed .post.selfdiagnosed9 {
+    top: 150px;
+    left: 1265px;
+}
