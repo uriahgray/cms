@@ -1,5 +1,6 @@
-
-.iframe-controls-container.iframe-controls-container--logged-in {
+body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
     display: none;
 }
 
@@ -19,6 +20,12 @@
     left: 2.3%;
     top: 2%;
     position: fixed;
+}
+
+
+p {
+    font-size: 12px;
+    line-height: 12px;
 }
 
 ul.tags {
