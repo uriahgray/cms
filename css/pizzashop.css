@@ -12,21 +12,20 @@
     color: black;
 }
 
-#nav a:hover{
+#nav h1:hover{
     color:red;
 }
 
-
-h3.tag_title {
-    display: none;
-}
-
-h1 {
+#nav h1 {
     font-family: monospace;
     text-transform: uppercase;
     left: 2.3%;
     top: 2%;
     position: fixed;
+}
+
+h3.tag_title {
+    display: none;
 }
 
 ul.tags {
@@ -44,11 +43,14 @@ ul.tags {
 .post.photo.racri2.pizzashop.streetviewindex.postnow {
     display: none;
 }
+
 .abstractindex p {
     position: fixed;
     max-width: 43%;
     top: 14%;
     left: 10%;
+    text-decoration: none;
+    color: black;
 }
 
 .abstractindex p:hover {
