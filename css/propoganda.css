@@ -1,14 +1,11 @@
-body#propoganda {
-   position: relative;
-   margin: 0;
-   padding: 50px;
-}
-
-body#propoganda head {
+head {
     display: none;
 }
 
-body#propoganda body {
+body {
+   position: relative;
+   margin: 0;
+   padding: 50px;
     font-family: sans-serif;
     font-size: 23px;
     font-weight: 400;
@@ -28,16 +25,16 @@ body#propoganda body {
     
 }
 
-body#propoganda a{
+a{
     text-decoration: none;
     color: #000000;
 }
 
-body#propoganda a:hover{
+a.hover{
     color: #ff0000;
 }
 
-body#propoganda a.link {
+a.link {
     display: block;
     font-size: 14px;
     font-family: sans-serif;
@@ -45,7 +42,7 @@ body#propoganda a.link {
     text-transform: uppercase;
 }
 
-body#propoganda .container{
+.container{
     padding: 20px;
     text-align: center;
 }
