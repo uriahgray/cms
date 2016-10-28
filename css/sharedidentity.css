@@ -224,3 +224,13 @@ table.gsc-branding td, table.gsc-branding, table.gcsc-branding td, table.gcsc-br
     border-bottom: 1px solid #ffffff;
     display: none;
 }
+
+
+.nav {
+    position: fixed;
+    z-index: 1;
+    padding-left: 50px;
+    padding-top: 165px;
+    font-size: 14px;
+    color: blue;
+}
