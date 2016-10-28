@@ -57,3 +57,20 @@ h1 {
     font-size: 12px;
     line-height: 12px;
 }
+
+.header {
+    width: 100%;
+    background: white;
+    float: left;
+    height: 450px;
+}
+
+
+.info {
+    position: absolute;
+    max-width: 43%;
+    margin-left: 70%;
+    margin-top: 14%;
+    font-family: monospace;
+    font-size: 12px;
+}
