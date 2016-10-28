@@ -80,3 +80,9 @@ h1 {
     font-family: monospace;
     font-size: 12px;
 }
+
+iframe {
+    max-width: 300px;
+    float: left;
+    margin-left: -40px;
+}
