@@ -1,1 +1,45 @@
+body#cochlea h3.tag_title {
+	display: none;
+}
 
+body#cochlea ul.tags {
+	display: none;
+}
+
+body#cochlea a.link {
+	display: none;
+}
+
+body#cochlea .copy {
+	display: none;
+	min-width: 400px;
+}
+
+
+body#cochlea .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+	display: none;
+}
+
+body#cochlea {
+    font-family: courier;
+    font-size: 9pt;
+    line-height: 11pt;
+    letter-spacing: 0.02em;
+}
+
+
+body#cochlea .copy {
+    position: absolute;
+    left: 0px;
+top:0px;
+    visibility: hidden;
+}
+
+body#cochlea .post:hover .image {
+visibility: hidden;
+}
+
+body#cochlea .post:hover .copy {
+    display:block;
+	visibility: visible;
+}
