@@ -22,12 +22,6 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     position: fixed;
 }
 
-
-p {
-    font-size: 12px;
-    line-height: 12px;
-}
-
 ul.tags {
     display: none;
 }
@@ -42,6 +36,12 @@ h1 {
     left: 2.3%;
     top: 2%;
     position: fixed;
+}
+
+.postcontainer {
+    max-width: 300px;
+    float: left;
+    padding: 40px;
 }
 
 p {
