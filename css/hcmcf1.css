@@ -71,3 +71,8 @@ container {
     padding-top: 50px;
     font-size: 15px;
 }
+
+.photoset img.set_photos {
+    width: 100%;
+    height: auto;
+}
