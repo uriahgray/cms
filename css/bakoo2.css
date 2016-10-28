@@ -8,7 +8,10 @@ h3.tag_title {
     display: none;
 }
 
-.nav {position: fixed;right: 20px;top: 125px;}
+.nav {
+    position: relative;
+    right: 20px;
+    top: 125px;}
 
 a {
     text-decoration: overline;
