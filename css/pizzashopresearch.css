@@ -37,4 +37,17 @@ h1 {
     position: fixed;
 }
 
+.pizzashopresearch.post {
+    border: 1px solid red;
+    float: left;
+    max-width: 400px;
+    padding: 21px;
+}
+
+p {
+    font-size: 12px;
+    line-height: 15px;
+    max-width: 300px;
+}
+
 
