@@ -637,6 +637,7 @@ pointer-events:none;
 
 
 
+
 .nav {
     position: fixed;
     display:block;
@@ -645,7 +646,9 @@ pointer-events:none;
     margin-top: -77px;
     top: 50%;
     left: 50%;
-     }
+    background: white;
+    padding: 10px;
+    }
 
    
 
