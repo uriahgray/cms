@@ -33,3 +33,11 @@ article.posts {
     position: relative;
     top: 150px;
 }
+
+.title {.title {
+    position: fixed;
+    top: 125px;
+    left: 30px;
+    font-size: 30pt;
+    font-weight: bold;
+    font-family: courier new;  }
