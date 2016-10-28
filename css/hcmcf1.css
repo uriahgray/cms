@@ -32,6 +32,12 @@ p {
     display: none;
 }
 
+
+.post.text.hcmcf1.sharedidentityresearch.heading {
+    display: none;
+}
+
+
 .post {
     display: block;
     float: right;
