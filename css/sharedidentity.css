@@ -41,6 +41,13 @@ td.gsc-search-button {
 
 }
 
+td.gsc-search-button {
+    position: relative;
+    top: 22px;
+    left: 0px;
+    width: 100px !important;
+}
+
 
 .post.photo.sharedidentity {
     display: block;
