@@ -28,20 +28,6 @@ ul.tags {
     display: none;
 }
 
-.menuindex img {
-    max-width: 40%;
-    position: fixed;
-    margin-top: 10%;
-    margin-left: 2%;
-}
-
-.restaurantindex img {
-    max-width: 30%;
-    margin-top: 5%;
-    margin-left: 38%;
-    position:fixed;
-}
-
 .post.photo.racri2.postnow.restaurantindex.pizzashop.pizzashopresearch {
     display: none;
 }
@@ -78,6 +64,6 @@ ul.tags {
 .restaurantindex img {
     max-width: 30%;
     bottom: 0;
-    left: 37%;
+    left: 39%;
     position: fixed;
 }
