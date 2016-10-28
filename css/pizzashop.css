@@ -53,7 +53,7 @@ ul.tags {
 }
 
 .abstractindex p:hover {
-    text-decoration: underline;
+    color:red;    
 }
 
 .menuindex img {
