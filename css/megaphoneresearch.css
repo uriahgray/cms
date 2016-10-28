@@ -86,8 +86,7 @@ a.link {
 
 
 .post {
-    border-style: solid;
-    border-width: 1pt;
+   
     padding: 20px;
 }
 
@@ -111,4 +110,8 @@ img.set_photos {
     text-decoration: none;
  text-align: center;
  
+}
+
+html {
+    background: blue;
 }
