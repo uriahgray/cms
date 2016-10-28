@@ -132,3 +132,15 @@ span.chocolat-close {
     display: none;
 }
 
+
+.text {
+    font-family:monospace;
+}
+
+.caption {
+    font-family:monospace;
+}
+
+.copy {
+    font-family:monospace;
+}
