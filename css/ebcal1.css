@@ -156,3 +156,7 @@ img.set_photos {
 a.link {
     display: none;
 }
+
+span.chocolat-close {
+    display: none;
+}
