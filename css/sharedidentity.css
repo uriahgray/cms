@@ -243,3 +243,7 @@ a {
     text-decoration: underline;
     color: #213dcd;
 }
+
+table.gsc-search-box td {
+    vertical-align: baseline;
+}
