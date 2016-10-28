@@ -1,4 +1,4 @@
-body#nostalgiaresearch div#fixed-menu {
+body#jalin6games div#fixed-menu {
     position: fixed;
     width: 100%;
     height: 100px;
@@ -6,7 +6,7 @@ body#nostalgiaresearch div#fixed-menu {
     padding: 10px;
 }
 
-body#nostalgiaresearch .spacer
+body#jalin6games .spacer
 {
     width: 100%;
     height: 95px;
@@ -15,7 +15,7 @@ body#nostalgiaresearch .spacer
 
 
 
-body#nostalgiaresearch .nav {
+body#jalin6games .nav {
     font-family: futura;
     font-size: 18px;
     text-align: center;
@@ -31,35 +31,35 @@ body#nostalgiaresearch .nav {
 
 
 
-body#nostalgiaresearch p {
+body#jalin6games p {
     font-family: courier new;
     font-size: 10px;
     color: navy;
 }
 
-body#nostalgiaresearch h3.tag_title {
+body#jalin6games h3.tag_title {
 display: none;
 }
 
-body#nostalgiaresearch ul.tags {
+body#jalin6games ul.tags {
     display: none;
 }
 
 
 
-body#nostalgiaresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#jalin6games .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
 
-body#nostalgiaresearch .post {
+body#jalin6games .post {
     display: block;
     float: left;
     width: 400px;
     margin: 40px;
 }
 
-body#nostalgiaresearch .post:nth-child(odd) {
+body#jalin6games .post:nth-child(odd) {
     float: right;
     width: 500px;
     margin: 30px;
@@ -67,7 +67,7 @@ body#nostalgiaresearch .post:nth-child(odd) {
 
 
 
-body#nostalgiaresearch .post.quote {
+body#jalin6games .post.quote {
     border-style: solid;
     border-width: 1pt;
     padding: 15pt;
@@ -90,45 +90,45 @@ body#nostalgiaresearch .post.quote {
 
 
 
-body#nostalgiaresearch span.time {
+body#jalin6games span.time {
     display:none;
 }
 
 
 
 
-body#nostalgiaresearch .text{
+body#jalin6games .text{
     font-family: courier-new;
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#nostalgiaresearch .copy{
+body#jalin6games .copy{
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#nostalgiaresearch .caption{
+body#jalin6games .caption{
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#nostalgiaresearch .append {
+body#jalin6games .append {
     position: fixed;
     z-index: 9999999;
 }
 
 
-body#nostalgiaresearch a {
+body#jalin6games a {
     color: pink;
 }
 
-body#nostalgiaresearch a:hover {
+body#jalin6games a:hover {
     text-decoration: overline;
 }
 
 
-body#nostalgiaresearch .chocolat-overlay{
+body#jalin6games .chocolat-overlay{
     height:100%;
     width:100%;
     position:fixed;
@@ -141,7 +141,7 @@ body#nostalgiaresearch .chocolat-overlay{
 }
 
 
-body#nostalgiaresearch .chocolat-wrapper .chocolat-bottom{
+body#jalin6games .chocolat-wrapper .chocolat-bottom{
     display: none;
     position:absolute;
     bottom:0;
@@ -154,6 +154,6 @@ body#nostalgiaresearch .chocolat-wrapper .chocolat-bottom{
     margin-top: 10px;
 }
 
-body#nostalgiaresearch img.set_photos {
+body#jalin6games img.set_photos {
     max-height: 350px;
 }
