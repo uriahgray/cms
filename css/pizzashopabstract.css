@@ -1,14 +1,28 @@
 
-/* .append img {
-    max-width: 30%;
-    position: fixed;
-    margin-top: 1%;
-}
-
-.post.photo.racri2.logo.pizzashopdraft.postnow.pizzashopabout {
+body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
     display: none;
 }
- */
+
+.postcontainer a.link {
+    display: none;
+}
+
+#nav h1:hover{
+    color:red;
+}
+
+#nav h1 {
+    text-decoration: none;
+    color: black;
+    font-family: monospace;
+    text-transform: uppercase;
+    left: 2.3%;
+    top: 2%;
+    position: fixed;
+}
+
 ul.tags {
     display: none;
 }
