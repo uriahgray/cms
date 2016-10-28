@@ -38,9 +38,11 @@ a.link {
     top: 175px;
     width: 33.33%;
     padding:30px;
-    height: 80%;
-    overflow: auto; 
+    height: 65%;
+    overflow: auto;
+    overflow-x: hidden;
 }
+
 
 h3.tag_title {
     padding-bottom: 20px;
