@@ -244,3 +244,8 @@ table.gsc-branding td, table.gsc-branding, table.gcsc-branding td, table.gcsc-br
     font-size: 14px;
     color: blue;
 }
+
+
+a {
+    text-decoration: none;
+}
