@@ -1,0 +1,30 @@
+ul.tags {
+    display: none;
+}
+
+.post {
+    width: 20%;
+    display: block;
+    float: left;
+    padding: 20px;
+    font-size: 10px;
+    font-family: arial;
+    line-height: 18px;
+}
+
+a.link {
+    display: block;
+    font-size: 10px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+
+.post.text.hcmcf1.sharedidentityresearch.heading {
+    display: none;
+}
+
+.post.text.sharedidentity.hcmcf1.search {
+    display: none;
+}
+
+
