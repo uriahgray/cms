@@ -12,22 +12,23 @@ p {
     display: none;
 }
 
-.post {
- 
+
+
+post {
     line-height: 20px;
     display: block;
     float: left;
-    width: 50%;
+    width: 100%;
     padding-left: 50px;
-    padding-right: 64px;
-    width: 60%;
+    padding-right: 60px;
+    width: 50%;
     text-align: left;
     text-transform: none;
     font-size: 14px;
     font-weight: normal;
     padding-bottom: 50px;
+    margin-left: 50%;
 }
-
 
 .post.photo.hcmcf1.sharedidentityresearch.postnow.facebookprofile.sharedidentity.curatepeople {
     display: none;
