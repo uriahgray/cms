@@ -8,10 +8,16 @@ h3.tag_title {
     display: none;
 }
 
+h3.title {
+    display: none;
+}
+
 .nav {
     position: absolute;
     right: 20px;
     top: 125px;}
+    font-family: courier new;
+    font-size: 20pt;
 
 a {
     text-decoration: overline;
@@ -19,12 +25,6 @@ a {
     font-size: 22pt;
     font-weight: 300;
     font-family: courier new;
-}
-
-.nav {
-    font-family: courier new;
-    font-size: 20pt;
-    top: 129px;
 }
 
 /* mouse over link */
@@ -46,6 +46,3 @@ article.posts {
     position: absolute;
 }
 
-h3.title {
-    display: none;
-}
