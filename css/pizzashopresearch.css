@@ -61,8 +61,8 @@ h1 {
     max-width: 43%;
     margin-top: 14%;
     margin-left: 10%;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 100%;
+    line-height: normal;
 }
 
 .postcontainer p {
@@ -94,7 +94,7 @@ h1 {
 .post.video.racri2.postnow.pizzashopresearch {
     max-width: 300px;
     float: left;
-    padding: 40px;
+    padding: 30px;
     border: red solid 1px;
 }
 
