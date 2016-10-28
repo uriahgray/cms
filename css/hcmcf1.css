@@ -28,6 +28,10 @@ p {
     display: none;
 }
 
+.post.text.sharedidentity.hcmcf1.search {
+    display: none;
+}
+
 .post {
     display: block;
     float: right;
