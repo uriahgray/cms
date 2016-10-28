@@ -92,10 +92,13 @@ img.set_photos {
     display: none;
 }
 
-h3.tag_title {
+    
+    h3.tag_title {
     padding-bottom: 20px;
-    display: none;
+    position: FIXED;
+    color: blue;
 }
+
 
 a.link {
     display: block;
@@ -109,4 +112,21 @@ a.link {
 .photoset img.set_photos {
     width: 58%;
     height: auto;
+}
+
+.post.text.text.hcmcf1.emigration.ancestry {
+    DISPLAY: none;
+}
+
+.post.text.text.hcmcf1.murder.standingstone.repair {
+    display: none;
+    
+}
+
+.post.text.text.hcmcf1.ancestry.emigrant.family {
+    display: none;
+}
+
+.post.text.text.hcmcf1.family.community {
+    display: none;
 }
