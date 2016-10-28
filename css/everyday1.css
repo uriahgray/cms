@@ -13,6 +13,15 @@ h3.tag_title {
 	max-width:500px;
 }
 
+
+ul.tags {
+    display: none;
+}
+
+a.link {
+    display: none;
+}
+
 p {
     font-family: verdana;
     font-size: 20px;
