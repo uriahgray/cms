@@ -1,5 +1,7 @@
 
-.iframe-controls-container.iframe-controls-container--logged-in {
+body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
     display: none;
 }
 
