@@ -152,3 +152,7 @@ a {
 img.set_photos {
     max-height: 350px;
 }
+
+a.link {
+    display: none;
+}
