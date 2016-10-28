@@ -239,5 +239,6 @@ table.gsc-branding td, table.gsc-branding, table.gcsc-branding td, table.gcsc-br
 
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
+    color: #213dcd;
 }
