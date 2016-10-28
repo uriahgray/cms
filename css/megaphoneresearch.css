@@ -144,4 +144,8 @@ img.set_photos {
 
 span.chocolat-close {
     display: none;
+}
 
+b { 
+    font-weight: bolder;
+}
