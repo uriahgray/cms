@@ -4,11 +4,6 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
-a {
-    text-decoration: underline;
-    color: black;
-}
-
 .postcontainer a.link {
     display: none;
 }
@@ -22,9 +17,13 @@ a {
     color: black;
     font-family: monospace;
     text-transform: uppercase;
-    left: 2.3%;
-    top: 2%;
+    left: 0;
+    top: 0;
     position: fixed;
+    background: white;
+    width: 100%;
+    padding: 1%;
+    padding-left: 4%;
 }
 
 .post {
