@@ -28,7 +28,7 @@ p {
     display: none;
 }
 
-.post.photo.sharedidentity {
+.post {
     display: block;
     float: right;
     width: 50%;
