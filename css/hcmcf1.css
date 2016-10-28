@@ -13,9 +13,21 @@ p {
 }
 
 .post {
-    font-size: 13px;
+ 
     line-height: 20px;
+    display: block;
+    float: right;
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 64px;
+    width: 60%;
+    text-align: left;
+    text-transform: none;
+    font-size: 14px;
+    font-weight: normal;
+    padding-bottom: 50px;
 }
+
 
 .post.photo.hcmcf1.sharedidentityresearch.postnow.facebookprofile.sharedidentity.curatepeople {
     display: none;
