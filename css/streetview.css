@@ -13,9 +13,13 @@
     width: 50%;
 }
 
-a {
+#nav a {
     text-decoration: none;
     color: black;
+}
+
+#nav a {
+   color:red;
 }
 
 h3.tag_title {
