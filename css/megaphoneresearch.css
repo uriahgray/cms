@@ -31,9 +31,6 @@ a {
 }
 
 
-
-
-
  .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
@@ -48,7 +45,6 @@ a {
     background: white;
 }
 
-}
 .post:nth-child(odd) {
     float: right;
     width: 400px;
@@ -58,9 +54,6 @@ a {
 span.time {
     display: none;
 }
-
-
-
 
 
 
@@ -81,13 +74,6 @@ span.time {
 a.link {
  display: none;
  
-}
-
-
-
-.post {
-   
-    padding: 20px;
 }
 
 
