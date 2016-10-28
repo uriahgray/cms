@@ -68,8 +68,10 @@ ol, ul {
     display: none;
 }
 
-a {
-    text-decoration: underline;
-    font-size: 30px;
-    line-height: 32px;
+h3.title {
+    text-transform: uppercase;
+    font-family: patron;
+    font-style: oblique;
+    position: fixed;
+    color: antiquewhite;
 }
