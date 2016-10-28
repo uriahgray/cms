@@ -114,4 +114,8 @@ h1 {
 .streetview a{
     display: none;
 }
+
+a {
+    text-decoration: none;
+    color: black;
 }
