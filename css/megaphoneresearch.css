@@ -47,11 +47,11 @@ a {
     padding: 20px;
     background: white;
 }
-}
 
+}
 .post:nth-child(odd) {
     float: right;
-    width: 500px;
+    width: 400px;
     margin: 30px;
 }
 
