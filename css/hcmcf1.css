@@ -64,14 +64,7 @@ ul.tags {
     display: none;
 }
 
-container {
-    padding: 20px;
-    padding-left: 300px;
-    padding-right: 300px;
-    text-align: center;
-    padding-top: 50px;
-    font-size: 15px;
-}
+
 
 .photoset img.set_photos {
     width: 100%;
