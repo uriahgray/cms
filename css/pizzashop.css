@@ -12,6 +12,11 @@ a {
     color: black;
 }
 
+a:hover{
+    color:red;
+}
+
+
 h3.tag_title {
     display: none;
 }
@@ -46,10 +51,14 @@ ul.tags {
     left: 10%;
 }
 
+.abstractindex p:hover{
+  font-weight:800;
+}
+
 .menuindex img {
     max-width: 35%;
     position: fixed;
-    top: 45%;
+    top: 48%;
     left: 0%;
 }
 
@@ -57,7 +66,7 @@ ul.tags {
     position: fixed;
     max-width: 45%;
     right: -1%;
-    top: 10%;
+    top: 0%;
     z-index: 1;
 }
 
