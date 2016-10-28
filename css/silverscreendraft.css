@@ -1,0 +1,169 @@
+ul.tags {
+    display: none;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+a.link {
+    display: none;
+}
+
+.post.heading {
+    display: block;
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 150px;
+    float: none;
+    margin: auto;
+}
+
+.post.taylorquote {
+    display: block;
+    float: left;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-top: 40px;
+    width: 50%;
+}
+
+.post.elizabeth_taylor {
+    display: block;
+    float: left;
+    padding-left: 60px;
+}
+
+.post.grace_kelly {
+    display: block;
+    float: left;
+    padding-left: 40px;
+    padding-top: 60px;
+    padding-right: 40px;
+}
+
+.post.kellyquote {
+    display: block;
+    float: left;
+    padding-top: 100px;
+    padding-left: 60px;
+    padding-bottom: 150px;
+    width: 45%;
+}
+
+.post.hepburnquote {
+    display: block;
+    padding-top: 100px;
+    float: left;
+    padding-left: 40px;
+    width: 45%;
+}
+
+.post.audrey_hepburn {
+    display: block;
+    float: left;
+    padding-top: 60px;
+    padding-left: 100px;
+}
+
+.post.marilyn_monroe {
+    display: block;
+    float: left;
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 60px;
+}
+
+.post.monroequote {
+    display: block;
+    padding-top: 100px;
+    float: left;
+    padding-left: 40px;
+    padding-bottom: 150px;
+    width: 45%;
+}
+
+.post.bettequote {
+    display: block;
+    padding-left: 40px;
+    padding-top: 80px;
+    float: left;
+    width: 45%;
+}
+
+.post.bette_davis {
+    display: block;
+    padding-top: 60px;
+    float: left;
+    padding-left: 100px;
+}
+
+.post.vivien_leigh {
+    display: block;
+    float: left;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.post.vivienquote {
+    display: block;
+    float: left;
+    padding-top: 90px;
+    padding-bottom: 150px;
+    width: 45%;
+    padding-left: 40px;
+}
+
+.post.judyquote {
+    display: block;
+    float: left;
+    padding-right: 60px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+.post.judy_garland {
+    display: block;
+    float: left;
+    padding-bottom: 60px;
+}
+
+.post.angela_lansbury {
+    display: block;
+    float: left;
+    padding-left: 40px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+.post.angelaquote {
+    display: block;
+    float: left;
+    padding-top: 40px;
+    padding-bottom: 200px;
+    width: 45%;
+}
+
+.post.oliviaquote {
+    display: block;
+    float: left;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+
+.post.olivia_de_havilland {
+    display: block;
+    float: left;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+
+.post.joanne_woodward {
+    display: block;
+    padding-left: 40px;
+    float: left;
+}
