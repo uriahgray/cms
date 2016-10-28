@@ -17,9 +17,13 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     color: black;
     font-family: monospace;
     text-transform: uppercase;
-    left: 2.3%;
-    top: 2%;
+    left: 0;
+    top: 0;
     position: fixed;
+    background: white;
+    width: 100%;
+    padding: 1%;
+    padding-left: 4%;
 }
 
 .postcontainer a.link {
@@ -40,4 +44,9 @@ h1 {
 
 ul.tags {
     display: none;
+}
+
+.postcontainer {
+    float: left;
+    max-width: 50%;
 }
