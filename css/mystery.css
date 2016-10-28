@@ -1,1 +1,35 @@
+body {
+    font-family: Proxima Nova;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.02em;
+	background: aquamarine;
+}
 
+iframe {
+    display: none;
+}
+
+.container {
+    padding: 70px;
+    background-color: azure;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+a.link {
+    display: none;
+}
+
+ol, ul {
+    list-style: none;
+    display: none;
+}
+
+a {
+    text-decoration: underline;
+    font-size: 30px;
+    line-height: 32px;
+}
