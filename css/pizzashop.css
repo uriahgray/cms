@@ -75,11 +75,3 @@ ul.tags {
     top: 25%;
     left: 1%;
 }
-
-.abstractindex p {
-    position: fixed;
-    max-width: 50%;
-    top: 60%;
-    left: 50%;
-    z-index: 1;
-}
