@@ -81,4 +81,6 @@ container {
 img.set_photos {
     float: right;
     margin-right: -35px;
+        margin-left: 19px;
+
 }
