@@ -654,8 +654,13 @@ pointer-events:none;
 
 
 a {
+  
+    
     text-decoration:underline;
     color: black;
-     font-size: 30px;
+   font-size: 2.70em;
+    line-height: 1.04em;
+    text-decoration: none;
 }
+
 
