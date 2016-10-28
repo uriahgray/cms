@@ -4,7 +4,7 @@ body#selfdiagnosed {
   width: 100vw;
   font-size: 12pt;
   display: block;
-  background-color: grey;
+  background-color: white;
 }
 
 body#selfdiagnosed ul.tags {
