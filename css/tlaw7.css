@@ -1,4 +1,4 @@
-body#tlaw7 #fixedmenu
+body#tlaw7 
 {
     position: fixed;
     width: 100%;
@@ -6,7 +6,14 @@ body#tlaw7 #fixedmenu
     background-color:#333;
     padding: 15px;
 }
-
+body#fixed-menu 
+{
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color:black;
+    padding: 5px;
+}
 .spacer
 {
     width: 100%;
@@ -37,8 +44,6 @@ display: none;
 body#tlaw7 ul.tags {
     display: none;
 }
-
-
 
 body#tlaw7 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
@@ -91,7 +96,7 @@ body#tlaw7 .caption{
     line-height:14.5pt;
 }
 
-body#tlaw7 .append {
+body#tlaw7 .append{
     position: fixed;
 
 }
