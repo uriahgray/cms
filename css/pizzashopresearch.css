@@ -58,10 +58,12 @@ h1 {
 .abstract p {
     float: left;
     max-width: 43%;
-    margin-top: 13%;
+    margin-top: 10%;
     margin-left: 10%;
-    font-size: 100%;
-    line-height: normal;
+    font-size: 18px;
+    font-family: monospace;
+    line-height: 24px;
+    font-weight: 100;
 }
 
 .postcontainer p {
