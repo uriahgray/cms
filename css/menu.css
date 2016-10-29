@@ -47,6 +47,7 @@ ul.tags {
 }
 
 .postcontainer {
+    max-width: 33%;
     float: left;
-    max-width: 50%;
 }
+
