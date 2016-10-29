@@ -1,7 +1,7 @@
 body#photography {
 background-color:black   ;
 float:left;
-border:0px solid #000;
+border:5px solid #000;
     
     font-family: sans-serif;
     font-size: 20px;
@@ -18,7 +18,7 @@ body#photography a.link {
 
 body#photography div.caption {
     width: 80%;
-    height: 800%;
+    height: 80%;
 }
 
 body#photography .post .postcontainer {
