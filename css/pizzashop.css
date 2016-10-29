@@ -30,7 +30,7 @@ ul.tags {
     display: none;
 }
 
-.post.photo.racri2.postnow.restaurantindex.pizzashop.pizzashopresearch {
+.post.photo.racri2.postnow.pizzaboxindex {
     display: none;
 }
 
@@ -80,7 +80,7 @@ ul.tags {
     z-index: 1;
 }
 
-.restaurantindex img {
+.pizzaboxindex img {
     max-width: 30%;
     bottom: 0;
     left: 43%;
