@@ -96,3 +96,12 @@ ul.tags {
 a {
     text-decoration: none;
 }
+
+.rachelle {
+    position: fixed;
+    left: 17%;
+    top: 21%;
+    font-family: monospace;
+    font-size: 19px;
+    text-transform: uppercase;
+}
