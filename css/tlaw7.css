@@ -50,12 +50,14 @@ display: none;
     height: 400px;
     float: left;
     padding: 10px;
-    margin-bottom: 0%;
+    margin: 200px;
     width: 50%;
 }
 #tlaw7 .post:nth-child(odd) {
+    margin-top: 2%;
+    height: 400px;
     float: right;
-    width: 500px;
+    width: 50%;
     margin: 200px;
 }
 
