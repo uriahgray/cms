@@ -1,6 +1,5 @@
 body#photography {
-background-color:red
-   ;
+background-color:black   ;
 display:block;
 float:left;
 border:0px solid #000;
@@ -86,15 +85,14 @@ body#photography .post {
     background: hsla(0, 0%, 100%, 0.83);
     left: 810px;
     right: 810px;
-    width: 500px;
-    width: 900px;
-    overflow-y: scroll;
+    width: 250px;
+    
     margin-top: 150px;
     margin-left: 70px;
+   
     padding-left: 30px;
     padding-top: 30px;
     padding-right: 30px;
-    height: 400px;
     border: 0px solid;
 }
 
@@ -103,6 +101,6 @@ a.link {
     font-size: 14px;
     font-family: courier;
     text-transform: uppercase;
-    color: black;
+    color: white;
 }
 
