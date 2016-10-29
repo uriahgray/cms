@@ -106,3 +106,7 @@ a {
     font-size: 19px;
     text-transform: uppercase;
 }
+
+.post.photo.racri2.postnow.restaurantindex.pizzashop.pizzashopresearch {
+    display: none;
+}
