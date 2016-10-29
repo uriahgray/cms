@@ -116,7 +116,7 @@ body#lostresearch .post.lost12 {
 }
 
 body#lostresearch .post.lost13 {
-    top: 200px;
+    top: 310px;
     left: 500px;
 }
 
@@ -133,8 +133,9 @@ body#lostresearch .post.lost16 {
 
 body#lostresearch .post.person2 {
     top: 600px;
-    left: 100px;
+    left: 2500px;
 }
+
 
 body#lostresearch .post.lostpet {
     top: 0px;
@@ -161,14 +162,17 @@ body#lostresearch .post.glove2 {
 }
 
 body#lostresearch .post.glove3 {
-    top: 350px;
-    left: 300px;
+    top: 420px;
+    left: 400px;
+    width: 400px;
 }
 
 body#lostresearch .post.glove4 {
-    top: 1300px;
-    left: 800px;
+    top: 4300px;
+    left: 2000px;
+    width: 500px;
 }
+
 
 body#lostresearch .post.glove5 {
     top: 1000px;
@@ -347,11 +351,31 @@ body#lostresearch .post.lostphone {
     left: 500px;
     width: 600px;
 }
-body#lostresearch .post.textdefinition {
-    top: 750px;
-    left: 2500px;
-    width: 600px;
+body#lostresearch .post.definition {
+    left: 3000px;
+    top: 1200px;
 }
+
+body#lostresearch .post.lostcountry4 {
+    left: 3500px;
+    top: 1700px;
+    width: 900px;
+    height: 900px;
+}
+body#lostresearch .post.lostconnection {
+    top: 1300px;
+    left: 3500px;
+    width: 900px;
+    height: 800px;
+}
+body#lostresearch .post.lostcountry5 {
+    top: 4500px;
+    left: 2900px;
+    width: 900px;
+    height: 900px;
+}
+
+
 
 
 
