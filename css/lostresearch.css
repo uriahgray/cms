@@ -297,7 +297,7 @@ body#lostresearch .post.losttitle {
 }
 
 a {
-    text-decoration: overline;
+    text-decoration: none;
 }
 pre code {
     font: normal 10pt Consolas, Monaco, monospace;
@@ -340,6 +340,16 @@ body#lostresearch .post.lostcountry2 {
 body#lostresearch .post.lostcountry3 {
     top: 3350px;
     left: 3500px;
+    width: 600px;
+}
+body#lostresearch .post.lostphone {
+    top: 2350px;
+    left: 500px;
+    width: 600px;
+}
+body#lostresearch .post.textdefinition {
+    top: 750px;
+    left: 2500px;
     width: 600px;
 }
 
