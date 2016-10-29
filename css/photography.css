@@ -3,7 +3,13 @@ background-color:black;
 display:block;
 float:left;
 border:0px solid #000;
-    align-items: center;
+    
+    font-family: sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: white;
+    
 }
 
 body#photography a.link {
