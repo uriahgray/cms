@@ -3,7 +3,7 @@ background-color:black;
 display:block;
 float:left;
 border:0px solid #000;
-    
+    align-items: center;
 }
 
 body#photography a.link {
@@ -28,7 +28,13 @@ body#photography .copy {
     display: none;
 }
 
-
+body#photography .post.clear {
+    clear: both;
+ 
+    float: none;
+    border: 0px;
+    height: 0px;
+    overflow: hidden;
 }
 body#photography ul.tags {
     display: none;
