@@ -121,7 +121,7 @@ body#tlaw7 .chocolat-overlay{
     left:0;
     top:0;
     z-index:10;
-    background-color: transparent;
+   
     display:none;
     opacity: 1;
 }
