@@ -12,12 +12,13 @@ border:0px solid #000;
 }
 
 body#photography a.link {
-   
+    display: none;
 }
 
 
 body#photography .post .postcontainer {
     padding: 18px;
+    display: none;
 }
 
 body#photography .post {
@@ -31,7 +32,6 @@ body#photography .copy {
 
 body#photography .post.clear {
     clear: both;
- 
     float: none;
     border: 0px;
     height: 0px;
@@ -46,21 +46,7 @@ body#photography ul.tags {
     }
 
 }
-.post {
-    width: 15%;
-    display: block;
-    float: left;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-.post {
-    width: 20%;
-    display: block;
-    float: left;
-    padding-left: 10px;
-    padding-right: 10px;
-    border: 1px solid black;
-}
+
 a {
     text-decoration: underline;
     color: #36465d;
