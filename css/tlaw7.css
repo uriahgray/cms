@@ -1,4 +1,4 @@
-body#tlaw7 #fixed-menu
+body#tlaw7 
 {
     position: fixed;
     width: 100%;
@@ -21,7 +21,7 @@ body#tlaw7 .nav {
     font-size: 18px;
     text-align: center;
     align-items: center;
-    opacity: 0.8;
+  
     margin-top: 20px;
     z-index: 2000;
 }
