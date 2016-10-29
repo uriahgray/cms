@@ -15,8 +15,6 @@ body#tlaw7 #fixedmenu
 }
 
 
-
-
 body#tlaw7 .nav {
     font-family: ariel;
     font-size: 18px;
@@ -112,33 +110,6 @@ body#tlaw7 a {
 
 body#nostalgiatome a:hover {
     text-decoration: overline;
-}
-
-
-body#tlaw7 .chocolat-overlay{
-    height:100%;
-    width:100%;
-    position:fixed;
-    left:0;
-    top:0;
-    z-index:10;
-   
-    display:none;
-    opacity: 1;
-}
-
-
-body#tlaw7 .chocolat-wrapper .chocolat-bottom{
-    display: none;
-    position:absolute;
-    bottom:0;
-    left: 0;
-    right: 0;
-    height:40px;
-    z-index: 17;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-top: 10px;
 }
 
 body#tlaw7 img.set_photos {
