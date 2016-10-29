@@ -1,31 +1,52 @@
+/*Everything*/
 .container {
     padding: 100px;
 }
 
+/*Actual posts*/
 .post {
     width: 33%;
     display: block;
     float: left;
     padding: 10px 10px 50px 10px;
+    font-family: monospace;
 }
 
+/*Hiding caption*/
 .caption {
     color: blue;
     font-size: medium;
 }
 
+/*Hiding tag*/
 .tag_title {
     display: none;
 }
 
+/*Hiding tag*/
 ul.tags {
     display: none;
 }
 
+/*Hiding plays*/
 span.play-count {
     display: none;
 }
 
+/*Hiding tag*/
 a.link {
     display: none;
+}
+
+/*Dictionaried page title*/
+h3.title {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    height: 10px;
+    padding-left: 30px;
+    max-width: 100%;
+    top: 0;
 }
