@@ -47,10 +47,13 @@ body#tlaw7 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
 
 
 body#tlaw7 .post {
+    margin-top: 2%;
+    height: 400px;
     display: block;
     float: left;
-    width: 400px;
-    margin: 40px;
+    padding: 10px;
+    margin-bottom: 0%;
+    width: 50%;
 }
 
 body#tlaw7 .post:nth-child(odd) {
