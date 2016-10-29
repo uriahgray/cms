@@ -16,6 +16,10 @@ body#photography a.link {
 }
 
 
+body#photography div.caption {
+    display: none;
+}
+
 body#photography .post .postcontainer {
     padding: 18px;
     display: none;
