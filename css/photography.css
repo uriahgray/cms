@@ -27,7 +27,7 @@ body#photography .post .postcontainer {
 }
 
 body#photography .post {
-    width: 15%;
+    width: 25%;
 
 }
 
@@ -67,7 +67,7 @@ body#photography .post {
     right: 810px;
     width: 250px;
     
-    margin-top: 150px;
+    margin-top: 50px;
     margin-left: 70px;
    
     padding-left: 30px;
