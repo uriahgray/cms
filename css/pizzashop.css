@@ -92,3 +92,7 @@ ul.tags {
     color:black;
     font-family:monospace:
 }
+
+a {
+    text-decoration: none;
+}
