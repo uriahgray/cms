@@ -22,7 +22,6 @@ body#tlaw7 .nav {
     text-align: center;
     align-items: center;
     margin-top: 20px;
-    z-index: 2000;
 }
 
 p {
@@ -94,14 +93,7 @@ body#tlaw7 .caption{
 
 body#tlaw7 .append {
     position: fixed;
-    font-family: Gotham
-       ;
-    font-size: 18px;
-    text-align: center;
-    align-items: center;
-    margin-top: 20px;
-    z-index: 2000;
-    z-index: 9999999;
+
 }
 
 
