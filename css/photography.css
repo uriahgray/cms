@@ -12,12 +12,12 @@ border:0px solid #000;
 }
 
 body#photography a.link {
-    display: none;
+   
 }
 
 
 body#photography .post .postcontainer {
-    padding: 0 18px;
+    padding: 18px;
 }
 
 body#photography .post {
