@@ -3,7 +3,7 @@ body#tlaw7 #fixed-menu
     position: fixed;
     width: 100%;
     height: 100px;
-    background-color: cyan;
+    background-color: black;
     padding: 10px;
 }
 
@@ -68,7 +68,7 @@ body#tlaw7 .post:nth-child(odd) {
 
 
 
-body#jalin6 .post.quote {
+body#tlaw7 .post.quote {
     border-style: solid;
     border-width: 1pt;
     padding: 15pt;
@@ -76,52 +76,37 @@ body#jalin6 .post.quote {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-body#jalin6 span.time {
+body#tlaw7 span.time {
     display:none;
 }
 
 
 
 
-body#jalin6 .text{
+body#tlaw7 .text{
     font-family: courier-new;
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#jalin6 .copy{
+body#tlaw7 .copy{
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#jalin6 .caption{
+body#tlaw7 .caption{
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#jalin6 .append {
+body#tlaw7 .append {
     position: fixed;
     z-index: 9999999;
 }
 
 
-body#jalin6 a {
-    color: pink;
+body#tlaw7 a {
+    color: cyan;
 }
 
 body#nostalgiatome a:hover {
@@ -129,7 +114,7 @@ body#nostalgiatome a:hover {
 }
 
 
-body#jalin6 .chocolat-overlay{
+body#tlaw7 .chocolat-overlay{
     height:100%;
     width:100%;
     position:fixed;
