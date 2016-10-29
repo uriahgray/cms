@@ -31,7 +31,7 @@ body#fixed-menu
 p {
     font-family: Gotham;
     font-size: 10px;
-    color: pink;
+    color: cyan;
 }
 
 #tlaw7 h3.tag_title {
@@ -95,7 +95,7 @@ display: none;
 }
 
 #tlaw7 a {
-    color: cyan;
+    color: pink;
 }
 #tlaw7 a:hover {
     text-decoration: overline;
