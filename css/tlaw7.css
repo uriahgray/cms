@@ -19,7 +19,7 @@ body#fixed-menu
 
 
 #tlaw7 .nav {
-    position: absolute;
+    position: flex;
     font-family: Gotham
        ;
     font-size: 18px;
