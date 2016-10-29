@@ -4,15 +4,11 @@ body#tlaw7
     width: 100%;
     height: 100px;
     background-color:#333;
-    padding: 15px;
+    padding: 10px;
 }
 body#fixed-menu 
 {
-    position: fixed;
-    width: 100%;
-    height: 100px;
-    background-color:black;
-    padding: 5px;
+
 }
 .spacer
 {
