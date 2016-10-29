@@ -379,9 +379,14 @@ body#lostresearch .post.lostdog2 {
     top: 7500px;
     left: 3500px;
     width: 1200px;
-    height: 1200px;
 }
 
+body#lostresearch .post.lostfriends {
+    top: 4900px;
+    left: 1000px;
+    width: 700px;
+    height: 700px;
+}
 
 
 
