@@ -12,15 +12,18 @@ a.link {
 }
 
 
+
+
+
 .gsc-control-cse.gsc-control-cse-en {
     display: block;
     position: fixed;
-    padding-top: 100px;
+    padding-top: 214px;
     padding-left: 30px;
     padding-right: 60px;
     z-index: 0;
-
 }
+
 .gsc-control-cse div {
     position: static;
     margin-left: 0px;
@@ -243,8 +246,6 @@ a {
     text-decoration: underline;
     color: #213dcd;
 }
-
-
 
 
 table.gsc-search-box td {
