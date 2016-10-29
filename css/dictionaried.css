@@ -10,11 +10,12 @@
     width: 33%;
     display: block;
     float: left;
+    align-items: center;
     padding: 10px 10px 50px 10px;
     font-family: 'Work Sans', sans-serif;
 }
 
-/*Hiding caption*/
+/*Word*/
 .caption {
     color: blue;
     font-size: medium;
