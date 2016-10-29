@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Coiny" rel="stylesheet">
 
 /*Everything*/
 .container {
@@ -12,7 +12,7 @@
     float: left;
     align-items: center;
     padding: 10px 10px 50px 10px;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Coiny', cursive;
 }
 
 /*Word*/
@@ -39,6 +39,7 @@ span.play-count {
 /*Hiding tag*/
 a.link {
     display: none;
+    font-family: 'Coiny', cursive;
 }
 
 /*Dictionaried page title*/
@@ -52,7 +53,7 @@ h3.title {
     padding-left: 30px;
     max-width: 100%;
     top: 0;
-    font-family: font-family: 'Work Sans', sans-serif;
+    font-family: 'Coiny', cursive;
 }
 
 /*Dictionaried page title hide the link underline*/
