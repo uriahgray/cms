@@ -34,20 +34,14 @@ h3.tag_title {
     display: none;
 }
 
-h1 {
-    font-family: monospace;
-    text-transform: uppercase;
-    left: 2.3%;
-    top: 2%;
-    position: fixed;
-}
-
 ul.tags {
     display: none;
 }
 
-.postcontainer {
-    max-width: 33%;
+.menu img {
+    display: block;
+    height: 300px;
+    margin: 10px;
     float: left;
 }
 
