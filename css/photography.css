@@ -17,6 +17,8 @@ body#photography a.link {
 
 
 body#photography div.caption {
+    width: 80%;
+    height: 800%;
 }
 
 body#photography .post .postcontainer {
