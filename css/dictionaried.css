@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+
 /*Everything*/
 .container {
     padding: 100px;
@@ -9,7 +11,7 @@
     display: block;
     float: left;
     padding: 10px 10px 50px 10px;
-    font-family: monospace;
+    font-family: 'Work Sans', sans-serif;
 }
 
 /*Hiding caption*/
@@ -49,4 +51,10 @@ h3.title {
     padding-left: 30px;
     max-width: 100%;
     top: 0;
+    font-family: font-family: 'Work Sans', sans-serif;
+}
+
+/*Dictionaried page title hide the link underline*/
+a {
+    text-decoration: none;
 }
