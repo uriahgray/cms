@@ -1,0 +1,33 @@
+.container {
+    padding: 100px;
+}
+
+.post {
+    width: 33%;
+    display: block;
+    float: left;
+    padding: 10px 10px 50px 10px;
+    border: 1px solid black;
+    text-align: centre;
+}
+
+.caption {
+    color: blue;
+    font-size: medium;
+}
+
+.tag_title {
+    display: none;
+}
+
+ul.tags {
+    display: none;
+}
+
+span.play-count {
+    display: none;
+}
+
+a.link {
+    display: none;
+}
