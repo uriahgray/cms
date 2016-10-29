@@ -16,7 +16,8 @@ body#tlaw7 #fixedmenu
 
 
 body#tlaw7 .nav {
-    font-family: ariel;
+    font-family: Gotham
+       ;
     font-size: 18px;
     text-align: center;
     align-items: center;
@@ -32,7 +33,7 @@ body#tlaw7 .nav {
 
 
 p {
-    font-family: courier new;
+    font-family: Gotham;
     font-size: 10px;
     color: cyan;
 }
