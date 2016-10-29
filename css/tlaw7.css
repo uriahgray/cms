@@ -18,7 +18,7 @@ body#fixed-menu
 }
 
 
-body#tlaw7 .nav {
+#tlaw7 .nav {
     font-family: Gotham
        ;
     font-size: 18px;
@@ -33,20 +33,18 @@ p {
     color: cyan;
 }
 
-body#tlaw7 h3.tag_title {
+#tlaw7 h3.tag_title {
 display: none;
 }
 
-body#tlaw7 ul.tags {
+#tlaw7 ul.tags {
+    display: none;
+}
+#tlaw7 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
-body#tlaw7 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
-    display: none;
-}
-
-
-body#tlaw7 .post {
+#tlaw7 .post {
     margin-top: 2%;
     height: 400px;
     display: block;
@@ -55,60 +53,53 @@ body#tlaw7 .post {
     margin-bottom: 0%;
     width: 50%;
 }
-
-body#tlaw7 .post:nth-child(odd) {
+#tlaw7 .post:nth-child(odd) {
     float: right;
     width: 500px;
     margin: 30px;
 }
 
 
-
-body#tlaw7 .post.quote {
+#tlaw7 .post.quote {
     border-style: solid;
     border-width: 1pt;
     padding: 15pt;
 }
 
 
-
-body#tlaw7 span.time {
+#tlaw7 span.time {
     display:none;
 }
 
 
 
 
-body#tlaw7 .text{
+#tlaw7 .text{
     font-family: courier-new;
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#tlaw7 .copy{
+#tlaw7 .copy{
     font-size:14px;
     line-height:14.5pt;
 }
 
-body#tlaw7 .caption{
+#tlaw7 .caption{
     font-size:14px;
     line-height:14.5pt;
 }
-
-body#tlaw7 .append{
+#tlaw7 .append{
     position: fixed;
 
 }
 
-
-body#tlaw7 a {
+#tlaw7 a {
     color: cyan;
 }
-
-body#nostalgiatome a:hover {
+#tlaw7 a:hover {
     text-decoration: overline;
 }
-
-body#tlaw7 img.set_photos {
+#tlaw7 img.set_photos {
     max-height: 350px;
 }
