@@ -27,6 +27,7 @@ body#tlaw7games .post iframe {
 
 a {
  color: pink;
+	font-size: 10px;
 }
 
 
@@ -45,7 +46,7 @@ h3.tag_title {
 body#tlaw7games .post {
     max-height: inherit;
     overflow: visible;
-    font-size: 15px;
+    font-size: 10px;
     line-height: 30px;
     width: 100%;
     float: none;
