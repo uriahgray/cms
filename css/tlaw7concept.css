@@ -64,7 +64,9 @@ body#tlaw7concept
 
 
 a {
-    DISPLAY: NONE;
+      text-decoration: none;
+ -    color:pink;
+ -    font-style: italic;
 }
 
 
