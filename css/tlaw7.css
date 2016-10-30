@@ -114,3 +114,6 @@ display: none;
 #tlaw7 img.set_photos {
     max-height: 350px;
 }
+#tlaw7 .append {
+    position: fixed;
+    z-index: 9999999;
