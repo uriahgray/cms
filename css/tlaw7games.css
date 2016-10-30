@@ -33,6 +33,9 @@ a.link {
     display: none;
 }
 
+ .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
 h3 {
     text-transform: uppercase;
     font-size: 30px;
