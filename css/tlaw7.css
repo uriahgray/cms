@@ -1,114 +1,99 @@
-body#tlaw7 #fixed-menu {
-    position: fixed;
-    width: 100%;
-    height: 55px;
-    background-color: black;
+body#tlaw7 {
+background-color:black   ;
+float:left;
+border:15px solid #000;
+    
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: white;
+    
 }
 
-
-}
-.spacer
-{
-    width: 100%;
-    height: 95px;
-
-}
-body {
-    background-color: black;
-}
-
-#tlaw7 .nav {
-    position: fixed;
-    font-family: Gotham;
-    font-size: 18px;
-    text-align: center;
-    align-items: center;
-    margin-top: 20px;
-    left:20px;
-}
-
-p {
-    font-family: Gotham;
-    font-size: 10px;
-    color: cyan;
-}
-
-#tlaw7 h3.tag_title {
-display: none;
-}
-
-#tlaw7 ul.tags {
-    display: none;
-}
-.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#tlaw7 a.link {
     display: none;
 }
 
-#tlaw7 .post {
+
+body#tlaw7 div.caption {
+    width: 100%;
+    height: 100%;
+}
+
+body#tlaw7 .post .postcontainer {
+    padding: 28px;
+   
+}
+
+body#tlaw7 .post {
+    width: 35%;
+
+}
+
+body#tlaw7 .copy {
+    display: none;
+}
+
+body#tlaw7 .post.clear {
+    clear: both;
+    float: none;
+    border: 0px;
+    height: 0px;
+    overflow: hidden;
+}
+body#tlaw7 ul.tags {
+    display: none;
+}
+
+ .tags{
+       display: none;
+    }
+
+}
+
+a {
+    text-decoration: underline;
+    color: #36465d;
+}
+
+.photoset img.set_photos {
+    width: 100%;
+    height: 100%;
+}
+body#tlaw7 .post {
+    background: hsla(0, 0%, 100%, 0.83);
+    left: 810px;
+    right: 810px;
+width: 550px    ;
+    
+    margin-top: 50px;
+    margin-left: 70px;
+   
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    border: 0px solid;
+}
+
+a.link {
     display: block;
-    margin-top: 2%;
-    height: 400px;
-    float: left;
-    padding: 10px;
-    margin: 150px;
-    width: 50%;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+    color: white;
 }
-#tlaw7 .post:nth-child(odd) {
-    margin-top: 2%;
-    height: 400px;
-    float: right;
-    padding: 10px;
-    width: 50%;
-    margin: 150px;
+body#tlaw7 .container {
+    padding: 25px;
 }
-
-
-#tlaw7 .post.quote {
-    border-style: solid;
-    border-width: 1pt;
-    padding: 15pt;
+body#tlaw7 div.caption {
+    display: none;
+}
+body#tlaw7 .post iframe {
+    width: 550px;
+     max-width: 250px;
 }
 
-
-#tlaw7 span.time {
-    display:none;
-}
-
-
-
-
-#tlaw7 .text{
-    font-family: courier-new;
-    font-size:14px;
-    line-height:14.5pt;
-}
-
-#tlaw7 .copy{
-    font-size:14px;
-    line-height:14.5pt;
-}
-
-#tlaw7 .caption{
-    font-size:14px;
-    line-height:14.5pt;
-}
-#tlaw7 .append{
-    position: fixed;
-
-}
-
-#tlaw7 a {
-    color: pink;
-    font-family: Gotham;
-    font-size: 11px;
-}
-#tlaw7 a:hover {
-    text-decoration: overline;
-}
-#tlaw7 img.set_photos {
-    max-height: 350px;
-}
-#tlaw7 .append {
-    position: fixed;
-    z-index: 9999999;
+body#tlaw7 .tumblr_video_container iframe {
+    margin: left;
 }
