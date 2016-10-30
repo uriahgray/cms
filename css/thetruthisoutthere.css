@@ -45,4 +45,10 @@ a {
 	width: 50%
 	display: block
 }
-
+.post.text.thetruthisoutthere.jlhaw.postnow.bodytext {
+	color: black;
+	text-align: right;
+	text-decoration: none;
+	font-weight: normal;
+	font-size: 20px;
+}
