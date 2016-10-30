@@ -25,3 +25,10 @@ body#tlaw7AVS #fixed-menu
     top: 20px;
     left:20px;
 }
+body#tlaw7AVS a {
+    color: pink;
+}
+
+body#tlaw7AVS a:hover {
+    text-decoration: overline;
+}
