@@ -23,7 +23,7 @@ body#tlaw7conecpt .tmblr-iframe--desktop-logged-in-controls.iframe-controls--des
 
 .text {
     font-family: Arial, sans-serif;
-    color: #000;
+    color: black;
     font-size: 2.70em;
     line-height: 1.04em;
     text-decoration: none;
@@ -42,7 +42,7 @@ body#tlaw7conecpt .tmblr-iframe--desktop-logged-in-controls.iframe-controls--des
 
 a {
     text-decoration: none;
-    color: black;
+    color: lavenderblush;
     font-style: italic;
 }
 
