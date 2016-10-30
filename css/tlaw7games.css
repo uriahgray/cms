@@ -4,20 +4,20 @@ body#tlaw7games {
 	font-family:times;
 }
 
-body#tlaw7games .post.text.postnow.medium {
+body#tlaw7games .post.text.tlaw7games.medium {
     border: 0px;
     margin-bottom:0px;
 }
 
-body#tlaw7games .post.text.postnow.medium p {
+body#tlaw7games .post.text.tlaw7games.medium p {
 	padding-bottom:0px;
 }
 
-body#tlaw7games .post.text.postnow.medium a.link {
+body#tlaw7games .post.text.tlaw7games.medium a.link {
     display:none;
 }
 
-body#tlaw7games .post.text.postnow.medium ul.tags {
+body#tlaw7games .post.text.tlaw7games.medium ul.tags {
     display:none;
 }
 
@@ -46,7 +46,7 @@ h3.tag_title {
     display: none;
 }
 
-body#postnowbrief .post {
+body#tlaw7games .post {
     max-height: inherit;
     overflow: visible;
     font-size: 20px;
@@ -60,7 +60,7 @@ body#postnowbrief .post {
 display:block;
 } 
 
-body#postnowbrief .post.text {
+body#tlaw7games .post.text {
     max-height: inherit;
     overflow: visible;
 }
