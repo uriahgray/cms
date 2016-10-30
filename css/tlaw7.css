@@ -28,6 +28,8 @@ body#fixed-menu
     top: 20px;
     left:20px;
 }
+#tlaw7 .nav {
+}
 
 p {
     font-family: Gotham;
@@ -42,7 +44,7 @@ display: none;
 #tlaw7 ul.tags {
     display: none;
 }
-#tlaw7 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
