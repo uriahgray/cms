@@ -1,23 +1,23 @@
-body#tlaw7conecpt h3.tag_title {
+body#tlaw7conecpt 
+
+h3.tag_title {
 display: none;
 }
 
-body#tlaw7conecpt ul.tags {
+body#tlaw7conecpt 
+ul.tags {
     display: none;
 }
 
 
-body#tlaw7conecpt a.link {
+body#tlaw7conecpt 
+a.link {
     display: none;
 }
 
-body#tlaw7conecpt .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#tlaw7conecpt 
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
-}
-
-
-.post {
-  display:none;
 }
 
 
