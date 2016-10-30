@@ -89,11 +89,11 @@ body#photography .container {
 body#photography div.caption {
     display: none;
 }
-body#tlaw7games .post iframe {
+body#photography .post iframe {
     width: 400px;
      max-width: 250px;
 }
 
-body#tlaw7games .tumblr_video_container iframe {
+body#photography .tumblr_video_container iframe {
     margin: left;
 }
