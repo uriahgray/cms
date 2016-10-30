@@ -11,7 +11,8 @@ body#fixed-menu
 }
 
 
-#tlaw7concept .nav {
+#tlaw7concept .nav 
+{
     position: fixed;
     font-family: Gotham;
     font-size: 18px;
@@ -34,7 +35,7 @@ ul.tags {
 
 body#tlaw7conecpt 
 a.link {
-    display: none;
+
 }
 
 body#tlaw7conecpt 
@@ -57,7 +58,7 @@ body#tlaw7conecpt
 
 
 .container {
-    padding: 0px;
+    padding: 20px;
 }
 
 
