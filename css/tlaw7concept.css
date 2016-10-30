@@ -68,8 +68,9 @@ a {
     color:pink;
     font-style: underline;
 }
-
-
+a:hover {
+    text-decoration: overline
+}
 i {
     font-style: italic;
 }
