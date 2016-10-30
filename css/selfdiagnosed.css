@@ -16,7 +16,7 @@ nav:hover{
 }
 
 .nav{
-   color: white;
+   color: black;
    font-family: Helvetica; 
    font-size: 60pt; 
    line-height:70pt;
@@ -25,14 +25,11 @@ nav:hover{
    margin-top: 20px;
 }
 
-.post {
-    width: 2200px;
-    display: block;
-    margin: auto;
-}
 
 body {
     background-image: url("http://the-cms/tagged/selfdiagnosed");
+    background-attachment: fixed;
+    
 }
 
 .copy{
