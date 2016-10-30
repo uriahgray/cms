@@ -16,6 +16,7 @@
 /*Dictionary word*/
 .caption {
     font-size: medium;
+    text-transform: uppercase;
 }
 
 /*Hiding tag*/
@@ -46,8 +47,10 @@ h3.title {
     top: 0;
     left: 0;
     font-family: Georgia, serif;
-    font-size: large;
     color: blue;
+    font-size: 2em;
+    text-transform: capitalize;
+    font-weight: bold;
 }
 
 /*Dictionaried page title hide the link underline*/
@@ -60,7 +63,7 @@ a {
     position: fixed;
     bottom: 0;
     right: 0;
-    padding: 0px 30px 30px 0px;
+    padding: 0px 0px 30px 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     color: blue;
