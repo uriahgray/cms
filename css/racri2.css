@@ -26,9 +26,11 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     padding-left: 4%;
 }
 
-/* .postcontainer a.link {
-    display: none;
-} */
+a.link {
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
 
 /* h3.tag_title {
     display: none;
