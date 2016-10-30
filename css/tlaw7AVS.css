@@ -1,7 +1,9 @@
-body#fixed-menu 
-{
+body#fixed-menu {
  align-items: center;
+  background-color: white;
+    padding: 10px;
 }
+
 .spacer
 {
     width: 100%;
