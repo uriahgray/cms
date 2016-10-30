@@ -29,6 +29,9 @@ nav:hover{
     margin: auto;
 }
 
+body {
+    background-image: url("http://the-cms/tagged/selfdiagnosed");
+}
 
 .copy{
     text-align:center;
