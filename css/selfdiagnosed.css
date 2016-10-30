@@ -2,6 +2,13 @@ body#selfdiagnosed h3.tag_title {
 display: none;
 }
 
+.nav{
+   color: white;
+   font-family: Helvetica; 
+   font-size: 30px; 
+   line-height: 10px;
+}
+
 .post {
     width: 450px;
     display: block;
