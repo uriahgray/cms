@@ -16,6 +16,7 @@ body#selfdiagnosed a.link {
    font-family: Helvetica; 
    font-size: 60pt; 
    line-height:70pt;
+   background-color:slategrey;
 }
 
 .post {
