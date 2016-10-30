@@ -26,7 +26,9 @@ body#selfdiagnosed .fblock {
 body#selfdiagnosed .post.photo.selfdiagnosed.postnow.alrob14.scroll1 {
     padding-left: 200px;
     padding-bottom: 5px;
-    width: 700px;
+    width: 200px;
+    height: 100px;
+  
 }
 
 h2 {
