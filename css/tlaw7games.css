@@ -22,12 +22,12 @@ body#tlaw7games .post.text.tlaw7games.medium ul.tags {
 
 body#tlaw7games .post iframe {
     width: 400px;
-    max-width: 250px;
+    max-width: 300px;
 }
 
 a {
  color: pink;
-	font-size: 12px;
+	font-size: 11px;
 }
 a.link {
     display: none;
