@@ -1,7 +1,15 @@
-body#tlaw7concept
-body#fixed-menu 
+body#tlaw7concept #fixed-menu {
+    position: fixed;
+    width: 100%;
+    height: 55px;
+    background-color: white;
+}
+
+.spacer
 {
- align-items: center;
+    width: 100%;
+    height: 95px;
+
 }
 .spacer
 {
@@ -19,7 +27,6 @@ body#fixed-menu
     text-align: center;
     align-items: center;
     margin-top: 20px;
-    top: 20px;
     left:20px;
 }
 
