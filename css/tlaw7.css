@@ -53,7 +53,9 @@ h3 {
 display: none;
     color: pink;
 }
-
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
 
 a {
     text-decoration: underline;
