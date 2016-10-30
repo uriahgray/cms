@@ -10,7 +10,9 @@ body#fixed-menu {
     height: 95px;
 
 }
-
+#tlaw7AVS .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
 
 #tlaw7AVS .nav {
     position: fixed;
