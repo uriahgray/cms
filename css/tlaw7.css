@@ -13,7 +13,9 @@ body#tlaw7 #fixed-menu {
     height: 95px;
 
 }
-
+body {
+    background-color: black;
+}
 
 #tlaw7 .nav {
     position: fixed;
@@ -23,8 +25,6 @@ body#tlaw7 #fixed-menu {
     align-items: center;
     margin-top: 20px;
     left:20px;
-}
-#tlaw7 .nav {
 }
 
 p {
