@@ -19,11 +19,11 @@ p {
     line-height: normal;
 }
 
-.post.racri2 .postcontainer {
+/* .post.racri2 .postcontainer {
     display: block;
     width: 500px;
     height: 100%;
-}
+} */
 
 .nav {
     position: fixed;
