@@ -11,6 +11,15 @@ body#selfdiagnosed a.link {
     display: none;
 }
 
+.nav{
+   color: white;
+   font-family: Helvetica; 
+   font-size: 60pt; 
+   line-height:70pt;
+   text-decoration:none;
+   margin-left: 200px;
+   margin-top: 20px;
+}
 
 .post {
     width: 450px;
