@@ -42,7 +42,6 @@ ul.tags {
 
 body#tlaw7concept
 a.link {
-
 }
 
 body#tlaw7concept 
@@ -50,6 +49,9 @@ body#tlaw7concept
     display: none;
 }
 
+.post.text p {
+    font-size: 50px;
+}
 
 .text {
     font-family: Arial, sans-serif;
