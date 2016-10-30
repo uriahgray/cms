@@ -86,3 +86,6 @@ a.link {
 body#photography .container {
     padding: 2px;
 }
+body#photography div.caption {
+    display: none;
+}
