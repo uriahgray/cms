@@ -1,11 +1,11 @@
 /*Whole page*/
 .container {
-    padding: 100px;
+    padding: 300px;
 }
 
 /*Audio posts*/
 .post {
-    width: 33%;
+    width: 50%;
     display: block;
     float: left;
     align-items: center;
@@ -15,7 +15,6 @@
 
 /*Dictionary word*/
 .caption {
-    color: blue;
     font-size: medium;
 }
 
@@ -62,6 +61,7 @@ a {
     bottom: 0;
     right: 0;
     padding: 0px 30px 30px 0px;
-    font-family: Georgia, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
+    color: blue;
 }
