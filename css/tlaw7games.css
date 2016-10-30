@@ -50,7 +50,7 @@ body#tlaw7games .post {
     line-height: 30px;
     width: 100%;
     float: none;
-    max-width: 100%;
+    max-width: 400px;
 }
 
 .post.postnow {
