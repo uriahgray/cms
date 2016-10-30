@@ -4,9 +4,9 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
-.postcontainer a.link {
+/* .postcontainer a.link {
     display: none;
-}
+} */
 
 #nav h1:hover{
     color:red;
@@ -26,18 +26,18 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     padding-left: 4%;
 }
 
-.postcontainer a.link {
+/* .postcontainer a.link {
     display: none;
-}
+} */
 
-h3.tag_title {
+/* h3.tag_title {
     display: none;
-}
-
+} */
+/* 
 ul.tags {
     display: none;
 }
-
+ */
 .post.racri2 .postcontainer {
     display: block;
     height: 300px;
