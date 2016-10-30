@@ -19,13 +19,14 @@ body#fixed-menu
 
 
 #tlaw7 .nav {
-    position: flex;
-    font-family: Gotham
-       ;
+    position: fixed;
+    font-family: Gotham;
     font-size: 18px;
     text-align: center;
     align-items: center;
     margin-top: 20px;
+    top: 20px;
+    left:20px;
 }
 
 p {
