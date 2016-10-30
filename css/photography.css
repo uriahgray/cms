@@ -17,8 +17,8 @@ body#photography a.link {
 
 
 body#photography div.caption {
-    width: 80%;
-    height: 80%;
+    width: 100%;
+    height: 100%;
 }
 
 body#photography .post .postcontainer {
@@ -91,7 +91,7 @@ body#photography div.caption {
 }
 body#photography .post iframe {
     width: 400px;
-     max-width: 250px;
+     max-width: 200px;
 }
 
 body#photography .tumblr_video_container iframe {
