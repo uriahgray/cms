@@ -91,7 +91,7 @@ body#photography div.caption {
 }
 body#photography .post iframe {
     width: 550px;
-     max-width: 450px;
+     max-width: 250px;
 }
 
 body#photography .tumblr_video_container iframe {
