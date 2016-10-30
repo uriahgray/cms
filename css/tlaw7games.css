@@ -1,7 +1,5 @@
-
-
 body#tlaw7games {
-	font-family:times;
+	font-family:gotham;
 }
 
 body#tlaw7games .post.text.tlaw7games.medium {
@@ -39,7 +37,7 @@ h3 {
     font-size: 40px;
     display: block;
     line-height: 100px;
-    font-family: times;
+    font-family: gotham;
 }
 
 h3.tag_title {
@@ -71,7 +69,7 @@ article.posts {
     text-align: center;
 }
 
-body#tlaw7games.post.text.postnow.postnowtitle {
+body#tlaw7games.post.text.tlaw7games.tlaw7gamestitle {
     position: fixed;
     top: 50%;
     left: 50%;
