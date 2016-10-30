@@ -89,3 +89,8 @@ body#photography .container {
 body#photography div.caption {
     display: none;
 }
+
+.html5-video-player a{
+ max-height: 100%;
+    max-width: 250px;
+}
