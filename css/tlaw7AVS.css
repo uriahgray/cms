@@ -1,4 +1,8 @@
-body#tlaw7AVS #fixed-menu 
+body#tlaw7AVS {
+background-color:black;
+}
+
+#fixed-menu 
 {
  align-items: center;
   background-color: white;
@@ -31,4 +35,25 @@ body#tlaw7AVS a {
 
 body#tlaw7AVS a:hover {
     text-decoration: overline;
+}
+#tlaw7AVS ul.tags {
+    display: none;
+}
+
+#tlaw7AVS .post {
+    display: block;
+    margin-top: 2%;
+    height: 400px;
+    float: left;
+    padding: 10px;
+    margin: 150px;
+    width: 50%;
+}
+#tlaw7AVS .post:nth-child(odd) {
+    margin-top: 2%;
+    height: 400px;
+    float: right;
+    padding: 10px;
+    width: 50%;
+    margin: 150px;
 }
