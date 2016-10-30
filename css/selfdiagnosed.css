@@ -1,41 +1,63 @@
-body#selfdiagnosed {
-  font-family: sans-serif;
-  height: 100vh;
-  width: 100vw;
-  font-size: 12pt;
-  display: block;
-  background-color: white;
-}
-
 body#selfdiagnosed ul.tags {
   display:none;
 }
 
-nav{
-  font-size: 18px;
-  font-family: 'bebasregular';
-  text-transform: uppercase;
-  text-align: center;
-  line-height: 40px;
-  background-color: rgba(153, 174, 239, 0.3);
-  padding: 8px 5px 15px 5px;
-  opacity: 0.8;
-  cursor: crosshair;
-  align-items: center;
-  word-spacing: 15px;
-  color: pink;
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
 }
 
-.post {
-  font-family: "helvetica", sans-serif;
-  font-size: 13px;
-  line-height: 20px;
-  color: lightblue;
-  position: absolute;
-  top: 0px;
-  margin-left: 52%;
-  max-width: 300px;
+body#selfdiagnosed {
+    background: whitesmoke;
+    padding-bottom: 100px;
+}
 
+body#selfdiagnosed .fblock {
+    color: white;
+    width: 100%;
+    height: 280px;
+    position: fixed;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+body#selfdiagnosed .post.photo.selfdiagnosed.postnow.alrob14.scroll1 {
+    padding-left: 200px;
+    padding-bottom: 5px;
+    width: 700px;
+}
+
+h2 {
+    font-family: courier;
+    font-size: 8pt;
+    line-height: 11pt;
+    color: black;
+    max-width: 300px    
+}
+
+h4 {
+    position: fixed;
+    padding-left: 700px;
+    padding-top: 90px;    
+    font-family: courier;
+    text-transform: lowercase;
+    font-size: 8pt;
+    line-height: 11pt;
+    max-width: 1000px;
+    color: black;
+}        
+        
+h1 {
+    font-size: 30pt;
+    color: black;
+    font-weight: 900;
+    z-index: 99;
+    position: fixed;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 30px;
 }
 
 
