@@ -11,6 +11,10 @@ body#selfdiagnosed a.link {
     display: none;
 }
 
+nav:hover{
+    text-decoration:bold;
+}
+
 .nav{
    color: white;
    font-family: Helvetica; 
