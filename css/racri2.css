@@ -33,6 +33,11 @@ p {
     line-height: normal;
 }
 
+.nav a {
+    color: black;
+    text-decoration: none;
+}
+
 #nav a:hover{
     color:red;
 }
