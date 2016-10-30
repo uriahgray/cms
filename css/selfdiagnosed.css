@@ -1,80 +1,42 @@
+body#selfdiagnosed h3.tag_title {
+display: none;
+}
+
 body#selfdiagnosed ul.tags {
-  display:none;
-}
-
-a.link {
     display: none;
-    font-size: 14px;
-    font-family: courier;
-    text-transform: uppercase;
 }
 
-body#selfdiagnosed {
-    background: whitesmoke;
-    padding-bottom: 100px;
-}
 
-body#selfdiagnosed .fblock {
-    color: white;
-    width: 100%;
-    height: 280px;
-    position: fixed;
-    padding-top: 20px;
-    padding-left: 100px;
-}
-
-body#selfdiagnosed .post.photo.selfdiagnosed.alrob14.scroll1 {
-    padding-left: 200px;
-    padding-bottom: 5px;
-    width: 200px;
-    height: 100px;
-  
-}
-
-div#selfdiagnosed {
-    -webkit-column-count: 3;
-    -webkit-column-gap: 40px;
-    -webkit-column-rule-style: solid;
-    -webkit-column-rule-width: 1px;
-}
-
-h2 {
-    font-family: courier;
-    font-size: 8pt;
-    line-height: 11pt;
-    color: black;
-    max-width: 300px    
-}
-
-h4 {
-    position: fixed;
-    padding-left: 700px;
-    padding-top: 90px;    
-    font-family: courier;
-    text-transform: lowercase;
-    font-size: 8pt;
-    line-height: 11pt;
-    max-width: 1000px;
-    color: black;
-}        
-        
-h1 {
-    font-size: 30pt;
-    color: black;
-    font-weight: 900;
-    z-index: 99;
-    position: fixed;
-    padding-top: 100px;
-    padding-bottom: 50px;
-    padding-left: 30px;
-}
-
-ol, ul {
-      list-style: none;
-      display: none;
-}
-
-h3.tag_title {
-    padding-bottom: 20px;
+body#selfdiagnosed a.link {
     display: none;
+}
+
+.post {
+    width: 450px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+
+.copy{
+    text-align:center;
+}    
+
+
+.post {
+    pointer-events:none;
+}
+
+.append {
+    width: 150px;
+    height: 300px;
+    position: fixed;
+    display:block;
+    margin: auto;
+    margin-left: -75px;
+    margin-top: -77px;
+    top: 50%;
+    left: 50%;
+    z-index: 9;
 }
