@@ -1,13 +1,13 @@
-body#selfdiagnosed h3.tag_title {
+body#selfdiagnosedcontent h3.tag_title {
 display: none;
 }
 
-body#selfdiagnosed ul.tags {
+body#selfdiagnosedcontent ul.tags {
     display: none;
 }
 
 
-body#selfdiagnosed a.link {
+body#selfdiagnosedcontent a.link {
     display: none;
 }
 
