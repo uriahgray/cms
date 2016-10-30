@@ -55,7 +55,9 @@ h3 {
 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
-
+h3.tag_title {
+    display: none;
+}
 a {
     text-decoration: underline;
     color: pink;
