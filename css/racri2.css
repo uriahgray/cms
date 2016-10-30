@@ -21,9 +21,8 @@ p {
 
 .post.racri2 .postcontainer {
     display: block;
-    margin: 20px;
-    max-width: 500px;
-    padding-bottom: 20px;
+    width: 500px;
+    height: 100%;
 }
 
 .nav {
@@ -36,4 +35,25 @@ p {
 
 #nav a:hover{
     color:red;
+}
+
+
+a.link {
+    display: block;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+
+a.link:hover {
+    color: red;
+}
+
+ul.tags {
+    color: black;
+    text-decoration: none;
+    font-size: 10px;
 }
