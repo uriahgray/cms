@@ -32,7 +32,7 @@ a {
 
 h3 {
     text-transform: uppercase;
-    font-size: 40px;
+    font-size: 30px;
     display: block;
     line-height: 100px;
     font-family: gotham;
@@ -45,7 +45,7 @@ h3.tag_title {
 body#tlaw7games .post {
     max-height: inherit;
     overflow: visible;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 30px;
     width: 100%;
     float: none;
@@ -116,7 +116,7 @@ body#fixed-menu
 #tlaw7games .nav {
     position: fixed;
     font-family: Gotham;
-    font-size: 18px;
+    font-size: 10px;
     text-align: center;
     align-items: center;
     margin-top: 20px;
