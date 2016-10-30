@@ -31,6 +31,13 @@ body#selfdiagnosed .post.photo.selfdiagnosed.alrob14.scroll1 {
   
 }
 
+div#selfdiagnosed {
+    -webkit-column-count: 3;
+    -webkit-column-gap: 40px;
+    -webkit-column-rule-style: solid;
+    -webkit-column-rule-width: 1px;
+}
+
 h2 {
     font-family: courier;
     font-size: 8pt;
