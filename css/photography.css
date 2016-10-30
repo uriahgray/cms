@@ -65,7 +65,7 @@ body#photography .post {
     background: hsla(0, 0%, 100%, 0.83);
     left: 810px;
     right: 810px;
-    width: 250px;
+width: 550px    ;
     
     margin-top: 50px;
     margin-left: 70px;
@@ -90,8 +90,8 @@ body#photography div.caption {
     display: none;
 }
 body#photography .post iframe {
-    width: 400px;
-     max-width: 200px;
+    width: 550px;
+     max-width: 450px;
 }
 
 body#photography .tumblr_video_container iframe {
