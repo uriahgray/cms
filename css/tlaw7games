@@ -1,0 +1,103 @@
+
+
+body#tlaw7games {
+	font-family:times;
+}
+
+body#tlaw7games .post.text.postnow.medium {
+    border: 0px;
+    margin-bottom:0px;
+}
+
+body#tlaw7games .post.text.postnow.medium p {
+	padding-bottom:0px;
+}
+
+body#tlaw7games .post.text.postnow.medium a.link {
+    display:none;
+}
+
+body#tlaw7games .post.text.postnow.medium ul.tags {
+    display:none;
+}
+
+body#tlaw7games .post iframe {
+    width: 400px;
+    max-width: 400px;
+}
+
+a {
+ color:#000;
+}
+
+body#tlaw7games i {
+font-style:italic;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 40px;
+    display: block;
+    line-height: 100px;
+    font-family: times;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+body#postnowbrief .post {
+    max-height: inherit;
+    overflow: visible;
+    font-size: 20px;
+    line-height: 30px;
+    width: 100%;
+    float: none;
+    max-width: 100%;
+}
+
+.post.postnow {
+display:block;
+} 
+
+body#postnowbrief .post.text {
+    max-height: inherit;
+    overflow: visible;
+}
+
+article.posts {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+body#tlaw7games.post.text.postnow.postnowtitle {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    text-align: center;
+    height: 100px;
+	display:none !important;
+}
+
+
+
+body#tlaw7games .tumblr_video_container iframe {
+    margin: auto;
+}
+
+body#tlaw7games b {
+    text-transform: uppercase;
+}
+
+.nav.tlaw7games {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+.nav.tlaw7games a {
+    display: block;
+}
