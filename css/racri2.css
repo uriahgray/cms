@@ -4,9 +4,9 @@ body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
-/* .postcontainer a.link {
+h3.tag_title {
     display: none;
-} */
+}
 
 #nav h1:hover{
     color:red;
