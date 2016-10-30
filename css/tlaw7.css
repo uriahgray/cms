@@ -48,9 +48,12 @@ body#tlaw7 ul.tags {
 
  .tags{
        display: none;
-    }
-
 }
+h3 {
+display: none;
+    color: pink;
+}
+
 
 a {
     text-decoration: underline;
