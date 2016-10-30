@@ -52,7 +52,7 @@ display: none;
     height: 400px;
     float: left;
     padding: 10px;
-    margin: 200px;
+    margin: 150px;
     width: 50%;
 }
 #tlaw7 .post:nth-child(odd) {
@@ -61,7 +61,7 @@ display: none;
     float: right;
     padding: 10px;
     width: 50%;
-    margin: 200px;
+    margin: 150px;
 }
 
 
