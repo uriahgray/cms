@@ -1,4 +1,4 @@
-body#tlaw7 
+body#tlaw7 #fixed-menu
 {
     position: static; 
     width: 100%;
@@ -6,11 +6,8 @@ body#tlaw7
     background-color:red;
     padding: 10px;
 }
-#fixed-menu 
-{
- align-items: center;
-    background-color:black;
-    padding: 10px;
+ 
+
 }
 .spacer
 {
