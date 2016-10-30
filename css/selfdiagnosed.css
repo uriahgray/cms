@@ -2,6 +2,15 @@ body#selfdiagnosed h3.tag_title {
 display: none;
 }
 
+body#selfdiagnosed ul.tags {
+    display: none;
+}
+
+
+body#selfdiagnosed a.link {
+    display: none;
+}
+
 .nav{
    color: white;
    font-family: Helvetica; 
