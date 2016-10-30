@@ -1,23 +1,21 @@
 body#tlaw7AVS #fixed-menu {
     position: fixed;
     width: 100%;
-    height: 78px;
-    background-color: white;
+    height: 55px;
+    background-color: black;
 }
 
+
+}
 .spacer
 {
     width: 100%;
     height: 95px;
 
 }
- .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
-    display: none;
+body {
+    background-color: black;
 }
-#tlaw7 ul.tags {
-    display: none;
-}
-
 
 #tlaw7AVS .nav {
     position: fixed;
@@ -28,14 +26,21 @@ body#tlaw7AVS #fixed-menu {
     margin-top: 20px;
     left:20px;
 }
-body#tlaw7AVS a {
-    color: pink;
+
+p {
+    font-family: Gotham;
+    font-size: 10px;
+    color: cyan;
 }
 
-body#tlaw7AVS a:hover {
-    text-decoration: overline;
+#tlaw7AVS h3.tag_title {
+display: none;
 }
+
 #tlaw7AVS ul.tags {
+    display: none;
+}
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
@@ -55,4 +60,55 @@ body#tlaw7AVS a:hover {
     padding: 10px;
     width: 50%;
     margin: 150px;
+}
+
+
+#tlaw7AVS .post.quote {
+    border-style: solid;
+    border-width: 1pt;
+    padding: 15pt;
+}
+
+
+#tlaw7AVS span.time {
+    display:none;
+}
+
+
+
+
+#tlaw7AVS .text{
+    font-family: courier-new;
+    font-size:14px;
+    line-height:14.5pt;
+}
+
+#tlaw7AVS .copy{
+    font-size:14px;
+    line-height:14.5pt;
+}
+
+#tlaw7AVS .caption{
+    font-size:14px;
+    line-height:14.5pt;
+}
+#tlaw7AVS .append{
+    position: fixed;
+
+}
+
+#tlaw7AVS a {
+    color: pink;
+    font-family: Gotham;
+    font-size: 11px;
+}
+#tlaw7AVS a:hover {
+    text-decoration: overline;
+}
+#tlaw7AVS img.set_photos {
+    max-height: 350px;
+}
+#tlaw7AVS .append {
+    position: fixed;
+    z-index: 9999999;
 }
