@@ -25,3 +25,17 @@ nav{
   word-spacing: 15px;
   color: pink;
 }
+
+.post {
+  font-family: "helvetica", sans-serif;
+  font-size: 13px;
+  line-height: 20px;
+  color: lightblue;
+  position: absolute;
+  top: 0px;
+  margin-left: 52%;
+  max-width: 300px;
+
+}
+
+
