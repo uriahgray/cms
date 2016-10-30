@@ -8,24 +8,6 @@ h3.tag_title {
     display: none;
 }
 
-#nav h1:hover{
-    color:red;
-}
-
-#nav h1 {
-    text-decoration: none;
-    color: black;
-    font-family: monospace;
-    text-transform: uppercase;
-    left: 0;
-    top: 0;
-    position: fixed;
-    background: white;
-    width: 100%;
-    padding: 1%;
-    padding-left: 4%;
-}
-
 a.link {
     text-decoration: none;
     color: black;
@@ -44,3 +26,14 @@ p {
     padding-bottom: 20px;
 }
 
+.nav {
+    position: fixed;
+    top: 10%;
+    right: 20%;
+    font-size: 40px;
+    line-height: normal;
+}
+
+#nav a:hover{
+    color:red;
+}
