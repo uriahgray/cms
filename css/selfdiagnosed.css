@@ -60,4 +60,7 @@ h1 {
     padding-left: 30px;
 }
 
-
+ol, ul {
+      list-style: none;
+      display: none;
+  }
