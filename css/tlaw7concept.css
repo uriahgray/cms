@@ -68,6 +68,10 @@ a {
     color:pink;
     font-style: underline;
 }
+
+body#tlaw7concept a.link {
+    display: none;
+}
 a:hover {
     text-decoration: overline
 }
