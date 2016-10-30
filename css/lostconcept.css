@@ -55,5 +55,22 @@ i {
 bold {
     font-family: serif;
 }
+
+} 
+.container {
+    padding: 0px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: peachpuff;
+    font-style: italic;
+    font-family: initial;
+    position: fixed;
+    left: 25px;
+
+}
 Contact GitHub API Training Shop Blog About
 © 2016 GitHub, Inc. Terms Privacy Security Status Help
