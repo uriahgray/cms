@@ -99,3 +99,25 @@ body#tlaw7games b {
 .nav.tlaw7games a {
     display: block;
 }
+body#fixed-menu 
+{
+ align-items: center;
+}
+.spacer
+{
+    width: 100%;
+    height: 95px;
+
+}
+
+
+#tlaw7games .nav {
+    position: fixed;
+    font-family: Gotham;
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    top: 20px;
+    left:20px;
+}
