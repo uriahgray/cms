@@ -101,6 +101,7 @@ display: none;
 
 #tlaw7 a {
     color: pink;
+    font-family: Gotham;
 }
 #tlaw7 a:hover {
     text-decoration: overline;
