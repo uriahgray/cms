@@ -32,14 +32,10 @@ a.link {
     font-size: 10px;
 }
 
-/* h3.tag_title {
-    display: none;
-} */
-/* 
-ul.tags {
-    display: none;
+p {
+    font-size: 12px;
+    line-height: normal;
 }
- */
 
 .post.racri2 .postcontainer {
     display: block;
