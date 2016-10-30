@@ -2,15 +2,6 @@ body#selfdiagnosed h3.tag_title {
 display: none;
 }
 
-body#selfdiagnosed ul.tags {
-    display: none;
-}
-
-
-body#selfdiagnosed a.link {
-    display: none;
-}
-
 .post {
     width: 450px;
     display: block;
