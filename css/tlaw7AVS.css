@@ -14,6 +14,10 @@ body#tlaw7AVS #fixed-menu {
  .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
+#tlaw7 ul.tags {
+    display: none;
+}
+
 
 #tlaw7AVS .nav {
     position: fixed;
