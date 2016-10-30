@@ -41,8 +41,8 @@ body#selfdiagnosed a.link {
     position: fixed;
     display:block;
     margin: auto;
-    margin-left: -10px;
-    margin-top: -60px;
+    margin-left: 20px;
+    margin-top: -20px;
     top: 50%;
     left: 50%;
     z-index: 9;
