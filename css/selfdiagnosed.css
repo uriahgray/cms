@@ -63,4 +63,9 @@ h1 {
 ol, ul {
       list-style: none;
       display: none;
-  }
+}
+
+h3.tag_title {
+    padding-bottom: 20px;
+    display: none;
+}
