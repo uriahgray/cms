@@ -79,3 +79,10 @@ body#lmcon3 .title a {
 body#lmcon3 h3.tag_title {
     display: none;
 }
+
+body#lmcon3 .post.quote {
+    font-size: large;
+    line-height: 1.7;
+    width: 60%;
+    color: blue;
+}
