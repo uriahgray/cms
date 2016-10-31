@@ -4,6 +4,7 @@ html{
 
 #body{
     text-align:center;
+    font-size: 18px;
 
 }
 
@@ -26,8 +27,8 @@ html{
 }
 
 .picture{
-    width:500px;
-    height:620px;
+    width:400px;
+    height:496px;
 }
 .picture:hover{
     opacity:0.5;
