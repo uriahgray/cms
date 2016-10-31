@@ -1,0 +1,41 @@
+body {
+    font-family: arial;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.02em;
+    padding-left: 210pt;
+    padding-right: 210pt;
+    text-align: -webkit-left;
+}
+
+
+.post.text p {
+    color: #905f1e;
+}
+
+
+a {
+    text-decoration: none;
+    color: #905f1e;
+    font-weight: 600;
+    line-height: 45pt;
+}
+
+ol, ul {
+    list-style: none;
+    display: none;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+a.link {
+    display: none;
+}
+
+body#eatjapanrecipe7 {
+    background: url(http://66.media.tumblr.com/cf3f0c338a79ae7c70470338d60172d2/tumblr_ofwxitTSwh1vf7reno1_1280.jpg);
+    background-repeat: repeat-y;
+    background-color: #fffdfa;
+}
