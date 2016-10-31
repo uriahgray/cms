@@ -1,11 +1,10 @@
 body {
-    background: #fffdfa;
     font-family: arial;
     font-size: 18px;
     line-height: 26px;
     letter-spacing: 0.02em;
-    padding-left: 80pt;
-    padding-right: 700pt;
+    padding-left: 210pt;
+    padding-right: 210pt;
     text-align: -webkit-left;
 }
 
@@ -33,4 +32,10 @@ h3.tag_title {
 
 a.link {
     display: none;
+}
+
+body#eatjapanrecipe5 {
+    background: url(http://66.media.tumblr.com/388d1794f515eaee73ac1c9220278177/tumblr_ofwwim07az1vf7reno1_1280.jpg);
+    background-repeat: repeat-y;
+    background-color: #fffdfa;
 }
