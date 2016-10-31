@@ -112,8 +112,8 @@ body#pinkcheese .pink7 img, video, object, embed {
 body#pinkcheese .pink8 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
-    left: 53%;
-    top: 300%;
+    left: 3%;
+    top: 470%;
     z-index: 4;
     opacity: 1;
     transform: rotate(90deg);
