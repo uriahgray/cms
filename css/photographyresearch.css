@@ -11,7 +11,7 @@ body#photographyresearch {
     background-color: black;
 }
 
-ul.tags {
+body #photographyresearch ul.tags {
     display: none;
 }
 
