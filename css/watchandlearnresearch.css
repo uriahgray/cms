@@ -25,10 +25,9 @@ ol, ul {
     display: none;
 }
 
-a.caption {
-    text-decoration: underline;
-    font-family: sans-serif;
+.copy p a {
     color: salmon;
+    font-family: sans-serif;
 }
 
 .post {
