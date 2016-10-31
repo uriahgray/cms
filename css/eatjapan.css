@@ -6,7 +6,7 @@ html{
     cursor: url(http://65.media.tumblr.com/4e9b1d4481a68a64833df2417968708d/tumblr_ofwg6gzLJH1vf7reno1_75sq.png), auto;
     text-align:center;
     font-size: 14px;
-    line-height: 26px;
+    line-height: 24px;
 
 }
 
@@ -89,4 +89,9 @@ h3 {
 a {
     text-decoration: none;
     color: #905f1e;
+}
+
+.maintext {
+    overflow-y: scroll;
+    height: 150pt;
 }
