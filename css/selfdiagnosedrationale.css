@@ -1,0 +1,52 @@
+body#selfdiagnosedcontent h3.tag_title {
+display: none;
+}
+
+body#selfdiagnosedcontent ul.tags {
+    display: none;
+}
+
+
+body#selfdiagnosedcontent a.link {
+    display: none;
+}
+
+.nav{
+   color: white;
+   font-family: Helvetica; 
+   font-size: 40pt; 
+   line-height:50pt;
+   text-decoration:none;
+   margin-left: 300px;
+   margin-top: 20px;
+}
+
+.post {
+    width: 500px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+
+.copy{
+    text-align:center;
+}    
+
+
+.post {
+    pointer-events:none;
+}
+
+.append {
+    width: 150px;
+    height: 300px;
+    position: fixed;
+    display:block;
+    margin: auto;
+    margin-left: -75px;
+    margin-top: -77px;
+    top: 50%;
+    left: 50%;
+    z-index: 9;
+}
