@@ -1,3 +1,9 @@
+body {
+    font-family: akzidenzgrotesk;
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+}
 h3.tag_title {
     display: none;
 }
