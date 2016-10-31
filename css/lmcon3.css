@@ -72,10 +72,11 @@ body#lmcon3 h3.title {
 
 body#lmcon3 .title a {
     color: darkblue;
-    line-height: 2.4;
+    line-height: 2;
     text-decoration: none;
     font-weight: 600;
     text-transform: uppercase;
+    max-width: 500px
 }
 
 body#lmcon3 h3.tag_title {
