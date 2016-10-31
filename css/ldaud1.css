@@ -1,4 +1,29 @@
 /*Everything*/
 .container {
-    padding: 100px;
+    padding: 150px;
+}
+
+/*Page title*/
+.post.text.ldaud1.pagetitle {
+    position: fixed;
+    padding: 50px 0px 0px 50px;
+    left: 0;
+    top: 0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/*Page title*/
+a {
+    text-decoration: none;
+    color: red;
+}
+
+/*Posts*/
+.post {
+    width: 33%;
+    display: block;
+    float: left;
+    font-size: small;
+    margin: 20px;
 }
