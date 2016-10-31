@@ -1,15 +1,22 @@
 body {
 font-family: arial;
 font-size: 17px;
-line-height: 30px;
+line-height: 28px;
 letter-spacing: 0.02em;
 padding-left: 100pt;
 background: #fffdfa;
+    text-align: -webkit-left;
+}
+
+
+.post.text p {
+    color: #905f1e;
 }
 
 ul.tags li {
     font-size: 16px;
     display: none;
+    
 b {
 font-weight: bold;
     font-size: 13pt;
@@ -20,6 +27,3 @@ h3.tag_title {
 padding-bottom: 0;
 }
 
-.post.text p {
-    color: #905f1e;
-}
