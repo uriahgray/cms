@@ -27,7 +27,7 @@ body#tlaw7games .post iframe {
 
 a {
  color: pink;
-	font-size: 11px;
+	 text-transform: uppercase;
 }
 a.link {
       font-size: 14px;
