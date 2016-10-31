@@ -1,22 +1,22 @@
 /* test file*/
-body#formulad {
+body#formuladresearch {
     font-family: monospace;
     margin: auto 0;
 }
 
-body#formulad h3.tag_title {
+body#formuladresearch h3.tag_title {
     display: none;
 }
 
-body#formulad a.link {
+body#formuladresearch a.link {
     display: none;
 }
 
-body#formulad ul.tags {
+body#formuladresearch ul.tags {
     display: none;
 }
 
-body#formulad iframe-controls-container {
+body#formuladresearch iframe-controls-container {
     display: none;
     /*position: absolute;
     top: 0;
