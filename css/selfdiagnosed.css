@@ -44,9 +44,7 @@ h1 span{
 body {
     background-image: url("http://the-cms/tagged/selfdiagnosed");
     background-attachment: fixed;
-    background-position: right, top;
     width: 200%;
-    margin-left: 100px;
     
 }
 
