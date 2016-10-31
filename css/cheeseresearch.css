@@ -2,6 +2,10 @@ body#cheeseresearch {
     background-color: navy;
 }
 
+element.style {
+    display: none;
+}
+
 a {
     text-decoration: none;
 }
