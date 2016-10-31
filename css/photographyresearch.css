@@ -23,3 +23,8 @@ body #photographyresearch ul.tags {
     margin-bottom: -5px;
     margin-top: -5px;
 }
+h3.title {
+    text-align: center;
+    padding: 150px;
+    font-size: -webkit-xxx-large;    
+}
