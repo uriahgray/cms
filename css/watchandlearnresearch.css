@@ -22,7 +22,7 @@ body {
 
 ol, ul {
     list-style: none;
-    /*display: none;*/
+    display: none;
 }
 
 /* Permalink */
@@ -52,7 +52,7 @@ ol, ul {
 }
 
 h3.title a {
-    /*text-decoration: none;*/
+    text-decoration: none
     font-size: 15px;
     color: white;
 }
