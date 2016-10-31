@@ -21,7 +21,15 @@ body#lostresearch {
     top: -280px;
 }
 
+body#lostresearch .post.moodboard {
+        display: none;
+}
+
 body#lostresearch .post.concept {
+        display: none;
+}
+
+body#lostresearch .post.mockup {
         display: none;
 }
 
