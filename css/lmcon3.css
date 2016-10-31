@@ -90,7 +90,7 @@ body#lmcon3 .post.quote {
     color: blue;
 }
 
-body#lmcon3 .caption
+body#lmcon3 .caption {
     color: darkslategrey;
     font-size: large;
     max-width: 500px;
