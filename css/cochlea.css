@@ -28,14 +28,9 @@ body#cochlea {
 }
 
 
-
-body#cochlea .post.text p {
-	font-size: 24px;
-	line-height: 1.3;
-}
-
-
 body#cochlea .copy {
+	font-size: 24px;
+	color: white;
     position: absolute;
     left: 0px;
 top:0px;
