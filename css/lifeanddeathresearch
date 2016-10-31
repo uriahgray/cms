@@ -3,7 +3,7 @@ body#lifeanddeathresearch
     display: block;
     background-color: rgba(194, 203, 206, 0.11);
 }
-<style>…</style>
+{
 margin: 0;
 padding: 30px;
     border: 0;
@@ -14,3 +14,4 @@ padding: 30px;
     color: blue;
     line-height: 30px;
     letter-spacing: 0.02em;
+    }
