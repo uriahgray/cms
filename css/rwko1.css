@@ -98,6 +98,7 @@ ul.tags li {
 p {
     font-size: 15px;
     line-height: 20px;
+    display: inline-block;
 }
 
 .post.photoset {
