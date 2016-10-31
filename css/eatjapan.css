@@ -29,8 +29,8 @@ html{
 }
 
 .picture{
-    width:400px;
-    height:496px;
+    width:200px;
+    height:250px;
 }
 .picture:hover{
     opacity:0.5;
@@ -62,7 +62,7 @@ span.imgDescription p{
 
 
 .frame{
-    width:32%;
+    width:29%;
     display:inline-block;
     vertical-align:top;
     margin-bottom:50px;
