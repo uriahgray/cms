@@ -119,3 +119,9 @@ h3.title {
     background-color: white;
     padding: 30px;
 }
+
+b {
+    font-size: 50px;
+    font-weight: 700;
+    color: crimson;
+}
