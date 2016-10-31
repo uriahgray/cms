@@ -1,21 +1,21 @@
-body#kmea7 {
+body#formuladrationale {
     font-family: monospace;
     margin: auto 0;
 }
 
-body#kmea7 h3.tag_title {
+body#formuladrationale h3.tag_title {
     display: none;
 }
 
-body#kmea7 a.link {
+body#formuladrationale a.link {
     display: none;
 }
 
-body#kmea7 ul.tags {
+body#formuladrationale ul.tags {
     display: none;
 }
 
-body#kmea7 iframe-controls-container {
+body#formuladrationale iframe-controls-container {
     display: none;
     /*position: absolute;
     top: 0;
