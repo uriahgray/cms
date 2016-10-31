@@ -21,7 +21,7 @@ body#cochlea .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop 
 }
 
 body#cochlea {
-    font-family: courier;
+    font-family: arial;
     font-size: 9pt;
     line-height: 11pt;
     letter-spacing: 0.02em;
