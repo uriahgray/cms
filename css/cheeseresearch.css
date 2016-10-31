@@ -135,21 +135,14 @@ body#cheeseresearch .comm2, img, video, object, embed {
     z-index: 2;
 }
 
-.tags {
+.rat {
     position: fixed;
-    font-size: 30px;
-    font-weight: lighter;
-    left: 50%;
     width: 100%;
-    text-align: center;
-    color: navy;
+    left: 50%;
     margin-left: -50%;
-    height: 100px;
-    line-height: 100px;
     bottom: 50%;
     margin-bottom: -50px;
     z-index: 100;
-    background-color: white;
 }
 
 .linkme {
