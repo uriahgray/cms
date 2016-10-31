@@ -5,7 +5,7 @@ a.link {
     display: none;
 }
 .buttons-container.non-admin-buttons-container {
-    display: none;
+    visibility: hidden;
 }
 ul.tags {
     display: none;
