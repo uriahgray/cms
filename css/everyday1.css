@@ -132,11 +132,3 @@ b {
     clear: both;
     width: 100%;
 }
-
-p {
-	width: 50%;
-    display: block;
-    float: left;
-    padding-left: 30px;
-    padding-right: 30px;
-}
