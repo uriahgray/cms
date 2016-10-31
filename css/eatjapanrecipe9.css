@@ -21,19 +21,6 @@ a {
     line-height: 45pt;
 }
 
-ol, ul {
-    list-style: none;
-    display: none;
-}
-
-h3.tag_title {
-    display: none;
-}
-
-a.link {
-    display: none;
-}
-
 body#eatjapanrecipe9 {
     background: url(http://67.media.tumblr.com/1f0f2f5f06835fbd721485964b7cf571/tumblr_ofwxj7OlE61vf7reno1_1280.jpg);
     background-repeat: repeat-y;
