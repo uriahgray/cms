@@ -33,23 +33,6 @@ a {
  .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
-
-
-.post {
-    display: block;
-    float: left;
-    width: 500px;
-    margin: 40px;
-    padding: 20px;
-    background: white;
-}
-
-.post:nth-child(odd) {
-    float: right;
-    width: 400px;
-    margin: 30px;
-    
-    } 
     
     body#lostresearch .post.lostmoodboard {
         top: 20px;
