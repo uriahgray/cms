@@ -41,7 +41,7 @@ body#bluecheese a.link {
     display: none;
 }
 
-body#bluecheese .pink1 img, video, object, embed {
+body#bluecheese .blue1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -10.2%;
@@ -50,7 +50,7 @@ body#bluecheese .pink1 img, video, object, embed {
     opacity: 1;
 }
 
-body#bluecheese .pink2 img, video, object, embed {
+body#bluecheese .blue2 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -60,7 +60,7 @@ body#bluecheese .pink2 img, video, object, embed {
     transform: rotate(270deg);
 }
 
-body#bluecheese .pink3 img, video, object, embed {
+body#bluecheese .blue3 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -69,7 +69,7 @@ body#bluecheese .pink3 img, video, object, embed {
     opacity: 1;
 }
 
-body#bluecheese .pink4 img, video, object, embed {
+body#bluecheese .blue4 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -2%;
@@ -80,7 +80,7 @@ body#bluecheese .pink4 img, video, object, embed {
 }
 
 
-body#bluecheese .pink5 img, video, object, embed {
+body#bluecheese .blue5 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -90,7 +90,7 @@ body#bluecheese .pink5 img, video, object, embed {
     transform: rotate(180deg);
 }
 
-body#bluecheese .pink6 img, video, object, embed {
+body#bluecheese .blue6 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -10%;
@@ -100,7 +100,7 @@ body#bluecheese .pink6 img, video, object, embed {
     transform: rotate(90deg);
 }
 
-body#bluecheese .pink7 img, video, object, embed {
+body#bluecheese .blue7 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -109,7 +109,7 @@ body#bluecheese .pink7 img, video, object, embed {
     opacity: 1;
 }
 
-body#bluecheese .pink8 img, video, object, embed {
+body#bluecheese .blue8 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 3%;
