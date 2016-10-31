@@ -1,3 +1,6 @@
+body#selfdiagnosedresearch h3.tag_title {
+display: none;
+}
 
 body#selfdiagnosedcontent ul.tags {
     display: none;
