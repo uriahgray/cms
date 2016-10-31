@@ -6,9 +6,20 @@ body#photographyresearch {
 body#photographyresearch h3.tag_title {
     display: none;
 }
+body#photographyresearch a.link {
+    display: none;
+}
+
+body#photographyresearch iframe-controls-container {
+    display: none;
+    /*position: absolute;
+    top: 0;
+    right: 0;*/ 
+}
+
 
 body#photographyresearch {
-    background-color: black;
+    background-color: white;
 }
 
 body #photographyresearch ul.tags {
