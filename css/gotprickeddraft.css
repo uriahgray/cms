@@ -4,7 +4,7 @@ h3.tag_title {
 }
 
 .tags>li>a, a.link {
-    display: none;
+    display: none; !important
 }
 
 .caption {
