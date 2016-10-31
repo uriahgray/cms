@@ -79,8 +79,9 @@ img.set_photos {
 }
 
 .post.photoset {
+  margin: 0 auto 50px auto;
+  padding-bottom: 40px;
   border-bottom: 2px solid red;
-  margin-bottom: 50px; 
 }
 
 .photoset img.set_photos {
