@@ -113,3 +113,9 @@ h3.title {
     margin-left: 260px;
     display: block;
 }
+
+.copy {
+    margin: 0px;
+    background-color: white;
+    padding: 30px;
+}
