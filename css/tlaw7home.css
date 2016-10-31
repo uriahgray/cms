@@ -17,6 +17,9 @@ body#tlaw7home8  a.link {
 body#tlaw7home  ul.tags {
     display: none;
 }
+body#tlaw7home  p {
+    color: white;
+}
 
 body#tlaw7home  iframe-controls-container {
     display: none;
@@ -96,6 +99,9 @@ a:hover {
     img.set_photos {
         width: 100%;
     }
+blockquote, q {
+    quotes: none;
+}
     
 body#tlaw7 #fixed-menu {
     position: fixed;
