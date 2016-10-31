@@ -39,6 +39,7 @@ body {
     background-image: url("http://the-cms/tagged/selfdiagnosed");
     background-attachment: fixed;
     width: 200%;
+    margin-top: -20px;
     
 }
 
