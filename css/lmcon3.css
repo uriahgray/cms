@@ -67,6 +67,7 @@ body#lmcon3 .copy {
 
 body#lmcon3 h3.title {
     color: darkblue;
+    max-width: 500px;
 }
 
 body#lmcon3 .title a {
