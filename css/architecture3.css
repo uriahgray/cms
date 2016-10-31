@@ -63,7 +63,7 @@ img, video, object, embed {
 
  .tags{
         
-       display: none;
+       display: show;
         
     }
 
