@@ -1,0 +1,75 @@
+body#lmcon3 .nav {
+    position: fixed;
+    z-index: 1;
+    color: darkslategray;
+    text-align: right;
+    padding-left: 2%;
+    padding-top: 17px;
+    font-size: large;
+}
+
+body#lmcon3 .nav a {
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: large;
+    /* line-height: 0; */
+}
+
+body#lmcon3 .container {
+    padding-left: 20%;
+    max-width: 5%%;
+}
+
+body#lmcon3 article.posts {
+    /* max-height: 20px; */
+}
+
+body#lmcon3 a.chocolat-image.image {
+    /* height: 50px; */
+}
+
+body#lmcon3 img.set_photos {
+    height: 300px;
+}
+
+body#lmcon3 ul.tags {
+    color: black;
+    text-decoration: none;
+}
+
+body#lmcon3 .tags a {
+    color: black;
+    text-decoration: none;
+    font-size: smaller;
+}
+
+body#lmcon3 .postcontainer a.link {
+    color: grey;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+
+body#lmcon3 .copy {
+    color: darkslategrey;
+    font-size: large;
+    max-width: 60%;
+    line-height: 1.6;
+}
+
+body#lmcon3 h3.title {
+    color: darkblue;
+}
+
+body#lmcon3 .title a {
+    color: darkblue;
+    line-height: 2.4;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+body#lmcon3 h3.tag_title {
+    display: none;
+}
