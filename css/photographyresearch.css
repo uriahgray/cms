@@ -56,9 +56,9 @@ img.set_photos:hover {
 /*171016*/
 
 img.set_photos {
-    padding: 6px 6px;
+    padding: 8px 8px;
     float: left;
-    width: 24.99999%;
+    width: 30%;
 }
 
 a {
@@ -67,5 +67,5 @@ a {
 }
 
 a:hover {
-    color: teal;
+    color:yellow;
 }
