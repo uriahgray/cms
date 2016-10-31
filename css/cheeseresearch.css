@@ -126,7 +126,7 @@ body#cheeseresearch .comm1 img, video, object, embed {
     opacity: 1;
 }
 
-.rat {
+body#cheeseresearch .rat {
     position: fixed;
     width: 100%;
     left: 50%;
