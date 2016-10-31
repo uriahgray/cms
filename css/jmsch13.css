@@ -14,6 +14,24 @@ body#jmsch13 a.link {
 }
 
 .posts{
-width: 50%;
-    
+width: 50%;    
+}
+
+.post.photo.voyage.jmsch13.postnow {
+    margin: 20px;
+}
+
+.post.photo.voyage.certificate.jmsch13.postnow {
+    margin-top: 40px;
+    margin-bottom:40px
+}
+
+.post.photo.postnowthumbnail.jmsch13 {
+    margin-top: 40px;
+    margin-bottom:40px
+}
+
+.post.text.drawinggameinstructions.jmsch13 {
+    margin-top: 40px;
+    margin-bottom:40px
 }
