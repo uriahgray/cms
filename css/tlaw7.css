@@ -120,3 +120,6 @@ body#tlaw7 #fixed-menu {
     margin-top: 10px;
     left:20px;
 }
+a:hover {
+    text-decoration: overline;
+}
