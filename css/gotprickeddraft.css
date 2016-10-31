@@ -3,7 +3,7 @@ h3.tag_title {
     display: none;
 }
 
-.tags>li>a, a.link {
+.tags>li>a {
     display: none;
 }
 
@@ -15,7 +15,6 @@ h3.tag_title {
     padding: 0px;
 }
 
-a.link {
-    display: none !important;
+ul.tags {
+    display: none;
 }
-
