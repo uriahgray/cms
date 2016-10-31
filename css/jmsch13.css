@@ -25,7 +25,7 @@ body#jmsch13 .container {
 }
 
 body#jmsch13 article.posts {
-    width: 10200px;
-    height: 400px;
+    width: 100%;
+    height: 100%;
     display: flex;
 }
