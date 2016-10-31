@@ -13,6 +13,7 @@ body#cochlea a.link {
 body#cochlea .copy {
 	display: none;
 	min-width: 400px;
+	background-color: white;
 }
 
 
