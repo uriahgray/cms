@@ -9,8 +9,8 @@ html{
 }
 
 #eatJapanIcon{
-    width:10%;
-    height:10%;
+    width:12%;
+    height:12%;
     margin-top:50px;
 }
 
@@ -75,4 +75,10 @@ span.imgDescription p{
 
 article.posts {
     display: none;
+}
+
+h3 {
+    text-transform: uppercase;
+    color: #905f1e;
+    font-weight: 700;
 }
