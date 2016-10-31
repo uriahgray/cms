@@ -21,7 +21,9 @@ h3.tag_title {
     float: right;
     font-family: helvetica;
     font-size: 15px;
-    color: orange;
+    color: dimgray;
+    position: fixed;
+    margin: auto;
 }
 
 a {
