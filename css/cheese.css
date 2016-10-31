@@ -45,7 +45,7 @@ body#cheese .var1 img, video, object, embed {
     position: absolute;
     left: -10.2%;
     top: 30%;
-    z-index: 2;
+    z-index: 7;
     opacity: 1;
 }
 
@@ -130,7 +130,7 @@ body#cheese .var10 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
-    top: 360%;
+    top: 400%;
     z-index: 4;
     opacity: 1;
     transform: rotate(270deg);
