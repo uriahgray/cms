@@ -11,3 +11,11 @@ h3.tag_title {
     padding-bottom: 20px;
     display: none;
 }
+
+.post ul.tags {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+}
