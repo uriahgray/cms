@@ -4,7 +4,7 @@ h3.tag_title {
 }
 
 .tags>li>a, a.link {
-    display: none !important;
+    display: none;
 }
 
 .caption {
@@ -13,5 +13,9 @@ h3.tag_title {
 
 .container {
     padding: 0px;
+}
+
+a.link {
+    display: none !important;
 }
 
