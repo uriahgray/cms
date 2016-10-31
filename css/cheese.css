@@ -193,6 +193,15 @@ body#cheese .var16 img, video, object, embed {
     transform: rotate(90deg);
 }
 
+body#cheese .var17 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 5%;
+    top: 900%;
+    z-index: 4;
+    opacity: 1;
+}
+
 body#cheese .comm1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
