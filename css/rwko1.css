@@ -56,3 +56,8 @@ a.link {
    font-size: 10px;
     color:red;
 }
+
+ul.tags li {
+    font-size: 10px;
+    line-height: 15px;
+}
