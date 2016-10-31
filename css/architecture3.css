@@ -45,7 +45,7 @@ display: none;
  display: inline-block;
 }
 a.link {
-display: show;
+display: none;
 }
 
 img, video, object, embed {
@@ -117,5 +117,5 @@ h3.title {
 }
 
 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
- display: show;
+ display: none;
 }
