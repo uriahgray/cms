@@ -47,8 +47,6 @@ body#cochlea .post:hover .copy {
 
 
 body#cochlea .post {
-	max-width: 200px;
-	max-height: 250px;
 	position: absolute;
 	top: 0px;
 	left: 0px;
