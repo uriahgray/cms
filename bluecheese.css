@@ -1,0 +1,156 @@
+body#bluecheese {
+    background-color: navy;
+}
+
+a {
+    text-decoration: none;
+}
+
+.green {
+    color: #dae28d;
+}
+
+.pink {
+    color: #e58ab3;
+}
+
+.blue {
+    color: #2dbdb9;
+}
+
+.orange {
+    color: #f38d7a;
+}
+
+span.time {
+    display: none;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+body#bluecheese h3.tag_title {
+    display: none;
+}
+
+body#bluecheese ul.tags {
+    display: none;
+}
+
+
+body#bluecheese a.link {
+    display: none;
+}
+
+body#bluecheese .pink1 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: -10.2%;
+    top: 30%;
+    z-index: 7;
+    opacity: 1;
+}
+
+body#bluecheese .pink2 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 60%;
+    top: -5%;
+    z-index: 1;
+    opacity: 1;
+    transform: rotate(270deg);
+}
+
+body#bluecheese .pink3 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 53%;
+    top: 140%;
+    z-index: 1;
+    opacity: 1;
+}
+
+body#bluecheese .pink4 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: -2%;
+    top: 190%;
+    z-index: 1;
+    opacity: 1;
+    transform: rotate(90deg);
+}
+
+
+body#bluecheese .pink5 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 60%;
+    top: 240%;
+    z-index: 1;
+    opacity: 1;
+    transform: rotate(180deg);
+}
+
+body#bluecheese .pink6 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: -10%;
+    top: 300%;
+    z-index: 1;
+    opacity: 1;
+    transform: rotate(90deg);
+}
+
+body#bluecheese .pink7 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 53%;
+    top: 380%;
+    z-index: 1;
+    opacity: 1;
+}
+
+body#bluecheese .pink8 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 3%;
+    top: 470%;
+    z-index: 4;
+    opacity: 1;
+    transform: rotate(90deg);
+}
+
+.tags {
+    position: fixed;
+    font-size: 30px;
+    font-weight: lighter;
+    left: 50%;
+    width: 100%;
+    text-align: center;
+    color: navy;
+    margin-left: -50%;
+    height: 100px;
+    line-height: 100px;
+    bottom: 50%;
+    margin-bottom: -50px;
+    z-index: 100;
+    background-color: white;
+}
+
+.linkme {
+    position: fixed;
+    font-size: 20px;
+    font-weight: lighter;
+    text-decoration: overline;
+    left: 50%;
+    width: 100%;
+    text-align: center;
+    color: navy;
+    margin-left: -50%;
+    height: 50px;
+    line-height: 60px;
+    bottom: 0%;
+    margin-bottom: 0px;
+    z-index: 100;
+    background-color: white;
+}
+
