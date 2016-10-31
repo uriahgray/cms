@@ -1,36 +1,99 @@
-body#curateorange .post {
-display:block;
+body#curateorange {
+background-color:white;
 float:left;
-margin-right:0px;
-border:1px solid #000;
-margin-bottom:0px;
+border:15px solid #000;
+    
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: white;
+    
 }
 
 body#curateorange a.link {
-    font-family: arial;
+    display: none;
+}
+
+
+body#curateorange div.caption {
+    width: 100%;
+    height: 100%;
 }
 
 body#curateorange .post .postcontainer {
-    padding: 0 18px;
+    padding: 28px;
+   
 }
 
-body#curateorange .post.col1of4 {
-    width: 25%;
+body#curateorange .post {
+    width: 35%;
+
 }
 
-body#curateorange .post.col1of3 {
-    width: 33.33333%;
-}
-
-body#curateorange .post.col1of2 {
-    width: 50%;
+body#curateorange .copy {
+    display: none;
 }
 
 body#curateorange .post.clear {
     clear: both;
-    display: inherit;
     float: none;
     border: 0px;
-    height: 1px;
+    height: 0px;
     overflow: hidden;
+}
+body#curateorange ul.tags {
+    display: none;
+}
+
+ .tags{
+       display: none;
+    }
+
+}
+
+a {
+    text-decoration: underline;
+    color: #36465d;
+}
+
+.photoset img.set_photos {
+    width: 120%;
+    height: 120%;
+}
+body#curateorange .post {
+    background: hsla(0, 0%, 100%, 0.83);
+    left: 810px;
+    right: 810px;
+width: 550px    ;
+    
+    margin-top: 50px;
+    margin-left: 70px;
+   
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    border: 0px solid;
+}
+
+a.link {
+    display: block;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+    color: white;
+}
+body#curateorange .container {
+    padding: 25px;
+}
+body#curateorange div.caption {
+    display: none;
+}
+body#curateorange.post iframe {
+    width: 550px;
+     max-width: 250px;
+}
+
+body#curateorange .tumblr_video_container iframe {
+    margin: left;
 }
