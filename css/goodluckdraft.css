@@ -21,6 +21,9 @@ ul.tags {
     padding-left: 10px;
     align-content: center;
 }
+.buttons-container.non-admin-buttons-container {
+    display: none;
+}
 .legend {
     position: fixed;
     bottom: 10px;
