@@ -51,6 +51,12 @@ body#lmcon3 .postcontainer a.link {
     text-transform: capitalize;
 }
 
+body#lmcon3 .'post quote' a.link {
+    color: grey;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+
 body#lmcon3 .copy {
     color: darkslategrey;
     font-size: large;
