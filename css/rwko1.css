@@ -109,3 +109,7 @@ p {
 b {
     font-weight: bold;
 }
+
+.post.postnow {
+    background: aliceblue;
+}
