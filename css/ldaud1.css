@@ -2,33 +2,3 @@
 .container {
     padding: 100px;
 }
-
-/*Actual posts*/
-.post {
-    width: 33%;
-    display: block;
-    float: left;
-    align-items: center;
-    padding: 10px 10px 50px 10px;
-}
-
-/*Hiding tag*/
-.tag_title {
-    display: none;
-}
-
-/*Hiding tag*/
-ul.tags {
-    display: none;
-}
-
-/*Hiding plays*/
-span.play-count {
-    display: none;
-}
-
-/*Hiding tag*/
-a.link {
-    display: none;
-    font-family: 'Coiny', cursive;
-}
