@@ -1,5 +1,4 @@
 body {
-    background: #fffdfa;
     font-family: arial;
     font-size: 18px;
     line-height: 26px;
@@ -38,4 +37,5 @@ a.link {
 body#eatjapanrecipe2 {
     background: url(http://66.media.tumblr.com/7af839a76872e90da028bb05f6c42513/tumblr_ofwr04egbt1vf7reno1_1280.jpg);
     background-repeat: repeat-y;
+    background-color: #fffdfa;
 }
