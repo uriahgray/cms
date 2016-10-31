@@ -3,6 +3,11 @@ body#watchandlearnresearch {
     background-color: black;
 }
 
+h3.tag_title {
+    text-transform: uppercase;
+    display: none;
+}
+
 body {
     font-family: serif;
     font-size: 30px;
