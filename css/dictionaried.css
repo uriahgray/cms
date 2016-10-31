@@ -51,6 +51,7 @@ h3.title {
     font-size: 3em;
     text-transform: capitalize;
     font-weight: bold;
+    z-index: -1;
 }
 
 /*Dictionaried page title hide the link underline*/
