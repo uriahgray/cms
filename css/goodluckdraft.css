@@ -16,7 +16,7 @@ ul.tags {
     margin: 4px;
     width: 5%;
 }
-.copy {
+.copy:active {
     display: none;
     position: relative;
     font-size: 10px;
@@ -24,6 +24,9 @@ ul.tags {
     padding: absolute;
     top: -45px;
     color: white;
+}
+.copy:hover {
+    display:block
 }
 .buttons-container.non-admin-buttons-container {
     display: none;
