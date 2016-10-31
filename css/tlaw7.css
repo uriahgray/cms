@@ -11,7 +11,9 @@ float:left;
 }
 
 body#tlaw7 a.link {
-    display: none;
+      font-size: 14px;
+    font-family: gotham;
+    text-transform: uppercase;
 }
 
 
@@ -81,13 +83,7 @@ width: 550px    ;
     border: 0px solid;
 }
 
-a.link {
-    display: block;
-    font-size: 14px;
-    font-family: courier;
-    text-transform: uppercase;
-    color: white;
-}
+
 body#tlaw7 .container {
     padding: 25px;
 }
