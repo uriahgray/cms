@@ -20,7 +20,7 @@ ol, ul {
     display: none;
 }
 
-a {
+a#watchandlearnresearch {
     text-decoration: underline;
     font-family: sans-serif;
     color: salmon;
