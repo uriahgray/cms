@@ -20,9 +20,6 @@ h3.tag_title {
 padding-bottom: 0;
 }
 
-
-a {
-	text-decoration: none;
-color: darkgoldenrod;
-font-weight: bold;
+.post.text p {
+    color: #905f1e;
 }
