@@ -4,12 +4,12 @@
 
 <!-- Styles -->	
 <style style="text/css">
-.example3 {
- height: 100%;	
+.example1 {
+ height: 50px;	
  overflow: hidden;
  position: relative;
 }
-.example3 h3 {
+.example1 h3 {
  position: absolute;
  width: 100%;
  height: 100%;
@@ -17,38 +17,38 @@
  line-height: 50px;
  text-align: center;
  /* Starting position */
- -moz-transform:translateY(-100%);
- -webkit-transform:translateY(-100%);	
- transform:translateY(-100%);
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);	
+ transform:translateX(100%);
  /* Apply animation to this element */	
- -moz-animation: example3 15s linear infinite;
- -webkit-animation: example3 15s linear infinite;
- animation: example3 15s linear infinite;
+ -moz-animation: example1 15s linear infinite;
+ -webkit-animation: example1 15s linear infinite;
+ animation: example1 15s linear infinite;
 }
 /* Move it (define the animation) */
-@-moz-keyframes example3 {
- 0%   { -moz-transform: translateY(-100%); }
- 100% { -moz-transform: translateY(100%); }
+@-moz-keyframes example1 {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
 }
-@-webkit-keyframes example3 {
- 0%   { -webkit-transform: translateY(-100%); }
- 100% { -webkit-transform: translateY(100%); }
+@-webkit-keyframes example1 {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
 }
-@keyframes example3 {
+@keyframes example1 {
  0%   { 
- -moz-transform: translateY(-100%); /* Firefox bug fix */
- -webkit-transform: translateY(-100%); /* Firefox bug fix */
- transform: translateY(-100%); 		
+ -moz-transform: translateX(100%); /* Firefox bug fix */
+ -webkit-transform: translateX(100%); /* Firefox bug fix */
+ transform: translateX(100%); 		
  }
  100% { 
- -moz-transform: translateY(100%); /* Firefox bug fix */
- -webkit-transform: translateY(100%); /* Firefox bug fix */
- transform: translateY(100%); 
+ -moz-transform: translateX(-100%); /* Firefox bug fix */
+ -webkit-transform: translateX(-100%); /* Firefox bug fix */
+ transform: translateX(-100%); 
  }
 }
 </style>
 
-<!-- HTML -->
-<div class="example3">
-<h3>Media Released Plans of Site Development</h3>
+<!-- HTML -->	
+<div class="example1">
+<h3>State Government Released Plans of Site Development </h3>
 </div>
