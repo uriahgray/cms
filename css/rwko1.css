@@ -1,9 +1,9 @@
-/* .post.photo {
+.post.photo {
     max-width: 20%;
     display: block;
     float: right;
     padding: 20px;
-    } */
+    }
 /* 
 img{
     max-width: 20%;
@@ -21,13 +21,13 @@ img{
     line-height: 20px;
     }
 
-p {
+/* p {
     font-size: 15px;
     float: right;
     padding: 50px;
     line-height: 20px;
     }
-    
+     */
 
 .btn {
   background: #fcd741;
