@@ -145,7 +145,14 @@ body#cheese .var11 img, video, object, embed {
     opacity: 1;
 }
 
-
+body#cheese .var12 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 40%;
+    top: 500%;
+    z-index: 4;
+    opacity: 1;
+}
 
 body#cheese .comm1 img, video, object, embed {
     max-width: 47.45%;
