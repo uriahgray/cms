@@ -23,7 +23,7 @@ body#formuladresearch iframe-controls-container {
 }
 
 h3.title {
-    text-align: center;
+    text-align: left;
     padding: 150px;
     font-size: -webkit-xxx-large;    
 }
@@ -57,7 +57,7 @@ img.set_photos:hover {
 
 img.set_photos {
     padding: 8px 8px;
-    float: left;
+    float: right;
     width: 30%;
 }
 
