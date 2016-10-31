@@ -1,0 +1,125 @@
+body#tlaw7pub {
+background-color:black   ;
+float:left;
+    
+    font-family: gotham;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: pink;
+    
+}
+
+body#tlaw7pub a.link {
+      font-size: 14px;
+    font-family: gotham;
+    text-transform: uppercase;
+}
+
+
+body#tlaw7pub div.caption {
+    width: 100%;
+    height: 100%;
+}
+
+body#tlaw7pub .post .postcontainer {
+    padding: 28px;
+   
+}
+
+body#tlaw7pub .post {
+    width: 35%;
+
+}
+
+body#tlaw7pub .copy {
+    display: none;
+}
+
+body#tlaw7pub .post.clear {
+    clear: both;
+    float: none;
+    border: 0px;
+    height: 0px;
+    overflow: hidden;
+}
+body#tlaw7pub ul.tags {
+    display: none;
+}
+
+ .tags{
+       display: none;
+}
+h3 {
+    color: pink;
+}
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+h3.tag_title {
+    display: none;
+}
+a {
+    text-decoration: underline;
+    color: pink;
+}
+
+.photoset img.set_photos {
+    width: 100%;
+    height: 100%;
+}
+body#tlaw7pub .post {
+    background: #3a3a3a;
+    left: 810px;
+    right: 810px;
+width: 550px    ;
+    
+    margin-top: 50px;
+    margin-left: 70px;
+   
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    border: 0px solid;
+}
+
+
+body#tlaw7pub .container {
+    padding: 25px;
+}
+body#tlaw7pub div.caption {
+    display: none;
+}
+body#tlaw7pub .post iframe {
+    width: 550px;
+     max-width: 250px;
+}
+
+body#tlaw7pub .tumblr_video_container iframe {
+    margin: left;
+}
+body#tlaw7pub #fixed-menu {
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    background-color: black;
+}
+
+}
+.spacer
+{
+    width: 100%;
+    height: 95px;
+}
+#tlaw7pub .nav {
+    position: fixed;
+    font-family: Gotham;
+    font-size: 18px;
+    text-align: center;
+   
+    margin-top: 10px;
+    left:20px;
+}
+a:hover {
+    text-decoration: overline;
+}
