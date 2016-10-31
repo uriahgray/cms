@@ -1,0 +1,70 @@
+body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
+    top: 0;
+    display: none;
+}
+
+.postcontainer a.link {
+    display: none;
+}
+
+h1:hover{
+    color:pink;
+}
+
+.nav {
+    position: fixed;
+    font-family: Gotham;
+    font-size: 18px;
+    text-align: center;
+   
+    margin-top: 10px;
+    left:20px;
+}
+
+.post {
+    margin-top: 2%;
+    height: 400px;
+    display: block;
+    float: left;
+    padding: 10px;
+    margin-bottom: 0%;
+    width: 50%;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+.postcontainer a.link {
+    display: none;
+}
+
+.streetview img {
+    max-width: 6%;
+}
+
+.streetview a {
+    display: none;
+}
+
+h1 {
+    font-family: monospace;
+    text-transform: uppercase;
+    left: 2.3%;
+    top: 2%;
+    position: fixed;
+}
+
+ul.tags {
+    display: none;
+}
+a.link {
+      font-size: 14px;
+    font-family: gotham;
+    text-transform: uppercase;
+}
+a:hover {
+    text-decoration: overline;
+     color: #fff0f5;
+}
