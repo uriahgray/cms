@@ -17,6 +17,7 @@ ul.tags {
     width: 5%;
 }
 .copy {
+    visibility: hidden;
     position: relative;
     font-size: 10px;
     text-align: center;
@@ -25,11 +26,8 @@ ul.tags {
     color: white;
     float: initial;
 }
-.copy:active {
-    visibility: hidden
-}   
-.copy:hover {
-    visibility: visible
+.postcontainer:hover .copy {
+    visibility: visible;
 }
 .buttons-container.non-admin-buttons-container {
     display: none;
