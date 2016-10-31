@@ -56,6 +56,11 @@ h3.title a {
     color: white;
 }
 
+.copy p b {
+    text-decoration: none;
+    font-style: italic;
+}
+
 /* All Post Boxes */
 .post {
     display: block;
