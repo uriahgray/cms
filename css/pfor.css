@@ -1,10 +1,11 @@
 body#pfor {
-  background-color:red;
+  background-color:#000000;
 }
 
 .heading {
-  max-width:600;
-  margin:auto;
+	color:#222222;
+  	/*max-width:600;
+  	margin:auto;*/
 }
 
 .post ul.tags{
