@@ -28,5 +28,12 @@ a {
     padding: 20px;
 }
 
-body#cle19 .container {
-    overflow-x: scroll;
+.nav a {
+    display: block;
+    float: right;
+    font-family: helvetica;
+    font-size: 15px;
+    color: dimgray;
+    position: fixed;
+    margin: auto;
+}
