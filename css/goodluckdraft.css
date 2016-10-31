@@ -21,9 +21,13 @@ ul.tags {
     padding-left: 10px;
     align-content: center;
 }
-.legend  {
-position:fixed;
-bottom:10px;
-left:10px;
-z-index:9;
+.legend {
+    position: fixed;
+    bottom: 10px;
+    left: 20px;
+    z-index: 9;
+    background-color: antiquewhite;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: small;
 }
