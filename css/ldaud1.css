@@ -13,7 +13,7 @@
     font-weight: bold;
 }
 
-/*Page title*/
+/*Links*/
 a {
     text-decoration: none;
     color: bisque;
@@ -21,10 +21,9 @@ a {
 
 /*Posts*/
 .post {
-    width: 50%;
+    width: 40%;
     display: block;
     float: left;
-    font-size: small;
 }
 
 /*Body text*/
