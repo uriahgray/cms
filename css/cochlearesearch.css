@@ -21,3 +21,10 @@ body#cochlearesearch .iframe-controls-container .buttons-container {
     -ms-flex-pack: end;
     justify-content: flex-end;
 }
+
+
+body#cochlearesearch .copy {
+    font-family: arial;
+    font-size: 60pt;
+    line-height: 1.1;
+}
