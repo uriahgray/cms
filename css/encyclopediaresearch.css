@@ -64,3 +64,10 @@ h1 {
     font-weight: bold;
     color: hotpink;
 }
+
+a {
+    text-decoration: none;
+    color: hotpink;
+    pointer-events: none;
+    cursor: default;
+}
