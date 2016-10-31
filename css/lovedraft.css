@@ -1,4 +1,4 @@
-body#cheese {
+body#lovedraft {
     background-color: navy;
 }
 
@@ -28,144 +28,17 @@ span.time {
     text-transform: uppercase;
 }
 
-body#cheese h3.tag_title {
+body#lovedraft h3.tag_title {
     display: none;
 }
 
-body#cheese ul.tags {
+body#lovedraft ul.tags {
     display: none;
 }
 
-body#cheese a.link {
+body#lovedraft a.link {
     display: none;
 }
 
-body#cheese .var1 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: -10.2%;
-    top: 30%;
-    z-index: 2;
-    opacity: 1;
-}
+body#lovedraft .var1 img, video, object, embed {
 
-body#cheese .var2 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: 60%;
-    top: -5%;
-    z-index: 1;
-    opacity: 1;
-    transform: rotate(270deg);
-}
-
-body#cheese .var3 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: 53%;
-    top: 140%;
-    z-index: 1;
-    opacity: 1;
-}
-
-body#cheese .var4 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: -2%;
-    top: 190%;
-    z-index: 1;
-    opacity: 1;
-    transform: rotate(90deg);
-}
-
-body#cheese .var5 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: 60%;
-    top: 210%;
-    z-index: 1;
-    opacity: 1;
-    transform: rotate(180deg);
-}
-
-body#cheese .var6 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: 30%;
-    top: 300%;
-    z-index: 1;
-    opacity: 1;
-    transform: rotate(90deg);
-}
-
-body#cheese .var7 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: 53%;
-    top: 300%;
-    z-index: 1;
-    opacity: 1;
-}
-
-body#cheese .var8 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: 53%;
-    top: 300%;
-    z-index: 4;
-    opacity: 1;
-    transform: rotate(90deg);
-}
-
-body#cheese .comm1 img, video, object, embed {
-    max-width: 47.45%;
-    position: absolute;
-    left: 40%;
-    top: 80%;
-    z-index: 1;
-    opacity: 1;
-}
-
-body#cheese .comm2, img, video, object, embed {
-    max-width: 47.45%;
-    height: auto;
-    position: absolute;
-    left: 2%;
-    top: 300%;
-    z-index: 2;
-}
-
-.tags {
-    position: fixed;
-    font-size: 30px;
-    font-weight: lighter;
-    left: 50%;
-    width: 100%;
-    text-align: center;
-    color: navy;
-    margin-left: -50%;
-    height: 100px;
-    line-height: 100px;
-    bottom: 50%;
-    margin-bottom: -50px;
-    z-index: 100;
-    background-color: white;
-}
-
-.linkme {
-    position: fixed;
-    font-size: 20px;
-    font-weight: lighter;
-    text-decoration: overline;
-    left: 50%;
-    width: 100%;
-    text-align: center;
-    color: navy;
-    margin-left: -50%;
-    height: 50px;
-    line-height: 60px;
-    bottom: 0%;
-    margin-bottom: 0px;
-    z-index: 100;
-    background-color: white;
-}
