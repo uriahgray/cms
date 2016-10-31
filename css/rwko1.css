@@ -99,3 +99,8 @@ p {
     font-size: 15px;
     line-height: 20px;
 }
+
+.post.superstudio {
+    max-width: 50%;
+    display: block;
+}
