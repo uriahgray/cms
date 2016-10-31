@@ -40,3 +40,18 @@
   background-image: linear-gradient(to bottom, #f5d03b, #f5b60a);
   text-decoration: none;
 }
+
+h3.tag_title {
+    display: none;
+}
+
+
+ul.tags {
+    font-size: 10px;
+    color:green;
+}
+
+a.link {
+   font-size: 10px;
+    color:red;
+}
