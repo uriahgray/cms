@@ -1,0 +1,11 @@
+element.style {
+    display: block;
+    background-color: black;
+}
+body {
+    font-family: serif;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: white;
+}
