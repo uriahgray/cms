@@ -13,3 +13,11 @@ body#jmsch13 h3.tag_title {
 body#jmsch13 a.link {
     display: none;
 }
+
+
+
+body#voyage article.posts {
+    width: 10089.5px;
+    height: 400px;
+    display: flex;
+}
