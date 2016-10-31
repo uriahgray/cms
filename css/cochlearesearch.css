@@ -13,13 +13,8 @@ body#cochlearesearch a {
     display: none;
 }
 
-body#cochlearesearch .iframe-controls-container .buttons-container {
-    display: -ms-flexbox;
+body#cochlearesearch .iframe-controls-container.iframe-controls-container--logged-in {
     display: none;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
 }
 
 
