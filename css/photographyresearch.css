@@ -25,7 +25,8 @@ body#photographyresearch iframe-controls-container {
 h3.title {
     text-align: center;
     padding: 150px;
-    font-size: -webkit-xxx-large;    
+    font-size: -webkit-xxx-large; 
+    font-family: Neue Helvetica;
 }
 
 img.set_photos:hover {
