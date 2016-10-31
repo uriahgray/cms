@@ -104,7 +104,8 @@ color: #03193d;
 }
 
 .like:hover{
- font-size: 3.3em;
+ font-size: 3.4em;
+
 }
 
 .dislike{
@@ -113,6 +114,11 @@ color: #03193d;
  right: 10px;
  top: 400px;
   font-size: 3em;
+}
+
+.dislike:hover{
+ font-size: 3.4em;
+
 }
 
 .set_photos {
