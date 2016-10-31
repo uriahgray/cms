@@ -3,6 +3,8 @@ body#lifeanddeathresearch
     display: block;
     background-color: rgba(194, 203, 206, 0.11);
 }
+
+
 {
 margin: 0;
 padding: 30px;
@@ -15,3 +17,9 @@ padding: 30px;
     line-height: 30px;
     letter-spacing: 0.02em;
     }
+    
+    
+{
+    text-decoration: line-through;
+    font-size: -webkit-xxx-large;
+}
