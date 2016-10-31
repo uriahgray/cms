@@ -126,15 +126,6 @@ body#cheeseresearch .comm1 img, video, object, embed {
     opacity: 1;
 }
 
-body#cheeseresearch .comm2, img, video, object, embed {
-    max-width: 47.45%;
-    height: auto;
-    position: absolute;
-    left: 2%;
-    top: 330%;
-    z-index: 2;
-}
-
 .rat {
     position: fixed;
     width: 100%;
