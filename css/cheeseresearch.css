@@ -154,6 +154,24 @@ body#cheeseresearch .var11 img, video, object, embed {
     opacity: 1;
 }
 
+body#cheeseresearch .var12 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 10%;
+    top: 1100%;
+    z-index: 2;
+    opacity: 1;
+}
+
+body#cheeseresearch .var13 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 65%;
+    top: 1130%;
+    z-index: 1;
+    opacity: 1;
+}
+
 body#cheeseresearch .comm1 img, video, object, embed {
     max-width: 70%;
     position: absolute;
