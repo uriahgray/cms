@@ -1,5 +1,6 @@
 body#tlaw7home   {
-    font-family: bebas;
+    background-color:black;
+    font-family: gotham;
     margin: auto 0;
 }
 
@@ -73,11 +74,11 @@ img.set_photos {
 
 a {
     text-decoration: none;
-    color: black;
+    color: pink;
 }
 
 a:hover {
-    color: yellow;
+    color: #fff0f5;
 }
 
 @media only screen and (max-width: 700px){
@@ -91,3 +92,29 @@ a:hover {
     img.set_photos {
         width: 100%;
     }
+    
+.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
+    body#tlaw7 #fixed-menu {
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    background-color: black;
+}
+
+}
+.spacer
+{
+    width: 100%;
+    height: 95px;
+}
+#tlaw7 .nav {
+    position: fixed;
+    font-family: Gotham;
+    font-size: 18px;
+    text-align: center;
+   
+    margin-top: 10px;
+    left:20px;
+}
