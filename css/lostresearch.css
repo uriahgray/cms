@@ -27,6 +27,8 @@ body#lostresearch .post.moodboard {
 
 body#lostresearch .post.concept {
         display: none;
+	width: 0px;
+	Height: 0px;
 }
 
 body#lostresearch .post.mockup {
