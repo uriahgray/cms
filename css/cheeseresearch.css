@@ -132,7 +132,7 @@ body#cheeseresearch .comm1 img, video, object, embed {
 
 body#cheeseresearch .rat img, video, object, embed {
     max-width: 70%;
-    position: absolute;
+    position: fixed;
     z-index: 100;
     top: 45%;
     left: 50%;
