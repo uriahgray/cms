@@ -77,10 +77,12 @@ img.set_photos {
 a {
     text-decoration: none;
     color: pink;
+       text-transform: uppercase;
 }
 
 a:hover {
-    color: #fff0f5;
+    text-decoration: overline;
+     color: #fff0f5;
 }
 
 @media only screen and (max-width: 700px){
