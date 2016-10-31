@@ -16,6 +16,18 @@ h3.tag_title {
     display: none;
 }
 
+.nav {
+    position: fixed;
+    display:block;
+    margin: auto;
+    margin-left: -206px;
+    margin-top: -110px;
+    top: 50%;
+    left: 100%;
+    background: none;
+    padding: 10px;
+    }
+
 body#watchandlearn .container {
     overflow-x: scroll;
     position: fixed;
