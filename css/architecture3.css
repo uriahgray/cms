@@ -42,7 +42,7 @@ display: none;
 }
 
 .copy{
- display: none;
+ display: inline-block;
 }
 a.link {
 display: none;
