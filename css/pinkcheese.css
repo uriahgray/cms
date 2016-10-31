@@ -41,7 +41,7 @@ body#pinkcheese a.link {
     display: none;
 }
 
-body#pinkcheese .var1 img, video, object, embed {
+body#pinkcheese .pink1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -10.2%;
@@ -50,7 +50,7 @@ body#pinkcheese .var1 img, video, object, embed {
     opacity: 1;
 }
 
-body#pinkcheese .var2 img, video, object, embed {
+body#pinkcheese .pink2 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -60,7 +60,7 @@ body#pinkcheese .var2 img, video, object, embed {
     transform: rotate(270deg);
 }
 
-body#pinkcheese .var3 img, video, object, embed {
+body#pinkcheese .pink3 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -69,7 +69,7 @@ body#pinkcheese .var3 img, video, object, embed {
     opacity: 1;
 }
 
-body#pinkcheese .var4 img, video, object, embed {
+body#pinkcheese .pink4 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -2%;
@@ -80,7 +80,7 @@ body#pinkcheese .var4 img, video, object, embed {
 }
 
 
-body#pinkcheese .var5 img, video, object, embed {
+body#pinkcheese .pink5 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -90,7 +90,7 @@ body#pinkcheese .var5 img, video, object, embed {
     transform: rotate(180deg);
 }
 
-body#pinkcheese .var6 img, video, object, embed {
+body#pinkcheese .pink6 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 30%;
@@ -100,7 +100,7 @@ body#pinkcheese .var6 img, video, object, embed {
     transform: rotate(90deg);
 }
 
-body#pinkcheese .var7 img, video, object, embed {
+body#pinkcheese .pink7 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -109,7 +109,7 @@ body#pinkcheese .var7 img, video, object, embed {
     opacity: 1;
 }
 
-body#pinkcheese .var8 img, video, object, embed {
+body#pinkcheese .pink8 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
