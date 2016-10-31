@@ -104,6 +104,7 @@ display: none;
 }
 #tlaw7AVS a:hover {
     text-decoration: overline;
+    color: #fff0f5;
 }
 #tlaw7AVS img.set_photos {
     max-height: 350px;
