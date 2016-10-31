@@ -1,1 +1,35 @@
+body#encyclopediaresearch .post.photo.encyclopediaresearch {
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+body#encyclopediaresearch .post.text.encyclopediaresearch {
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body#encyclopediaresearch p {
+    max-width: 700px;
+}
+
+body#encyclopediaresearch p {
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 8pt;
+    line-height: 12pt;
+    padding-bottom: 120px;
+    padding-top: 30px;
+    color: hotpink;
+}
+
+body#encyclopediaresearch a.link {
+    display: none;
+}
+
+body#encyclopediaresearch ul.tags {
+    display: none;
+}
