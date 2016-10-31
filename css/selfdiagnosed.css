@@ -6,7 +6,6 @@ body#selfdiagnosed ul.tags {
     display: none;
 }
 
-
 body#selfdiagnosed a.link {
     display: none;
 }
@@ -14,6 +13,10 @@ body#selfdiagnosed a.link {
 nav:hover{
     text-decoration:bold;
 }
+
+h1 { 
+    margin-left: -60px;
+    margin-bottom: 150px;
 
 .nav{
    color: black;
