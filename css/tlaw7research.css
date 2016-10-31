@@ -74,7 +74,8 @@ body#tlaw7research a.link {
 }
 
 a:hover {
-    text-decoration: overline
+    text-decoration: overline;
+    color: #fff0f5;
 }
 i {
     font-style: italic;
