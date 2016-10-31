@@ -1,5 +1,5 @@
 body#photographyresearch {
-    font-family: monospace;
+    font-family: helvetica;
     margin: auto 0;
 }
 
@@ -15,7 +15,7 @@ body#photographyresearch ul.tags {
     display: none;
 }
 
-body#formulad iframe-controls-container {
+body#photographyresearch iframe-controls-container {
     display: none;
     /*position: absolute;
     top: 0;
