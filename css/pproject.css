@@ -1,1 +1,9 @@
+body#pproject {
+  background-color:grey;
+}
 
+.heading {
+  color:black;
+  margin:auto;
+  max-width:500px;
+}
