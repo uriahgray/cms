@@ -60,17 +60,6 @@ body#lostresearch .post.Research {
     position: fixed;
 }
 
-body#lostresearch .post.moodboard {
-        display: none;
-}
-
-body#lostresearch .post.concept {
-        display: none;
-}
-
-body#lostresearch .post.mockup {
-        display: none;
-}
 body#lostresearch .post.lost2 {
     top: 0px;
     right: 500px;
