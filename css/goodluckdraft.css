@@ -21,13 +21,16 @@ ul.tags {
 }
 .copy {
     visibility: hidden;
-    position: relative;
+    position: fixed;
     font-size: 10px;
     text-align: center;
     padding: absolute;
-    top: -45px;
     color: white;
-    float: initial;
+    display: inline-block;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-width: 10%;
+    background: black;
 }
 .postcontainer:hover .copy {
     visibility: visible;
