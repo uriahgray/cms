@@ -47,6 +47,18 @@ body#lostresearch .post.concept {
     position: fixed;
     
 }
+body#lostresearch .post.Research {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top:0px;
+    left:0px;
+    font-family: monospace;
+    text-transform: uppercase;
+    left: 2.3%;
+    top: 3%;
+    position: fixed;
+}
 
 body#lostresearch .post.moodboard {
         display: none;
