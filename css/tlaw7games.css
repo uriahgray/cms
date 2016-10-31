@@ -34,6 +34,7 @@ a.link {
 }
 a:hover {
     text-decoration: overline;
+	color: #fff0f5;
 }
 
  .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
