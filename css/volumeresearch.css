@@ -1,4 +1,4 @@
-body#lmcon3 .nav {
+body#volumeresearch .nav {
     position: fixed;
     z-index: 1;
     color: darkslategray;
@@ -8,7 +8,7 @@ body#lmcon3 .nav {
     font-size: large;
 }
 
-body#lmcon3 .nav a {
+body#volumeresearch .nav a {
     color: black;
     font-weight: bolder;
     text-decoration: none;
@@ -17,52 +17,52 @@ body#lmcon3 .nav a {
     /* line-height: 0; */
 }
 
-body#lmcon3 .container {
+body#volumeresearch .container {
     padding-left: 20%;
     max-width: 5%%;
 }
 
-body#lmcon3 article.posts {
+body#volumeresearch article.posts {
     /* max-height: 20px; */
 }
 
-body#lmcon3 a.chocolat-image.image {
+body#volumeresearch a.chocolat-image.image {
     /* height: 50px; */
 }
 
-body#lmcon3 img.set_photos {
+body#volumeresearch img.set_photos {
     height: 300px;
 }
 
-body#lmcon3 ul.tags {
+body#volumeresearch ul.tags {
     color: black;
     text-decoration: none;
 }
 
-body#lmcon3 .tags a {
+body#volumeresearch .tags a {
     color: black;
     text-decoration: none;
     font-size: smaller;
 }
 
-body#lmcon3 .postcontainer a.link {
+body#volumeresearch .postcontainer a.link {
     color: grey;
     font-family: sans-serif;
     text-transform: capitalize;
 }
 
-body#lmcon3 .copy {
+body#volumeresearch .copy {
     color: darkslategrey;
     font-size: large;
     max-width: 60%;
     line-height: 1.6;
 }
 
-body#lmcon3 h3.title {
+body#volumeresearch h3.title {
     color: darkblue;
 }
 
-body#lmcon3 .title a {
+body#volumeresearch .title a {
     color: darkblue;
     line-height: 2.4;
     text-decoration: none;
@@ -70,6 +70,6 @@ body#lmcon3 .title a {
     text-transform: uppercase;
 }
 
-body#lmcon3 h3.tag_title {
+body#volumeresearch h3.tag_title {
     display: none;
 }
