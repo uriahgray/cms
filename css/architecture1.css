@@ -103,6 +103,10 @@ color: #03193d;
  font-size: 3em;
 }
 
+.like:hover{
+ font-size: 3.3em;
+}
+
 .dislike{
  position: fixed;
  float: right;
