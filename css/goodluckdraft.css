@@ -23,7 +23,14 @@ ul.tags {
     padding: absolute;
     top: -45px;
     color: white;
+    float: initial;
 }
+#copy {
+    display: none
+}
+#postcontainer:hover #copy {
+    display: block
+}   
 .buttons-container.non-admin-buttons-container {
     display: none;
 }
