@@ -5,6 +5,7 @@ body#photographyresearch {
 
 body#photographyresearch h3.tag_title {
     display: none;
+    font-size: 30px;
 }
 
 body#photographyresearch a.link {
@@ -48,7 +49,7 @@ img.set_photos:hover {
 }
 
 .postcontainer {
-    width: 100%;
+    width: auto;
     height: auto;
     /* float: left; */
 }
