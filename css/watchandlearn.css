@@ -16,17 +16,17 @@ h3.tag_title {
     display: none;
 }
 
-.nav {
-    position: fixed;
-    display:block;
-    margin: auto;
-    margin-left: -206px;
-    margin-top: -110px;
-    top: 50%;
-    left: 100%;
-    background: none;
-    padding: 10px;
-    }
+.nav a {
+    display: block;
+    float: right;
+    font-family: helvetica;
+    font-size: 15px;
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
 
 body#watchandlearn .container {
     overflow-x: scroll;
