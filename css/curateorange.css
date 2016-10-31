@@ -63,9 +63,9 @@ a {
 }
 body#curateorange .post {
     background: hsla(0, 0%, 100%, 0.83);
-    left: 810px;
-    right: 810px;
-width: 550px    ;
+    left: 500px;
+    right: 500px;
+width: 250px    ;
     
     margin-top: 50px;
     margin-left: 70px;
