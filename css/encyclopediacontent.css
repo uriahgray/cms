@@ -45,7 +45,6 @@ h1 {
 
 .post img {
     display: inline-block;
-    max-width: 500px;
     cursor: default;
 }
 
