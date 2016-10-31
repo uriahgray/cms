@@ -69,3 +69,13 @@ a {
     font-size: medium;
     color: blue;
 }
+
+/*Scroll bar blue*/
+::-webkit-scrollbar-thumb{
+	background-color: blue;
+	height: 10px;
+    }
+
+::-webkit-scrollbar:horizontal{
+    display: none;
+    }
