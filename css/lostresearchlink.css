@@ -1,17 +1,17 @@
-body#lostconcept h3.tag_title {
+body#lostresearchlink h3.tag_title {
 display: none;
 }
 
-body#lostconcept ul.tags {
+body#lostresearchlink ul.tags {
     display: none;
 }
 
 
-body#lostconcept a.link {
+body#lostresearchlink a.link {
     display: none;
 }
 
-body#lostconcept .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#lostresearchlink .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
