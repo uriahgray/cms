@@ -7,10 +7,8 @@ body#watchandlearnresearch {
     letter-spacing: 0.02em;
     color: white;
 }
-}
 
-h3.tag_title {
-    text-transform: uppercase;
+article.posts h3.tag_title {
     display: none;
 }
 
