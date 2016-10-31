@@ -1,1 +1,38 @@
+h3.tag_title {
+    display: none;
+}
 
+a.link {
+    display: none;
+}
+
+ul.tags {
+    display: none;
+}
+
+h3.title {
+    font-family: montserrat,monospace;
+    font-size: 100px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    color: hotpink;
+}
+
+.copy {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 50px;
+    line-height: 1em;
+}
+
+p {
+    padding-bottom: 1em;
+}
