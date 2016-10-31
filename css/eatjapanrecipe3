@@ -1,28 +1,28 @@
 body {
-background: #fffdfa;
-font-family: arial;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-padding-left: 40pt;
-padding-right: 300pt;
-text-align: -webkit-left;
+    background: #fffdfa;
+    font-family: arial;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    padding-left: 40pt;
+    padding-right: 300pt;
+    text-align: -webkit-left;
 }
 
 
 .post.text p {
-color: #905f1e;
+    color: #905f1e;
 }
 
 
 a {
-text-decoration: none;
-color: #905f1e;
-font-weight: 600;
-line-height: 45pt;
+    text-decoration: none;
+    color: #905f1e;
+    font-weight: 600;
+    line-height: 45pt;
 }
 
 ol, ul {
-list-style: none;
-display: none;
+    list-style: none;
+    display: none;
 }
