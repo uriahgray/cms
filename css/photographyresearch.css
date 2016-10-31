@@ -1,83 +1,45 @@
-body#photographyresearch {
-    font-family: bebas;
-    margin: auto 0;
-}
-
-body#photographyresearch h3.tag_title {
-    display: none;
-}
-
-body#photographyresearch  a.link {
-    display: none;
-}
-
-body#acha198  ul.tags {
-    display: none;
-}
-
-body#photographyresearch  iframe-controls-container {
-    display: none;
-    /*position: absolute;
+body .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    right: 0;
     top: 0;
-    right: 0;*/ 
-}
-
-h3.title {
-    text-align: center;
-    padding: 150px;
-    font-size: -webkit-xxx-large;    
-}
-
-img.set_photos:hover {
-    opacity: 0.5;
-    filter: alpha(opacity=50);
-    -webkit-transition: opacity .25s ease;
-}
-
-.copy {
-    /*border: 1px solid #ccc;*/
     display: none;
-    font-size: 10px;
-    margin-top: 10px;
-    padding: 5px;
-    text-transform: uppercase;
 }
 
-.postcontainer:hover .copy {
-    display:block; 
+.postcontainer a.link {
+    display: none;
 }
 
-.postcontainer {
-    width: 100%;
-    height: auto;
-    /* float: left; */
+#nav h1:hover{
+    color:red;
 }
 
-/*171016*/
-
-img.set_photos {
-    padding: 6px 6px;
-    float: left;
-    width: 24.99999%;
-}
-
-a {
+#nav h1 {
     text-decoration: none;
     color: black;
+    font-family: bebas;
+   
+    left: 0;
+    top: 0;
+    position: fixed;
+    background: white;
+    width: 100%;
+    padding: 1%;
+    padding-left: 4%;
 }
 
-a:hover {
-    color: yellow;
+.postcontainer a.link {
+    display: none;
 }
 
-@media only screen and (max-width: 700px){
-    img.set_photos {
-        width: 49.99999%;
-        margin: 6px 6px;
-    }
+h3.tag_title {
+    display: none;
 }
 
-@media only screen and (max-width: 500px){
-    img.set_photos {
-        width: 100%;
-    }
+ul.tags {
+    display: none;
+}
+
+.pizzabox img {
+    display: block;
+    height: 300px;
+    margin: 10px;
+    float: left;
