@@ -59,7 +59,8 @@ h3 a {
 .post {
   width: 80%;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 50px auto;
+  border-bottom: 2px solid red;
 }
 
 img.set_photos {
@@ -68,8 +69,7 @@ img.set_photos {
 }
 
 .post.photoset {
-  border-bottom: 2px solid red;
-  margin-bottom: 50px; 
+  
 }
 
 .photoset img.set_photos {
