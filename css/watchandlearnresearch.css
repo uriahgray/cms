@@ -61,6 +61,7 @@ h3.title a {
     padding: 20px;
 }
 
+/* Fixed Marquee Text Style_ 'State Govt...Development' */
 .example1 h3 {
     position: fixed;
     width: 100%;
@@ -70,6 +71,7 @@ h3.title a {
     text-align: center;
     font-family: sans-serif;
     font-size: 30px;
+    color: white;
     -moz-transform: translateX(100%);
     -webkit-transform: translateX(100%);
     transform: translateX(100%);
