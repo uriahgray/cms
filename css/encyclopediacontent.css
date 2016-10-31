@@ -6,3 +6,28 @@ body#encyclopediacontent article.posts {
    column-count: 5;
    column-gap: 0px;
 }
+
+p {
+    font-size: 6px;
+    line-height: 1em;
+}
+
+ul.tags {
+    display: none;
+}
+
+a.link {
+    display: none;
+}
+
+h3.title {
+    display: none;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+body#encyclopediacontent .post.encyclopediacontent {
+    padding: 5px;
+}
