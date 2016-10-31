@@ -45,7 +45,7 @@ display: none;
  display: inline-block;
 }
 a.link {
-display: none;
+display: show;
 }
 
 img, video, object, embed {
