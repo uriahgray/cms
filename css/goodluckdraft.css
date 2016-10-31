@@ -17,9 +17,12 @@ ul.tags {
     width: 5%;
 }
 .copy {
+    position: relative;
     font-size: 10px;
-    padding-left: 10px;
-    align-content: center;
+    text-align: center;
+    padding: absolute;
+    top: -45px;
+    color: white;
 }
 .buttons-container.non-admin-buttons-container {
     display: none;
