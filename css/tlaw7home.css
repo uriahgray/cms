@@ -44,8 +44,6 @@ img.set_photos:hover {
     /*border: 1px solid #ccc;*/
     display: none;
     font-size: 10px;
-    margin-top: 10px;
-    padding: 15px;
     text-transform: uppercase;
 }
 
