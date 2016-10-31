@@ -1,6 +1,6 @@
 /*Everything*/
 .container {
-    padding: 150px;
+    padding: 150px 0px 0px 200px;
 }
 
 /*Page title*/
@@ -16,7 +16,7 @@
 /*Page title*/
 a {
     text-decoration: none;
-    color: red;
+    color: bisque;
 }
 
 /*Posts*/
@@ -26,4 +26,19 @@ a {
     float: left;
     font-size: small;
     margin: 20px;
+}
+
+/*Hiding permalink*/
+a.link {
+    display: none;
+}
+
+/*Hiding tags*/
+.tag_title {
+    display: none;
+}
+
+/*Hiding tags*/
+ul.tags {
+    display: none;
 }
