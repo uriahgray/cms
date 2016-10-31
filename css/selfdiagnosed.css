@@ -16,8 +16,9 @@ nav:hover{
 
 h1 { 
     margin-left: 40px;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     position: absolute;
+    font-size: 50px;
 }
 
 h1 span{
@@ -44,7 +45,7 @@ body {
     background-image: url("http://the-cms/tagged/selfdiagnosed");
     background-attachment: fixed;
     background-position: right, top;
-    width: 100%;
+    width: 200%;
     
 }
 
