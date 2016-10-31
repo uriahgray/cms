@@ -13,6 +13,15 @@
     line-height: 20px;
     }
 
+p {
+    font-size: 15px;
+    max-width: 50%;
+    float: right;
+    padding: 50px;
+    line-height: 20px;
+    }
+    
+
 .btn {
   background: #fcd741;
   background-image: -webkit-linear-gradient(top, #fcd741, #fcbf0a);
