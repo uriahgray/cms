@@ -4,8 +4,8 @@ body {
     font-size: 18px;
     line-height: 26px;
     letter-spacing: 0.02em;
-    padding-left: 40pt;
-    padding-right: 700pt;
+    padding-left: 210pt;
+    padding-right: 210pt;
     text-align: -webkit-left;
 }
 
@@ -34,4 +34,8 @@ h3.tag_title {
 a.link {
     display: none;
 }
-Contact GitHub API Training Shop Blog About
+
+body#eatjapanrecipe3 {
+    background: url(http://66.media.tumblr.com/16eec5046ab6f49631729fad89b04212/tumblr_ofwrhzpy0q1vf7reno1_1280.jpg);
+    background-repeat: repeat-y;
+}
