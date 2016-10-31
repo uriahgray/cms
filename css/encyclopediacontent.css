@@ -42,3 +42,16 @@ h1 {
     font-weight: bold;
     color: hotpink;
 }
+
+.post img {
+    display: inline-block;
+    max-width: 500px;
+    cursor: default;
+}
+
+.text a {
+    text-decoration: none;
+    color: hotpink;
+    pointer-events: none;
+    cursor: default;
+}
