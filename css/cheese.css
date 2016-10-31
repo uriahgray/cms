@@ -215,8 +215,8 @@ body#cheese .var19 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 2%;
-    top: 950%;
-    z-index: 4;
+    top: 1000%;
+    z-index: 7;
     opacity: 1;
 }
 
