@@ -220,6 +220,15 @@ body#cheese .var19 img, video, object, embed {
     opacity: 1;
 }
 
+body#cheese .var20 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 5%;
+    top: 1040%;
+    z-index: 4;
+    opacity: 1;
+}
+
 body#cheese .comm1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
