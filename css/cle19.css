@@ -23,7 +23,10 @@ a {
 .post {
     display: block;
     float: left;
-    width: 400px;
+    width: 600px;
     margin: 40px;
     padding: 20px;
 }
+
+body#cle19 .container {
+    overflow-x: scroll;
