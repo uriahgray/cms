@@ -4,6 +4,9 @@ h3.tag_title {
 a.link {
     display: none;
 }
+.buttons-container.non-admin-buttons-container {
+    display: none;
+}
 ul.tags {
     display: none;
 }
@@ -34,9 +37,6 @@ ul.tags {
 }
 .postcontainer:hover .copy {
     visibility: visible;
-}
-.buttons-container.non-admin-buttons-container {
-    display: none;
 }
 .legend {
     position: fixed;
