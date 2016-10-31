@@ -30,3 +30,13 @@ a.caption {
     font-family: sans-serif;
     color: salmon;
 }
+
+.post {
+    display: block;
+    float: left;
+    width: 500px;
+    margin: 40px;
+    padding: 20px;
+    background: white;
+}
+
