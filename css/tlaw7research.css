@@ -1,4 +1,4 @@
-body#tlaw7concept #fixed-menu {
+body#tlaw7research #fixed-menu {
     position: fixed;
     width: 100%;
     height: 78px;
@@ -15,7 +15,7 @@ body#tlaw7concept #fixed-menu {
 
 
 
-#tlaw7concept .nav 
+#tlaw7research .nav 
 {
     position: fixed;
     font-family: Gotham;
@@ -30,17 +30,12 @@ h3.tag_title {
 display: none;
 }
 
-body#tlaw7concept 
+body#tlaw7research 
 ul.tags {
     display: none;
 }
 
-
-body#tlaw7concept
-a.link {
-}
-
-body#tlaw7concept 
+body#tlaw7researcht 
 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
@@ -74,7 +69,7 @@ a {
         text-decoration: underline;
 }
 
-body#tlaw7concept a.link {
+body#tlaw7research a.link {
     display: none;
 }
 
