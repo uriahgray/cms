@@ -5,9 +5,11 @@ body#rzha124 {
 .post.rzha124 {
     display: block;
     float: none;
-    text-align: center;
+    text-align: left;
     width: 50%;
     margin: auto;
+    padding-bottom: 50px;
+    font-size: medium;
 }
 
 .post.silverscreendraftthumbnail {
@@ -15,17 +17,40 @@ body#rzha124 {
 }
 
 .post.rationale {
+    text-align: center;
+}
+
+.post.photo.rzha124.silverscreenresearch.silverscreen.grace_kelly.postnow {
+    width: 30%;
+}
+
+.post.photo.rzha124.silverscreenresearch.silverscreen.angela_lansbury.postnow {
+    width: 40%;
+}
+
+.post.photo.rzha124.silverscreenresearch.silverscreen.olivia_de_havilland.postnow {
+    width: 40%;
+}
+
+.post.photo.rzha124.silverscreenresearch.silverscreen.elizabeth_taylor.postnow {
+    width: 30%;
+}
+
+.post.photo.rzha124.silverscreenresearch.silverscreen.judygarland {
+    width: 40%;
+}
+
+.post.sibi img.set_photos {
     width: 50%;
 }
 
 .post.sibi {
-    width: 30%;
     font-size: medium;
     text-align: left;
 }
 
 .post.change {
-    width: 70%;
+    width: 55%;
 }
 
 .post.objectsubject {
@@ -51,4 +76,13 @@ body#rzha124 {
 .post.silverscreendraft {
     display: none;
 }
+
+a.link {
+    display: none;
+}
+
+ul.tags {
+    display: none;
+}
+
 
