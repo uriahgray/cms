@@ -103,4 +103,5 @@ p {
 
 .post.photoset {
     max-width: 50%;
+    display: inline-block;
 }
