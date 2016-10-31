@@ -21,14 +21,7 @@ h1 {
     font-size: 50pt;
     line-height: 40pt;
 }
-
-h1 span{
-    color: white;
-    font: bold, Helvetica, sans-serif; 
-    letter-spacing: -1px;
-    background: rgba(0, 0, 0, 0.7)
-}
-    
+  
 
 .nav{
    color: black;
