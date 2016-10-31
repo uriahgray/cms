@@ -43,3 +43,17 @@ body#cochlea .post:hover .copy {
     display:block;
 	visibility: visible;
 }
+
+
+
+body#cochlea .post {
+	max-width: 200px;
+	max-height: 250px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+body#cochlea .post:hover {
+	z-index: 9999;
+}
