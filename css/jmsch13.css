@@ -13,19 +13,3 @@ body#jmsch13 h3.tag_title {
 body#jmsch13 a.link {
     display: none;
 }
-
-body#jmsch13 .container {
-    overflow-x: scroll;
-    overflow-y: hidden;
-    padding: 0;
-    position: fixed;
-    top: 20%;
-    left: 20px;
-    right: 20px;
-}
-
-body#jmsch13 article.posts {
-    width: 100%;
-    height: 100%;
-    display: flex;
-}
