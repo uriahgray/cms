@@ -4,8 +4,9 @@
 }
 
 /*Audio posts*/
-.post {
-    width: 50%;
+.post.audio.dictionaried {
+    width: 100%;
+    margin: 20px;
     display: block;
     float: left;
     align-items: center;
@@ -63,7 +64,7 @@ a {
     position: fixed;
     bottom: 0;
     right: 0;
-    padding: 0px 0px 30px 0px;
+    padding: 0px 50px 25px 300px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     color: blue;
