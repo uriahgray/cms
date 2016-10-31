@@ -64,11 +64,11 @@ img.set_photos {
 
 a {
     text-decoration: none;
-    color: black;
+    color:red ;
 }
 
 a:hover {
-    color: brown;
+    color: blue;
 }
 
 @media only screen and (max-width: 700px){
