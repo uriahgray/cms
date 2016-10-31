@@ -27,6 +27,10 @@ a {
     padding: 50px 50px 50px 50px;
 }
 
+/*Post titles*/
+h3.title {
+    font-size: 12pt;
+
 /*Body text*/
 .copy {
     line-height: 14pt;
