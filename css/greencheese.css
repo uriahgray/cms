@@ -41,7 +41,7 @@ body#greencheese a.link {
     display: none;
 }
 
-body#greencheese .pink1 img, video, object, embed {
+body#greencheese .green1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -10.2%;
@@ -50,7 +50,7 @@ body#greencheese .pink1 img, video, object, embed {
     opacity: 1;
 }
 
-body#greencheese .pink2 img, video, object, embed {
+body#greencheese .green2 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -60,7 +60,7 @@ body#greencheese .pink2 img, video, object, embed {
     transform: rotate(270deg);
 }
 
-body#greencheese .pink3 img, video, object, embed {
+body#greencheese .green3 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
