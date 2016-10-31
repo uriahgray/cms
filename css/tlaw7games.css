@@ -30,7 +30,9 @@ a {
 	font-size: 11px;
 }
 a.link {
-    display: none;
+      font-size: 14px;
+    font-family: gotham;
+    text-transform: uppercase;
 }
 a:hover {
     text-decoration: overline;
@@ -128,11 +130,12 @@ body#tlaw7games #fixed-menu {
 
 
 #tlaw7games .nav {
+	
     position: fixed;
     font-family: Gotham;
-    font-size: 10px;
+    font-size: 18px;
     text-align: center;
-    align-items: center;
-    margin-top: 20px;
+ 
+    margin-top: 10px;
     left:20px;
 }
