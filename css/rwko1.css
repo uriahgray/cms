@@ -105,3 +105,7 @@ p {
     max-width: 50%;
     display: inline-block;
 }
+
+b {
+    font-weight: bold;
+}
