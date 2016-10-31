@@ -108,7 +108,7 @@ body#cheese .var8 img, video, object, embed {
     position: absolute;
     left: 53%;
     top: 300%;
-    z-index: 1;
+    z-index: 4;
     opacity: 1;
     transform: rotate(90deg);
 }
