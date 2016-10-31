@@ -24,11 +24,13 @@ ul.tags {
     top: -45px;
     color: white;
     float: initial;
-    display: none
 }
-.postcontainer:hover .copy {
-    display: block
+.copy:active {
+    visibility: hidden
 }   
+.copy:hover {
+    visibility: visible
+}
 .buttons-container.non-admin-buttons-container {
     display: none;
 }
