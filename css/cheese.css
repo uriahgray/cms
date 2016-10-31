@@ -1,4 +1,4 @@
-body#lovedraft {
+body#cheese {
     background-color: navy;
 }
 
@@ -28,19 +28,19 @@ span.time {
     text-transform: uppercase;
 }
 
-body#lovedraft h3.tag_title {
+body#cheese h3.tag_title {
     display: none;
 }
 
-body#lovedraft ul.tags {
+body#cheese ul.tags {
     display: none;
 }
 
-body#lovedraft a.link {
+body#cheese a.link {
     display: none;
 }
 
-body#lovedraft .var1 img, video, object, embed {
+body#cheese .var1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -10.2%;
@@ -49,7 +49,7 @@ body#lovedraft .var1 img, video, object, embed {
     opacity: 1;
 }
 
-body#lovedraft .var2 img, video, object, embed {
+body#cheese .var2 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -59,7 +59,7 @@ body#lovedraft .var2 img, video, object, embed {
     transform: rotate(270deg);
 }
 
-body#lovedraft .var3 img, video, object, embed {
+body#cheese .var3 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -68,7 +68,7 @@ body#lovedraft .var3 img, video, object, embed {
     opacity: 1;
 }
 
-body#lovedraft .var4 img, video, object, embed {
+body#cheese .var4 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -2%;
@@ -78,7 +78,7 @@ body#lovedraft .var4 img, video, object, embed {
     transform: rotate(90deg);
 }
 
-body#lovedraft .var5 img, video, object, embed {
+body#cheese .var5 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -88,7 +88,7 @@ body#lovedraft .var5 img, video, object, embed {
     transform: rotate(180deg);
 }
 
-body#lovedraft .var6 img, video, object, embed {
+body#cheese .var6 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 30%;
@@ -98,7 +98,7 @@ body#lovedraft .var6 img, video, object, embed {
     transform: rotate(90deg);
 }
 
-body#lovedraft .var7 img, video, object, embed {
+body#cheese .var7 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -107,7 +107,7 @@ body#lovedraft .var7 img, video, object, embed {
     opacity: 1;
 }
 
-body#lovedraft .var8 img, video, object, embed {
+body#cheese .var8 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -117,7 +117,7 @@ body#lovedraft .var8 img, video, object, embed {
     transform: rotate(90deg);
 }
 
-body#lovedraft .comm1 img, video, object, embed {
+body#cheese .comm1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 40%;
@@ -126,7 +126,7 @@ body#lovedraft .comm1 img, video, object, embed {
     opacity: 1;
 }
 
-body#lovedraft .comm2, img, video, object, embed {
+body#cheese .comm2, img, video, object, embed {
     max-width: 47.45%;
     height: auto;
     position: absolute;
