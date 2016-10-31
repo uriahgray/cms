@@ -25,22 +25,26 @@ ol, ul {
     display: none;
 }
 
+/* Permalink */
  a.link {
     display: none;
 }
 
+/* Hyperlink */
 .copy p a {
     color: salmon;
     font-family: sans-serif;
     font-size: 15px;
 }
 
+/* Hyperlink */
 .source a {
     color: salmon;
     font-family: sans-serif;
     font-size: 15px;
 }
 
+/* Hyperlink */
 .caption p a {
     color: salmon;
     font-family: sans-serif;
@@ -53,6 +57,7 @@ h3.title a {
     color: white;
 }
 
+/* All Post Boxes */
 .post {
     display: block;
     float: left;
