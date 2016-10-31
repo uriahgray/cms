@@ -139,10 +139,19 @@ body#cheeseresearch .var10 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -5%;
-    top: 100%;
+    top: 1000%;
     z-index: 4;
     opacity: 1;
     transform: rotate(90deg);
+}
+
+body#cheeseresearch .var11 img, video, object, embed {
+    max-width: 47.45%;
+    position: absolute;
+    left: 60%;
+    top: 1020%;
+    z-index: 4;
+    opacity: 1;
 }
 
 body#cheeseresearch .comm1 img, video, object, embed {
