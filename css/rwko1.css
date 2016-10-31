@@ -90,3 +90,12 @@ ul.tags li {
 .post.no {
     color: red;
 }
+
+.post.games {
+    min-width: 40%;
+}
+
+p {
+    font-size: 15px;
+    line-height: 20px;
+}
