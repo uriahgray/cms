@@ -1,0 +1,74 @@
+html{
+    background-color:#fffdfa;
+}
+
+#body{
+    text-align:center;
+
+}
+
+#eatJapanIcon{
+    width:10%;
+    height:10%;
+    margin-top:50px;
+}
+
+.mainLayout{
+    margin:50px 10% 50px 10%;
+}
+
+#line{
+    margin-bottom:50px;
+}
+
+.showWord{
+  position:relative;
+}
+
+.picture{
+    width:500px;
+    height:620px;
+}
+.picture:hover{
+    opacity:0.5;
+}
+.picture:hover + span.imgDescription{
+    opacity:1;
+}
+
+
+span.imgDescription{
+    background-color:white;
+    color:#905f1e;
+    opacity:1;
+    display:table;
+    position:absolute;
+    height:100px;
+    left:0;
+    top:0;
+    width:200px;
+    border:20px;
+    border-color:#905f1e;
+}
+span.imgDescription p{
+    display:table-cell;
+    text-align:center;
+    vertical-align:middle;
+}
+
+
+
+.frame{
+    width:32%;
+    display:inline-block;
+    vertical-align:top;
+    margin-bottom:50px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.maintext{
+    text-align:left;
+    color:#905f1e
+}
+
