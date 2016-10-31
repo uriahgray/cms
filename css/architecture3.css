@@ -63,7 +63,7 @@ img, video, object, embed {
 
  .tags{
         
-       display: none;
+       display: show;
         
     }
 
@@ -117,5 +117,5 @@ h3.title {
 }
 
 .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
- display: none;
+ display: show;
 }
