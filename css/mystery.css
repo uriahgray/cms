@@ -75,3 +75,11 @@ h3.title {
     position: fixed;
     color: antiquewhite;
 }
+
+.right {
+    display: block;
+    float: right;
+    width: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
