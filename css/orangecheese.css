@@ -41,7 +41,7 @@ body#orangecheese a.link {
     display: none;
 }
 
-body#orangecheese .pink1 img, video, object, embed {
+body#orangecheese .orange1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -10.2%;
@@ -50,7 +50,7 @@ body#orangecheese .pink1 img, video, object, embed {
     opacity: 1;
 }
 
-body#orangecheese .pink2 img, video, object, embed {
+body#orangecheese .orange2 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -60,7 +60,7 @@ body#orangecheese .pink2 img, video, object, embed {
     transform: rotate(270deg);
 }
 
-body#orangecheese .pink3 img, video, object, embed {
+body#orangecheese .orange3 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -69,7 +69,7 @@ body#orangecheese .pink3 img, video, object, embed {
     opacity: 1;
 }
 
-body#orangecheese .pink4 img, video, object, embed {
+body#orangecheese .orange4 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -2%;
@@ -80,7 +80,7 @@ body#orangecheese .pink4 img, video, object, embed {
 }
 
 
-body#orangecheese .pink5 img, video, object, embed {
+body#orangecheese .orange5 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 60%;
@@ -90,7 +90,7 @@ body#orangecheese .pink5 img, video, object, embed {
     transform: rotate(180deg);
 }
 
-body#orangecheese .pink6 img, video, object, embed {
+body#orangecheese .orange6 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: -10%;
@@ -100,7 +100,7 @@ body#orangecheese .pink6 img, video, object, embed {
     transform: rotate(90deg);
 }
 
-body#orangecheese .pink7 img, video, object, embed {
+body#orangecheese .orange7 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 53%;
@@ -109,7 +109,7 @@ body#orangecheese .pink7 img, video, object, embed {
     opacity: 1;
 }
 
-body#orangecheese .pink8 img, video, object, embed {
+body#orangecheese .orange8 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
     left: 3%;
