@@ -3,7 +3,7 @@ h3.tag_title {
     display: none;
 }
 
-.tags>li>a {
+.tags>li>a, a.link {
     display: none;
 }
 
