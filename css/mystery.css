@@ -125,3 +125,7 @@ b {
     font-weight: 700;
     color: crimson;
 }
+
+img {
+    padding: 20px;
+}
