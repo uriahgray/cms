@@ -70,10 +70,10 @@ ol, ul {
 
 h3.title {
     text-transform: uppercase;
-    font-family: times;
-    font-style: oblique;
+    font-family: proxima nova;
+    font-style: normal;
     position: fixed;
-    color: antiquewhite;
+    font-size: 20px;
 }
 
 .left {
