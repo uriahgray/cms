@@ -72,3 +72,7 @@ span.imgDescription p{
     text-align:left;
     color:#905f1e
 }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: none;
+}
