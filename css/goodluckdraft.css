@@ -31,7 +31,7 @@ ul.tags {
 .copy {
     visibility: hidden;
     position: fixed;
-    font-size: 10px;
+    font-size: 11px;
     text-align: center;
     padding: absolute;
     color: white;
