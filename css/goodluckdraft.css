@@ -17,6 +17,7 @@ ul.tags {
     width: 5%;
 }
 .copy {
+    display: none;
     position: relative;
     font-size: 10px;
     text-align: center;
