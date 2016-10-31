@@ -2,6 +2,10 @@ body#rzha124 {
     background-color: rgba(255, 209, 182, 0.37);
 }
 
+h3.tag_title {
+    display: none;
+}
+
 .post.rzha124 {
     display: block;
     float: none;
@@ -14,6 +18,7 @@ body#rzha124 {
 
 .post.silverscreendraftthumbnail {
     width: 20%;
+    padding-top: 100px;
 }
 
 .post.rationale {
