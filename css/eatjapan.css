@@ -73,6 +73,6 @@ span.imgDescription p{
     color:#905f1e
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article.posts {
     display: none;
 }
