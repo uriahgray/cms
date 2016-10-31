@@ -36,60 +36,6 @@ body#cheese a.link {
     display: none;
 }
 
-body#cheese .post.bigcheese img, video, object, embed {
-    max-width: 50%;
-    height: auto;
-    position: fixed;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 100;
-    display: none;
-}
-
-body#cheese .post.leanonme img, video, object, embed {
-    max-width: 15%;
-    height: auto;
-    position: fixed;
-    left: 50%;
-    top:50%;
-    transform: translate(-50%, -25%);
-    z-index: 100;
-    display: none;
-}
-
-body#cheese .post.eatme img, video, object, embed {
-    max-width: 15%;
-    height: auto;
-    position: fixed;
-    bottom: 0%;
-    left: 50%;
-    transform: translate(-50%, -25%);
-    z-index: 100;
-    display: none;
-}
-
-body#cheese .post.holdme img, video, object, embed {
-    max-width: 15%;
-    height: auto;
-    position: fixed;
-    top: 43%;
-    left: -1%;
-    z-index: 100;
-    transform: rotate(270deg);
-    display: none;
-}
-
-body#cheese .pokeme img, video, object, embed {
-    max-width: 15%;
-    position: fixed;
-    height: auto;
-    top: 43%;
-    right: -1%;
-    transform: rotate(90deg);
-    z-index: 100;
-    display: none;
-}
-
 body#cheese .var1 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
