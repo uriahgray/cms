@@ -103,12 +103,22 @@ h3.title {
  font-size: 3em;
 }
 
+.like:hover{
+ font-size: 3.4em;
+
+}
+
 .dislike{
  position: fixed;
  float: right;
  right: 10px;
  top: 400px;
   font-size: 3em;
+}
+
+.dislike:hover{
+ font-size: 3.4em;
+
 }
 
 .set_photos {
