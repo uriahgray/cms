@@ -10,6 +10,7 @@
     max-width: 50%;
     float: right;
     padding: 50px;
+    line-height: 20px;
     }
 
 .btn {
@@ -60,4 +61,16 @@ a.link {
 ul.tags li {
     font-size: 10px;
     line-height: 15px;
+}
+
+.post.heading {
+    max-width: 30%;
+}
+
+.post.yes {
+    color: green;
+}
+
+.post.no {
+    color: red;
 }
