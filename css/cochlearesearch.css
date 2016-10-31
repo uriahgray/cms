@@ -2,4 +2,22 @@ body#cochlearesearch h3.tag_title {
     display: none;
 }
 
+body#cochlearesearch a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
 
+body#cochlearesearch a {
+    display: none;
+}
+
+body#cochlearesearch .iframe-controls-container .buttons-container {
+    display: -ms-flexbox;
+    display: none;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
