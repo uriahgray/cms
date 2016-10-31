@@ -37,9 +37,6 @@ top:0px;
     visibility: hidden;
 }
 
-body#cochlea .post:hover .image {
-visibility: hidden;
-}
 
 body#cochlea .post:hover .copy {
     display:block;
