@@ -3,6 +3,8 @@ body#pfor {
 }
 
 .heading {
-  color:red;
+  color:black;
+  max-width:600px;
+  margin:auto;
 }
 
