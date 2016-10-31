@@ -126,14 +126,13 @@ body#cheeseresearch .comm1 img, video, object, embed {
     opacity: 1;
 }
 
-body#cheeseresearch .rat {
-    position: fixed;
-    width: 100%;
-    left: 50%;
-    margin-left: -50%;
-    bottom: 50%;
-    margin-bottom: -50px;
+body#cheeseresearch .rat img, video, object, embed {
+    max-width: 70%;
+    position: absolute;
     z-index: 100;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-60%);
 }
 
 .linkme {
