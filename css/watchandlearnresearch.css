@@ -9,3 +9,8 @@ body {
     letter-spacing: 0.02em;
     color: white;
 }
+
+ol, ul {
+    list-style: none;
+    display: none;
+}
