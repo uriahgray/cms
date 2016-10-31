@@ -1,17 +1,17 @@
-body#lostresearch h3.tag_title {
+body#lostresearchlink h3.tag_title {
 display: none;
 }
 
-body#lostresearch ul.tags {
+body#lostresearchlink ul.tags {
     display: none;
 }
 
 
-body#lostresearch a.link {
+body#lostresearchlink a.link {
     display: none;
 }
 
-body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+body#lostresearchlink .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
@@ -39,12 +39,12 @@ body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--des
 
 }
     
-    body#lostresearch .post.lostmoodboard {
+    body#lostresearchlink .post.lostmoodboard {
         top: 20px;
         left: 400px;
 }
 
-body#lostresearch .post.lostmockup {
+body#lostresearchlink .post.lostmockup {
           top: 40px;
         left: 500px;
 }
