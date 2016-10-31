@@ -21,6 +21,11 @@ body#lostresearch {
     top: -280px;
 }
 
+body#lostresearch .post.concept {
+        display: none;
+}
+
+
 body#lostresearch .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
