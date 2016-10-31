@@ -136,7 +136,7 @@ body#cheeseresearch .rat img, video, object, embed {
     z-index: 100;
     top: 45%;
     left: 50%;
-    transform: translate(-50%,-60%);
+    transform: translate(-50%,-45%);
 }
 
 .linkme {
