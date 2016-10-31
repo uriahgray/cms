@@ -118,8 +118,8 @@ body#cheeseresearch .var7 img, video, object, embed {
 body#cheeseresearch .var8 img, video, object, embed {
     max-width: 47.45%;
     position: absolute;
-    left: 53%;
-    top: 300%;
+    left: -4%;
+    top: 360%;
     z-index: 4;
     opacity: 1;
     transform: rotate(90deg);
