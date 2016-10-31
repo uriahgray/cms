@@ -1,6 +1,12 @@
 
 body#watchandlearnresearch {
     background-color: darkgreen;
+    font-family: serif;
+    font-size: 20px;
+    line-height: normal;
+    letter-spacing: 0.02em;
+    color: white;
+}
 }
 
 h3.tag_title {
