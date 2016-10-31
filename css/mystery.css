@@ -76,6 +76,14 @@ h3.title {
     color: antiquewhite;
 }
 
+.left {
+    display: block;
+    float: left;
+    width: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 .right {
     display: block;
     float: right;
