@@ -93,4 +93,15 @@ h3.title {
     padding-bottom: 30px;
     margin: 50px;
 }
+
+.like_button {
+    width: 20px;
+    margin-left: 260px;
+    display: block;
+}
+
+.comment_button {
+    width: 20px;
+    margin-left: 260px;
+    display: block;
 }
