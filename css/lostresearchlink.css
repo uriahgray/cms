@@ -44,3 +44,14 @@ body#lostresearchlink .post.lostmockup {
         left: 500px;
 }
     
+
+a {
+    text-decoration: none;
+    color: peachpuff;
+    font-style: italic;
+    font-family: initial;
+    position: fixed;
+    left: 25px;
+    top: 10px;
+
+}
