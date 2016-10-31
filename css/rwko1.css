@@ -113,3 +113,11 @@ b {
 .post.postnow {
     background: aliceblue;
 }
+
+.post.publication {
+    background: #fff0f2;
+}
+
+.post.games {
+    background: #fff0d4;
+}
