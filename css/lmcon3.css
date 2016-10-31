@@ -31,7 +31,8 @@ body#lmcon3 a.chocolat-image.image {
 }
 
 body#lmcon3 img.set_photos {
-    height: 300px;
+    max-height: 300px;
+    width: auto;
 }
 
 body#lmcon3 ul.tags {
@@ -60,7 +61,7 @@ body#lmcon3 a.link {
 body#lmcon3 .copy {
     color: darkslategrey;
     font-size: large;
-    max-width: 60%;
+    max-width: 500px;
     line-height: 1.6;
 }
 
@@ -83,6 +84,13 @@ body#lmcon3 h3.tag_title {
 body#lmcon3 .post.quote {
     font-size: large;
     line-height: 1.7;
-    width: 60%;
+    max-width: 500px;
     color: blue;
+}
+
+body#lmcon3 .caption
+    color: darkslategrey;
+    font-size: large;
+    max-width: 500px;
+    line-height: 1.6;
 }
