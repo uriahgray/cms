@@ -2,6 +2,10 @@ body#cheeseresearch {
     background-color: navy;
 }
 
+a {
+    text-decoration: none;
+}
+
 .green {
     color: #dae28d;
 }
