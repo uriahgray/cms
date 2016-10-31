@@ -1,0 +1,56 @@
+body#rzha124 {
+    background-color: rgba(255, 209, 182, 0.37);
+}
+
+.post.rzha124 {
+    display: block;
+    float: none;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.post.silverscreendraftthumbnail {
+    width: 20%;
+}
+
+.post.rationale {
+    text-align: left;
+    width: 50%;
+    font-size: medium;
+}
+
+.post.sibi {
+    width: 30%;
+    font-size: medium;
+    text-align: left;
+}
+
+.post.change {
+    width: 70%;
+}
+
+.post.objectsubject {
+    text-align: left;
+    font-size: medium;
+}
+
+.post.trial {
+    text-align: left;
+    font-size: medium;
+}
+
+.post.photo.audrey_hepburn.quote.rzha124.actress {
+    width: 40%;
+    font-size: medium;
+}
+
+.post.photo.marilyn_monroe.smile.rzha124.quote {
+    width: 35%;
+    font-size: medium;
+}
+
+.post.silverscreendraft {
+    display: none;
+}
+
