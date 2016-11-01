@@ -1,16 +1,84 @@
+/*Menu*/
 .navigation {
-    display: block;
-    float: right;
-    font-family: arial;
-    font-size: 20pt;
-    color: dimgray;
     position: fixed;
-    margin: auto;
+    bottom: 0;
+    z-index: 1;
+    padding: 0px 0px 50px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Unvisited link*/
+.navigation a:link {
+    color: blue;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+/*Visited link*/
+.navigation a:visited {
+    color: blue;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+/*Mouse over link*/
+.navigation a:hover {
+    color: red;
+    font-size: 15pt;
+    text-decoration: underline;
 }
 
 .pagetitle {
-    display: block;
+    padding: 0px 0px 30px 0px;
     top: 0;
-    right: 0;
     position: fixed;
+    color: white;
+    z-index: -1;
+    font-size: 150pt;
+    line-height: 200pt;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Actual posts*/
+.postcontainer {
+    width: 45%;
+    display: block;
+    float: left;
+    margin: 20px;
+    font-size: 11pt;
+    line-height: 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*All posts*/
+.container {
+    margin: 150px 0px 20px 20px;
+}
+
+/*Whole page*/
+body#ldaud1 {
+    background-color: #eee;
+    margin: 50px;
+}
+
+/*Post titles*/
+h3.title {
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Hide 'posts by ldaud1*/
+h3.tag_title {
+    display: none;
+}
+
+/*Hide 'permalink'*/
+a.link {
+    display: none;
+}
+
+/*Hide post hashtags*/
+ul.tags li {
+    display: none;
 }
