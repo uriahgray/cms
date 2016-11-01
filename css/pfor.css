@@ -2,7 +2,7 @@ body#pfor {
   	background-color:#E0E0E0;
 }
 
-h3.tag_title {
+.post h3.tag_title {
 	display:none;
 }
 
