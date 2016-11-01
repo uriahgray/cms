@@ -1,0 +1,65 @@
+h3.tag_title {
+   display: none;
+}
+
+
+a.link {
+   display: none;
+}
+
+
+ul.tags {
+   display: none;
+}
+
+
+body#htkwo7 {
+   background-color: azure;
+}
+
+
+.post.htkwo7 {
+   padding-bottom: 60px;
+   display: block;
+   float: none;
+   margin: auto;
+   width: 50%;
+   Font-size: small;
+}
+
+
+.post.photoset.change.htkwo7 {
+   width: 90%;
+   text-align: center;
+}
+
+
+
+
+.post.photoset.flowerresearch.htkwo7.postnow {
+   width: 90%;
+   text-align: center;
+}
+
+
+.post.text.htkwo7.postnow {
+   text-align: center;
+}
+
+
+.post.photo.postnowthumbnail.htkwo7{
+   text-align: center;
+   width: 20%;
+}
+
+
+.post.photo.flowerresearch.htkwo7.postnow {
+   text-align: center;
+}
+
+
+.post.photoset.htkwo7 {
+   width: 80%;
+}
+
+
