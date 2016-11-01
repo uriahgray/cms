@@ -16,7 +16,7 @@ h3.tag_title {
     display: none;
 }
 
-.nav a {
+/*.nav a {
     display: block;
     float: right;
     font-family: helvetica;
@@ -24,7 +24,7 @@ h3.tag_title {
     color: dimgray;
     position: fixed;
     margin: auto;
-}
+}*/
 
 a {
     text-decoration: none;
