@@ -19,3 +19,11 @@ body#pfor {
 .append {
 	padding-left:300px
 }
+
+.post.video {
+		
+}
+
+.post h3.tag_title {
+	display:none;	
+}
