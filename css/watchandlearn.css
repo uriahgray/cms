@@ -34,3 +34,13 @@ body#watchandlearn article.posts {
     height: 300px;
     display: flex;
 }
+
+.example1 h3 {
+    position: relative;
+    z-index: 1;
+    line-height: 50px;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 35px;
+    color: white;
+}
