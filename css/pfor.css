@@ -16,7 +16,7 @@ body#pfor {
 	display:none;
 }
 
-.ga_target {
+.append {
 	border:2px solid #black;
 	max-width:500px;
 	margin:auto;
