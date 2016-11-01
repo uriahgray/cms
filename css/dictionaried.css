@@ -1,4 +1,79 @@
 /*All page*/
 body#dictionaried {
     background-color: blue;
+}
     
+/*Hide 'posts tagged dictionaried' phrase*/
+h3.tag_title {
+    display: none;
+}
+
+/*Page title*/
+.pagetitle {
+    font-size: 90pt;
+    line-height: 100pt;
+    position: fixed;
+    display: block;
+    font-family: Arial, Helvetica sans-serif;
+    text-transform: uppercase;
+    color: white;
+    top: 0;
+    left: 0;
+    padding: 20px 0px 0px 50px;
+}
+
+/*Page description*/
+.subheading {
+    color: white;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 700px;
+    padding: 0px 15px 20px 0px;
+    font-size: 47pt;
+    line-height: 50pt;
+    font-weight: bold;
+}
+/*All posts*/
+.container {
+    padding: 170px 0px 250px 0px;
+    width: 99%;
+}
+
+/*Dictionary words*/
+.caption {
+    color: white;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica sans-serif;
+    font-size: 50pt;
+    line-height: 55pt;
+    border-bottom: 7px solid yellow;
+    padding: 10px 0px 10px 150px;
+}
+
+/*Audio player*/
+.audio_player {
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    position: relative;
+    top: 62px;
+    left: 81px;
+}
+
+/*Hide number of plays*/
+span.play-count {
+    display: none;
+}
+
+/*Hide hashtags*/
+ul.tags li {
+    display: none;
+}
+
+/*Hide permalink*/
+a.link {
+    display: none;
+}
+
+
