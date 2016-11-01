@@ -2,8 +2,8 @@ body#pfor {
   	background-color:#E0E0E0;
 }
 
-.post h3.tag_title {
-	/*display:none;*/
+h3.tag_title {
+	display:none;*/
 }
 
 .post.text p {
@@ -26,8 +26,6 @@ body#pfor {
 	display:none;
 }
 
-h3.tag_title {
-    /*display: none;*/
 }
 
 .heading {
