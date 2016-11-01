@@ -14,7 +14,6 @@ article.posts {
 .nav a:link {
     color: black;
     font-size: small;
-    text-decoration: none;
     text-indent: 0px;
 }
 .nav a:hover {
