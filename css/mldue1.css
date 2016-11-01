@@ -11,13 +11,19 @@ article.posts {
     color: black;
     z-index: 9;
 }
-.nav:link {
+.nav a:link {
     color: black;
     font-size: small;
     text-decoration: none;
     text-indent: 0px;
 }
-.nav:hover {
+.nav a:visited {
+    color: black;
+    font-size: small;
+    text-decoration: none;
+    text-indent: 0px;
+}
+.nav a:hover {
     color: black;
     font-size: small;
     text-indent: 10px;
