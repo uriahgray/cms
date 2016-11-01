@@ -35,6 +35,7 @@ body#watchandlearn article.posts {
     display: flex;
 }
 
+/*
 .example1 h3 {
     position: relative;
     z-index: 1;
@@ -43,4 +44,4 @@ body#watchandlearn article.posts {
     font-family: helvetica;
     font-size: 35px;
     color: white;
-}
+}*/
