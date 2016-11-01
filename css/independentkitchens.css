@@ -14,3 +14,9 @@ ul.tags {
     margin-bottom: -5px;
     margin-top: -5px;
 }
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
