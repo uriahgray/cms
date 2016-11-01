@@ -91,6 +91,14 @@ h3.title a:hover {
     font-family: serif;
 }
 
+/*Post Titles Visited */
+h3.title a:visited {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: serif;
+}
+
 /* Hyperlinks in Text Posts */
 .caption p a {
     color: white;
