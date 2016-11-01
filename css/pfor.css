@@ -18,7 +18,7 @@ body#pfor {
 }
 
 .video {
-	border:3px black;
+	width:1200px;
 	max-width:60%;
 	margin:auto;
 	border: 1px red;
@@ -33,5 +33,9 @@ h3.tag_title {
 }
 
 .heading {
-	font-size: 7em;
+	font-size: 3em;
+}
+
+a.link {
+    display: none;
 }
