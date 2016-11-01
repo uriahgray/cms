@@ -27,7 +27,7 @@ ul.tags {
     font-size: 68px;
     line-height: 1.5;
 }
-body#thetruthisouttheredraft .post.buttons-container.non-admin-buttons-container {
+iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
 
