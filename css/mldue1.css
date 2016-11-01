@@ -14,7 +14,7 @@ article.posts {
 .nav a:link {
     color: black;
     font-size: small;
-    text-decoration: underline;
+    text-decoration: bold;
     text-indent: 0px;
 }
 .nav a:visited {
