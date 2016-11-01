@@ -18,9 +18,9 @@ body#pfor {
 	margin:auto;
 }
 
-.post ul.tags {
+/*.post ul.tags {
 	display:none;
-}
+}*/
 
 }
 
@@ -31,3 +31,7 @@ body#pfor {
 .post a.link {
     display:none;
 }
+
+/*.post h3.tag_title {
+	display:none;
+}*/
