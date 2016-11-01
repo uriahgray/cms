@@ -51,7 +51,7 @@ marquee.html-marquee {
     margin: auto;
     z-index: 21;
     margin-left: -691px;
-    margin-top: 50px;
+    margin-top: 80px;
     top: 50%;
     left: 50%;
 }
@@ -61,7 +61,7 @@ marquee.marqueeTwo {
     margin: auto;
     z-index: 21;
     margin-left: -191px;
-    margin-top: 50px;
+    margin-top: 80px;
     top: 50%;
     left: 50%;
 }
@@ -70,8 +70,15 @@ marquee.marqueeThree {
     margin: auto;
     z-index: 21;
     margin-left: 309px;
-    margin-top: 50px;
+    margin-top: 80px;
     top: 50%;
     left: 50%;
     position: absolute;
+}
+
+
+marquee.marqueeInstructions {
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 10px;
 }
