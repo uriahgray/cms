@@ -53,3 +53,9 @@ body#htkwo7 {
 .post.photoset.htkwo7 {
    width: 80%;
 }
+
+
+.post.text.htkwo7.rationale {
+    width: 50%;
+    font-size: small;
+}
