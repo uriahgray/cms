@@ -7,6 +7,7 @@
 }
 h3.tag_title {
     display: none;
+	text-decoration: none;
 }
 a.link {
     display: none;
