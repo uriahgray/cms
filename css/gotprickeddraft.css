@@ -33,3 +33,7 @@ div.post {
 h3 {
   display:none; 
 }
+
+.buttons-container.non-admin-buttons-container {
+    display: none;
+}
