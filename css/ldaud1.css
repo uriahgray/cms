@@ -1,9 +1,16 @@
 .navigation {
     display: block;
     float: right;
-    font-family: helvetica;
-    font-size: 15px;
+    font-family: arial;
+    font-size: 20pt;
     color: dimgray;
     position: fixed;
     margin: auto;
+}
+
+.pagetitle {
+    display: block;
+    top: 0;
+    right: 0;
+    position: fixed;
 }
