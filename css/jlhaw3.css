@@ -31,7 +31,7 @@ ul.tags {
 iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
-div {
-    -webkit-column-count: 3;
+.post {
+    column-count: 3;
 }
 
