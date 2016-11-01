@@ -32,8 +32,8 @@ iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--de
     display: none;
 }
 .post {
-    column-count: 3;
-	column-width: 33%;
+    column-count: 2;
+	
 
 }
 
