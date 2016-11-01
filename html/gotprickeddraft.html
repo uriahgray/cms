@@ -1,50 +1,44 @@
 <script type="text/javascript">
 $(function(){
-        
-        
-		var yt_int;
-  
-        // This is where we loop over each video we add and we 
-        // store a yt interface to control the audio
-		var initYT = function() {
-			$(".post.video.gotprickeddraft iframe").each(function() {
-				$(this).data("yt", new YT.Player(this));
-			});
-		};
 
-        // This was just found online, it gets youtube functions
-		$.getScript("//www.youtube.com/player_api", function() {
-			yt_int = setInterval(function(){
-				if(typeof YT === "object"){
-					initYT();
-					clearInterval(yt_int);
+				var yt_int, yt_players={},
+				    initYT = function() {
+				        $(".ytplayer").each(function() {
+                		$(this).data("yt", new YT.Player(this, {
+                    		events: {
+                        		'onReady' : pausedAll
+                        }
+                    }));
+                    
+				        });
+				    };
+
+				$.getScript("//www.youtube.com/player_api", function() {
+				    yt_int = setInterval(function(){
+				        if(typeof YT === "object"){
+				            initYT();
+				            clearInterval(yt_int);
+				        }
+				    },500);
+				});
+        
+        var pausedAll = function () {
+          $(".ytplayer").each(function() {
+              $(this).data("yt").setVolume(20);
+          });
 				}
-			},500);
-		});
-        
-        // Quiet all
-        var quietAll = function () {
-			$(".ytplayer").each(function() {
-				$(this).data("yt").setVolume(20);
+
+				$('.ytplayer').mouseenter(function(){
+          pausedAll();
+          $(this).data("yt").setVolume(100);
+				});
+
+				$('.ytplayer').mouseleave(function(){
+          $(this).data("yt").setVolume(20);
+				});
+
+				
+
 			});
-		}
-        
-        // When the mouse touches a video
-		$('.ytplayer').mouseenter(function(){
-			// Set all videos to volume 20
-			quietAll();
-			
-			// Set selected video to 100
-			$(this).data("yt").setVolume(100);
-		});
-
-        // When the mouse stops touch a video
-		$('.ytplayer').mouseleave(function(){
-			
-			// Set the selected video back to 20
-			$(this).data("yt").setVolume(20);
-		});
-
-});
 
 </script>
