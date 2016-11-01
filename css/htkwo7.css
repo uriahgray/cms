@@ -25,4 +25,5 @@ article.posts {
    margin: auto; 
    width: 50%
    text-align: center
+   font-size: small;
 }
