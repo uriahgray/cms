@@ -22,7 +22,8 @@ body#htkwo7 {
    padding-bottom: 60px;
    display: block;
    float: none;
-   margin: auto;
+   margin: auto; 
+   width: 50%
    Font-size: small;
 }
 
