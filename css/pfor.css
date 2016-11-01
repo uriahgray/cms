@@ -16,7 +16,7 @@ body#pfor {
 	display:none;
 }
 
-.post.video {
+.post a {
 	/*border:1 px #000000;*/
 	display:inline-block;
 	max-width:600px;
