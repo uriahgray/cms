@@ -122,4 +122,23 @@ b {
     background: #fff0d4;
 }
 
+.post.cream {
+    background-color: #fff0d4;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 
+.post.blue {
+    background-color: aliceblue;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.post.pink {
+    background-color:#fff0f2;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
