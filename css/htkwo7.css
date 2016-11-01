@@ -19,10 +19,51 @@ body#htkwo7 {
 
 
 .post {
-    padding-bottom: 50px;
+    padding-bottom: 60px;
     width: 50%;
     display: block;
     float: none;
     margin: auto;
     font-size: small;
 }
+
+.post.text.htkwo7.postnow {
+    text-align: center;
+}
+
+.post.photo.postnowthumbnail.htkwo7 {
+    width: 25%;
+    text-align: center;
+}
+
+
+.post.photo.flowerresearch.htkwo7.postnow {
+    text-align: center;
+}
+
+
+.post.photoset.flowerresearch.htkwo7.postnow {
+    width: 80%;
+    text-align: center;
+}
+
+
+.post.text.htkwo7.postnow.flowerresearch {
+    text-align: left;
+}
+
+.post.photoset.change.htkwo7 {
+    width: 70%;
+}
+
+
+.post.photoset.htkwo7 {
+    width: 70%;
+}
+
+
+.post.photo.associations.htkwo7.gif.photo.curatepeople {
+    text-align: center;
+}
+
+
