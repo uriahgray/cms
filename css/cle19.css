@@ -33,16 +33,6 @@ ol, ul {
     padding: 20px;
 }
 
-/*Menu*/
-/*.nav {
-    position: fixed;
-    bottom: 0;
-    z-index: 1;
-    padding: 0px 0px 50px 0px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-}*/
-
 .nav {
     position: fixed;
     margin: auto;
@@ -60,7 +50,7 @@ ol, ul {
     color: white;
 }
 
-/*Nav unvisited link*/
+/* Nav unvisited link */
 .nav a:link {
     color: white;
     font-size: 15px;
@@ -73,8 +63,24 @@ ol, ul {
     text-decoration: none;
 }
 
-/*Nav mouse over link*/
+/* Nav mouse over link */
 .nav a:hover {
     color: yellow;
-    font-size: 20px;
+    font-size: 10px;
 }
+
+/* Post Titles */
+h3.title {
+    font-size: 20px;
+    font-family: serif;
+    text-decoration: none;
+}
+
+/* Post Titles Hover */
+h3.title a:hover {
+    color: yellow;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: serif;
+}
+
