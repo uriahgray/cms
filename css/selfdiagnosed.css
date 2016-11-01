@@ -13,14 +13,6 @@ body#selfdiagnosed a.link {
 nav:hover{
     text-decoration:bold;
 }
-
-h1 { 
-    margin-left: 300px;
-    margin-top: 20px;
-    position: absolute;
-    font-size: 40pt;
-    line-height: 40pt;
-}
   
 
 .nav{
