@@ -8,7 +8,6 @@ $(function(){
         // store a yt interface to control the audio
 		var initYT = function() {
 			$(".post.video.gotprickeddraft iframe").each(function() {
-				$(this).addClass("ytplayer");
 				$(this).data("yt", new YT.Player(this));
 			});
 		};
