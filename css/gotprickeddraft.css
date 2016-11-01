@@ -1,10 +1,14 @@
+a.link {
+    /* 
+    display: block; if you want to see links
+    display: none; if you want to hide linkes
+    */
+    display: block;
+}
+
 .container {
     font-size: 43px;
     padding: 0px;
-}
-
-a.link {
-    display: block;
 }
 
 ul.tags {
