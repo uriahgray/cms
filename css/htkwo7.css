@@ -16,3 +16,13 @@ ul.tags {
 body#htkwo7 {
    background-color: azure;
 }
+
+
+.post {
+    padding-bottom: 50px;
+    width: 50%;
+    display: block;
+    float: none;
+    margin: auto;
+    font-size: small;
+}
