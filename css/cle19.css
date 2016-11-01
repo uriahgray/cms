@@ -103,3 +103,11 @@ h3.title a:visited {
 .caption p a {
     color: white;
 }
+
+.copy p a {
+    color: white;
+}
+
+.source a {
+    color: white;
+}
