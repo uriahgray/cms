@@ -31,9 +31,13 @@ h3.tag_title {
 }
 
 .heading {
-	font-size: 5em;
+	font-size: 10em;
 }
 
 .post a.link {
     display:none;
+}
+
+a {
+	display:none;
 }
