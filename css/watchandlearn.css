@@ -43,21 +43,3 @@ body#watchandlearn article.posts {
     height: 300px;
     display: flex;
 }
-
-.html-marquee {
-  height:45px;
-  width:500px;
-  background-color:#cccccc;
-  background-image:url(http://66.media.tumblr.com/075f2b452679ebab1e758f573949dcf5/tumblr_ofx77hSYvX1vf7reno1_1280.jpg);
-  font-family:Helvetica;
-  font-size:16px;
-  color:#ffffff;
-  font-weight:bold;
-  border-width:0;
-  border-style:solid;
-  border-color:#ffffff;
-}
-
-.marq{
-     z-index: -1;
-}
