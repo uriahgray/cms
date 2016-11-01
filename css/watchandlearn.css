@@ -45,3 +45,13 @@ body#watchandlearn article.posts {
     font-size: 35px;
     color: white;
 }*/
+
+marquee.html-marquee {
+    position: relative;
+    margin: auto;
+    z-index: 21;
+    margin-left: -691px;
+    margin-top: -16px;
+    top: 50%;
+    left: 50%;
+}
