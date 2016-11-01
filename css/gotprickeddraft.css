@@ -1,5 +1,6 @@
 .container {
     font-size: 43px;
+    padding: 0px;
 }
 
 a.link {
@@ -23,4 +24,12 @@ iframe#youtube_iframe {
 
 div.post {
     flex-grow: 1;
+}
+
+.caption {
+ display:none; 
+}
+
+h3 {
+  display:none; 
 }
