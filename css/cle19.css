@@ -4,7 +4,7 @@ body#cle19 {
     font-size: 20px;
     line-height: normal;
     letter-spacing: 0.02em;
-    color: gray;
+    color: black;
 }
 
 article.posts h3.tag_title {
@@ -57,7 +57,7 @@ body {
 }
 
 /*Nav unvisited link*/
-.navigation a:link {
+.nav a:link {
     color: white;
     font-size: 15px;
     text-decoration: none;
