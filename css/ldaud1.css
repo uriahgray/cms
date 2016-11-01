@@ -68,6 +68,14 @@ h3.title {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Post titles*/
+h3.title a:link {
+    color: yellow;
+    font-size: 15pt;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 /*Hide 'posts by ldaud1*/
 h3.tag_title {
     display: none;
