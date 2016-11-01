@@ -53,9 +53,14 @@ body {
     color: white;
 }
 
+/*Nav visited link*/
+.nav a:visited {
+    color: white;
+    text-decoration: none;
+}
+
 /*Nav mouse over link*/
 .nav a:hover {
     color: yellow;
-    font-size: 15pt;
     text-decoration: underline;
 }
