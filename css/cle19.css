@@ -19,10 +19,19 @@ body {
     color: white;
 }
 
+/* Permalink */
+ a.link {
+    color: transparent;
+}
+
 /* Hastags */
 ol, ul {
     list-style: none;
     display: none;
+}
+
+body#cle19 b {
+    font-weight: bold;
 }
 
 /* All Post Boxes */
