@@ -2,10 +2,6 @@ body#pfor {
   	background-color:#E0E0E0;
 }
 
-.post h3.tag_title {
-	display:none;
-}
-
 .post.text p {
     color: #000000;
     max-width: 60%;
