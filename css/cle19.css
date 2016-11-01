@@ -18,7 +18,11 @@ body {
     letter-spacing: 0.02em;
     color: white;
 }
-
+/* Hastags */
+ol, ul {
+    list-style: none;
+    display: none;
+}
 
 /* All Post Boxes */
 .post {
