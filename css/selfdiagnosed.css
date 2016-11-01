@@ -10,11 +10,6 @@ body#selfdiagnosed a.link {
     display: none;
 }
 
-nav:hover{
-    text-decoration:bold;
-}
-  
-
 .nav{
    color: white;
    font-family: Helvetica; 
@@ -29,8 +24,7 @@ nav:hover{
 body {
     background-image: url("http://the-cms/tagged/selfdiagnosed");
     background-attachment: fixed;
-    width: 200%;
-    margin-top: -20px;
+    position: relative;
     
 }
 
