@@ -2,7 +2,7 @@ body#pfor {
   	background-color:#E0E0E0;
 }
 
-.heading {
+.post.text p {
 	color:#000000;
 	max-width:600;
   	margin:auto;
