@@ -29,11 +29,33 @@ body {
     padding: 20px;
 }
 
-.nav a {
+/*Menu*/
+.nav {
     position: fixed;
     bottom: 0;
     z-index: 1;
     padding: 0px 0px 50px 0px;
-    font-family: serif, Helvetica, sans-serif;
-    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/*Navigation unvisited link*/
+.nav a:link {
+    color: blue;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+/*Navigation visited link*/
+.nav a:visited {
+    color: blue;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+/*Navigation mouse over link*/
+.nav a:hover {
+    color: red;
+    font-size: 15pt;
+    text-decoration: underline;
 }
