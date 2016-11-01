@@ -2,7 +2,10 @@
 
 
 body#topic {
-	background-color:cyan;
+	 width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border-width: 10px;
 }
 
 
