@@ -20,3 +20,11 @@ a.link {
     font-family: courier;
     text-transform: uppercase;
 }
+.copy {
+    opacity: 0.8;
+}
+.copy > p {
+    position: fixed;
+    bottom: 150px;
+    right: 20px;
+    background-color: white;
