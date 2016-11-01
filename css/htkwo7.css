@@ -18,7 +18,6 @@ body#htkwo7 {
 }
 
 
-
 article.posts {
    padding-bottom: 60px;
    display: block;
@@ -26,37 +25,4 @@ article.posts {
    margin: auto; 
    width: 50%
    text-align: center
-}
-
-.post.photoset.change.htkwo7 {
-   width: 90%;
-   text-align: center;
-}
-
-.post.photoset.flowerresearch.htkwo7.postnow {
-   width: 90%;
-   text-align: center;
-}
-
-.post.text.htkwo7.postnow {
-   text-align: center;
-}
-
-.post.photo.postnowthumbnail.htkwo7{
-   text-align: center;
-   width: 20%;
-}
-
-.post.photo.flowerresearch.htkwo7.postnow {
-   text-align: center;
-}
-
-.post.photoset.htkwo7 {
-   width: 80%;
-}
-
-
-.post.text.htkwo7.rationale {
-    width: 50%;
-    font-size: small;
 }
