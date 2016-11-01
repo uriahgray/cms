@@ -1,1 +1,9 @@
-
+.navigation {
+    display: block;
+    float: right;
+    font-family: helvetica;
+    font-size: 15px;
+    color: dimgray;
+    position: fixed;
+    margin: auto;
+}
