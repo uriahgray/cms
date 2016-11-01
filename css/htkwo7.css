@@ -18,7 +18,7 @@ body#htkwo7 {
 }
 
 
-.post.htkwo7 {
+body#htkwo7 .post {
    padding-bottom: 60px;
    display: block;
    float: none;
