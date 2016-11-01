@@ -32,6 +32,6 @@ body#pfor {
 	font-size: 5em;
 }
 
-a.link {
+.post a.link {
     display:none;
 }
