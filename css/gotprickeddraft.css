@@ -4,7 +4,7 @@
 }
 
 a.link {
-    display: none;
+    display: block;
 }
 
 ul.tags {
