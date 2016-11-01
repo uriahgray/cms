@@ -1,9 +1,6 @@
 a.link {
-    /* 
-    display: block; if you want to see links
-    display: none; if you want to hide linkes
-    */
-    display: block;
+  
+    display: none;
 }
 
 .container {
