@@ -1,13 +1,21 @@
 body#pfor {
-  background-color:#E0E0E0;
+  	background-color:#E0E0E0;
 }
 
 .heading {
 	color:#000000;
-  	*max-width:600;
+	max-width:600;
   	margin:auto;
 }
 
-.post ul.tags{
+.post ul.tags {
 	display:none;
 }
+
+.video {
+	border:1px;
+	display: inline-block;
+	max-width:600px;
+	margin:auto;
+}
+
