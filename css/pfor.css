@@ -18,6 +18,7 @@ body#pfor {
 
 .append {
 	padding-left:300px
+	border: 10px !important;
 }
 
 .post.video {
