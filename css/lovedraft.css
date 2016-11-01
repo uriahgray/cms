@@ -1,12 +1,10 @@
 
 
 
-body#topic {
-	 width: 500px;
-  margin: 20px auto;
-  padding: 50px;
-  border-width: 10px;
-}
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
 
 
 
