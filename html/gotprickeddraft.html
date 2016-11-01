@@ -7,7 +7,8 @@ $(function(){
         // This is where we loop over each video we add and we 
         // store a yt interface to control the audio
 		var initYT = function() {
-			$(".ytplayer").each(function() {
+			$(".post.video.gotprickeddraft iframe").each(function() {
+				$(this).addClass("ytplayer");
 				$(this).data("yt", new YT.Player(this));
 			});
 		};
