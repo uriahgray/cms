@@ -17,7 +17,7 @@ ul.tags {
 }
 
 iframe#youtube_iframe, iframe.ytplayer {
-    max-height: calc(17vh);
+    max-height: calc(192px);
     width: 100%;
     /* flex-grow: 1; */
 }
