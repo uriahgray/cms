@@ -127,6 +127,8 @@ b {
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-top: 180px;
+    position:fixed;
 }
 
 .post.blue {
@@ -134,6 +136,9 @@ b {
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
+     padding-top: 90px;
+      position:fixed;
+
 }
 
 .post.pink {
@@ -141,4 +146,7 @@ b {
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
+        padding-top: 260px;
+      position:fixed;
+
 }
