@@ -33,7 +33,9 @@ iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--de
 }
 .post {
     column-count: 2;
-	
+	float: left;
+	display: block;
+	padding: 10px
 
 }
 
