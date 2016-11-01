@@ -17,8 +17,5 @@ body#pfor {
 }
 
 .append {
-	border:2px solid black;
-	max-width:500px;
-	margin:auto;
-	padding:auto;
+	padding-left:300px
 }
