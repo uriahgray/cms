@@ -37,16 +37,6 @@ a.link {
     text-transform: uppercase;
 }
 
-body#honestlydoityourself .post {
-    height: 480px;
-    overflow: scroll;
-    width: 30%;
-    display: inline-block;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-top: 70px;
-}
 
 .nav {
     font-family: palatino;
