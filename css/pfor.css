@@ -8,7 +8,7 @@ body#pfor {
 
 .post.text p {
     color: #000000;
-    max-width: 50%;
+    max-width: 60%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
@@ -18,7 +18,7 @@ body#pfor {
 }
 
 .video {
-	max-width:50%;
+	max-width:60%;
 	margin:auto;
 }
 
