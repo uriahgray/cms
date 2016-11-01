@@ -27,9 +27,11 @@ body#htkwo7 {
     font-size: small;
 }
 
+
 .post.text.htkwo7.postnow {
     text-align: center;
 }
+
 
 .post.photo.postnowthumbnail.htkwo7 {
     width: 25%;
@@ -52,6 +54,7 @@ body#htkwo7 {
     text-align: left;
 }
 
+
 .post.photoset.change.htkwo7 {
     width: 70%;
 }
@@ -65,5 +68,12 @@ body#htkwo7 {
 .post.photo.associations.htkwo7.gif.photo.curatepeople {
     text-align: center;
 }
+
+
+.post.text.axis.htkwo7.myth.text {
+    text-align: center;
+}
+
+
 
 
