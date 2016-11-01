@@ -89,7 +89,8 @@ ul.tags {
 }
 
 body#openobscura .post iframe {
-    width: 60%;
+    width: 100%;
+height: auto;
 }
 
 
