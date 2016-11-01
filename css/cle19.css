@@ -24,6 +24,10 @@ ol, ul {
     display: none;
 }
 
+a.link {
+    display: none;
+}
+
 /* All Post Boxes */
 .post {
     display: block;
