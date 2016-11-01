@@ -1,44 +1,4 @@
 <script type="text/javascript">
-$(function(){
 
-				var yt_int, yt_players={},
-				    initYT = function() {
-				        $(".ytplayer").each(function() {
-                		$(this).data("yt", new YT.Player(this, {
-                    		events: {
-                        		'onReady' : pausedAll
-                        }
-                    }));
-                    
-				        });
-				    };
-
-				$.getScript("//www.youtube.com/player_api", function() {
-				    yt_int = setInterval(function(){
-				        if(typeof YT === "object"){
-				            initYT();
-				            clearInterval(yt_int);
-				        }
-				    },500);
-				});
-        
-        var pausedAll = function () {
-          $(".ytplayer").each(function() {
-              $(this).data("yt").setVolume(20);
-          });
-				}
-
-				$('.ytplayer').mouseenter(function(){
-          pausedAll();
-          $(this).data("yt").setVolume(100);
-				});
-
-				$('.ytplayer').mouseleave(function(){
-          $(this).data("yt").setVolume(20);
-				});
-
-				
-
-			});
 
 </script>
