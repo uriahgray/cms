@@ -19,12 +19,9 @@ body {
     color: white;
 }
 
+/*Hide hashtags*/
 ol, ul {
     list-style: none;
-    display: none;
-}
-
-a.link {
     display: none;
 }
 
@@ -38,13 +35,12 @@ a.link {
 }
 
 .nav a {
-    display: block;
-    float: right;
-    font-family: helvetica;
-    font-size: 15px;
-    color: dimgray;
     position: fixed;
-    margin: auto;
+    bottom: 0;
+    z-index: 1;
+    padding: 0px 0px 50px 0px;
+    font-family: serif, Helvetica, sans-serif;
+    color: black;
 }
 
 <style>
