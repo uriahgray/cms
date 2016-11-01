@@ -159,3 +159,10 @@ b {
     padding-top: 9px;
         top: 0;
 } */
+
+.append {
+    font-size: 15px;
+    padding-left: 30px;
+    padding-top: 30px;
+    position: fixed;
+}
