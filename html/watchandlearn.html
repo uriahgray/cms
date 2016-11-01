@@ -9,24 +9,61 @@
 	
 </div>-->
 
-<!-- HTML Codes by Quackit.com -->
-<style>
-.html-marquee {
-  height:150px;
-  width:1300px;
-  background-color:#000000;
-  font-family:Helvetica;
-  font-size:48px;
-  color:#ffffff;
-  font-weight:bold;
-  border-width:0;
-  border-style:solid;
-  border-color:#ffffff;
+
+<!DOCTYPE html>
+<title>Example</title>
+
+<!-- Styles -->	
+<style style="text/css">
+.example1 {
+ height: 50px;	
+ overflow: hidden;
+ position: relative;
+}
+.example1 h3 {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);	
+ transform:translateX(100%);
+ /* Apply animation to this element */	
+ -moz-animation: example1 15s linear infinite;
+ -webkit-animation: example1 15s linear infinite;
+ animation: example1 15s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes example1 {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes example1 {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes example1 {
+ 0%   { 
+ -moz-transform: translateX(100%); /* Firefox bug fix */
+ -webkit-transform: translateX(100%); /* Firefox bug fix */
+ transform: translateX(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); /* Firefox bug fix */
+ -webkit-transform: translateX(-100%); /* Firefox bug fix */
+ transform: translateX(-100%); 
+ }
 }
 </style>
-<marquee class="html-marquee" direction="left" behavior="scroll" scrollamount="18">
-<p>FIRE IN MASTERCHEF KITCHEN — NUTCASE COLLAPSE IN COURT — SEAL THE PERIMETER — FEISTY RIDE — PRISTINE DRIVE — CLIMBING AROUND THE WORLD — VOCAL OUTBREAK AT THE WRONG ADDRESS — ROMANTIC CADILLAC ARREST — WWE GARDENSTATE TOUR — CALIFORNIA DROUGHT REACHES BOTTOM OF THE TANK — SLINGSHOT KING HIT BRINGS TEEN TO UNCONSCIOUSNESS THREE TIMES — #CHIMPINGAROUND — NEW SCIENCE RESEARCH EXPERIMENT REVEALS BLOODY VORTEX IN FOOD CONSUMPTION — CHECK YOUR ROYAL ESTATES — DROUGHT BRINGS NEW LIGHT TO WATERSLIDE — WHAT IS THE YOUNGEST AGE TO EXPOSE TECHNOLOGY TO — WOMAN IN DESPAIR</p>
-</marquee>
+
+<!-- HTML -->	
+<div class="example1">
+<h3>FIRE IN MASTERCHEF KITCHEN — NUTCASE COLLAPSE IN COURT — SEAL THE PERIMETER — FEISTY RIDE — PRISTINE DRIVE — CLIMBING AROUND THE WORLD — VOCAL OUTBREAK AT THE WRONG ADDRESS — ROMANTIC CADILLAC ARREST — WWE GARDENSTATE TOUR — CALIFORNIA DROUGHT REACHES BOTTOM OF THE TANK — SLINGSHOT KING HIT BRINGS TEEN TO UNCONSCIOUSNESS THREE TIMES — #CHIMPINGAROUND — NEW SCIENCE RESEARCH EXPERIMENT REVEALS BLOODY VORTEX IN FOOD CONSUMPTION — CHECK YOUR ROYAL ESTATES — DROUGHT BRINGS NEW LIGHT TO WATERSLIDE — WHAT IS THE YOUNGEST AGE TO EXPOSE TECHNOLOGY TO — WOMAN IN DESPAIR</h3>
+</div>
+
 
 <!-- HTML Codes by Quackit.com -->
 <!--<style>
