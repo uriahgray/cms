@@ -47,11 +47,31 @@ body#watchandlearn article.posts {
 }*/
 
 marquee.html-marquee {
-    position: relative;
+    position: absolute;
     margin: auto;
     z-index: 21;
     margin-left: -691px;
-    margin-top: -16px;
+    margin-top: 30px;
     top: 50%;
     left: 50%;
+}
+
+marquee.marqueeTwo {
+    position: absolute;
+    margin: auto;
+    z-index: 21;
+    margin-left: -191px;
+    margin-top: 30px;
+    top: 50%;
+    left: 50%;
+}
+
+marquee.marqueeThree {
+    margin: auto;
+    z-index: 21;
+    margin-left: 309px;
+    margin-top: 30px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
 }
