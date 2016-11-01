@@ -1,10 +1,10 @@
 body#cle19 {
-    background-color: darkgreen;
+    background-color: khaki;
     font-family: serif;
     font-size: 20px;
     line-height: normal;
     letter-spacing: 0.02em;
-    color: white;
+    color: gray;
 }
 
 article.posts h3.tag_title {
