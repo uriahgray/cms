@@ -18,13 +18,13 @@ body#htkwo7 {
 }
 
 
-.post {
+
+.post.photo {
    padding-bottom: 60px;
    display: block;
    float: none;
    margin: auto; 
    width: 50%
-   font-size: small;
 }
 
 .post.photoset.change.htkwo7 {
