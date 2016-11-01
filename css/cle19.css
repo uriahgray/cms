@@ -1,29 +1,34 @@
-body#cle19 {
-    background-color: white;
+body#watchandlearnresearch {
+    background-color: darkgreen;
     font-family: serif;
-    font-size: 23px;
+    font-size: 20px;
+    line-height: normal;
+    letter-spacing: 0.02em;
+    color: white;
+}
+
+article.posts h3.tag_title {
+    display: none;
+}
+
+body {
+    font-family: serif;
+    font-size: 30px;
     line-height: 30px;
     letter-spacing: 0.02em;
-    color: darkgreen;
+    color: white;
 }
 
-h3.tag_title {
-    padding-bottom: 20px;
+ol, ul {
+    list-style: none;
     display: none;
 }
 
-.post ul.tags {
-    display: none;
-}
-
-a {
-    text-decoration: none;
-}
-
+/* All Post Boxes */
 .post {
     display: block;
     float: left;
-    width: 600px;
+    width: 500px;
     margin: 40px;
     padding: 20px;
 }
