@@ -18,6 +18,10 @@ body {
     letter-spacing: 0.02em;
     color: white;
 }
+/* Permalink */
+ a.link {
+    display: none;
+}
 /* Hastags */
 ol, ul {
     list-style: none;
@@ -57,16 +61,11 @@ ol, ul {
     text-decoration: none;
 }
 
-/*Nav visited link*/
-.nav a:visited {
-    color: white;
-    text-decoration: none;
-}
-
 /* Nav mouse over link */
 .nav a:hover {
     color: white;
     font-size: 15px;
+    font-style: oblique;
 }
 
 /* Post Titles */
@@ -92,3 +91,7 @@ h3.title a:hover {
     font-family: serif;
 }
 
+/* Hyperlinks in Text Posts */
+.caption p a {
+    color: white;
+}
