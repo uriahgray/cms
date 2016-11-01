@@ -15,8 +15,8 @@ nav:hover{
 }
 
 h1 { 
-    margin-right: 30px;
-    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-top: 20px;
     position: absolute;
     font-size: 40pt;
     line-height: 40pt;
@@ -24,14 +24,13 @@ h1 {
   
 
 .nav{
-   color: black;
+   color: white;
    font-family: Helvetica; 
    font-size: 40pt; 
    line-height:50pt;
    text-decoration:none;
-   margin-right: 30px;
-   margin-bottom: 30px;
-   position: absolute;
+   margin-left: 300px;
+   margin-top: 20px;
 }
 
 
