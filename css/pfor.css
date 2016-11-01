@@ -8,8 +8,13 @@ body#pfor {
 
 .post.text p {
     color: #000000;
-    max-width: 60%;
-    margin: auto;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: .8em;
+    line-height: 1.5;
 }
 
 .video {
@@ -25,4 +30,8 @@ body#pfor {
 
 h3.tag_title {
     display: none;
+}
+
+.heading {
+	font-size: 7em;
 }
