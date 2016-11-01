@@ -54,3 +54,17 @@ ul.tags {
     padding-right: 10px;
     font-size: small;
 }
+.chocolat-overlay {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    background-color: rgba(255, 255, 255, 0.62);
+    display: none;
+    opacity: 1;
+}
+.chocolat-bottom {
+    display: none;
+}
