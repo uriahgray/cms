@@ -5,23 +5,24 @@
     z-index: 1;
     padding: 0px 0px 50px 0px;
     font-family: Arial, Helvetica, sans-serif;
+    color: blue;
 }
 
-/*Unvisited link*/
+/*Navigation unvisited link*/
 .navigation a:link {
     color: blue;
     font-size: 15pt;
     text-decoration: none;
 }
 
-/*Visited link*/
+/*Navigation visited link*/
 .navigation a:visited {
     color: blue;
     font-size: 15pt;
     text-decoration: none;
 }
 
-/*Mouse over link*/
+/*Navigation mouse over link*/
 .navigation a:hover {
     color: red;
     font-size: 15pt;
@@ -68,7 +69,7 @@ h3.title {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*Post titles*/
+/*Post titles inactive*/
 h3.title a:link {
     color: yellow;
     font-size: 15pt;
@@ -76,12 +77,52 @@ h3.title a:link {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*Hide 'posts by ldaud1*/
-h3.tag_title {
-    display: none;
+/*Post titles visited link*/
+h3.title a:visited {
+    color: yellow;
+    font-size: 15pt;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-/*Hide 'permalink'*/
+/*Post titles mouse over link*/
+h3.title a:hover {
+    color: yellow;
+    font-size: 15pt;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*General links inactive*/
+a:link {
+    color: black;
+}
+
+/*General links visited*/
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+/*General links mouse over*/
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+/*General links selected link*/
+a:active {
+    color: yellow;
+    text-decoration: none;
+}
+
+/*Hide posts by ldaud1 title*/
+h3.tag_title {
+    display: none;
+    text-decoration: none;
+}
+
+/*Hide permalinks*/
 a.link {
     display: none;
 }
