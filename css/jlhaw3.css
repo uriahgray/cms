@@ -33,5 +33,7 @@ iframe.tmblr-iframe.tmblr-iframe--desktop-logged-in-controls.iframe-controls--de
 }
 .post {
     column-count: 3;
+	column-width: 33%;
+
 }
 
