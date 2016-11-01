@@ -1,1 +1,36 @@
 
+
+
+body#topic {
+	background-color:cyan;
+}
+
+
+
+.post {
+	background-color:white;
+}
+
+
+.post.red {
+	background-color:red;
+}
+
+
+
+
+.post img{
+	border:1px solid blue;
+}
+
+
+
+.post ul.tags{
+	display:none;
+}
+
+
+
+.post.red a {
+	color:red;
+}
