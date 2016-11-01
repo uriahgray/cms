@@ -23,6 +23,11 @@ body#pfor {
 	display:none;
 }*/
 
+h3.tag_title {
+    padding-bottom: 20px;
+	display:none;
+}
+
 }
 
 .heading {
@@ -31,8 +36,4 @@ body#pfor {
 
 .post a.link {
     display:none;
-}
-
-.post h3.tag_title {
-	display:none;
 }
