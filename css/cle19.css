@@ -65,8 +65,8 @@ ol, ul {
 
 /* Nav mouse over link */
 .nav a:hover {
-    color: yellow;
-    font-size: 10px;
+    color: white;
+    font-size: 15px;
 }
 
 /* Post Titles */
@@ -76,9 +76,17 @@ h3.title {
     text-decoration: none;
 }
 
+/* Post Titles */
+h3.title a:link {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: serif;
+}
+
 /* Post Titles Hover */
 h3.title a:hover {
-    color: yellow;
+    color: white;
     font-size: 20px;
     font-style: oblique;
     font-family: serif;
