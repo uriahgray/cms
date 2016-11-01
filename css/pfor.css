@@ -18,7 +18,6 @@ body#pfor {
 
 .post a {
 	border:2px solid #black;
-	display:inline-block;
 	max-width:500px;
 	margin:auto;
 }
