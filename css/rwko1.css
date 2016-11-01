@@ -74,6 +74,10 @@ a.link {
     color:red;
 }
 
+a{
+    color:blue;
+}
+
 ul.tags li {
     font-size: 10px;
     line-height: 15px;
