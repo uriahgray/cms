@@ -20,6 +20,3 @@ article.posts {
 .nav a:visited {
     color: black;
 }
-.nav a:hover {
-    text-indent: 10px;
-}
