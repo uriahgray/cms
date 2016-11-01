@@ -1,3 +1,23 @@
 article.posts {
     display: none;
 }
+.nav {
+    position: fixed;
+    margin: auto;
+    left: 5%;
+    top: 5%;
+    font-size: small;
+    font-family: akzidenzgrotesk;
+    color: black;
+    z-index: 9;
+}
+.nav a:link {
+    color: black;
+    font-size: small;
+    text-decoration: none;
+}
+.nav a:hover {
+    color: black;
+    font-size: small;
+    text-indent: 10px;
+}
