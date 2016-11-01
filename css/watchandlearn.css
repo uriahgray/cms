@@ -57,3 +57,7 @@ body#watchandlearn article.posts {
   border-style:solid;
   border-color:#ffffff;
 }
+
+.marq{
+     z-index: -1;
+}
