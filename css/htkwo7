@@ -23,7 +23,6 @@ body#htkwo7 {
    display: block;
    float: none;
    margin: auto;
-   width: 50%;
    Font-size: small;
 }
 
