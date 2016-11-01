@@ -24,6 +24,6 @@ body#pfor {
 		
 }
 
-.post h3.tag_title {
-	display:none;	
+h3.tag_title {
+    display: none;
 }
