@@ -16,7 +16,7 @@ ul.tags {
     flex-wrap: wrap;
 }
 
-iframe#youtube_iframe {
+iframe#youtube_iframe, iframe.ytplayer {
     max-height: calc(17vh);
     width: 100%;
     /* flex-grow: 1; */
