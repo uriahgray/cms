@@ -6,18 +6,22 @@ body#pfor {
 	display:none;
 }
 
-.post.text p {
+.text p {
 	color:#000000;
-	max-width:500px;
+	max-width:600px;
   	margin:auto;
+	float:left;
+}
+
+.video {
+	border:3px black;
+	max-width:600px;
+	margin:auto;
+	float:left;
 }
 
 .post ul.tags {
 	display:none;
-}
-
-.append {
-	padding-left:300px;
 }
 
 h3.tag_title {
