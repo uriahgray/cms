@@ -80,8 +80,9 @@ body#cochlea .post:hover {
 }
 
 body#cochlea .post.cochlea1 {
-	top: 0%;
-	left: 50%;
+	top: 12%;
+	left: 100%;
+	text-align: right;
 }
 
 body#cochlea .post.cochlea2 {
@@ -107,7 +108,7 @@ body#cochlea .post.cochlea5 {
 
 body#cochlea .post.cochlea6 {
 	top: 11%;
-	left: 100%;
+	left: 60%;
 	text-align: right;
 }
 
@@ -118,7 +119,7 @@ body#cochlea .post.cochlea7 {
 
 body#cochlea .post.cochlea8 {
 	top: 43%;
-	left: 80%;
+	left: 60%;
 }
 
 body#cochlea .post.cochlea9 {
@@ -128,12 +129,12 @@ body#cochlea .post.cochlea9 {
 
 body#cochlea .post.cochlea10 {
 	top: 17%;
-	left: 70%;
+	left: 60%;
 }
 
 body#cochlea .post.cochlea11 {
 	top: 93%;
-	left: 90%;
+	left: 60%;
 }
 
 body#cochlea .post.cochlea12 {
@@ -154,6 +155,26 @@ body#cochlea .post.cochlea14 {
 body#cochlea .post.cochlea15 {
 	top: 50%;
 	left: 20%;
+}
+
+body#cochlea .post.cochlea16 {
+	top: 8%;
+	left: 50%;
+}
+
+body#cochlea .post.cochlea17 {
+	top: 60%;
+	left: 50%;
+}
+
+body#cochlea .post.cochlea18 {
+	top: 50%;
+	left: 20%;
+}
+
+body#cochlea .post.cochlea19 {
+	top: 40%;
+	left: 12%;
 }
 
 body#cochlea .post.cochlea33 {
