@@ -81,13 +81,13 @@ body#cochlea .post:hover {
 
 body#cochlea .post.cochlea1 {
 	top: 12%;
-	left: 100%;
+	left: 80%;
 	text-align: right;
 }
 
 body#cochlea .post.cochlea2 {
 	top: 0%;
-	left: 80%;
+	left: 70%;
 }
 
 body#cochlea .post.cochlea3 {
@@ -97,7 +97,7 @@ body#cochlea .post.cochlea3 {
 
 body#cochlea .post.cochlea4 {
 	top: 0%;
-	left: 100%;
+	left: 70%;
 	text-align: right;
 }
 
