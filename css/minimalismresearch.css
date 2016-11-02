@@ -1,0 +1,17 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+    width: 800px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 14px;
+}
+a.link {
+    display: none;
+    font-size: 14px;
+    font-family: courier;
+    text-transform: uppercase;
+}
+h3.tag_title {
+    padding-bottom: 20px;
+    display: none;
+}
