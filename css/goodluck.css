@@ -1,3 +1,6 @@
+html {
+    background-color: black;
+}
 body {
     font-family: akzidenzgrotesk;
     font-size: 23px;
@@ -49,7 +52,7 @@ ul.tags {
     bottom: 10px;
     left: 20px;
     z-index: 9;
-    background-color: antiquewhite;
+    background-color: white;
     padding-left: 10px;
     padding-right: 10px;
     font-size: small;
