@@ -19,3 +19,7 @@ ol, ul {
     list-style: none;
     display: none;
 }
+.container {
+    padding: 20px;
+    background-color: #e6d9d9;
+}
