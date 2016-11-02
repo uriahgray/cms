@@ -20,7 +20,7 @@ h3 {
     text-transform: uppercase;
     margin-left: 30%;
     margin-top: 30%;
-    color: black;
+    color: blue;
     position: fixed;
 }
 
@@ -195,12 +195,6 @@ body#cochlea .post.cochlea22 {
 body#cochlea .post.cochlea23 {
 	top: 15%;
 	left: 0%;
-}
-
-body#cochlea .post.cochlea24 {
-	top: 0%;
-	left: 60%;
-	z-index: 1;
 }
 
 body#cochlea .post.cochlea25 {
