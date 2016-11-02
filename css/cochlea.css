@@ -18,9 +18,9 @@ body#cochlea .copy {
 
 h3 {
     text-transform: uppercase;
-    margin-left: 30%;
-    margin-top: 30%;
-    color: blue;
+    margin-left: 50%;
+    margin-top: 50%;
+    color: black;
     position: fixed;
 }
 
@@ -55,7 +55,7 @@ a {
     line-height: 54pt;
     width: 1000px;
     z-index: 1;
-    font-size: 54pt;
+    font-size: 40pt;
     text-align: center;
 }
 
