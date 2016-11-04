@@ -1,3 +1,5 @@
+
+
 article.posts { 
 width: 510px; 
 margin: auto; 
@@ -23,4 +25,7 @@ body#prankocean a.link {
 
 body#prankocean .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
+}
+background {
+    color: blue;
 }
