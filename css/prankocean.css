@@ -1,9 +1,6 @@
-grad {
-background: -webkit-linear-gradient(left, red , yellow)
+body {
+     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EF6F29), to(#FFED92));
 }
-/* body {
-    background-color: orange;
-} */
 
 article.posts { 
 width: 510px; 
