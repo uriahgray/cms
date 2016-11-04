@@ -132,3 +132,23 @@ img {
 p {
     padding-left: 20px;
 }
+
+.white2 {
+    position: fixed;
+    top: 330px;
+    left:40px;
+    width: 300px;
+    height: 400px;
+    z-index: 99;
+    background: #fff;
+}
+
+.white3 {
+    position: fixed;
+    top: 130px;
+    left:540px;
+    width: 350px;
+    height: 250px;
+    z-index: 99;
+    background: #fff;
+}
