@@ -1,5 +1,6 @@
 body {
-     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EF6F29), to(#FFED92));
+border: 3px;
+     border-color: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EF6F29), to(#FFED92));
      margin-top: 20px;
 }
 
