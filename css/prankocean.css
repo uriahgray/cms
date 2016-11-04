@@ -10,6 +10,9 @@ margin: auto;
 text-align: center; 
 }
 
+img { 
+   border:1px solid #021a40;
+}
 
 body#prankocean h3.tag_title {
 display: none;
