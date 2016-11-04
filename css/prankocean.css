@@ -1,5 +1,6 @@
 body {
      background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EF6F29), to(#FFED92));
+     margin-top: 20px;
 }
 
 article.posts { 
@@ -30,6 +31,6 @@ body#prankocean .tmblr-iframe--desktop-logged-in-controls.iframe-controls--deskt
 }
 
 body#prankocean .post.f74 {
-    margin-bottom:50px;
+    margin-bottom:150px;
 }
 
