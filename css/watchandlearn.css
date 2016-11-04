@@ -8,6 +8,13 @@ h3.tag_title {
     display: none;
 }
 
+.post {
+    width: 500px;
+    height: 280px;
+    display: block;
+    float: left;
+}
+
 .post ul.tags {
     display: none;
 }
@@ -32,7 +39,6 @@ body#watchandlearn .container {
 body#watchandlearn article.posts {
     width: 1300px;
     height: 300px;
-    display: flex;
 }
 
 /*
