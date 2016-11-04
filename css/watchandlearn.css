@@ -15,6 +15,10 @@ h3.tag_title {
     float: left;
 }
 
+.post.video {
+display:none;
+}
+
 .post ul.tags {
     display: none;
 }
