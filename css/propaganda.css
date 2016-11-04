@@ -41,3 +41,25 @@ a.link {
 .container{
     text-align: center;
 }
+
+.post {
+    width: 100vw;
+    height: 100vw;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.post.background1 {
+background-image: url(https://65.media.tumblr.com/b59a1295422624add023040327757e95/tumblr_ofkq3sK0jc1qiluvco1_1280.png);
+}
+
+.post.background2 {
+background-image: url(https://66.media.tumblr.com/afdb2a90626f5b3bef13793c0879b41a/tumblr_ofvv5qmDyk1qiluvco1_1280.png);
+}
+
+
+
+
+
+
+
