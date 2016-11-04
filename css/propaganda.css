@@ -42,6 +42,11 @@ a.link {
     text-align: center;
 }
 
+.post img {
+    max-height: 80vh;
+    width: auto;
+}
+
 .post {
     width: 100vw;
     height: 100vw;
@@ -49,6 +54,9 @@ a.link {
     background-attachment: fixed;
     background-size: 100%;
     background-repeat:no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .post.background1 {
