@@ -1,8 +1,9 @@
 body {
 border: 3px;
-     border-color: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EF6F29), to(#FFED92));
+     border-color: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EF6F29), to(#FF9E29));
      margin-top: 20px;
 }
+
 
 article.posts { 
 width: 510px; 
