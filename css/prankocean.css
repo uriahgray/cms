@@ -24,9 +24,10 @@ body#prankocean a.link {
 body#prankocean .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
     display: none;
 }
-body {
-background-color:blue;
-}
+
 body#prankocean .post.f74 {
     margin-bottom:20px;
+}
+#grad {
+background: -webkit-linear-gradient(left, red , yellow)
 }
