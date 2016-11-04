@@ -1,6 +1,9 @@
 grad {
 background: -webkit-linear-gradient(left, red , yellow)
 }
+body {
+    background-color: orange;
+}
 
 article.posts { 
 width: 510px; 
