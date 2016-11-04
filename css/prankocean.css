@@ -1,3 +1,7 @@
+grad {
+background: -webkit-linear-gradient(left, red , yellow)
+}
+
 article.posts { 
 width: 510px; 
 margin: auto; 
@@ -26,8 +30,6 @@ body#prankocean .tmblr-iframe--desktop-logged-in-controls.iframe-controls--deskt
 }
 
 body#prankocean .post.f74 {
-    margin-bottom:20px;
+    margin-bottom:50px;
 }
-grad {
-background: -webkit-linear-gradient(left, red , yellow)
-}
+
