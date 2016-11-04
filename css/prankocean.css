@@ -42,4 +42,11 @@ body#prankocean .tmblr-iframe--desktop-logged-in-controls.iframe-controls--deskt
 body#prankocean .post.f74 {
     margin-bottom:150px;
 }
+.chocolat-wrapper .chocolat-top{
+    display: none;
+}
+
+.chocolat-wrapper .chocolat-bottom{
+    display: none;
+}
 
