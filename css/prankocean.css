@@ -1,5 +1,8 @@
-body {
+html {
     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FF9E29), to(#FFF399));
+}
+
+body {
 margin-top: 50px;
 }
 
