@@ -14,7 +14,8 @@ text-align: center;
 }
 
 img { 
-   border:20px solid white;
+   border:20px solid white;'
+   background: white;
 }
 
 body#prankocean h3.tag_title {
