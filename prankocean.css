@@ -1,0 +1,26 @@
+article.posts { 
+width: 800px; 
+margin: auto; 
+text-align: center; 
+}
+
+
+body#prankocean h3.tag_title {
+display: none;
+}
+
+body#prankocean ul.tags {
+    display: none;
+}
+
+body#prankocean .copy {
+    display: none;
+}
+
+body#prankocean a.link {
+    display: none;
+}
+
+body#prankocean .tmblr-iframe--desktop-logged-in-controls.iframe-controls--desktop {
+    display: none;
+}
