@@ -46,6 +46,7 @@ body#encyclopediacontent .post.encyclopediacontent {
 
 .append {
     position: fixed;
+    padding: 50px;
 }
 
 .header {
@@ -60,4 +61,14 @@ h1 {
     line-height: 1em;
     font-size: 64px;
     text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    line-height: 2em;
+    font-size: 16px;
+}
+
+p {
+    display: none;
 }
