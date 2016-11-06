@@ -1,5 +1,6 @@
 .postnow.photo{
 	display:block;
+	float:center;
 	width:30%;
 	padding:15px;
 }
@@ -8,8 +9,10 @@
 .copy{
 	text-align:center;
 	padding:5px;
-	margin-left: 100px;
-	margin-right:100px;
+	margin-left: 50px;
+	margin-right:50px;
+	display:block;
+	float:center;
 }
 
 
