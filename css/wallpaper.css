@@ -1,0 +1,28 @@
+body#wallpaper {
+    background: yellow;
+}
+
+.post {
+    width: 25%;
+    display: block;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid red;
+}
+
+.post.aboutme {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    float: none;
+}
+
+h3.tag_title {
+    display: none;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 35px;
+}
