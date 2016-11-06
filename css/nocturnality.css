@@ -3,7 +3,7 @@
 	margin-right:auto;
 	width:18%;
 	padding:15px;
-  textalign:centre;
+	float:center;
 }
 
 
@@ -18,14 +18,13 @@ p{
 h1{
 	text-align:center;
 	font-size:90px;
-	font-family: Baskerville;
-	font-family: Baskerville;
+	font-family: "Baskerville";
 	color: gray;
 }
 
 h2{
 	text-align:center;
 	font-size:20px;
-	font-family: Caslon;
+	font-family: "Caslon";
 	color:gray;
 }
