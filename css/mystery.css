@@ -104,13 +104,13 @@ h3.title {
 .like_button {
     width: 20px;
     margin-left: 260px;
-    display: block;
+    display: none;
 }
 
 .comment_button {
     width: 20px;
     margin-left: 260px;
-    display: block;
+    display: none;
 }
 
 .copy {
