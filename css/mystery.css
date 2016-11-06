@@ -133,6 +133,36 @@ p {
     padding-left: 20px;
 }
 
+.seljalandsfoss {
+    width: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 50px;
+    display: block;
+    float: left;
+	background-color: white;
+}
+
+.westfjords {
+    width: 40%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin: 50px;
+    display: block;
+    float: right;
+	background-color: white;
+}
+
+.culturenight {
+    display: block;
+    float: left;
+    width: 40%;
+    margin: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+}
+
 .white2 {
     position: fixed;
     top: 360px;
