@@ -37,3 +37,9 @@ ul.tags {
 a.link {
     display: none;
 }
+body {
+    font-family: monospace;
+    font-size: 15px;
+    line-height: inherit;
+    letter-spacing: 0.02em;
+}
