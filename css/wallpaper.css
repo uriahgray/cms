@@ -5,7 +5,7 @@ body#wallpaper {
 .post {
     width: 100%;
     display: block;
-    float: left;
+    float: right;
     padding-left: 200px;
     padding-right: 200px;
 
@@ -14,7 +14,7 @@ body#wallpaper {
 .post.aboutme {
     width: 50%;
     margin: auto;
-    text-align: center;
+    text-align: left;
     float: none;
 }
 
@@ -28,5 +28,5 @@ h3 {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: overline;
 }
