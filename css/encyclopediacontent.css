@@ -29,7 +29,7 @@ h3.tag_title {
 }
 
 body#encyclopediacontent .post.encyclopediacontent {
-    padding: 5px;
+    padding: 0 5px 0 5px;
 }
 
 .post img {
