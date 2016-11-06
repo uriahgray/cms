@@ -2,13 +2,6 @@ body#wallpaper {
     background: yellow;
 }
 
-.post {
-    width: 100%;
-    display: block;
-    float: left;
-    padding-left: 200px;
-    padding-right: 200px;
-
 }
 
 .post.aboutme {
@@ -29,9 +22,11 @@ h3 {
 
 a {
     text-decoration: none;
+{
+background:#fff;
+width:500px;
+margin-left:50px;
+margin-bottom:75px;
+border:5px solid {color:border};
+padding:20px;
 }
-<style type="text/css">
-body {cursor: url(http://www.rw-designer.com/cursor-extern.php?id=37321);}
-</style>
-<a href="http://www.rw-designer.com/cursor-detail/37321"
-title="Get free cursors for your web.">coraline key.cur Cursor</a>
