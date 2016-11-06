@@ -1,11 +1,11 @@
 .postnow.photo{
 	display:block;
-	width:20%;
+	width:30%;
 	padding:15px;
 }
 
 
-p{
+.copy{
 	text-align:center;
 	padding:5px;
 	margin-left: 100px;
