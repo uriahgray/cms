@@ -3,13 +3,14 @@ body#wallpaper {
 }
 
 .post {
-    width: 100%;
+    width: 70%;
     display: block;
-    float: right;
+    float: inherit;
     padding-left: 200px;
     padding-right: 200px;
-
+    padding-top: 70px;
 }
+
 
 .post.aboutme {
     width: 50%;
