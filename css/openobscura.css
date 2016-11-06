@@ -40,7 +40,7 @@ body#postnowreferences .post.text.postnow.postnowtitle {
 }
 
 body#openobscura .post {
-    width: 31%;
+    width: 33%;
     display: inline-block;
 	vertical-align: middle;
 }
@@ -88,9 +88,6 @@ ul.tags {
     display: none;
 }
 
-body#openobscura .post iframe {
-    width: 90%;
-}
 
 
 
