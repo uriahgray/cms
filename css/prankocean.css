@@ -70,3 +70,11 @@ a {
     line-height: 150px;
     font-family: helvetica;
 }
+
+h3 {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+a.link {
+    display: none
+}
