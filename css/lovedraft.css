@@ -1,19 +1,42 @@
-body {
+
+	}
+
+body#lovedraft {
+	
     font-family: Proxima Nova;
     font-size: 15px;
     line-height: 18px;
     letter-spacing: 0.02em;
-	background: aquamarine;
-
-	}
-
-iframe {
-    display: none;
+         background-color:cyan;
 }
 
-.nav {
-    font-family: proxima nova;
-    position: absolute;
-    font-size: 12px;
-    margin: 120px;
-    text-decoration: overline;
+
+
+.post {
+	background-color:blue;
+}
+
+
+
+.post.red {
+	background-color:red;
+}
+
+
+
+
+.post img{
+	border:1px solid blue;
+}
+
+
+
+.post ul.tags{
+	display:none;
+}
+
+
+
+.post.red a {
+	color:red;
+}
