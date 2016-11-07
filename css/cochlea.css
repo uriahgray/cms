@@ -146,7 +146,6 @@ body#cochlea .post.cochlea11 {
 body#cochlea .post.cochlea12 {
 	top: 0%;
 	left: 10%;
-	z-index: 99999;
 }
 
 body#cochlea .post.cochlea13 {
@@ -308,4 +307,10 @@ body#cochlea .post.cochlea45 {
 body#cochlea .post.cochlea46 {
 	top: 60%;
 	left: 50%;
+}
+
+body#cochlea .post.cochlea48 {
+	top: 50%;
+	left: 10%;
+
 }
