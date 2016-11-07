@@ -79,6 +79,12 @@ body#cochlea .post:hover {
 	z-index: 9999;
 }
 
+body#cochlea .post.cochleavid {
+	top: 17%;
+	left: 20%;
+	z-index: 9999;
+}
+
 body#cochlea .post.cochlea1 {
 	top: 12%;
 	left: 60%;
