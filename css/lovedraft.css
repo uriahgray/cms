@@ -39,4 +39,11 @@ body#lovedraft {
 
 .post.red a {
 	color:red;
+	
+}
+body {
+    font-family: arial;
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: normal;
 }
