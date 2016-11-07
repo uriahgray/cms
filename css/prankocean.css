@@ -14,9 +14,9 @@ text-align: center;
 }
 
 img { 
-   border:9px solid white;
+/*    border:9px solid white; */
    background-color: white;
-    margin: 10px;
+    margin: 5px;
 }
 
 body#prankocean h3.tag_title {
@@ -39,9 +39,9 @@ body#prankocean .tmblr-iframe--desktop-logged-in-controls.iframe-controls--deskt
     display: none;
 }
 
-body#prankocean .post.f74 {
+/* body#prankocean .post.f74 {
     margin-bottom:150px;
-}
+} */
 
 .textheading {
 
