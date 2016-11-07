@@ -1,14 +1,20 @@
 }
-.post {
+.post#lovedraft {
     background-color: #70bdd0;
 }
-.post {
+.post#lovedraft {
     color: white;
 }
-.post {
+.post#lovedraft {
     width: 20%;
     display: block;
     float: left;
     padding-left: 10px;
     padding-right: 10px;
+}
+body#lovedraft {
+    font-family: arial;
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: normal;
 }
