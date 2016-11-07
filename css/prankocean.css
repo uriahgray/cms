@@ -50,3 +50,29 @@ body#prankocean .post.f74 {
     display: none;
 }
 
+
+.textheading {
+
+    text-transform: uppercase;
+    color: red;
+   font-size: 2.70em;
+    line-height: 1.04em;
+    text-decoration: none;    
+ text-align: center;
+ 
+}
+
+
+
+.chocolat-overlay{
+    display:none;
+
+}
+
+
+.chocolat-wrapper .chocolat-bottom{
+    display: none;
+
+}
+
+
