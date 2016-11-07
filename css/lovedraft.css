@@ -4,3 +4,16 @@ body {
     line-height: 18px;
     letter-spacing: 0.02em;
 	background: aquamarine;
+
+	}
+
+iframe {
+    display: none;
+}
+
+.nav {
+    font-family: proxima nova;
+    position: absolute;
+    font-size: 12px;
+    margin: 120px;
+    text-decoration: overline;
