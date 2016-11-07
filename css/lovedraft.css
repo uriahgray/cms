@@ -1,49 +1,14 @@
-
-	}
-
-body#lovedraft {
-	
-    font-family: Proxima Nova;
-    font-size: 15px;
-    line-height: 18px;
-    letter-spacing: 0.02em;
-         background-color:cyan;
 }
-
-
-
 .post {
-	background-color:blue;
+    background-color: #70bdd0;
 }
-
-
-
-.post.red {
-	background-color:red;
+.post {
+    color: white;
 }
-
-
-
-
-.post img{
-	border:1px solid blue;
-}
-
-
-
-.post ul.tags{
-	display:none;
-}
-
-
-
-.post.red a {
-	color:red;
-	
-}
-body {
-    font-family: arial;
-    font-size: 10px;
-    line-height: 15px;
-    letter-spacing: normal;
+.post {
+    width: 20%;
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
 }
