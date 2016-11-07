@@ -1,9 +1,23 @@
-.post#lovedraft {
-    background-color: #70bdd0;
-    color: white;
-    width: 20%;
+.post {
+	color: black;
+	line-height: 1.5;
+    font-size: 7px;
+	width: 20%;
     display: block;
     float: left;
     padding-left: 10px;
     padding-right: 10px;
+    border: blue;
+}
+
+.post.text.lovedraft.headline {
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin: auto;
+
+}
+
+.post.photo.lovedraft.headlinephoto {
+	 width: 40%;
 }
