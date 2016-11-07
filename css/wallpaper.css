@@ -3,12 +3,13 @@ body#wallpaper {
 }
 
 .post {
-    width: 70%;
+    width: 50%;
     display: block;
-    float: inherit;
-    padding-left: 200px;
-    padding-right: 200px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 100px;
     padding-top: 70px;
+: 
 }
 
 
