@@ -1,12 +1,89 @@
 body#aswetravel {
-background-color:blue;
+background-color:white;
+}
+
+body#aswetravel .post { 
+background-color:none;
+color:white;
+font-size: 50pt;
+font-family: arial;
+line-height: 30px;
+}
+	
+body#aswetravel .post {
+    outline: solid;
+    outline width:5px
+    outline color:black;
+}
+
+
+body#aswetravel h3.tag_title { 
+display:none;
+}
+
+position: absolute;
+top: 0px;
+left; 50px
+
+<h1 style="color:blue;">Open Obscura</h1>
+
+
+body#postnowreferences .post.text.postnow.postnowtitle {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    text-align: center;
+    height: 100px;
+    display:none !important;
 }
 
 body#aswetravel .post {
-background-color:red;
+    width: 33%;
+    display: inline-block;
+	vertical-align: middle;
 }
 
-body#aswetravel h3.tag_title {
-  display: none;
+body#aswetravel {
+background-color:white;
 }
-  
+
+body#aswetravel .post { 
+background-color:none;
+color:white;
+font-size: 50pt;
+font-family: arial;
+line-height: 30px;
+}
+
+
+body#aswetravel h3.tag_title { 
+display:none;
+}
+
+position: absolute;
+top: 0px;
+left; 50px
+
+<h1 style="color:blue;">Open Obscura</h1>
+
+
+body#postnowreferences .post.text.postnow.postnowtitle {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    text-align: center;
+    height: 100px;
+	display:none !important;
+}
+
+a.link {
+    display: none;
+}
+
+ul.tags {
+    display: none;
+}
