@@ -71,10 +71,10 @@ body#styleshowcase .post.exposedbrick img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 5250px;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 850px;
     margin: auto;
 }
 
@@ -82,9 +82,9 @@ body#styleshowcase .post.blackbathers img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 6400px;
     bottom: 0;
-    left: 0;
+    left: 850px;
     right: 0;
     margin: auto;
 }
@@ -93,21 +93,20 @@ body#styleshowcase .post.interiorplants img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 5450px;
     bottom: 0;
-    left: 0;
+    left: 850px;
     right: 0;
     margin: auto;
 }
-
 body#styleshowcase .post.greenvelvet img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 4120px;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 850px;
     margin: auto;
 }
 
@@ -115,31 +114,31 @@ body#styleshowcase .post.pink img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 4400px;
     bottom: 0;
-    left: 0;
+    left: 850px;
     right: 0;
     margin: auto;
 }
-
 body#styleshowcase .post.lamp img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 2960px;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 850px;
     margin: auto;
 }
+
 
 body#styleshowcase .post.beachbabe img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 3150px;
     bottom: 0;
-    left: 0;
+    left: 850px;
     right: 0;
     margin: auto;
 }
@@ -148,9 +147,9 @@ body#styleshowcase .post.floorboardsbed img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 2100px;
     bottom: 0;
-    left: 0;
+    left: 850px;
     right: 0;
     margin: auto;
 }
@@ -159,10 +158,10 @@ body#styleshowcase .post.malibu img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 1925px;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 850px;
     margin: auto;
 }
 
@@ -170,21 +169,33 @@ body#styleshowcase .post.desertviews img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: 1150px;
     bottom: 0;
-    left: 0;
+    left: 850px;
     right: 0;
     margin: auto;
 }
 
+
 body#styleshowcase .post.cupscups img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    top: 1060px;
+    bottom: 0;
+    left: 0;
+    right: 850px;
+    margin: auto;
+}
+
+
+body#styleshowcase .post.fresh img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
     top: 0px;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 0px;
     margin: auto;
 }
-
