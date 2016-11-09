@@ -417,20 +417,21 @@ body#styleshowcase .post.desertcar img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
+    top: 13250px;
     left: 0;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
+
 
 body#styleshowcase .post.greycoat img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
+    top: 12170px;
     left: 0;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
 
@@ -439,9 +440,9 @@ body#styleshowcase .post.paintpots img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
+    top: 11200px;
     left: 0;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
 
@@ -450,20 +451,21 @@ body#styleshowcase .post.cacti img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
+    top: 10250px;
     left: 0;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
+
 
 body#styleshowcase .post.morocco img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
+    top: 9200px;
     left: 0;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
 
@@ -472,13 +474,13 @@ body#styleshowcase .post.italy img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
-    left: 0;
+    top: 13750px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
 
-body#styleshowcase .post.camelimg {
+body#styleshowcase .post.camel img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
@@ -505,19 +507,21 @@ body#styleshowcase .post.cliffbeach img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
-    left: 0;
+    top: 12700px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
+
+
 
 body#styleshowcase .post.morningtea img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
-    left: 0;
+    top: 11700px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
@@ -527,8 +531,8 @@ body#styleshowcase .post.offroad img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
-    left: 0;
+    top: 10500px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
