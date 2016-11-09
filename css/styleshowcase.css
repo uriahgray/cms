@@ -4,11 +4,11 @@ body#styleshowcase .tags {
 }
 
 body#styleshowcase .post.friends img {
-    width: 100%;
+    width: 400px;
     -webkit-border-radius: 4px
 }
 body#styleshowcase .post.judelaw gif {
-    width: 200%;
+    width: 400px;
     -webkit-border-radius: 4px;
 }
 
@@ -25,12 +25,6 @@ body#styleshowcase .post.braids img {
     -webkit-border-radius: 4px;
 }
 
-body#styleshowcase .posts {
-    width: 60%;
-    position: relative;
-    align-content: center;
-    margin-left: 25%;
-}
 
 body#styleshowcase .post.whitetie img {
     width: 400px; 
