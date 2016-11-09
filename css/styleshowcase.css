@@ -23,3 +23,7 @@ body {
     
 }
 
+body#styleshowcase .post.friends {
+    top: 30px;
+    left: 30px;
+}
