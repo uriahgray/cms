@@ -21,36 +21,50 @@ body#styleshowcase a.link {
 }
 
 body#styleshowcase .post.judelaw img {
-    width: 300px; 
+    width: 300px;
     -webkit-border-radius: 5px;
-     position: absolute;
-     top: 0; bottom: 0; left: 0; right: 0;
+    position: absolute;
+    top: -355px;
+    bottom: 0;
+    left: 0;
+    left: 0;
+    right: 0;
     margin: auto;
 }
 
+
+
 body#styleshowcase .post.friends img {
-    width: 400px; 
+    width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0; bottom: 0; left: 0; right: 0;
+    top: 0;
+    bottom: 0;
+    left: 850px;
+    right: 0;
     margin: auto;
 }
 
 body#styleshowcase .post.pinktie img {
     width: 400px;
     -webkit-border-radius: 5px;
-	position: absolute;
-    top: 60; bottom: 0; left: 0; right: 0;
+    position: absolute;
+    top: -0px;
+    bottom: 0;
+    left: 0;
+    right: 850px;
     margin: auto;
-   
 }
 
 body#styleshowcase .post.denim img {
     width: 400px;
     -webkit-border-radius: 5px;
-	 position: absolute;
-    top: 100; bottom: 0; left: 0; right: 0;
+    position: absolute;
+    top: 350px;
+    bottom: 0;
+    left: 0;
+    right: 0;
     margin: auto;
-    
-
 }
+
+
