@@ -8,20 +8,27 @@ html{
 }
 
 
-body#styleshowcase .post.judelaw gif {
+body#styleshowcase .post.judelaw img {
     width: 300px; 
     -webkit-border-radius: 5px;
     position: centre;
 }
 
 body#styleshowcase .post.friends img {
-    width: 300px; 
+    width: 400px; 
     -webkit-border-radius: 5px;
     position: centre;
 }
 
 body#styleshowcase .post.pinktie img {
-    width: 100px;
+    width: 400px;
     -webkit-border-radius: 5px;
-    position: relative;
+   
+}
+
+body#styleshowcase .post.denim img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    
+
 }
