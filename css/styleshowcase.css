@@ -543,9 +543,9 @@ body#styleshowcase .post.goals img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 19030px;
+    top: 17570px;
     left: 0px;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
 
@@ -650,6 +650,18 @@ body#styleshowcase .post.courtyard img {
 
 
 body#styleshowcase .post.pillows img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 15000px;
+    left: 850px;
+    right: 0px;
+    margin: auto;
+}
+
+
+body#styleshowcase .post.braids img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
