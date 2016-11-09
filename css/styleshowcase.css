@@ -21,7 +21,7 @@ body#styleshowcase a.link {
 }
 
 body#styleshowcase .post.judelaw img {
-    width: 300px;
+    width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
     top: -355px;
@@ -533,6 +533,138 @@ body#styleshowcase .post.offroad img {
     bottom: 0;
     top: 10500px;
     left: 850px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.jakeyg img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.goals img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.jake img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.bluehues img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.greyscale img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.attitude img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.whitepaint img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.and img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.puppies img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.cigar img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.courtyard img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.pillows img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 13750px;
+    left: 0px;
     right: 0px;
     margin: auto;
 }
