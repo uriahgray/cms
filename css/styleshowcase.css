@@ -4,8 +4,20 @@ body#styleshowcase .tags {
 }
 
 body#styleshowcase .post.friends img {
-    width: 50%;
-    -webkit-border-radius: 10px
+    width: 100%;
+    -webkit-border-radius: 4px
+}
+body#styleshowcase .post.judelaw gif {
+    width: 200%;
+    -webkit-border-radius: 4px;
+}
+
+body#styleshowcase .post.pinktie img {
+    -webkit-border-radius: 4px;
+}
+
+body#styleshowcase .post.denim img {
+    -webkit-border-radius: 4px;
 }
 
 body#styleshowcase .post.braids img {
