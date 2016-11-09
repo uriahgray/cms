@@ -13,10 +13,12 @@ body#styleshowcase .post.judelaw gif {
 }
 
 body#styleshowcase .post.pinktie img {
+    width: 400px;
     -webkit-border-radius: 4px;
 }
 
 body#styleshowcase .post.denim img {
+    width: 400px;
     -webkit-border-radius: 4px;
 }
 
