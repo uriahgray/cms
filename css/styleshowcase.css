@@ -15,3 +15,8 @@ html{
     margin-bottom:50px;
 }
 
+body#styleshowcase .post.friends {
+    align-content: centre; 
+    -webkit-border-radius: 4px;
+}
+
