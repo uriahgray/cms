@@ -24,7 +24,7 @@ body#styleshowcase .post.judelaw img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
+    top: -280px;
     bottom: 0;
     left: 0;
     left: 0;
@@ -60,7 +60,7 @@ body#styleshowcase .post.denim img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 350px;
+    top: 480px;
     bottom: 0;
     left: 0;
     right: 0;
@@ -194,7 +194,7 @@ body#styleshowcase .post.fresh img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 1300px;
+    top: 1430px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -205,7 +205,7 @@ body#styleshowcase .post.stoneroom img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 2280px;
+    top: 2400px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -216,7 +216,7 @@ body#styleshowcase .post.crab img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 4450px;
+    top: 4570px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -227,7 +227,7 @@ body#styleshowcase .post.holiday img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 3260px;
+    top: 3380px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -238,7 +238,7 @@ body#styleshowcase .post.plants img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 6650px;
+    top: 6770px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -249,7 +249,7 @@ body#styleshowcase .post.drive img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 7700px;
+    top: 7820px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -261,7 +261,7 @@ body#styleshowcase .post.carrie img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 8450px;
+    top: 8570px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -273,7 +273,7 @@ body#styleshowcase .post.paintandbrush img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 9930px;
+    top: 10050px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -284,7 +284,7 @@ body#styleshowcase .post.simplebutsignificant img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 11500px;
+    top: 11620px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -295,7 +295,7 @@ body#styleshowcase .post.beachside img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 9130px;
+    top: 9250px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -307,7 +307,7 @@ body#styleshowcase .post.topknot img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 10800px;
+    top: 10920px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -319,7 +319,7 @@ body#styleshowcase .post.theperfectentrance img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
+    top: 15000px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -381,7 +381,7 @@ body#styleshowcase .post.flatdog img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 5550px;
+    top: 5670px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -485,7 +485,7 @@ body#styleshowcase .post.camel img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 12400px;
+    top: 12510px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -543,7 +543,7 @@ body#styleshowcase .post.goals img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
+    top: 19030px;
     left: 0px;
     right: 0px;
     margin: auto;
@@ -554,7 +554,7 @@ body#styleshowcase .post.jake img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
+    top: 17840px;
     left: 0px;
     right: 0px;
     margin: auto;
@@ -565,7 +565,7 @@ body#styleshowcase .post.bluehues img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
+    top: 16850px;
     left: 0px;
     right: 0px;
     margin: auto;
@@ -576,8 +576,8 @@ body#styleshowcase .post.greyscale img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
-    left: 0px;
+    top: 17960px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
@@ -587,9 +587,9 @@ body#styleshowcase .post.attitude img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
+    top: 16370px;
     left: 0px;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
 
@@ -598,8 +598,8 @@ body#styleshowcase .post.whitepaint img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
-    left: 0px;
+    top: 17000px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
@@ -609,7 +609,7 @@ body#styleshowcase .post.and img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
+    top: 16035px;
     left: 0px;
     right: 0px;
     margin: auto;
@@ -620,8 +620,8 @@ body#styleshowcase .post.puppies img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
-    left: 0px;
+    top: 16050px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
@@ -631,9 +631,9 @@ body#styleshowcase .post.cigar img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
+    top: 15400px;
     left: 0px;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
 
@@ -642,19 +642,20 @@ body#styleshowcase .post.courtyard img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
+    top: 14450px;
     left: 0px;
-    right: 0px;
+    right: 850px;
     margin: auto;
 }
+
 
 body#styleshowcase .post.pillows img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 13750px;
-    left: 0px;
+    top: 15000px;
+    left: 850px;
     right: 0px;
     margin: auto;
 }
