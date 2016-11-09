@@ -1,6 +1,40 @@
-body#styleshowcase .tag_title {
+body#styleshowcase {
+background-color:white;
+}
+
+body#styleshowcase .post { 
+background-color:none;
+color:white;
+font-size: 40pt;
+font-family: avenir;
+line-height: 30px;
+}
+	
+body#styleshowcase .post {
+    outline: solid;
+    outline width:5px
+    outline color:black;
+}
+
+
+body#styleshowcase h3.tag_title { 
+display:none;
+}
+
+
+
+body#styleshowcase .link {
     display: none;
 }
+
+
+body#styleshowcase .posts {
+    width: 60%;
+    position: relative;
+    align-content: center;
+    margin-left: 25%;
+}
+
 
 body#styleshowcase .tags {
     display: none;
@@ -44,9 +78,6 @@ body#styleshowcase .post.car img {
     -webkit-border-radius: 4px;
 }
 
-body#styleshowcase .link {
-    display: none;
-}
 
 body#styleshowcase .post.plantbathroom img {
     width: 400px;
