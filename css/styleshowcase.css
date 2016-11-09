@@ -17,7 +17,9 @@ body#styleshowcase .post.judelaw img {
 body#styleshowcase .post.friends img {
     width: 400px; 
     -webkit-border-radius: 5px;
-    position: centre;
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;
 }
 
 body#styleshowcase .post.pinktie img {
