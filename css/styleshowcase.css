@@ -1,3 +1,6 @@
+body#styleshowcase .tag_title {
+    display: none;
+}
 
 body#styleshowcase .tags {
     display: none;
