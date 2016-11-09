@@ -4,7 +4,8 @@ body#styleshowcase .tags {
 }
 
 body#styleshowcase .post.friends img {
-    width: 800px;
+    width: 50%;
+    -webkit-border-radius: 10px
 }
 
 body#styleshowcase .post.braids img {
