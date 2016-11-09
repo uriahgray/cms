@@ -193,9 +193,44 @@ body#styleshowcase .post.fresh img {
     width: 400px;
     -webkit-border-radius: 5px;
     position: absolute;
-    top: 0px;
     bottom: 0;
+    top: 1300px;
     left: 0;
     right: 0px;
     margin: auto;
 }
+
+body#styleshowcase .post.stoneroom img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 1300px;
+    left: 0;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.crab img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 1300px;
+    left: 0;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.holiday img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 1300px;
+    left: 0;
+    right: 0px;
+    margin: auto;
+}
+
+
