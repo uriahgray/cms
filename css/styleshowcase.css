@@ -205,7 +205,7 @@ body#styleshowcase .post.stoneroom img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 1300px;
+    top: 2280px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -216,7 +216,7 @@ body#styleshowcase .post.crab img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 1300px;
+    top: 4450px;
     left: 0;
     right: 0px;
     margin: auto;
@@ -227,10 +227,53 @@ body#styleshowcase .post.holiday img {
     -webkit-border-radius: 5px;
     position: absolute;
     bottom: 0;
-    top: 1300px;
+    top: 3260px;
     left: 0;
     right: 0px;
     margin: auto;
 }
 
+body#styleshowcase .post.plants img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 3260px;
+    left: 0;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.drive img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 3260px;
+    left: 0;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.carrie img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 3260px;
+    left: 0;
+    right: 0px;
+    margin: auto;
+}
+
+body#styleshowcase .post.paintandbrush img {
+    width: 400px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    top: 3260px;
+    left: 0;
+    right: 0px;
+    margin: auto;
+}
 
